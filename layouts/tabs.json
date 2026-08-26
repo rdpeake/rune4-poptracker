@@ -1,0 +1,534 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Anywhere (Rare)",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Anywhere (Rare)"
+                    ]
+                }
+            },
+            {
+                "title": "Autumn Field",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Autumn Field"
+                    ]
+                }
+            },
+            {
+                "title": "Autumn River",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Autumn River"
+                    ]
+                }
+            },
+            {
+                "title": "Autumn Road",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Autumn Road"
+                    ]
+                }
+            },
+            {
+                "title": "Autumn Spring",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Autumn Spring"
+                    ]
+                }
+            },
+            {
+                "title": "Cluck Cluck Nest",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Cluck Cluck Nest"
+                    ]
+                }
+            },
+            {
+                "title": "Cooking",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Cooking"
+                    ]
+                }
+            },
+            {
+                "title": "Crafting",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Crafting"
+                    ]
+                }
+            },
+            {
+                "title": "Delirium Lava Ruins",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Delirium Lava Ruins"
+                    ]
+                }
+            },
+            {
+                "title": "Demons Den",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Demons Den"
+                    ]
+                }
+            },
+            {
+                "title": "Field Dungeon",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Field Dungeon"
+                    ]
+                }
+            },
+            {
+                "title": "Floating Empire",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Floating Empire"
+                    ]
+                }
+            },
+            {
+                "title": "Forge",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Forge"
+                    ]
+                }
+            },
+            {
+                "title": "Idra Cave",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Idra Cave"
+                    ]
+                }
+            },
+            {
+                "title": "Leon Karnak",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Leon Karnak"
+                    ]
+                }
+            },
+            {
+                "title": "Maya Road",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Maya Road"
+                    ]
+                }
+            },
+            {
+                "title": "Obsidian Mansion",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Obsidian Mansion"
+                    ]
+                }
+            },
+            {
+                "title": "Revival Cave",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Revival Cave"
+                    ]
+                }
+            },
+            {
+                "title": "Rune Prana",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Rune Prana"
+                    ]
+                }
+            },
+            {
+                "title": "Sechs Territory",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sechs Territory"
+                    ]
+                }
+            },
+            {
+                "title": "Selphia",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Selphia"
+                    ]
+                }
+            },
+            {
+                "title": "Selphia Plains",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Selphia Plains"
+                    ]
+                }
+            },
+            {
+                "title": "Sercerezo Hill",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sercerezo Hill"
+                    ]
+                }
+            },
+            {
+                "title": "Sharance Maze",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sharance Maze"
+                    ]
+                }
+            },
+            {
+                "title": "Spring Spring",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Spring Spring"
+                    ]
+                }
+            },
+            {
+                "title": "Summer Spring",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Summer Spring"
+                    ]
+                }
+            },
+            {
+                "title": "Water Ruins",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Water Ruins"
+                    ]
+                }
+            },
+            {
+                "title": "Winter Spring",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Winter Spring"
+                    ]
+                }
+            },
+            {
+                "title": "Yokmir Forest",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Yokmir Forest"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Anywhere (Rare)",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Anywhere (Rare)"
+                    ]
+                }
+            },
+            {
+                "title": "Autumn Field",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Autumn Field"
+                    ]
+                }
+            },
+            {
+                "title": "Autumn River",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Autumn River"
+                    ]
+                }
+            },
+            {
+                "title": "Autumn Road",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Autumn Road"
+                    ]
+                }
+            },
+            {
+                "title": "Autumn Spring",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Autumn Spring"
+                    ]
+                }
+            },
+            {
+                "title": "Cluck Cluck Nest",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Cluck Cluck Nest"
+                    ]
+                }
+            },
+            {
+                "title": "Cooking",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Cooking"
+                    ]
+                }
+            },
+            {
+                "title": "Crafting",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Crafting"
+                    ]
+                }
+            },
+            {
+                "title": "Delirium Lava Ruins",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Delirium Lava Ruins"
+                    ]
+                }
+            },
+            {
+                "title": "Demons Den",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Demons Den"
+                    ]
+                }
+            },
+            {
+                "title": "Field Dungeon",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Field Dungeon"
+                    ]
+                }
+            },
+            {
+                "title": "Floating Empire",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Floating Empire"
+                    ]
+                }
+            },
+            {
+                "title": "Forge",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Forge"
+                    ]
+                }
+            },
+            {
+                "title": "Idra Cave",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Idra Cave"
+                    ]
+                }
+            },
+            {
+                "title": "Leon Karnak",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Leon Karnak"
+                    ]
+                }
+            },
+            {
+                "title": "Maya Road",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Maya Road"
+                    ]
+                }
+            },
+            {
+                "title": "Obsidian Mansion",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Obsidian Mansion"
+                    ]
+                }
+            },
+            {
+                "title": "Revival Cave",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Revival Cave"
+                    ]
+                }
+            },
+            {
+                "title": "Rune Prana",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Rune Prana"
+                    ]
+                }
+            },
+            {
+                "title": "Sechs Territory",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sechs Territory"
+                    ]
+                }
+            },
+            {
+                "title": "Selphia",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Selphia"
+                    ]
+                }
+            },
+            {
+                "title": "Selphia Plains",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Selphia Plains"
+                    ]
+                }
+            },
+            {
+                "title": "Sercerezo Hill",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sercerezo Hill"
+                    ]
+                }
+            },
+            {
+                "title": "Sharance Maze",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sharance Maze"
+                    ]
+                }
+            },
+            {
+                "title": "Spring Spring",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Spring Spring"
+                    ]
+                }
+            },
+            {
+                "title": "Summer Spring",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Summer Spring"
+                    ]
+                }
+            },
+            {
+                "title": "Water Ruins",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Water Ruins"
+                    ]
+                }
+            },
+            {
+                "title": "Winter Spring",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Winter Spring"
+                    ]
+                }
+            },
+            {
+                "title": "Yokmir Forest",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Yokmir Forest"
+                    ]
+                }
+            }
+        ]
+    }
+}

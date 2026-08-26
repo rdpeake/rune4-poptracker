@@ -1,0 +1,176 @@
+[
+    {
+        "name": "Anywhere (Rare)",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Anywhere (Rare).png"
+    },
+    {
+        "name": "Autumn Field",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Autumn Field.png"
+    },
+    {
+        "name": "Autumn River",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Autumn River.png"
+    },
+    {
+        "name": "Autumn Road",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Autumn Road.png"
+    },
+    {
+        "name": "Autumn Spring",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Autumn Spring.png"
+    },
+    {
+        "name": "Cluck Cluck Nest",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Cluck_cluck_nest.webp"
+    },
+    {
+        "name": "Cooking",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Cooking.png"
+    },
+    {
+        "name": "Crafting",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Crafting.png"
+    },
+    {
+        "name": "Delirium Lava Ruins",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Delirium Lava Ruins.png"
+    },
+    {
+        "name": "Demons Den",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Demons Den.png"
+    },
+    {
+        "name": "Field Dungeon",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Field Dungeon.png"
+    },
+    {
+        "name": "Floating Empire",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Floating Empire.png"
+    },
+    {
+        "name": "Forge",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Forge.png"
+    },
+    {
+        "name": "Idra Cave",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Idra Cave.png"
+    },
+    {
+        "name": "Leon Karnak",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Leon Karnak.png"
+    },
+    {
+        "name": "Maya Road",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Maya Road.png"
+    },
+    {
+        "name": "Obsidian Mansion",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Obsidian Mansion.png"
+    },
+    {
+        "name": "Revival Cave",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Revival Cave.png"
+    },
+    {
+        "name": "Rune Prana",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rune Prana.png"
+    },
+    {
+        "name": "Sechs Territory",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sechs Territory.png"
+    },
+    {
+        "name": "Selphia",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Selphia.png"
+    },
+    {
+        "name": "Selphia Plains",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Selphia Plains.png"
+    },
+    {
+        "name": "Sercerezo Hill",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sercerezo Hill.png"
+    },
+    {
+        "name": "Sharance Maze",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sharance Maze.png"
+    },
+    {
+        "name": "Spring Spring",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Spring Spring.png"
+    },
+    {
+        "name": "Summer Spring",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Summer Spring.png"
+    },
+    {
+        "name": "Water Ruins",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Water Ruins.png"
+    },
+    {
+        "name": "Winter Spring",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Winter Spring.png"
+    },
+    {
+        "name": "Yokmir Forest",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Yokmir Forest.png"
+    }
+]
