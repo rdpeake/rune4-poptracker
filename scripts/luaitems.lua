@@ -109,7 +109,11 @@ function CreateLuaManualStorageItem(name)
         MANUAL_LOCATIONS_ORDER = {}
         -- you can add many more custom stuff in here
     }
-    self.PotentialCodes = {Code, Basename}
+    -- PopTracker treats PotentialCodes as authoritative when it is set at all:
+    -- LuaItem::canProvideCode consults this list and never calls
+    -- CanProvideCodeFunc. The template had {Code, Basename}, two globals that
+    -- are nil here, so the list was empty and the item could never be found.
+    self.PotentialCodes = {name}
     self.CanProvideCodeFunc = CanProvideCodeFunc
     self.OnLeftClickFunc = OnLeftClickFunc -- your_custom_leftclick_function_here
     self.OnRightClickFunc = OnRightClickFunc -- your_custom_rightclick_function_here

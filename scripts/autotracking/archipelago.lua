@@ -1,5 +1,7 @@
 require("scripts.autotracking.item_mapping")
 require("scripts.autotracking.location_mapping")
+require("scripts.autotracking.option_for_location")
+require("scripts.location_options")
 
 CUR_INDEX = -1
 --SLOT_DATA = nil
@@ -64,7 +66,8 @@ end
 ---@param location LocationSection
 function LocationHandler(location)
     if MANUAL_CHECKED then
-        local custom_storage_item = Tracker:FindObjectForCode("manual_location_storage").ItemState
+        local storage_obj = Tracker:FindObjectForCode("manual_location_storage")
+        local custom_storage_item = storage_obj and storage_obj.ItemState
         if not custom_storage_item then
             return
         end
@@ -203,7 +206,8 @@ local function PreOnClear()
 
         ROOM_SEED = seed_base --something like 2345_0_12
         for _, custom_item_code in pairs({"manual_location_storage"}) do -- add more to the table if you created more storage cache items
-            local custom_storage_item = Tracker:FindObjectForCode(custom_item_code).ItemState
+            local storage_obj = Tracker:FindObjectForCode(custom_item_code)
+            local custom_storage_item = storage_obj and storage_obj.ItemState
             if custom_storage_item then
                 if #custom_storage_item.MANUAL_LOCATIONS > 10 then
                     custom_storage_item.MANUAL_LOCATIONS[custom_storage_item.MANUAL_LOCATIONS_ORDER[1]] = nil
@@ -224,10 +228,18 @@ end
 ---@param slot_data? table Slotdata send from AP server for the specific user/slot
 function OnClear(slot_data)
     MANUAL_CHECKED = false
-    local custom_storage_item = Tracker:FindObjectForCode("manual_location_storage").ItemState
+    -- indexing the result directly kills the whole clear handler if the item
+    -- is missing, which silently disables autotracking for the session
+    local storage_obj = Tracker:FindObjectForCode("manual_location_storage")
+    local custom_storage_item = storage_obj and storage_obj.ItemState
     if custom_storage_item == nil then
         CreateLuaManualStorageItem("manual_location_storage")
-        custom_storage_item = Tracker:FindObjectForCode("manual_location_storage").ItemState
+        storage_obj = Tracker:FindObjectForCode("manual_location_storage")
+        custom_storage_item = storage_obj and storage_obj.ItemState
+        if custom_storage_item == nil then
+            print("OnClear: manual_location_storage is unavailable; "
+                .. "continuing without the manual-location cache")
+        end
     end
     -- repeat that here for every cache-storage item you create just to be safe
 
@@ -248,8 +260,8 @@ function OnClear(slot_data)
                     if location:sub(1, 1) == "@" then
                         ---@type LocationSection
                         local location_obj = Tracker:FindObjectForCode(location) --[[@as LocationSection]]
-                        local custom_storage_item = (Tracker:FindObjectForCode("manual_location_storage") --[[@as LuaItem]])
-                        .ItemState
+                        local storage = Tracker:FindObjectForCode("manual_location_storage") --[[@as LuaItem]]
+                        local custom_storage_item = storage and storage.ItemState
 
                         if location_obj then
                             LocationUpdate(location_obj, custom_storage_item, location_ID, true)
@@ -279,6 +291,7 @@ function OnClear(slot_data)
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
     SLOT_DATA = slot_data
+    if RF4_SetOptions then RF4_SetOptions(slot_data) end
     -- if Tracker:FindObjectForCode("autofill_settings").Active == true then
     --     AutoFill(slot_data)
     -- end
@@ -301,6 +314,10 @@ function OnClear(slot_data)
     end
     ScriptHost:AddOnFrameHandler("load handler", OnFrameHandler)
     MANUAL_CHECKED = true
+
+    -- hide the location groups this slot does not use (deferred a few
+    -- frames, so the saved-state restore does not overwrite the toggles)
+    ScheduleLocationOptions()
 end
 
 ---Run every time an Item gets sent to the connected slot
