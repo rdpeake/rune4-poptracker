@@ -1,0 +1,9 @@
+# local working folder: room sheets, the click tool, verification renders,
+# and the local datapackage export
+_roomsheets/
+
+# editor / language-server config, machine specific
+.luarc.json
+
+# apworld checkout used by tools/, not part of the pack
+stub/
