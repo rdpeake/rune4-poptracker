@@ -7,6 +7,8 @@ require("scripts.items_import")
 require("scripts.logic.logic_helper")
 require("scripts.logic.base_logic")
 require("scripts.logic.graph_logic.logic_main")
+-- access logic ported from the apworld (rf4_data.lua is generated)
+require("scripts.logic.rf4_rules")
 
 -- Maps
 Tracker:AddMaps("maps/maps.json")
