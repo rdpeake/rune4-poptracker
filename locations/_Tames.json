@@ -1,0 +1,3589 @@
+[
+    {
+        "name": "Tames",
+        "chest_unopened_img": "/images/items/tame_closed.png",
+        "chest_opened_img": "/images/items/tame_open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Floating Empire › Tame › Blood Panther",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Floating Empire/Tame/Blood Panther"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia",
+                        "x": 209,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Floating Empire › Tame › Dark Fairy",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Floating Empire/Tame/Dark Fairy"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia",
+                        "x": 259,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Floating Empire › West Tame › Dark Slime",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Floating Empire/West Tame/Dark Slime"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia",
+                        "x": 309,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Floating Empire › Tame › Faust",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Floating Empire/Tame/Faust"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia",
+                        "x": 359,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Floating Empire › Tame › Fortoise",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Floating Empire/Tame/Fortoise"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia",
+                        "x": 409,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Floating Empire › Tame › Gigantes",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Floating Empire/Tame/Gigantes"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia",
+                        "x": 459,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Floating Empire › Tame › Golem",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Floating Empire/Tame/Golem"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia",
+                        "x": 509,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Floating Empire › Tame › Hell Spider",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Floating Empire/Tame/Hell Spider"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia",
+                        "x": 559,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Floating Empire › Tame › Little Dragon",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Floating Empire/Tame/Little Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia",
+                        "x": 609,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Floating Empire › Tame › Master Giant",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Floating Empire/Tame/Master Giant"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia",
+                        "x": 659,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Floating Empire › Tame › Pepper Ghost",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Floating Empire/Tame/Pepper Ghost"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia",
+                        "x": 709,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Floating Empire › Tame › Thunderbird",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Floating Empire/Tame/Thunderbird"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia",
+                        "x": 759,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sharance Maze › Tame › Boss - Terrable",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sharance Maze/Tame/Boss - Terrable"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia",
+                        "x": 209,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sharance Maze › Deepwater Shrine Lv 10 Tame › Boss - Aquaticus",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sharance Maze/Deepwater Shrine Lv 10 Tame/Boss - Aquaticus"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia",
+                        "x": 259,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sharance Maze › Tame › Boss - Fiersome",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sharance Maze/Tame/Boss - Fiersome"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia",
+                        "x": 309,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Cluck Cluck Nest › Tame › Mamadoodle",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Cluck Cluck Nest/Tame/Mamadoodle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 209,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Selphia Plains › Tame › Big Muck",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Selphia Plains/Tame/Big Muck"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 209,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Selphia Plains › Tame › Buffamoo",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Selphia Plains/Tame/Buffamoo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 259,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Selphia Plains › Tame › Chipsqueek",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Selphia Plains/Tame/Chipsqueek"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 309,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Selphia Plains › Tame › Cluckadoodle",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Selphia Plains/Tame/Cluckadoodle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 359,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Selphia Plains › Tame › Pomme Pomme",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Selphia Plains/Tame/Pomme Pomme"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 409,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Selphia Plains › Tame › Wooly",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Selphia Plains/Tame/Wooly"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 459,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Selphia Plains › West Tame › Duck",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Selphia Plains/West Tame/Duck"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 509,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Selphia Plains › West Tame › Fairy",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Selphia Plains/West Tame/Fairy"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 559,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Selphia Plains › East Tame › Shmooly",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Selphia Plains/East Tame/Shmooly"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 609,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Water Ruins › Tame › Goblin",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Water Ruins/Tame/Goblin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 209,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Water Ruins › Tame › Goblin Archer",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Water Ruins/Tame/Goblin Archer"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 259,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Water Ruins › Tame › Boss - Thunderbolt",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Water Ruins/Tame/Boss - Thunderbolt"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 309,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Water Ruins › Tame › Sky Fish",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Water Ruins/Tame/Sky Fish"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 359,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Water Ruins › Tame › Tortas",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Water Ruins/Tame/Tortas"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 409,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Water Ruins › Tame › Weagle",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Water Ruins/Tame/Weagle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 459,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Water Ruins › Tame › Boss - Chimera",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Water Ruins/Tame/Boss - Chimera"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 509,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Forest › Tame › Ant",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Yokmir Forest/Tame/Ant"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 209,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Forest › Tame › Beetle",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Yokmir Forest/Tame/Beetle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 259,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Forest › Tame › Boss - Ambrosia",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Yokmir Forest/Tame/Boss - Ambrosia"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 309,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Forest › Tame › Orc",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Yokmir Forest/Tame/Orc"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 359,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Forest › Tame › Orc Archer",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Yokmir Forest/Tame/Orc Archer"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 409,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Forest › Tame › Boss - Dead Tree",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Yokmir Forest/Tame/Boss - Dead Tree"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 459,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Forest › Cave › Tame › High Orc",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Yokmir Forest/Cave/Tame/High Orc"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 509,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Forest › Cave › Tame › Hornet",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Yokmir Forest/Cave/Tame/Hornet"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 559,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Forest › Cave › Tame › Killer Ant",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Yokmir Forest/Cave/Tame/Killer Ant"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 609,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Forest › Cave › Tame › Leaf Ball",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Yokmir Forest/Cave/Tame/Leaf Ball"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 659,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Forest › Cave › Tame › Orc Hunter",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Yokmir Forest/Cave/Tame/Orc Hunter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 709,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Forest › Cave › Tame › Silver Wolf",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Yokmir Forest/Cave/Tame/Silver Wolf"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Selphia Plains",
+                        "x": 759,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Autumn Road › Tame › Flower Lily",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Autumn Road/Tame/Flower Lily"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 209,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Autumn Road › Tame › Mino",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Autumn Road/Tame/Mino"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 259,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Autumn Road › Tame › Furpy",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Autumn Road/Tame/Furpy"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 309,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Autumn Road › Tame › Palm Cat",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Autumn Road/Tame/Palm Cat"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 359,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Autumn Road › Tame › Tricky Muck",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Autumn Road/Tame/Tricky Muck"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 409,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Autumn Road › Tame › Red",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Autumn Road/Tame/Red"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 459,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Delirium Lava Ruins › Tame › Buffaloo",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Delirium Lava Ruins/Tame/Buffaloo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 209,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Delirium Lava Ruins › Tame › Flower Lion",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Delirium Lava Ruins/Tame/Flower Lion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 259,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Delirium Lava Ruins › Tame › Gangster Goblin",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Delirium Lava Ruins/Tame/Gangster Goblin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 309,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Delirium Lava Ruins › Tame › Goblin Pirate",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Delirium Lava Ruins/Tame/Goblin Pirate"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 359,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Delirium Lava Ruins › Tame › Ignis",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Delirium Lava Ruins/Tame/Ignis"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 409,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Delirium Lava Ruins › Tame › Scorpion",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Delirium Lava Ruins/Tame/Scorpion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 459,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Delirium Lava Ruins › Tame › Tomato Ghost",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Delirium Lava Ruins/Tame/Tomato Ghost"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 509,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Delirium Lava Ruins › Tame › Troll",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Delirium Lava Ruins/Tame/Troll"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 559,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Leon Karnak › Tame › Arch-Daemon",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Leon Karnak/Tame/Arch-Daemon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 209,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Leon Karnak › Tame › Captain Goblin",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Leon Karnak/Tame/Captain Goblin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 259,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Leon Karnak › Tame › Goblin Don",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Leon Karnak/Tame/Goblin Don"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 309,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Leon Karnak › Tame › Little Emperor",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Leon Karnak/Tame/Little Emperor"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 359,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Leon Karnak › Tame › Malm Tiger",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Leon Karnak/Tame/Malm Tiger"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 409,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Leon Karnak › Tame › Minotaur King",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Leon Karnak/Tame/Minotaur King"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 459,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Leon Karnak › Tame › Nappie",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Leon Karnak/Tame/Nappie"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 509,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Leon Karnak › Tame › Boss - Grimoire 2",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Leon Karnak/Tame/Boss - Grimoire 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 559,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Leon Karnak › Tame › Boss - Sarcophagus",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Leon Karnak/Tame/Boss - Sarcophagus"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 609,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Maya Road › Tame › Airror",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Maya Road/Tame/Airror"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 209,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Maya Road › Tame › Blackbird",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Maya Road/Tame/Blackbird"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 259,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Maya Road › Tame › Green",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Maya Road/Tame/Green"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 309,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Maya Road › Tame › Hammer Troll",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Maya Road/Tame/Hammer Troll"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 359,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Maya Road › Tame › Heracles",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Maya Road/Tame/Heracles"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 409,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Maya Road › Tame › Hornet Queen",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Maya Road/Tame/Hornet Queen"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 459,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Maya Road › Tame › Planchoa",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Maya Road/Tame/Planchoa"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 509,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Maya Road › Tame › Boss - Fiergaenger",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Maya Road/Tame/Boss - Fiergaenger"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 559,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Obsidian Mansion › Tame › Boss - Marionetta",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Obsidian Mansion/Tame/Boss - Marionetta"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 209,
+                        "y": 339,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Obsidian Mansion › Tame › Ghost",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Obsidian Mansion/Tame/Ghost"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 259,
+                        "y": 339,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Obsidian Mansion › Tame › Ghost Ray",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Obsidian Mansion/Tame/Ghost Ray"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 309,
+                        "y": 339,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Obsidian Mansion › Tame › Onion Ghost",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Obsidian Mansion/Tame/Onion Ghost"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 359,
+                        "y": 339,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Obsidian Mansion › Tame › Shadow Panther",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Obsidian Mansion/Tame/Shadow Panther"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 409,
+                        "y": 339,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Obsidian Mansion › Tame › Slime",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Obsidian Mansion/Tame/Slime"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 459,
+                        "y": 339,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Obsidian Mansion › Tame › Spider",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Obsidian Mansion/Tame/Spider"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 509,
+                        "y": 339,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Obsidian Mansion › Tame › Spirit",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Obsidian Mansion/Tame/Spirit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 559,
+                        "y": 339,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F4 › Tame › Ant Queen",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F4/Tame/Ant Queen"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 209,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F7 › Tame › Black Dragon",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F7/Tame/Black Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 259,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F6 › Tame › Blue Dragon",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F6/Tame/Blue Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 309,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F1 › Tame › Boss - Bane Dragon",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F1/Tame/Boss - Bane Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 359,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F7 › Tame › Boss - Chimera 2",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F7/Tame/Boss - Chimera 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 409,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F3 › Tame › Boss - Crystal Mammoth 2",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F3/Tame/Boss - Crystal Mammoth 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 459,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F7 › Tame › Boss - Dead Tree 2",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F7/Tame/Boss - Dead Tree 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 509,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F6 › Tame › Boss - Death Wall",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F6/Tame/Boss - Death Wall"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 559,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F7 › Tame › Boss - Emerald (Boss)",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F7/Tame/Boss - Emerald (Boss)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 609,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F7 › Tame › Boss - G Golem",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F7/Tame/Boss - G Golem"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 659,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F7 › Tame › Boss - Greater Demon 2",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F7/Tame/Boss - Greater Demon 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 709,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F4 › Tame › Boss - Hinoe",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F4/Tame/Boss - Hinoe"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 759,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F4 › Tame › Boss - Kinoto",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F4/Tame/Boss - Kinoto"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 809,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F7 › Tame › Boss - Marin",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F7/Tame/Boss - Marin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 859,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F2 › Tame › Boss - Octopirate 2",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F2/Tame/Boss - Octopirate 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 909,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F7 › Tame › Boss - Olive",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F7/Tame/Boss - Olive"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 959,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F7 › Tame › Boss - Rouge",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F7/Tame/Boss - Rouge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 1009,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F5 › Tame › Boss - Siren",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F5/Tame/Boss - Siren"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 1059,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F6 › Tame › Elemental Emperor",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F6/Tame/Elemental Emperor"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 1109,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F1 › Tame › Flare Mage",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F1/Tame/Flare Mage"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 1159,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F1 › Tame › Green Dragon",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F1/Tame/Green Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 1209,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F5 › Tame › Heaven's Scissors",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F5/Tame/Heaven's Scissors"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 1259,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F3 › Tame › High Ogre Viking",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F3/Tame/High Ogre Viking"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 1309,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F3 › Tame › High Orc Viking",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F3/Tame/High Orc Viking"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 1359,
+                        "y": 418,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F5 › Tame › Ice Wizard",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F5/Tame/Ice Wizard"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 209,
+                        "y": 487,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F2 › Tame › King Bee",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F2/Tame/King Bee"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 259,
+                        "y": 487,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F4 › Tame › Leoplicant",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F4/Tame/Leoplicant"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 309,
+                        "y": 487,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F1 › Tame › Onionger",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F1/Tame/Onionger"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 359,
+                        "y": 487,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F6 › Tame › Pink Dragon",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F6/Tame/Pink Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 409,
+                        "y": 487,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F4 › Tame › Red Dragon",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F4/Tame/Red Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 459,
+                        "y": 487,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F3 › Tame › Turnip Ghost",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F3/Tame/Turnip Ghost"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 509,
+                        "y": 487,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana › F6 › Tame › Yellow Dragon",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F6/Tame/Yellow Dragon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 559,
+                        "y": 487,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sechs Territory › Tame › Blue",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sechs Territory/Tame/Blue"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 209,
+                        "y": 566,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sechs Territory › Tame › Boss - Crystal Mammoth",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sechs Territory/Tame/Boss - Crystal Mammoth"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 259,
+                        "y": 566,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sechs Territory › Tame › Emperor Penguin",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sechs Territory/Tame/Emperor Penguin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 309,
+                        "y": 566,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sechs Territory › Tame › Flower Crystal",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sechs Territory/Tame/Flower Crystal"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 359,
+                        "y": 566,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sechs Territory › Tame › Hunter Wolf",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sechs Territory/Tame/Hunter Wolf"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 409,
+                        "y": 566,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sechs Territory › Tame › Little Wizard",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sechs Territory/Tame/Little Wizard"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 459,
+                        "y": 566,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sechs Territory › Tame › Mammoo",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sechs Territory/Tame/Mammoo"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 509,
+                        "y": 566,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sechs Territory › Tame › Ogre Viking",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sechs Territory/Tame/Ogre Viking"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 559,
+                        "y": 566,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sechs Territory › Tame › Orc Viking",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sechs Territory/Tame/Orc Viking"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 609,
+                        "y": 566,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sechs Territory › Tame › Sealy",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sechs Territory/Tame/Sealy"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 659,
+                        "y": 566,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sechs Territory › Tame › Snowy",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sechs Territory/Tame/Snowy"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 709,
+                        "y": 566,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sechs Territory › Tame › Titan",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sechs Territory/Tame/Titan"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 759,
+                        "y": 566,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sechs Territory › Tame › Tundra",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sechs Territory/Tame/Tundra"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 809,
+                        "y": 566,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sechs Territory › Tame › Death Stalker",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sechs Territory/Tame/Death Stalker"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 859,
+                        "y": 566,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sechs Territory › Tame › Boss - Aquameleon",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sechs Territory/Tame/Boss - Aquameleon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Autumn Road",
+                        "x": 909,
+                        "y": 566,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Demons Den › Tame › Boss - Magnuto",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Demons Den/Tame/Boss - Magnuto"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 209,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Field Dungeon › Tame › Boss - Greater Demon",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Field Dungeon/Tame/Boss - Greater Demon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 209,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Field Dungeon › Tame › Boss - Grimoire",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Field Dungeon/Tame/Boss - Grimoire"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 259,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Field Dungeon › Tame › Boss - Octopirate",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Field Dungeon/Tame/Boss - Octopirate"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 309,
+                        "y": 102,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Idra Cave › Tame › Daemon",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Idra Cave/Tame/Daemon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 209,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Idra Cave › Tame › Gaias",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Idra Cave/Tame/Gaias"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 259,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Idra Cave › Tame › Goblin Sniper",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Idra Cave/Tame/Goblin Sniper"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 309,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Idra Cave › Tame › Hobgoblin",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Idra Cave/Tame/Hobgoblin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 359,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Idra Cave › Tame › Little Golem",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Idra Cave/Tame/Little Golem"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 409,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Idra Cave › Tame › Little Mage",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Idra Cave/Tame/Little Mage"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 459,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Idra Cave › Tame › Minotaur",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Idra Cave/Tame/Minotaur"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 509,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Idra Cave › Tame › Necro",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Idra Cave/Tame/Necro"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 559,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Idra Cave › Tame › Boss - Terraclone",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Idra Cave/Tame/Boss - Terraclone"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 609,
+                        "y": 181,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sercerezo Hill › Tame › Elefun",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sercerezo Hill/Tame/Elefun"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 209,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sercerezo Hill › Tame › Flower Blossom",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sercerezo Hill/Tame/Flower Blossom"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 259,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sercerezo Hill › Tame › Yellow",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sercerezo Hill/Tame/Yellow"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 309,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sercerezo Hill › Tame › Typhoon",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sercerezo Hill/Tame/Typhoon"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Sercerezo Hill",
+                        "x": 359,
+                        "y": 260,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Anywhere (Rare) › Tame › Monster Box",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Anywhere (Rare)/Tame/Monster Box"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Anywhere",
+                        "x": 209,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
+                "name": "Anywhere (Rare) › Tame › Gobble Box",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Anywhere (Rare)/Tame/Gobble Box"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tames Anywhere",
+                        "x": 259,
+                        "y": 23,
+                        "size": 16,
+                        "shape": "trapezoid",
+                        "border_thickness": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

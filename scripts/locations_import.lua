@@ -22,3 +22,8 @@ Tracker:AddLocations("locations/Sharance Maze.json")
 Tracker:AddLocations("locations/Water Ruins.json")
 Tracker:AddLocations("locations/Yokmir Forest.json")
 Tracker:AddLocations("locations/Overworld.json")
+
+-- picture grids: these hold section refs, so they load after the regions they point at
+Tracker:AddLocations("locations/_Shipments.json")
+Tracker:AddLocations("locations/_Crafting.json")
+Tracker:AddLocations("locations/_Tames.json")
