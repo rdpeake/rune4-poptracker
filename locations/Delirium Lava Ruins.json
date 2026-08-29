@@ -26,43 +26,57 @@
                     {
                         "name": "Bull's Horn",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fire Crystal",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Giant's Nail",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Quality Cloth",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Scorpion Tail",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Red Grass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ruby",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_mineralsanity"
+                        ],
                         "item_count": 1
                     }
                 ],
@@ -97,19 +111,25 @@
                             {
                                 "name": "Big Fire",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Bonus Concerto",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Rush Punch",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -257,13 +277,17 @@
                             {
                                 "name": "Cure All",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Light Barrier",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -452,49 +476,65 @@
                     {
                         "name": "Buffaloo",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Flower Lion",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gangster Goblin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Goblin Pirate",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ignis",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Scorpion",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Tomato Ghost",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Troll",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     }
                 ],

@@ -26,115 +26,153 @@
                     {
                         "name": "Arrowhead",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cheap Cloth",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Insect Carapace",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Insect Horn",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Stick",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Char",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cherry Salmon",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Chub",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Crucian Carp",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Flounder",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gibelio",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Girella",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Mackerel",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Rainbow Trout",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Sardine",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Skipjack",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Turbot",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Round Stone",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Blue Grass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     }
                 ],
@@ -169,61 +207,81 @@
                             {
                                 "name": "Glue",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Gunpowder",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Plant Stem",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Pretty Carapace",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Quality Fur",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Wind Crystal",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Wolf Fang",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Indigo Grass",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_foragesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Honey",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_foragesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Emerald",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_mineralsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -258,7 +316,9 @@
                                     {
                                         "name": "Dash Slash",
                                         "access_rules": [],
-                                        "visibility_rules": [],
+                                        "visibility_rules": [
+                                            "opt_spellsanity"
+                                        ],
                                         "item_count": 1
                                     }
                                 ],
@@ -406,7 +466,9 @@
                                     {
                                         "name": "Sonic Wind",
                                         "access_rules": [],
-                                        "visibility_rules": [],
+                                        "visibility_rules": [
+                                            "opt_spellsanity"
+                                        ],
                                         "item_count": 1
                                     }
                                 ],
@@ -598,37 +660,49 @@
                             {
                                 "name": "High Orc",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Hornet",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Killer Ant",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Leaf Ball",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Orc Hunter",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Silver Wolf",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -767,37 +841,49 @@
                     {
                         "name": "Boss - Ambrosia",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ant",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Beetle",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Boss - Dead Tree",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Orc",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Orc Archer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     }
                 ],

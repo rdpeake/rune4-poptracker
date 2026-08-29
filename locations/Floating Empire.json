@@ -35,7 +35,9 @@
                             {
                                 "name": "Delta Laser",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -251,13 +253,17 @@
                             {
                                 "name": "Penetrate Sonic",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Tornado Swing",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -421,127 +427,169 @@
                     {
                         "name": "Blk. Tortoise Shell",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cheap Propeller",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Dragon Fang",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fairy Elixir",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Glistening Blade",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Golem Stone",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Great Hammer Shard",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Love Crystal",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Magic Claw",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pretty Thread",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Quality Propeller",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Thick Stick",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Thunderbird Feather",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Golden Turnip",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_goldcropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Golden Tyrant Turnip",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_goldcropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Egg (L)",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Milk (L)",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Platinum",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_mineralsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fur (L)",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gold Turnip Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Neko Damashi",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_spellsanity"
+                        ],
                         "item_count": 1
                     }
                 ],
@@ -588,25 +636,33 @@
                             {
                                 "name": "Avenger Rock",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Double Kick",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Grand Impact",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Round Break",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -832,67 +888,89 @@
                     {
                         "name": "Blood Panther",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Dark Fairy",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Faust",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fortoise",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gigantes",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Golem",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Hell Spider",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Little Dragon",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Master Giant",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pepper Ghost",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Thunderbird",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     }
                 ],
@@ -918,7 +996,9 @@
                     {
                         "name": "Dark Slime",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     }
                 ],

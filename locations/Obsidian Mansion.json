@@ -32,67 +32,89 @@
                     {
                         "name": "Dark Crystal",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ghost Hood",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Insect Jaw",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Magic Crystal",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Panther Claw",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Spider's Thread",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Black Grass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Glitta Augite",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_mineralsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Shining Seed",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cure",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_spellsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Flash Strike",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_spellsanity"
+                        ],
                         "item_count": 1
                     }
                 ],
@@ -260,49 +282,65 @@
                     {
                         "name": "Ghost",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ghost Ray",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Boss - Marionetta",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Onion Ghost",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Shadow Panther",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Slime",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Spider",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Spirit",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     }
                 ],

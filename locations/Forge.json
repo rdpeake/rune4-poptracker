@@ -20,1561 +20,2081 @@
                     {
                         "name": "Gloves",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_craftsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Acutorimass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Aerial Blade",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Algernon",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Alldale",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Amethyst Rod",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Animal Puppets",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Aqua Sword",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Aquamarine Rod",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Axe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Back Scratcher",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Balmung",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Basilisk Fang",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Basket",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Bat",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Battle Axe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Battle Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Battle Scythe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Bazal Katar",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Bear Claws",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Beginner's Pole",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Belvarose",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Belzebuth",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Big Knife",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Bio Smasher",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Bjor",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Blessed Hoe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Blood Lance",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Blue-Eyed Blade",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Bone Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Brass Knuckles",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Braveheart",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Brionac",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Broadsword",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Broken Wall",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Bubble Staff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Burning Sword",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Caestus",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Caliburn",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cat Punch",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Chaos Blade",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Chaos Edge",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cheap Axe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cheap Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cheap Hoe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cheap Pole",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cheap Sickle",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cheap Waterpot",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Chopping Axe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Claymore",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Corsesca",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Corsesca+",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Crescent Axe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Crescent Axe+",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Crimson Staff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Crystal Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cutlass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cyclone Blade",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cyclone Rod",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Daicone",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Dancing Dicer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Dark Invitation",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Deep Blizzard",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Defender",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Dekash",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Demon Axe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Desert Wind",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Devil Finger",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Diamond Rod",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Double Edge",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Double Scratch",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Dragon Claws",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Dragon Slayer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Dragon's Fang",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Dragoon Claw",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Durendal",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Earnest Edge",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Earth Shade",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Earth Staff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Efreet",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Elvish Harp",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Emerald Edge",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Emerald Rod",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Executioner",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Famous Pole",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fatal Crush",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Feather Lance",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fenrir",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fists of Dark",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fists of Fire",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fists of Light",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fists of the Earth",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fists of Water",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fists of Wind",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fivestaff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Flamberge",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Flamberge+",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Flame Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Flame Saber",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Flare Lance",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Flare Staff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Force Divide",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Force Element",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Friendly Rod",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Frost Axe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Frost Edge",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gae Bolg",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gaia Rod",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gaia Sword",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gigant Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gigant Hammer+",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gladius",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Golden Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Golden Turnip Staff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Golem Punch",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gorgeous Lx",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gorgeous Sword",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Grand Smasher",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Grantale",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Graviton Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Great Axe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Great Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Great Sword",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gungnir",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Halberd",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Hand of God",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Heart Fire",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Heat Axe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Heaven Asunder",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Heavy Lance",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Hell Branch",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Hell Curse",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ice Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ice Staff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Iceberg",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Icifier",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Invisiblade",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Iron Bat",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Iron Edge",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Iron Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Iron Sickle",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ironleaf Fists",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Joy Waterpot",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Katana",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Katzbalger",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Kongo",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Kote",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Lance",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Lance+",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Leather Gloves",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Legendary Sickle",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Legion",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Lightning Wand",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Lion Waterpot",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Lollipop",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Love-Love Rod",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Luck Blade",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Lumber Axe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Mage's Staff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Mage's Staff+",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Magic Broom",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Magic Shot",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Magical Lance",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Metus",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Miracle Axe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Mjolnir",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Monk Staff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Moon Shadow",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Mountain Axe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Needle Spear",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Orcus Sword",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Orochi",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Overbreak",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pine Club",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pitchfork",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Platinum Edge",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Platinum Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Platinum Sword",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Platinum Sword+",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Poison Blade",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Poison Queen",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Poison Spear",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pole Axe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pole Axe+",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Priest Saber",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Psycho",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Punisher",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Quality Sickle",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Rainbow Waterpot",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Rampage",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Raventine",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Rock Axe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Rod",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ruby Rod",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Rune Blade",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Rune Edge",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Rune Legend",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Rune Staff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Sacred Pole",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Safety Lance",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Saint Axe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Sakura",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Salamander",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Sapphire Rod",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Schnabel",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Sea Cutter",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Seasoned Hoe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Shine Blade",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Shiny Hoe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Shooting Star Staff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Short Dagger",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Silent Grave",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Silver Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Silver Staff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Skilled Pole",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Sky Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Smash Blade",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Snakesword",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Snow Crown",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Sonic Dagger",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Sorcerer's Wand",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Soul Eater",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Spear",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Spiked Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Splash Star",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Spoon",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Staff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Star Saber",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Steel Edge",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Steel Katana",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Steel Slicer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Steel Sword",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Steel Sword+",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Storm Wand",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Strong Stone",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Sturdy Hoe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Sunspot",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Super Sickle",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Sweet Potato Staff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Syringe",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Thief Knife",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Tin Waterpot",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Tomahawk",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Toy Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Trident",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Twin Blade",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Twin Justice",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Twin Leeks",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Veggieblade",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Volcanon",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "War Hammer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "War Hammer+",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Water Spear",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Wind Edge",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Wind Sword",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Wizard's Staff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Wood Staff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Zweihaender",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Zweihaender+",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     }
                 ]

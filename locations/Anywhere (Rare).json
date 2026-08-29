@@ -20,25 +20,33 @@
                     {
                         "name": "Broken Box",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Broken Hilt",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Rune Crystal",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_mineralsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Small Crystal",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_mineralsanity"
+                        ],
                         "item_count": 1
                     }
                 ],
@@ -64,13 +72,17 @@
                     {
                         "name": "Gobble Box",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Monster Box",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     }
                 ],

@@ -26,85 +26,113 @@
                     {
                         "name": "Palm Claw",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Poison Powder",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Quality Puffy Fur",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Red Core",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Vine",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Glitter Snapper",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Needlefish",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pond Smelt",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Salmon",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Snapper",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Yellowtail",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Yellow Grass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Shade Stone",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_mineralsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Silver",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_mineralsanity"
+                        ],
                         "item_count": 1
                     },
                     {
@@ -122,25 +150,33 @@
                     {
                         "name": "Dark Ball",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_spellsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Naive Blade",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_spellsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Parallel Laser",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_spellsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Screw Rock",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_spellsanity"
+                        ],
                         "item_count": 1
                     }
                 ],
@@ -450,37 +486,49 @@
                     {
                         "name": "Flower Lily",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Furpy",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Mino",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Palm Cat",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Red",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Tricky Muck",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     }
                 ],

@@ -26,43 +26,57 @@
                     {
                         "name": "Black Bird Feather",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Giant's Gloves",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Green Core",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Paralysis Poison",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Rigid Horn",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fall Flounder",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gold",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_mineralsanity"
+                        ],
                         "item_count": 1
                     }
                 ],
@@ -97,19 +111,25 @@
                             {
                                 "name": "Mysterious Powder",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Light Ore",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_mineralsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Sapphire",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_mineralsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -146,7 +166,9 @@
                             {
                                 "name": "Axel Disaster",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -294,7 +316,9 @@
                             {
                                 "name": "Blitz",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -392,19 +416,25 @@
                             {
                                 "name": "Dark Snake",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Prism",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Rail Strike",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -533,13 +563,17 @@
                             {
                                 "name": "Delta Strike",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Mediseal",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_spellsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -628,49 +662,65 @@
                     {
                         "name": "Airror",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Blackbird",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Boss - Fiergaenger",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Green",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Hammer Troll",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Heracles",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Hornet Queen",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Planchoa",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_tamesanity"
+                        ],
                         "item_count": 1
                     }
                 ],

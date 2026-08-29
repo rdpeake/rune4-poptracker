@@ -35,13 +35,17 @@
                             {
                                 "name": "Poison King",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Yellow Feather",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -159,13 +163,17 @@
                             {
                                 "name": "King Bee",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Boss - Octopirate 2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -214,25 +222,33 @@
                             {
                                 "name": "Big Giant's Nail",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Crimson Scale",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Queen's Jaw",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Dragonic Stone",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_mineralsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -319,31 +335,41 @@
                             {
                                 "name": "Ant Queen",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Boss - Hinoe",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Boss - Kinoto",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Leoplicant",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Red Dragon",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -386,25 +412,33 @@
                             {
                                 "name": "Blue Scale",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Glitter Scale",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Golem Spirit Stone",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Love Scale",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -516,31 +550,41 @@
                             {
                                 "name": "Blue Dragon",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Boss - Death Wall",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Elemental Emperor",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Pink Dragon",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Yellow Dragon",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -613,13 +657,17 @@
                             {
                                 "name": "Ancient Orc Cloth",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Black Scale",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -805,55 +853,73 @@
                             {
                                 "name": "Black Dragon",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Boss - Chimera 2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Boss - Dead Tree 2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Boss - Emerald (Boss)",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Boss - G Golem",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Boss - Greater Demon 2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Boss - Marin",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Boss - Olive",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Boss - Rouge",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -896,13 +962,17 @@
                             {
                                 "name": "Dragon Scale",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Quality Worn Cloth",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -928,25 +998,33 @@
                             {
                                 "name": "Boss - Bane Dragon",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Flare Mage",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Green Dragon",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Onionger",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -989,7 +1067,9 @@
                             {
                                 "name": "Dangerous Scissors",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -1076,19 +1156,25 @@
                             {
                                 "name": "Heaven's Scissors",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Ice Wizard",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Boss - Siren",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -1125,13 +1211,17 @@
                             {
                                 "name": "Pirate's Armor",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Turnip's Miracle",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_dropsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -1157,25 +1247,33 @@
                             {
                                 "name": "Boss - Crystal Mammoth 2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "High Ogre Viking",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "High Orc Viking",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "Turnip Ghost",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_tamesanity"
+                                ],
                                 "item_count": 1
                             }
                         ],

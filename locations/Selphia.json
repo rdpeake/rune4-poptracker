@@ -20,31 +20,41 @@
                     {
                         "name": "Accessory Bread",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cooking Bread",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Farming Bread",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Medicine Bread",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Weapon Bread",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_dishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
@@ -56,523 +66,697 @@
                     {
                         "name": "4-Leaf Clover",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Autumn Grass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Bok Choy",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cabbage",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Carrot",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Charm Blue",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cherry Grass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Corn",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cucumber",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Eggplant",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Emery Flower",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fireflower",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Green Pepper",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Hot-Hot Fruit",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ironleaf",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Lamp Grass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Moondrop Flower",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Noel Grass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Onion",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pineapple",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pink Cat",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pink Melon",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pink Turnip",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pom-Pom Grass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Potato",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pumpkin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Radish",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Spinach",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Tomato",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Toyherb",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Yam",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_cropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Boot",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Can",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_fishsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Scrap Metal+",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_forgesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gldn. Doom Pumpkin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_goldcropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Golden Pumpkin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_goldcropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Antidote Grass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fodder",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Medicinal Herb",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Weeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Withered Grass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Chocolate",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Curry Powder",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Elli Leaves",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Flour",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Heavy Spice",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Mixed Herbs",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Oil",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Rice",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Rice Flour",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Sour Drop",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Sweet Powder",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Wine",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Big Autumn Grass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Big Fireflower",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Boss Bok Choy",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Colossal Pink",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Conqueror Melon",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Doom Pumpkin",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Emperor Eggplant",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Giant Hot-Hot Fruit",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gigant Corn",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Great 4-Leaf Clover",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Great Charm Blue",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Great Emery Flower",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Green Pepper Rex",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Kaiser Cucumber",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Kaiser Lamp Grass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "King Cabbage",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "King Cherry Grass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "King Pineapple",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "King Pink Cat",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "King Pom-Pom Grass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Large Noel Grass",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Lordly Yam",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Noble Radish",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Princely Potato",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Royal Carrot",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Sovereign Spinach",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Sultan Strawberry",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Super Ironleaf",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Titan Tomato",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Tyrant Turnip",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ultra Moondrop Flower",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ultra Onion",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ultra Toyherb",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_largecropsanity"
+                        ],
                         "item_count": 1
                     },
                     {
@@ -608,379 +792,505 @@
                     {
                         "name": "Antidote Potion",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cold Medicine",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Formuade",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Formula A",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Formula B",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Formula C",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Giantizer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Greenifier",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Greenifier+",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Healing Potion",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Invinciroid",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Leveliser",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Love Potion",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Magical Potion",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Minimizer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Mystery Potion",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "No Rot α",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "No Rot β",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Object X",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Para-Gone",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Recovery Potion",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Roundoff",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Wettable Powder",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Autumn Grass Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Bok Choy Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cabbage Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Carrot Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Charm Blue Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cherry Grass Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Clover Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Corn Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cucumber Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Eggplant Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Emery Flower Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fireflower Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fodder Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gold Melon Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gold Pumpkin Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Green Pepper Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Hot-Hot Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ironleaf Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Lamp Grass Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Moondrop Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Noel Grass Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Onion Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pineapple Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pink Cat Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pink Turnip Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pom-Pom Grass Sds.",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Potato Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Pumpkin Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Radish Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Spinach Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Strawberry Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Tomato Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Toyherb Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Turnip Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Yam Seeds",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fireball",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_spellsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Greeting Spell",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_spellsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Iron Waltz",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_spellsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Rush Attack",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_spellsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Striking March",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_spellsanity"
+                        ],
                         "item_count": 1
                     },
                     {
@@ -1004,25 +1314,33 @@
                     {
                         "name": "Heart Drink",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Intelligencer",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "The Protein",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Vital Gummi",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_chemicsanity"
+                        ],
                         "item_count": 1
                     }
                 ],
@@ -1048,559 +1366,745 @@
                     {
                         "name": "First Task!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "How to place furniture!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Make Lumber",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Give an item!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Purchase Rice!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Make Material Stone!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Try Fishing!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Use a Fertilizer Bin!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Mine Iron!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Raise friendship levels! (1)",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Look at illustrations!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Check difficulty level!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Get an Airship License!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Get a Cooking Table!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Start Cooking!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Get a Forge!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Forge a weapon!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Make a farming tool!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Get a Crafting Table!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Make some armor!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Get a Chemistry Set!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Make some medicine!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Raise a skill level!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Raise a weapon skill level!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Upgrade a weapon!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Raise a magic skill level!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Upgrade your armor!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Use a nutrient!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Get a Shop License!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Prepare for a typhoon!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Befriend 5 monsters!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Upgrade a Staff!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Raise friendship levels! (5)",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ship a level 10 flower!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest a large gold crop!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest all crops!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ship a gold level 10 crop!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Raise a skill level to 50!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Befriend 50 monsters!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Raise friendship levels! (10)",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Get a 50% shipment rate!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Raise a skill level to 80!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Complete the Sharance Maze!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Give Dolce a Moondrop!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Build a Monster Barn!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Befriend monsters!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ride on a monster friend!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Befriend an item monster!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Give a monster a task!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Befriend a boss monster!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Prepare for Marriage!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "From Eliza!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest Potato!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest 20 Turnip!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest 5 Radishes!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ship a level 2 Turnip!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest 6 veggies!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ship a level 5 veggie!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Till Corn",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Give Dylas a Carrot!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest 12 veggies!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Ship a level 10 veggie!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest certain veggies!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Cut down a Shining Tree!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest 20 Oranges!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest a large veggie!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest 50 Grapes!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest 50 Apples!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest non-golden veggies!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Gift for Margaret!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Get a 25% shipment rate!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Give a Turnip Heaven!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest a Sword Flower!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest a Shield Flower!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Complete a field dungeon!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest Toyherb!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest 3 flowers!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Give Amber a Toyherb!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest 9 Charm Blues!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest Cherry Grass!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest 5 flowers!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Till a 4-Leaf Clover!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Fight using an Ironleaf!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest a large flower!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest Autumn Grass!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest Blue Crystal!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest Green Crystal!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest Red Crystal!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest White Crystal!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Harvest almost all crops!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Raise shipment rates!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Raise total shipment fee!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Make a shipment!",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_requestsanity"
+                        ],
                         "item_count": 1
                     }
                 ],
@@ -1634,61 +2138,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -1713,61 +2237,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -1792,61 +2336,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -1871,61 +2435,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -1950,61 +2534,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -2029,61 +2633,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -2108,61 +2732,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -2187,61 +2831,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -2266,61 +2930,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -2345,61 +3029,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -2424,61 +3128,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -2503,61 +3227,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -2582,61 +3326,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -2661,61 +3425,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -2740,61 +3524,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -2819,61 +3623,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -2898,61 +3722,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -2977,61 +3821,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -3056,61 +3920,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -3135,61 +4019,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -3214,61 +4118,81 @@
                             {
                                 "name": "1",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "2",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "3",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "4",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "5",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "6",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "7",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "8",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "9",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             },
                             {
                                 "name": "10",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "opt_friendsanity"
+                                ],
                                 "item_count": 1
                             }
                         ],

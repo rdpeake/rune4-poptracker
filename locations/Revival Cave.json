@@ -26,7 +26,9 @@
                     {
                         "name": "Ayngondaia Lawn",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "opt_foragesanity"
+                        ],
                         "item_count": 1
                     }
                 ],
