@@ -10,13 +10,19 @@
         "children": [
             {
                 "name": "Shipment",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/ship_closed.png",
+                "chest_opened_img": "/images/items/ship_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
                 "sections": [
+                    {
+                        "name": "Squid",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Palm Claw",
                         "access_rules": [],
@@ -48,6 +54,42 @@
                         "item_count": 1
                     },
                     {
+                        "name": "Glitter Snapper",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Needlefish",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pond Smelt",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Salmon",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Snapper",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Yellowtail",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Yellow Grass",
                         "access_rules": [],
                         "visibility_rules": [],
@@ -61,6 +103,18 @@
                     },
                     {
                         "name": "Silver",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Autumn Headdress",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Winter Headdress",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -93,9 +147,10 @@
                 "map_locations": [
                     {
                         "map": "Autumn Road",
-                        "x": 2393,
-                        "y": 662,
-                        "size": 6
+                        "x": 34,
+                        "y": 34,
+                        "size": 6,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -107,117 +162,286 @@
                 "access_rules": [
                     " "
                 ],
-                "sections": [
+                "children": [
                     {
-                        "name": "G11 - Screw Rock Lv.1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "G11",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Screw Rock Lv.1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Autumn Road",
+                                "x": 427,
+                                "y": 328,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "E7 - Healing Potion x3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "E7",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Healing Potion x3",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "5200G",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Autumn Road",
+                                "x": 471,
+                                "y": 282,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "E7 - 5200G",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "F7",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Silver x3 + Kote",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Autumn Road",
+                                "x": 434,
+                                "y": 304,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "F7 - Silver x3 + Kote",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "I4",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "18600G",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Parallel Laser Lv.2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Autumn Road",
+                                "x": 402,
+                                "y": 388,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "I4 - 18600G",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "J2",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Naive Blade Lv.1",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Pancakes + Fruit Smoothie",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Chaos Shield + Ruby Ring",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Eggplant Seeds x4",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Autumn Road",
+                                "x": 437,
+                                "y": 397,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "I4 - Parallel Laser Lv.2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "G8",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Dark Ball Lv.2",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Autumn Road",
+                                "x": 339,
+                                "y": 331,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "J2 - Naive Blade Lv.1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "I3",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "7200G",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Autumn Road",
+                                "x": 303,
+                                "y": 376,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "J2 - Pancakes + Fruit Smoothie",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "J1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Carrot Seeds x4",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Autumn Road",
+                                "x": 239,
+                                "y": 407,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "J2 - Chaos Shield + Ruby Ring",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "J2 - Eggplant Seeds x4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "G8 - Dark Ball Lv.2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "I3 - 7200G",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "G1 - Golden Turnip Staff Recipe",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "G1 - Joy Waterpot Recipe",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "G1 - Glitter Sashimi Recipe",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "G1 - Intelligencer",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Autumn Road",
-                        "x": 580,
-                        "y": 1282,
-                        "size": 6
+                        "name": "G1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Golden Turnip Staff Recipe",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Joy Waterpot Recipe",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Glitter Sashimi Recipe",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Intelligencer",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Autumn Road",
+                                "x": 175,
+                                "y": 320,
+                                "size": 6
+                            }
+                        ]
                     }
                 ]
             },
             {
                 "name": "Tame",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -263,8 +487,497 @@
                 "map_locations": [
                     {
                         "map": "Autumn Road",
-                        "x": 2433,
-                        "y": 361,
+                        "x": 34,
+                        "y": 56,
+                        "size": 6,
+                        "shape": "trapezoid"
+                    }
+                ]
+            },
+            {
+                "name": "Obsidian Mansion",
+                "chest_unopened_img": "/images/items/area_closed.png",
+                "chest_opened_img": "/images/items/area_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Obsidian Mansion/Shipment/Boss - Cursed Doll"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Shipment/Boss - Puppetry Strings"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Shipment/Dark Crystal"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Shipment/Ghost Hood"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Shipment/Insect Jaw"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Shipment/Magic Crystal"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Shipment/Panther Claw"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Shipment/Spider's Thread"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Shipment/Black Grass"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Shipment/Glitta Augite"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Shipment/Shining Seed"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Shipment/Cure"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Shipment/Flash Strike"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Chest/A3/Steel Edge"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Chest/A3/1800 G"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Chest/B6/Flash Strike Lv.1"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Chest/A9/Recovery Potion x3 + Heart Drink"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Chest/B8/Cure Lv.1"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Chest/B3/2500G"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Tame/Ghost"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Tame/Ghost Ray"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Tame/Boss - Marionetta"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Tame/Onion Ghost"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Tame/Shadow Panther"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Tame/Slime"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Tame/Spider"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Tame/Spirit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Autumn Road",
+                        "x": 475,
+                        "y": 215,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Maya Road",
+                "chest_unopened_img": "/images/items/area_closed.png",
+                "chest_opened_img": "/images/items/area_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Maya Road/Shipment/Boss - Fire Dragon Ash"
+                    },
+                    {
+                        "ref": "Maya Road/Shipment/Black Bird Feather"
+                    },
+                    {
+                        "ref": "Maya Road/Shipment/Giant's Gloves"
+                    },
+                    {
+                        "ref": "Maya Road/Shipment/Green Core"
+                    },
+                    {
+                        "ref": "Maya Road/Shipment/Paralysis Poison"
+                    },
+                    {
+                        "ref": "Maya Road/Shipment/Rigid Horn"
+                    },
+                    {
+                        "ref": "Maya Road/Shipment/Fall Flounder"
+                    },
+                    {
+                        "ref": "Maya Road/Shipment/Gold"
+                    },
+                    {
+                        "ref": "Maya Road/(Underground)/Shipment/Mysterious Powder"
+                    },
+                    {
+                        "ref": "Maya Road/(Underground)/Shipment/Light Ore"
+                    },
+                    {
+                        "ref": "Maya Road/(Underground)/Shipment/Sapphire"
+                    },
+                    {
+                        "ref": "Maya Road/F2/Shipment/Axel Disaster"
+                    },
+                    {
+                        "ref": "Maya Road/F2/Chest/A7/2300 G"
+                    },
+                    {
+                        "ref": "Maya Road/F2/Chest/B10/Healing Potion x3 + Fruit Sandwich"
+                    },
+                    {
+                        "ref": "Maya Road/F2/Chest/A4/Mystery Potion x 4"
+                    },
+                    {
+                        "ref": "Maya Road/F2/Chest/C1/Axel Disaster Lv.1"
+                    },
+                    {
+                        "ref": "Maya Road/F1/Shipment/Blitz"
+                    },
+                    {
+                        "ref": "Maya Road/F1/Chest/B2/Pineapple Seeds"
+                    },
+                    {
+                        "ref": "Maya Road/F1/Chest/A3/Blitz Lv. 1"
+                    },
+                    {
+                        "ref": "Maya Road/B2/Shipment/Dark Snake"
+                    },
+                    {
+                        "ref": "Maya Road/B2/Shipment/Prism"
+                    },
+                    {
+                        "ref": "Maya Road/B2/Shipment/Rail Strike"
+                    },
+                    {
+                        "ref": "Maya Road/B2/Chest/A3/Dark Snake Lv. 3"
+                    },
+                    {
+                        "ref": "Maya Road/B2/Chest/B5/Prism Lv.4"
+                    },
+                    {
+                        "ref": "Maya Road/B2/Chest/B1/Rail Strike Lv.1"
+                    },
+                    {
+                        "ref": "Maya Road/B2/Chest/B1/Gloves"
+                    },
+                    {
+                        "ref": "Maya Road/B1/Shipment/Delta Strike"
+                    },
+                    {
+                        "ref": "Maya Road/B1/Shipment/Mediseal"
+                    },
+                    {
+                        "ref": "Maya Road/B1/Chest/C3/Mediseal Lv.1"
+                    },
+                    {
+                        "ref": "Maya Road/B1/Chest/C1/Delta Strike Lv.1"
+                    },
+                    {
+                        "ref": "Maya Road/Tame/Airror"
+                    },
+                    {
+                        "ref": "Maya Road/Tame/Blackbird"
+                    },
+                    {
+                        "ref": "Maya Road/Tame/Boss - Fiergaenger"
+                    },
+                    {
+                        "ref": "Maya Road/Tame/Green"
+                    },
+                    {
+                        "ref": "Maya Road/Tame/Hammer Troll"
+                    },
+                    {
+                        "ref": "Maya Road/Tame/Heracles"
+                    },
+                    {
+                        "ref": "Maya Road/Tame/Hornet Queen"
+                    },
+                    {
+                        "ref": "Maya Road/Tame/Planchoa"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Autumn Road",
+                        "x": 226,
+                        "y": 376,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Delirium Lava Ruins",
+                "chest_unopened_img": "/images/items/area_closed.png",
+                "chest_opened_img": "/images/items/area_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Delirium Lava Ruins/Shipment/Boss - Rafflesia Petal"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Shipment/Bull's Horn"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Shipment/Fire Crystal"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Shipment/Giant's Nail"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Shipment/Quality Cloth"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Shipment/Scorpion Tail"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Shipment/Red Grass"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Shipment/Ruby"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/F1/Shipment/Big Fire"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/F1/Shipment/Bonus Concerto"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/F1/Shipment/Rush Punch"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/F1/Chest/B4/Healing Potion x3 + Rush Punch lvl.1"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/F1/Chest/C6/Bonus Concerto Lv.1"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/F1/Chest/D1/Trident"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/F1/Chest/B2/Healing Potion x4"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/F2/Shipment/Cure All"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/F2/Shipment/Light Barrier"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/F2/Chest/G2/Recovery Potion x3 + Cheese Bread"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/F2/Chest/H5/Silver Boots"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/F2/Chest/H1/Light Barrier Lv.2"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/F2/Chest/F1/Big Fire"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/F2/Chest/D1/Cure All Lv.1"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/F2/Chest/I1/Gold x2 + Silver x2"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Tame/Buffaloo"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Tame/Flower Lion"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Tame/Gangster Goblin"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Tame/Goblin Pirate"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Tame/Ignis"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Tame/Scorpion"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Tame/Tomato Ghost"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Tame/Troll"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Autumn Road",
+                        "x": 385,
+                        "y": 264,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Revival Cave",
+                "chest_unopened_img": "/images/items/area_closed.png",
+                "chest_opened_img": "/images/items/area_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Revival Cave/Shipment/Boss - Dragon Bones"
+                    },
+                    {
+                        "ref": "Revival Cave/Shipment/Ayngondaia Lawn"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Autumn Road",
+                        "x": 254,
+                        "y": 269,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Leon Karnak",
+                "chest_unopened_img": "/images/items/area_closed.png",
+                "chest_opened_img": "/images/items/area_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Leon Karnak/Shipment/Boss - Crystal Skull"
+                    },
+                    {
+                        "ref": "Leon Karnak/Shipment/Boss - Grimoire Scale"
+                    },
+                    {
+                        "ref": "Leon Karnak/Shipment/Boss - Left Rock Shard"
+                    },
+                    {
+                        "ref": "Leon Karnak/Shipment/Boss - Right Rock Shard"
+                    },
+                    {
+                        "ref": "Leon Karnak/Shipment/10-Fold Steel"
+                    },
+                    {
+                        "ref": "Leon Karnak/Shipment/Devil Horn"
+                    },
+                    {
+                        "ref": "Leon Karnak/Shipment/Double Steel"
+                    },
+                    {
+                        "ref": "Leon Karnak/Shipment/Light Crystal"
+                    },
+                    {
+                        "ref": "Leon Karnak/Shipment/Malm Claw"
+                    },
+                    {
+                        "ref": "Leon Karnak/Shipment/Proof of Rank"
+                    },
+                    {
+                        "ref": "Leon Karnak/Shipment/Warrior's Proof"
+                    },
+                    {
+                        "ref": "Leon Karnak/Shipment/Big Crystal"
+                    },
+                    {
+                        "ref": "Leon Karnak/Shipment/Orichalcum"
+                    },
+                    {
+                        "ref": "Leon Karnak/Shipment/Darkness"
+                    },
+                    {
+                        "ref": "Leon Karnak/Shipment/Hurricane"
+                    },
+                    {
+                        "ref": "Leon Karnak/Shipment/Wind Slash"
+                    },
+                    {
+                        "ref": "Leon Karnak/Chest/F6/Hurricane Lv.5"
+                    },
+                    {
+                        "ref": "Leon Karnak/Chest/F6/Devil Horn x2 + Platinum"
+                    },
+                    {
+                        "ref": "Leon Karnak/Chest/G2/3x Vital Gummi + Lamellar Vest"
+                    },
+                    {
+                        "ref": "Leon Karnak/Chest/F2/Salted Taimen Recipe"
+                    },
+                    {
+                        "ref": "Leon Karnak/Chest/D2/Darkness Lv.5"
+                    },
+                    {
+                        "ref": "Leon Karnak/Chest/B1/Blessed Hoe Recipe + Legendary Sickle Recipe"
+                    },
+                    {
+                        "ref": "Leon Karnak/Chest/A2/Wind Slash Lv. 7"
+                    },
+                    {
+                        "ref": "Leon Karnak/Chest/B3/Sunspot"
+                    },
+                    {
+                        "ref": "Leon Karnak/Tame/Arch-Daemon"
+                    },
+                    {
+                        "ref": "Leon Karnak/Tame/Captain Goblin"
+                    },
+                    {
+                        "ref": "Leon Karnak/Tame/Goblin Don"
+                    },
+                    {
+                        "ref": "Leon Karnak/Tame/Boss - Grimoire 2"
+                    },
+                    {
+                        "ref": "Leon Karnak/Tame/Little Emperor"
+                    },
+                    {
+                        "ref": "Leon Karnak/Tame/Malm Tiger"
+                    },
+                    {
+                        "ref": "Leon Karnak/Tame/Minotaur King"
+                    },
+                    {
+                        "ref": "Leon Karnak/Tame/Nappie"
+                    },
+                    {
+                        "ref": "Leon Karnak/Tame/Boss - Sarcophagus"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Autumn Road",
+                        "x": 355,
+                        "y": 183,
                         "size": 6
                     }
                 ]

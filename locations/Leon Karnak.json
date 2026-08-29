@@ -10,8 +10,8 @@
         "children": [
             {
                 "name": "Shipment",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/ship_closed.png",
+                "chest_opened_img": "/images/items/ship_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -78,7 +78,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Warriors Proof",
+                        "name": "Warrior's Proof",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -117,9 +117,10 @@
                 "map_locations": [
                     {
                         "map": "Leon Karnak",
-                        "x": 2323,
-                        "y": 2253,
-                        "size": 6
+                        "x": 34,
+                        "y": 34,
+                        "size": 6,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -131,69 +132,194 @@
                 "access_rules": [
                     " "
                 ],
-                "sections": [
+                "children": [
                     {
-                        "name": "F6 - Hurricane Lv.5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "F6",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Hurricane Lv.5",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Devil Horn x2 + Platinum",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Leon Karnak",
+                                "x": 381,
+                                "y": 350,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "F6 - Devil Horn x2 + Platinum",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "G2",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "3x Vital Gummi + Lamellar Vest",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Leon Karnak",
+                                "x": 299,
+                                "y": 392,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "G2 - 3x Vital Gummi + Lamellar Vest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "F2",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Salted Taimen Recipe",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Leon Karnak",
+                                "x": 330,
+                                "y": 317,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "F2 - Salted Taimen Recipe",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "D2",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Darkness Lv.5",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Leon Karnak",
+                                "x": 333,
+                                "y": 225,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "D2 - Darkness Lv.5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "B1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Blessed Hoe Recipe + Legendary Sickle Recipe",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Leon Karnak",
+                                "x": 232,
+                                "y": 126,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "B1 - Blessed Hoe Recipe + Legendary Sickle Recipe",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "A2",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Wind Slash Lv. 7",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Leon Karnak",
+                                "x": 349,
+                                "y": 122,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "A2 - Wind Slash Lv. 7",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "B3 - Sunspot",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Leon Karnak",
-                        "x": 413,
-                        "y": 2472,
-                        "size": 6
+                        "name": "B3",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Sunspot",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Leon Karnak",
+                                "x": 366,
+                                "y": 153,
+                                "size": 6
+                            }
+                        ]
                     }
                 ]
             },
             {
                 "name": "Tame",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -257,8 +383,271 @@
                 "map_locations": [
                     {
                         "map": "Leon Karnak",
-                        "x": 2275,
-                        "y": 575,
+                        "x": 34,
+                        "y": 56,
+                        "size": 6,
+                        "shape": "trapezoid"
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana",
+                "chest_unopened_img": "/images/items/area_closed.png",
+                "chest_opened_img": "/images/items/area_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Rune Prana/F2/Shipment/Boss - Ammonite"
+                    },
+                    {
+                        "ref": "Rune Prana/F2/Shipment/Poison King"
+                    },
+                    {
+                        "ref": "Rune Prana/F2/Shipment/Yellow Feather"
+                    },
+                    {
+                        "ref": "Rune Prana/F2/Chest/D4/Magical Potion x2 + The Protein"
+                    },
+                    {
+                        "ref": "Rune Prana/F2/Chest/B3/Anette's Necklace Recipe"
+                    },
+                    {
+                        "ref": "Rune Prana/F2/Chest/B3/Greenifier+ x4"
+                    },
+                    {
+                        "ref": "Rune Prana/F2/Chest/D1/Double Kick Lv.8"
+                    },
+                    {
+                        "ref": "Rune Prana/F2/Tame/King Bee"
+                    },
+                    {
+                        "ref": "Rune Prana/F2/Tame/Boss - Octopirate 2"
+                    },
+                    {
+                        "ref": "Rune Prana/F4/Shipment/Boss - Blue Lion Fur"
+                    },
+                    {
+                        "ref": "Rune Prana/F4/Shipment/Boss - Red Lion Fur"
+                    },
+                    {
+                        "ref": "Rune Prana/F4/Shipment/Big Giant's Nail"
+                    },
+                    {
+                        "ref": "Rune Prana/F4/Shipment/Crimson Scale"
+                    },
+                    {
+                        "ref": "Rune Prana/F4/Shipment/Queen's Jaw"
+                    },
+                    {
+                        "ref": "Rune Prana/F4/Shipment/Dragonic Stone"
+                    },
+                    {
+                        "ref": "Rune Prana/F4/Chest/D4/Dry Curry Recipe"
+                    },
+                    {
+                        "ref": "Rune Prana/F4/Chest/A2/Pineapple Juice Recipe + Magical Potion x2 + Orichalcum + Leveliser"
+                    },
+                    {
+                        "ref": "Rune Prana/F4/Tame/Ant Queen"
+                    },
+                    {
+                        "ref": "Rune Prana/F4/Tame/Boss - Hinoe"
+                    },
+                    {
+                        "ref": "Rune Prana/F4/Tame/Boss - Kinoto"
+                    },
+                    {
+                        "ref": "Rune Prana/F4/Tame/Leoplicant"
+                    },
+                    {
+                        "ref": "Rune Prana/F4/Tame/Red Dragon"
+                    },
+                    {
+                        "ref": "Rune Prana/F6/Shipment/Boss - Broken Ice Wall"
+                    },
+                    {
+                        "ref": "Rune Prana/F6/Shipment/Blue Scale"
+                    },
+                    {
+                        "ref": "Rune Prana/F6/Shipment/Glitter Scale"
+                    },
+                    {
+                        "ref": "Rune Prana/F6/Shipment/Golem Spirit Stone"
+                    },
+                    {
+                        "ref": "Rune Prana/F6/Shipment/Love Scale"
+                    },
+                    {
+                        "ref": "Rune Prana/F6/Chest/B4/Fireball Lv.8"
+                    },
+                    {
+                        "ref": "Rune Prana/F6/Chest/D1/Gyoza Recipe"
+                    },
+                    {
+                        "ref": "Rune Prana/F6/Chest/A3/Fluffy Scarf Recipe"
+                    },
+                    {
+                        "ref": "Rune Prana/F6/Tame/Blue Dragon"
+                    },
+                    {
+                        "ref": "Rune Prana/F6/Tame/Boss - Death Wall"
+                    },
+                    {
+                        "ref": "Rune Prana/F6/Tame/Elemental Emperor"
+                    },
+                    {
+                        "ref": "Rune Prana/F6/Tame/Pink Dragon"
+                    },
+                    {
+                        "ref": "Rune Prana/F6/Tame/Yellow Dragon"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Shipment/Boss - Chest Hair"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Shipment/Boss - Chimera Tail"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Shipment/Boss - Moving Branch"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Shipment/Boss - Rune Sphere Shard"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Shipment/Boss - Tablet of Truth"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Shipment/Boss - Throne of the Empire"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Shipment/Ancient Orc Cloth"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Shipment/Black Scale"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Chest/G1/Art of Attack Recipe + Art of Defense Recipe + Art of Magic Recipe"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Chest/G1/Gae Bolg Recipe + Kongo Recipe"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Chest/E7/Knight Boots Recipe"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Chest/E7/Dragon Slayer Recipe + Balmung Recipe"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Chest/B6/Crown Recipe"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Chest/B6/Magic Broom Recipe + Hand of God Recipe"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Chest/A1/Royal Garter Recipe"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Chest/A1/Executioner Recipe + Rune Edge Recipe"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Chest/E1/Dragonic Stone x2"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Tame/Black Dragon"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Tame/Boss - Chimera 2"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Tame/Boss - Dead Tree 2"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Tame/Boss - Emerald (Boss)"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Tame/Boss - G Golem"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Tame/Boss - Greater Demon 2"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Tame/Boss - Marin"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Tame/Boss - Olive"
+                    },
+                    {
+                        "ref": "Rune Prana/F7/Tame/Boss - Rouge"
+                    },
+                    {
+                        "ref": "Rune Prana/F1/Shipment/Boss - Electro Crystal"
+                    },
+                    {
+                        "ref": "Rune Prana/F1/Shipment/Dragon Scale"
+                    },
+                    {
+                        "ref": "Rune Prana/F1/Shipment/Quality Worn Cloth"
+                    },
+                    {
+                        "ref": "Rune Prana/F1/Tame/Boss - Bane Dragon"
+                    },
+                    {
+                        "ref": "Rune Prana/F1/Tame/Flare Mage"
+                    },
+                    {
+                        "ref": "Rune Prana/F1/Tame/Green Dragon"
+                    },
+                    {
+                        "ref": "Rune Prana/F1/Tame/Onionger"
+                    },
+                    {
+                        "ref": "Rune Prana/F5/Shipment/Boss - Melody Bottle"
+                    },
+                    {
+                        "ref": "Rune Prana/F5/Shipment/Dangerous Scissors"
+                    },
+                    {
+                        "ref": "Rune Prana/F5/Chest/C4/Mediseal Lv.10"
+                    },
+                    {
+                        "ref": "Rune Prana/F5/Chest/A1/Grilled G. Snapper Recipe"
+                    },
+                    {
+                        "ref": "Rune Prana/F5/Tame/Heaven's Scissors"
+                    },
+                    {
+                        "ref": "Rune Prana/F5/Tame/Ice Wizard"
+                    },
+                    {
+                        "ref": "Rune Prana/F5/Tame/Boss - Siren"
+                    },
+                    {
+                        "ref": "Rune Prana/F3/Shipment/Pirate's Armor"
+                    },
+                    {
+                        "ref": "Rune Prana/F3/Shipment/Turnip's Miracle"
+                    },
+                    {
+                        "ref": "Rune Prana/F3/Tame/Boss - Crystal Mammoth 2"
+                    },
+                    {
+                        "ref": "Rune Prana/F3/Tame/High Ogre Viking"
+                    },
+                    {
+                        "ref": "Rune Prana/F3/Tame/High Orc Viking"
+                    },
+                    {
+                        "ref": "Rune Prana/F3/Tame/Turnip Ghost"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 332,
+                        "y": 425,
                         "size": 6
                     }
                 ]

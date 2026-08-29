@@ -10,8 +10,8 @@
         "children": [
             {
                 "name": "Shipment",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/ship_closed.png",
+                "chest_opened_img": "/images/items/ship_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -44,17 +44,18 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Anywhere (Rare)",
-                        "x": 485,
-                        "y": 573,
-                        "size": 6
+                        "map": "Overworld",
+                        "x": 612,
+                        "y": 100,
+                        "size": 6,
+                        "shape": "diamond"
                     }
                 ]
             },
             {
                 "name": "Tame",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -75,10 +76,11 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Anywhere (Rare)",
-                        "x": 1817,
-                        "y": 2116,
-                        "size": 6
+                        "map": "Overworld",
+                        "x": 612,
+                        "y": 128,
+                        "size": 6,
+                        "shape": "trapezoid"
                     }
                 ]
             }

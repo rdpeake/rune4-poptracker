@@ -10,8 +10,8 @@
         "children": [
             {
                 "name": "Shipment",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/ship_closed.png",
+                "chest_opened_img": "/images/items/ship_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -702,13 +702,13 @@
                         "item_count": 1
                     },
                     {
-                        "name": "No Rot xcexb1",
+                        "name": "No Rot α",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
-                        "name": "No Rot xcexb2",
+                        "name": "No Rot β",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1029,9 +1029,10 @@
                 "map_locations": [
                     {
                         "map": "Selphia",
-                        "x": 2205,
-                        "y": 1790,
-                        "size": 6
+                        "x": 34,
+                        "y": 34,
+                        "size": 6,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -1042,83 +1043,6 @@
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
-                ],
-                "children": [
-                    {
-                        "name": "Raise",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Shipment rates!",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Selphia",
-                                "x": 1141,
-                                "y": 415,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Raise total",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Shipment fee!",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Selphia",
-                                "x": 133,
-                                "y": 412,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Make a",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Shipment!",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Selphia",
-                                "x": 543,
-                                "y": 1909,
-                                "size": 6
-                            }
-                        ]
-                    }
                 ],
                 "sections": [
                     {
@@ -1660,13 +1584,31 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Raise shipment rates!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Raise total shipment fee!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Make a shipment!",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Selphia",
-                        "x": 2246,
-                        "y": 618,
+                        "x": 600,
+                        "y": 44,
                         "size": 6
                     }
                 ]
@@ -1753,8 +1695,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 1686,
-                                "y": 70,
+                                "x": 600,
+                                "y": 66,
                                 "size": 6
                             }
                         ]
@@ -1832,8 +1774,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 2042,
-                                "y": 2115,
+                                "x": 600,
+                                "y": 88,
                                 "size": 6
                             }
                         ]
@@ -1911,8 +1853,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 2098,
-                                "y": 2042,
+                                "x": 600,
+                                "y": 110,
                                 "size": 6
                             }
                         ]
@@ -1990,8 +1932,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 700,
-                                "y": 1537,
+                                "x": 600,
+                                "y": 132,
                                 "size": 6
                             }
                         ]
@@ -2069,8 +2011,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 1121,
-                                "y": 2118,
+                                "x": 600,
+                                "y": 154,
                                 "size": 6
                             }
                         ]
@@ -2148,8 +2090,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 1711,
-                                "y": 365,
+                                "x": 600,
+                                "y": 176,
                                 "size": 6
                             }
                         ]
@@ -2227,8 +2169,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 1525,
-                                "y": 1834,
+                                "x": 600,
+                                "y": 198,
                                 "size": 6
                             }
                         ]
@@ -2306,8 +2248,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 872,
-                                "y": 134,
+                                "x": 600,
+                                "y": 220,
                                 "size": 6
                             }
                         ]
@@ -2385,8 +2327,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 1236,
-                                "y": 1872,
+                                "x": 600,
+                                "y": 242,
                                 "size": 6
                             }
                         ]
@@ -2464,8 +2406,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 1817,
-                                "y": 483,
+                                "x": 600,
+                                "y": 264,
                                 "size": 6
                             }
                         ]
@@ -2543,8 +2485,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 560,
-                                "y": 590,
+                                "x": 600,
+                                "y": 286,
                                 "size": 6
                             }
                         ]
@@ -2622,8 +2564,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 991,
-                                "y": 2268,
+                                "x": 632,
+                                "y": 44,
                                 "size": 6
                             }
                         ]
@@ -2701,8 +2643,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 1479,
-                                "y": 2171,
+                                "x": 632,
+                                "y": 66,
                                 "size": 6
                             }
                         ]
@@ -2780,8 +2722,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 1994,
-                                "y": 1890,
+                                "x": 632,
+                                "y": 88,
                                 "size": 6
                             }
                         ]
@@ -2859,8 +2801,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 454,
-                                "y": 1554,
+                                "x": 632,
+                                "y": 110,
                                 "size": 6
                             }
                         ]
@@ -2938,8 +2880,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 416,
-                                "y": 1399,
+                                "x": 632,
+                                "y": 132,
                                 "size": 6
                             }
                         ]
@@ -3017,8 +2959,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 369,
-                                "y": 2444,
+                                "x": 632,
+                                "y": 154,
                                 "size": 6
                             }
                         ]
@@ -3096,8 +3038,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 1010,
-                                "y": 1843,
+                                "x": 632,
+                                "y": 176,
                                 "size": 6
                             }
                         ]
@@ -3175,8 +3117,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 1720,
-                                "y": 713,
+                                "x": 632,
+                                "y": 198,
                                 "size": 6
                             }
                         ]
@@ -3254,8 +3196,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 212,
-                                "y": 2064,
+                                "x": 632,
+                                "y": 220,
                                 "size": 6
                             }
                         ]
@@ -3333,8 +3275,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia",
-                                "x": 1148,
-                                "y": 644,
+                                "x": 632,
+                                "y": 242,
                                 "size": 6
                             }
                         ]
@@ -3432,8 +3374,311 @@
                 "map_locations": [
                     {
                         "map": "Selphia",
-                        "x": 943,
-                        "y": 1417,
+                        "x": 632,
+                        "y": 264,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Floating Empire",
+                "chest_unopened_img": "/images/items/area_closed.png",
+                "chest_opened_img": "/images/items/area_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Floating Empire/West/Shipment/Boss - Golem Tablet"
+                    },
+                    {
+                        "ref": "Floating Empire/West/Shipment/Delta Laser"
+                    },
+                    {
+                        "ref": "Floating Empire/West/Chest/F4/Neko Damashi Lv.5"
+                    },
+                    {
+                        "ref": "Floating Empire/West/Chest/A4/Magical Potion x4"
+                    },
+                    {
+                        "ref": "Floating Empire/West/Chest/A4/Magic Ring"
+                    },
+                    {
+                        "ref": "Floating Empire/West/Chest/G1/Platinum"
+                    },
+                    {
+                        "ref": "Floating Empire/West/Chest/G4/Delta Laser Lv.5"
+                    },
+                    {
+                        "ref": "Floating Empire/West/Chest/G4/Cyclone Lv.1"
+                    },
+                    {
+                        "ref": "Floating Empire/West/Chest/F1/18000G"
+                    },
+                    {
+                        "ref": "Floating Empire/West/Chest/B1/Stay Up ring"
+                    },
+                    {
+                        "ref": "Floating Empire/South/Shipment/Boss - MTGU Plate"
+                    },
+                    {
+                        "ref": "Floating Empire/South/Shipment/Penetrate Sonic"
+                    },
+                    {
+                        "ref": "Floating Empire/South/Shipment/Tornado Swing"
+                    },
+                    {
+                        "ref": "Floating Empire/South/Chest/E1/Invisible Stone"
+                    },
+                    {
+                        "ref": "Floating Empire/South/Chest/A1/Penetrate Sonic Lv.5"
+                    },
+                    {
+                        "ref": "Floating Empire/South/Chest/A3/Tornado Swing Lv.1"
+                    },
+                    {
+                        "ref": "Floating Empire/South/Chest/C3/Platinum"
+                    },
+                    {
+                        "ref": "Floating Empire/South/Chest/E7/Green Core"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Blk. Tortoise Shell"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Cheap Propeller"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Dragon Fang"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Fairy Elixir"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Glistening Blade"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Golem Stone"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Great Hammer Shard"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Love Crystal"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Magic Claw"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Pretty Thread"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Quality Propeller"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Thick Stick"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Thunderbird Feather"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Golden Turnip"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Golden Tyrant Turnip"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Egg (L)"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Milk (L)"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Platinum"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Fur (L)"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Gold Turnip Seeds"
+                    },
+                    {
+                        "ref": "Floating Empire/Shipment/Neko Damashi"
+                    },
+                    {
+                        "ref": "Floating Empire/East/Shipment/Boss - Rusty Screw"
+                    },
+                    {
+                        "ref": "Floating Empire/East/Shipment/Boss - Shiny Screw"
+                    },
+                    {
+                        "ref": "Floating Empire/East/Shipment/Avenger Rock"
+                    },
+                    {
+                        "ref": "Floating Empire/East/Shipment/Double Kick"
+                    },
+                    {
+                        "ref": "Floating Empire/East/Shipment/Grand Impact"
+                    },
+                    {
+                        "ref": "Floating Empire/East/Shipment/Round Break"
+                    },
+                    {
+                        "ref": "Floating Empire/East/Chest/D3/Platinum"
+                    },
+                    {
+                        "ref": "Floating Empire/East/Chest/B2/Curry Udon"
+                    },
+                    {
+                        "ref": "Floating Empire/East/Chest/F2/Double Steel"
+                    },
+                    {
+                        "ref": "Floating Empire/East/Chest/E5/Grand Impact Lv.1"
+                    },
+                    {
+                        "ref": "Floating Empire/East/Chest/F3/Small Crystal"
+                    },
+                    {
+                        "ref": "Floating Empire/East/Chest/C1/Avenger Rock Lv.5"
+                    },
+                    {
+                        "ref": "Floating Empire/East/Chest/C1/Round Break Lv.1"
+                    },
+                    {
+                        "ref": "Floating Empire/East/Chest/C6/Gold Cabbage Seed + Gold Pumpkin Seed + Gold Potato Seed"
+                    },
+                    {
+                        "ref": "Floating Empire/East/Chest/C6/Miracle Axe Recipe"
+                    },
+                    {
+                        "ref": "Floating Empire/Tame/Blood Panther"
+                    },
+                    {
+                        "ref": "Floating Empire/Tame/Dark Fairy"
+                    },
+                    {
+                        "ref": "Floating Empire/Tame/Faust"
+                    },
+                    {
+                        "ref": "Floating Empire/Tame/Fortoise"
+                    },
+                    {
+                        "ref": "Floating Empire/Tame/Gigantes"
+                    },
+                    {
+                        "ref": "Floating Empire/Tame/Golem"
+                    },
+                    {
+                        "ref": "Floating Empire/Tame/Hell Spider"
+                    },
+                    {
+                        "ref": "Floating Empire/Tame/Little Dragon"
+                    },
+                    {
+                        "ref": "Floating Empire/Tame/Master Giant"
+                    },
+                    {
+                        "ref": "Floating Empire/Tame/Pepper Ghost"
+                    },
+                    {
+                        "ref": "Floating Empire/Tame/Thunderbird"
+                    },
+                    {
+                        "ref": "Floating Empire/West Tame/Dark Slime"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia",
+                        "x": 367,
+                        "y": 140,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Sharance Maze",
+                "chest_unopened_img": "/images/items/area_closed.png",
+                "chest_opened_img": "/images/items/area_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sharance Maze/Deepwater Shrine Lv 10/Shipment/Boss - Dragon Fin"
+                    },
+                    {
+                        "ref": "Sharance Maze/Deepwater Shrine Lv 10/Shipment/Boss - Legendary Scale"
+                    },
+                    {
+                        "ref": "Sharance Maze/Shipment/Boss - Earthwyrm Scale"
+                    },
+                    {
+                        "ref": "Sharance Maze/Shipment/Boss - Firewyrm Scale"
+                    },
+                    {
+                        "ref": "Sharance Maze/Shipment/Accessory Bread+"
+                    },
+                    {
+                        "ref": "Sharance Maze/Shipment/Cooking Bread+"
+                    },
+                    {
+                        "ref": "Sharance Maze/Shipment/Farming Bread+"
+                    },
+                    {
+                        "ref": "Sharance Maze/Shipment/Medicine Bread+"
+                    },
+                    {
+                        "ref": "Sharance Maze/Shipment/Weapon Bread+"
+                    },
+                    {
+                        "ref": "Sharance Maze/Dragon Ruins Level 12/Shipment/Boss - Wind Dragon Tooth"
+                    },
+                    {
+                        "ref": "Sharance Maze/Deepwater Shrine Lv 10 Tame/Boss - Aquaticus"
+                    },
+                    {
+                        "ref": "Sharance Maze/Tame/Boss - Fiersome"
+                    },
+                    {
+                        "ref": "Sharance Maze/Tame/Boss - Terrable"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia",
+                        "x": 345,
+                        "y": 258,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Field Dungeon",
+                "chest_unopened_img": "/images/items/area_closed.png",
+                "chest_opened_img": "/images/items/area_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Field Dungeon/Tame/Boss - Greater Demon"
+                    },
+                    {
+                        "ref": "Field Dungeon/Tame/Boss - Grimoire"
+                    },
+                    {
+                        "ref": "Field Dungeon/Tame/Boss - Octopirate"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia",
+                        "x": 390,
+                        "y": 258,
                         "size": 6
                     }
                 ]

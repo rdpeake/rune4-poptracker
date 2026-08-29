@@ -10,15 +10,15 @@
         "children": [
             {
                 "name": "Shipment",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/ship_closed.png",
+                "chest_opened_img": "/images/items/ship_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
                 "sections": [
                     {
-                        "name": "Boss - Ambrosias Thorns",
+                        "name": "Boss - Ambrosia's Thorns",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -141,9 +141,10 @@
                 "map_locations": [
                     {
                         "map": "Yokmir Forest",
-                        "x": 644,
-                        "y": 329,
-                        "size": 6
+                        "x": 34,
+                        "y": 34,
+                        "size": 6,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -158,8 +159,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -228,10 +229,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Yokmir Forest",
-                                "x": 2070,
-                                "y": 302,
-                                "size": 6
+                                "map": "Yokmir Cave F1",
+                                "x": 34,
+                                "y": 34,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -246,8 +248,8 @@
                         "children": [
                             {
                                 "name": "Shipment",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
+                                "chest_unopened_img": "/images/items/ship_closed.png",
+                                "chest_opened_img": "/images/items/ship_open.png",
                                 "overlay_background": "#000000",
                                 "access_rules": [
                                     " "
@@ -262,10 +264,11 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Yokmir Forest",
-                                        "x": 1436,
-                                        "y": 1671,
-                                        "size": 6
+                                        "map": "Yokmir Cave F3",
+                                        "x": 34,
+                                        "y": 34,
+                                        "size": 6,
+                                        "shape": "diamond"
                                     }
                                 ]
                             },
@@ -277,38 +280,106 @@
                                 "access_rules": [
                                     " "
                                 ],
-                                "sections": [
+                                "children": [
                                     {
-                                        "name": "F2 - Bronze Bracelet + Staff",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
+                                        "name": "E2",
+                                        "chest_unopened_img": "/images/items/close.png",
+                                        "chest_opened_img": "/images/items/open.png",
+                                        "overlay_background": "#000000",
+                                        "access_rules": [
+                                            " "
+                                        ],
+                                        "sections": [
+                                            {
+                                                "name": "Bronze Bracelet + Staff",
+                                                "access_rules": [],
+                                                "visibility_rules": [],
+                                                "item_count": 1
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Yokmir Cave F3",
+                                                "x": 295,
+                                                "y": 380,
+                                                "size": 6
+                                            }
+                                        ]
                                     },
                                     {
-                                        "name": "D4 - Bronze x3 + Silver",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
+                                        "name": "D4",
+                                        "chest_unopened_img": "/images/items/close.png",
+                                        "chest_opened_img": "/images/items/open.png",
+                                        "overlay_background": "#000000",
+                                        "access_rules": [
+                                            " "
+                                        ],
+                                        "sections": [
+                                            {
+                                                "name": "Bronze x3 + Silver",
+                                                "access_rules": [],
+                                                "visibility_rules": [],
+                                                "item_count": 1
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Yokmir Cave F3",
+                                                "x": 470,
+                                                "y": 302,
+                                                "size": 6
+                                            }
+                                        ]
                                     },
                                     {
-                                        "name": "B1 - Yam Seeds x4",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
+                                        "name": "B1",
+                                        "chest_unopened_img": "/images/items/close.png",
+                                        "chest_opened_img": "/images/items/open.png",
+                                        "overlay_background": "#000000",
+                                        "access_rules": [
+                                            " "
+                                        ],
+                                        "sections": [
+                                            {
+                                                "name": "Yam Seeds x4",
+                                                "access_rules": [],
+                                                "visibility_rules": [],
+                                                "item_count": 1
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Yokmir Cave F3",
+                                                "x": 295,
+                                                "y": 152,
+                                                "size": 6
+                                            }
+                                        ]
                                     },
                                     {
-                                        "name": "A1 - Dash Slash Lv.1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Yokmir Forest",
-                                        "x": 1970,
-                                        "y": 275,
-                                        "size": 6
+                                        "name": "A1",
+                                        "chest_unopened_img": "/images/items/close.png",
+                                        "chest_opened_img": "/images/items/open.png",
+                                        "overlay_background": "#000000",
+                                        "access_rules": [
+                                            " "
+                                        ],
+                                        "sections": [
+                                            {
+                                                "name": "Dash Slash Lv.1",
+                                                "access_rules": [],
+                                                "visibility_rules": [],
+                                                "item_count": 1
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Yokmir Cave F3",
+                                                "x": 205,
+                                                "y": 75,
+                                                "size": 6
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -325,8 +396,8 @@
                         "children": [
                             {
                                 "name": "Shipment",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
+                                "chest_unopened_img": "/images/items/ship_closed.png",
+                                "chest_opened_img": "/images/items/ship_open.png",
                                 "overlay_background": "#000000",
                                 "access_rules": [
                                     " "
@@ -341,10 +412,11 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Yokmir Forest",
-                                        "x": 977,
-                                        "y": 219,
-                                        "size": 6
+                                        "map": "Yokmir Cave F2",
+                                        "x": 34,
+                                        "y": 34,
+                                        "size": 6,
+                                        "shape": "diamond"
                                     }
                                 ]
                             },
@@ -356,32 +428,81 @@
                                 "access_rules": [
                                     " "
                                 ],
-                                "sections": [
+                                "children": [
                                     {
-                                        "name": "C2 - Recovery Potion x2 + Para-Gone + Cotton Cloth",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
+                                        "name": "C2",
+                                        "chest_unopened_img": "/images/items/close.png",
+                                        "chest_opened_img": "/images/items/open.png",
+                                        "overlay_background": "#000000",
+                                        "access_rules": [
+                                            " "
+                                        ],
+                                        "sections": [
+                                            {
+                                                "name": "Recovery Potion x2 + Para-Gone + Cotton Cloth",
+                                                "access_rules": [],
+                                                "visibility_rules": [],
+                                                "item_count": 1
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Yokmir Cave F2",
+                                                "x": 290,
+                                                "y": 304,
+                                                "size": 6
+                                            }
+                                        ]
                                     },
                                     {
-                                        "name": "D4 - Sonic Wind Lv.1",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
+                                        "name": "D4",
+                                        "chest_unopened_img": "/images/items/close.png",
+                                        "chest_opened_img": "/images/items/open.png",
+                                        "overlay_background": "#000000",
+                                        "access_rules": [
+                                            " "
+                                        ],
+                                        "sections": [
+                                            {
+                                                "name": "Sonic Wind Lv.1",
+                                                "access_rules": [],
+                                                "visibility_rules": [],
+                                                "item_count": 1
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Yokmir Cave F2",
+                                                "x": 471,
+                                                "y": 380,
+                                                "size": 6
+                                            }
+                                        ]
                                     },
                                     {
-                                        "name": "A1 - Onigiri + Salmon Onigiri",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Yokmir Forest",
-                                        "x": 946,
-                                        "y": 1850,
-                                        "size": 6
+                                        "name": "A1",
+                                        "chest_unopened_img": "/images/items/close.png",
+                                        "chest_opened_img": "/images/items/open.png",
+                                        "overlay_background": "#000000",
+                                        "access_rules": [
+                                            " "
+                                        ],
+                                        "sections": [
+                                            {
+                                                "name": "Onigiri + Salmon Onigiri",
+                                                "access_rules": [],
+                                                "visibility_rules": [],
+                                                "item_count": 1
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Yokmir Cave F2",
+                                                "x": 197,
+                                                "y": 149,
+                                                "size": 6
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -404,32 +525,62 @@
                                 "access_rules": [
                                     " "
                                 ],
-                                "sections": [
+                                "children": [
                                     {
-                                        "name": "A - 3630G",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
+                                        "name": "A",
+                                        "chest_unopened_img": "/images/items/close.png",
+                                        "chest_opened_img": "/images/items/open.png",
+                                        "overlay_background": "#000000",
+                                        "access_rules": [
+                                            " "
+                                        ],
+                                        "sections": [
+                                            {
+                                                "name": "3630G",
+                                                "access_rules": [],
+                                                "visibility_rules": [],
+                                                "item_count": 1
+                                            },
+                                            {
+                                                "name": "Recovery Potion x2 + Porridge",
+                                                "access_rules": [],
+                                                "visibility_rules": [],
+                                                "item_count": 1
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Yokmir Cave F1",
+                                                "x": 211,
+                                                "y": 322,
+                                                "size": 6
+                                            }
+                                        ]
                                     },
                                     {
-                                        "name": "A - Recovery Potion x2 + Porridge",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "E - Para-gone x2 + Antidote Potion x2",
-                                        "access_rules": [],
-                                        "visibility_rules": [],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Yokmir Forest",
-                                        "x": 1642,
-                                        "y": 1001,
-                                        "size": 6
+                                        "name": "E",
+                                        "chest_unopened_img": "/images/items/close.png",
+                                        "chest_opened_img": "/images/items/open.png",
+                                        "overlay_background": "#000000",
+                                        "access_rules": [
+                                            " "
+                                        ],
+                                        "sections": [
+                                            {
+                                                "name": "Para-gone x2 + Antidote Potion x2",
+                                                "access_rules": [],
+                                                "visibility_rules": [],
+                                                "item_count": 1
+                                            }
+                                        ],
+                                        "map_locations": [
+                                            {
+                                                "map": "Yokmir Cave F1",
+                                                "x": 457,
+                                                "y": 252,
+                                                "size": 6
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -437,8 +588,8 @@
                     },
                     {
                         "name": "Tame",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/tame_closed.png",
+                        "chest_opened_img": "/images/items/tame_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -483,10 +634,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Yokmir Forest",
-                                "x": 2346,
-                                "y": 2428,
-                                "size": 6
+                                "map": "Yokmir Cave F1",
+                                "x": 34,
+                                "y": 56,
+                                "size": 6,
+                                "shape": "trapezoid"
                             }
                         ]
                     }
@@ -500,45 +652,113 @@
                 "access_rules": [
                     " "
                 ],
-                "sections": [
+                "children": [
                     {
-                        "name": "C1 - Potion x3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "C1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Potion x3",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Yokmir Forest",
+                                "x": 319,
+                                "y": 323,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "D3 - Leather boot",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "D3",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Leather boot",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Yokmir Forest",
+                                "x": 403,
+                                "y": 326,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "C4 - Turnip Seed x4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "C4",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Turnip Seed x4",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Yokmir Forest",
+                                "x": 469,
+                                "y": 306,
+                                "size": 6
+                            }
+                        ]
                     },
                     {
-                        "name": "D1 - Small Shield",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Yokmir Forest",
-                        "x": 932,
-                        "y": 1891,
-                        "size": 6
+                        "name": "D1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Small Shield",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Yokmir Forest",
+                                "x": 219,
+                                "y": 399,
+                                "size": 6
+                            }
+                        ]
                     }
                 ]
             },
             {
                 "name": "Tame",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -584,8 +804,112 @@
                 "map_locations": [
                     {
                         "map": "Yokmir Forest",
-                        "x": 2190,
-                        "y": 2375,
+                        "x": 34,
+                        "y": 56,
+                        "size": 6,
+                        "shape": "trapezoid"
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Cave",
+                "chest_unopened_img": "/images/items/area_closed.png",
+                "chest_opened_img": "/images/items/area_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Yokmir Forest/Cave/Shipment/Glue"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/Shipment/Gunpowder"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/Shipment/Plant Stem"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/Shipment/Pretty Carapace"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/Shipment/Quality Fur"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/Shipment/Wind Crystal"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/Shipment/Wolf Fang"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/Shipment/Indigo Grass"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/Shipment/Honey"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/Shipment/Emerald"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/F3/Shipment/Dash Slash"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/F3/Chest/E2/Bronze Bracelet + Staff"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/F3/Chest/D4/Bronze x3 + Silver"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/F3/Chest/B1/Yam Seeds x4"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/F3/Chest/A1/Dash Slash Lv.1"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/F2/Shipment/Sonic Wind"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/F2/Chest/C2/Recovery Potion x2 + Para-Gone + Cotton Cloth"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/F2/Chest/D4/Sonic Wind Lv.1"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/F2/Chest/A1/Onigiri + Salmon Onigiri"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/F1/Chest/A/3630G"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/F1/Chest/A/Recovery Potion x2 + Porridge"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/F1/Chest/E/Para-gone x2 + Antidote Potion x2"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/Tame/High Orc"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/Tame/Hornet"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/Tame/Killer Ant"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/Tame/Leaf Ball"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/Tame/Orc Hunter"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Cave/Tame/Silver Wolf"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Forest",
+                        "x": 232,
+                        "y": 303,
                         "size": 6
                     }
                 ]

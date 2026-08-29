@@ -10,8 +10,8 @@
         "children": [
             {
                 "name": "Shipment",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/ship_closed.png",
+                "chest_opened_img": "/images/items/ship_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -30,7 +30,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Anettes Necklace",
+                        "name": "Anette's Necklace",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -312,7 +312,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Four Dragons Vest",
+                        "name": "Four Dragons' Vest",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -408,7 +408,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Heros Proof",
+                        "name": "Hero's Proof",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -534,7 +534,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Mercenarys Cloak",
+                        "name": "Mercenary's Cloak",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -940,14 +940,6 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Crafting",
-                        "x": 533,
-                        "y": 1947,
-                        "size": 6
                     }
                 ]
             }

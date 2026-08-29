@@ -10,8 +10,8 @@
         "children": [
             {
                 "name": "Shipment",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/ship_closed.png",
+                "chest_opened_img": "/images/items/ship_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -36,7 +36,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Blue Giants Glove",
+                        "name": "Blue Giant's Glove",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -116,10 +116,11 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Sechs Territory",
-                        "x": 861,
-                        "y": 2122,
-                        "size": 6
+                        "map": "Sechs Territory 1",
+                        "x": 34,
+                        "y": 34,
+                        "size": 6,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -134,8 +135,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -162,10 +163,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Sechs Territory",
-                                "x": 583,
-                                "y": 236,
-                                "size": 6
+                                "map": "Sechs Territory Cave",
+                                "x": 34,
+                                "y": 34,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -177,32 +179,81 @@
                         "access_rules": [
                             " "
                         ],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "C4 - Mystery Potion x4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "C4",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Mystery Potion x4",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory Cave",
+                                        "x": 465,
+                                        "y": 161,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "D1 - Giga Swing Lv.1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "D1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Giga Swing Lv.1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory Cave",
+                                        "x": 192,
+                                        "y": 163,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "D2 - Rune Crystal",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Sechs Territory",
-                                "x": 2117,
-                                "y": 782,
-                                "size": 6
+                                "name": "D2",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Rune Crystal",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory Cave",
+                                        "x": 186,
+                                        "y": 398,
+                                        "size": 6
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -219,8 +270,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -253,10 +304,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Sechs Territory",
-                                "x": 1288,
-                                "y": 1988,
-                                "size": 6
+                                "map": "Sechs Territory 1",
+                                "x": 34,
+                                "y": 56,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -268,86 +320,287 @@
                         "access_rules": [
                             " "
                         ],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "I2 - Mystery Potion x x3 + Levelizer",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "I2",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Mystery Potion x x3 + Levelizer",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory 1",
+                                        "x": 455,
+                                        "y": 485,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "G3 - Master Cure Lv.1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "G3",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Master Cure Lv.1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory 1",
+                                        "x": 508,
+                                        "y": 382,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "D5 - Water Crystal x4 + Big Crystal",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "D5",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Water Crystal x4 + Big Crystal",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory 1",
+                                        "x": 588,
+                                        "y": 218,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "C4 - 8000G",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "C4",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "8000G",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    },
+                                    {
+                                        "name": "Cyclone Lv.1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory 1",
+                                        "x": 508,
+                                        "y": 157,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "C4 - Cyclone Lv.1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "F1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Rapid Move Lv.1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory 1",
+                                        "x": 85,
+                                        "y": 332,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "F1 - Rapid Move Lv.1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "C1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Magical Potion x4",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory 1",
+                                        "x": 192,
+                                        "y": 167,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "C1 - Magical Potion x4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "B1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Miracle Axe Recipe",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory 1",
+                                        "x": 188,
+                                        "y": 107,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "B1 - Miracle Axe Recipe",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "E5",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Star Pendant",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory 1",
+                                        "x": 571,
+                                        "y": 277,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "E5 - Star Pendant",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "F8",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Steel Heart Lv.1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory 1",
+                                        "x": 574,
+                                        "y": 327,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "F8 - Steel Heart Lv.1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "B7",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Ice Cream",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory 1",
+                                        "x": 568,
+                                        "y": 100,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "B7 - Ice Cream",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "E3 - Throwing Ring",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Sechs Territory",
-                                "x": 1366,
-                                "y": 349,
-                                "size": 6
+                                "name": "E3",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Throwing Ring",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory 1",
+                                        "x": 432,
+                                        "y": 270,
+                                        "size": 6
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -364,8 +617,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -392,10 +645,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Sechs Territory",
-                                "x": 2408,
-                                "y": 1694,
-                                "size": 6
+                                "map": "Sechs Territory 2",
+                                "x": 34,
+                                "y": 34,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -407,44 +661,112 @@
                         "access_rules": [
                             " "
                         ],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "E3 - Straight Punch Lv.1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "E3",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Straight Punch Lv.1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory 2",
+                                        "x": 551,
+                                        "y": 356,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "D1 - Mystery Potion x4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "D1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Mystery Potion x4",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory 2",
+                                        "x": 356,
+                                        "y": 311,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "C6 - Twin Attack Lv.1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "C6",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Twin Attack Lv.1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    },
+                                    {
+                                        "name": "Explosion Lv.2",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory 2",
+                                        "x": 473,
+                                        "y": 245,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "C6 - Explosion Lv.2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "C1 - Platinum Hammer Recipe + Dew Pendant",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Sechs Territory",
-                                "x": 503,
-                                "y": 1293,
-                                "size": 6
+                                "name": "C1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Platinum Hammer Recipe + Dew Pendant",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Sechs Territory 2",
+                                        "x": 192,
+                                        "y": 266,
+                                        "size": 6
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -452,8 +774,8 @@
             },
             {
                 "name": "Tame",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -552,10 +874,11 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Sechs Territory",
-                        "x": 2176,
-                        "y": 1789,
-                        "size": 6
+                        "map": "Sechs Territory 1",
+                        "x": 34,
+                        "y": 78,
+                        "size": 6,
+                        "shape": "trapezoid"
                     }
                 ]
             }

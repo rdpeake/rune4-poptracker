@@ -1,65 +1,65 @@
 [
     {
         "name": "Cluck Cluck Nest",
-        "children": [
-            {
-                "name": "Shipment",
-                "sections": [
-                    {
-                        "name": "nt",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Cluck Cluck Nest",
-                        "x": 121,
-                        "y": 205,
-                        "size": 10,
-                        "shape": "trapezoid"
-                    }
-                ],
-                "access_rules": [
-                    " "
-                ],
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000"
-            },
-            {
-                "name": "Tame",
-                "sections": [
-                    {
-                        "name": "nt",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Cluck Cluck Nest",
-                        "x": 123,
-                        "y": 122,
-                        "size": 10,
-                        "shape": "diamond"
-                    }
-                ],
-                "access_rules": [
-                    " "
-                ],
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000"
-            }
-        ],
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
         "access_rules": [
             " "
         ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
+        "children": [
+            {
+                "name": "Shipment",
+                "chest_unopened_img": "/images/items/ship_closed.png",
+                "chest_opened_img": "/images/items/ship_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Big Bird's Comb",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Cluck Cluck Nest",
+                        "x": 34,
+                        "y": 34,
+                        "size": 6,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Tame",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mamadoodle",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Cluck Cluck Nest",
+                        "x": 34,
+                        "y": 56,
+                        "size": 6,
+                        "shape": "trapezoid"
+                    }
+                ]
+            }
+        ]
     }
 ]

@@ -10,8 +10,8 @@
         "children": [
             {
                 "name": "Shipment",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/ship_closed.png",
+                "chest_opened_img": "/images/items/ship_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -57,9 +57,10 @@
                 "map_locations": [
                     {
                         "map": "Demons Den",
-                        "x": 704,
-                        "y": 2379,
-                        "size": 6
+                        "x": 34,
+                        "y": 34,
+                        "size": 6,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -71,27 +72,38 @@
                 "access_rules": [
                     " "
                 ],
-                "sections": [
+                "children": [
                     {
-                        "name": "A1 - Healing Potion x4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Demons Den",
-                        "x": 850,
-                        "y": 2209,
-                        "size": 6
+                        "name": "A1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Healing Potion x4",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Demons Den",
+                                "x": 146,
+                                "y": 136,
+                                "size": 6
+                            }
+                        ]
                     }
                 ]
             },
             {
                 "name": "Tame",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -107,9 +119,10 @@
                 "map_locations": [
                     {
                         "map": "Demons Den",
-                        "x": 2050,
-                        "y": 1014,
-                        "size": 6
+                        "x": 34,
+                        "y": 56,
+                        "size": 6,
+                        "shape": "trapezoid"
                     }
                 ]
             }

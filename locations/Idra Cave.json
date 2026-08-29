@@ -10,8 +10,8 @@
         "children": [
             {
                 "name": "Shipment",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/ship_closed.png",
+                "chest_opened_img": "/images/items/ship_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -99,9 +99,10 @@
                 "map_locations": [
                     {
                         "map": "Idra Cave",
-                        "x": 220,
-                        "y": 956,
-                        "size": 6
+                        "x": 34,
+                        "y": 34,
+                        "size": 6,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -116,8 +117,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -138,10 +139,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Idra Cave",
-                                "x": 158,
-                                "y": 2252,
-                                "size": 6
+                                "map": "Idra Cave B2",
+                                "x": 34,
+                                "y": 34,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -153,50 +155,156 @@
                         "access_rules": [
                             " "
                         ],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "F3 - Wind Edge",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "F3",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Wind Edge",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Idra Cave B2",
+                                        "x": 353,
+                                        "y": 454,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "F2 - Mystery Potion x4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "F2",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Mystery Potion x4",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Idra Cave B2",
+                                        "x": 262,
+                                        "y": 454,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "D1 - Double Sonic Lv.3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "D1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Double Sonic Lv.3",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Idra Cave B2",
+                                        "x": 182,
+                                        "y": 298,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "D3 - Gold Bracelet",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "D3",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Gold Bracelet",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Idra Cave B2",
+                                        "x": 357,
+                                        "y": 296,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "E5 - Choco Cookie",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "E5",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Choco Cookie",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Idra Cave B2",
+                                        "x": 521,
+                                        "y": 375,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "E4 - Earth Spike Lv.3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Idra Cave",
-                                "x": 1120,
-                                "y": 827,
-                                "size": 6
+                                "name": "E4",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Earth Spike Lv.3",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Idra Cave B2",
+                                        "x": 435,
+                                        "y": 375,
+                                        "size": 6
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -213,8 +321,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -235,10 +343,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Idra Cave",
-                                "x": 907,
-                                "y": 1483,
-                                "size": 6
+                                "map": "Idra Cave B1",
+                                "x": 34,
+                                "y": 34,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -250,56 +359,162 @@
                         "access_rules": [
                             " "
                         ],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "C1 - Empty...",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "C1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Empty...?",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    },
+                                    {
+                                        "name": "Mind Thrust Lv. 1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Idra Cave B1",
+                                        "x": 69,
+                                        "y": 340,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "D3 - Mediparalyze Lv.1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "D3",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Mediparalyze Lv.1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Idra Cave B2",
+                                        "x": 357,
+                                        "y": 296,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "C1 - Mind Thrust Lv. 1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "A1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "12600G",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Idra Cave B1",
+                                        "x": 67,
+                                        "y": 185,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "A1 - 12600G",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "A7",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Orange Ribbon",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Idra Cave B1",
+                                        "x": 607,
+                                        "y": 184,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "A7 - Orange Ribbon",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "B5",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Sapphire Rod",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Idra Cave B1",
+                                        "x": 425,
+                                        "y": 258,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "B5 - Sapphire Rod",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "C6 - Millionstrike Lv.1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Idra Cave",
-                                "x": 1309,
-                                "y": 422,
-                                "size": 6
+                                "name": "C6",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Millionstrike Lv.1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Idra Cave B1",
+                                        "x": 600,
+                                        "y": 341,
+                                        "size": 6
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -307,8 +522,8 @@
             },
             {
                 "name": "Tame",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -372,9 +587,10 @@
                 "map_locations": [
                     {
                         "map": "Idra Cave",
-                        "x": 2301,
-                        "y": 1441,
-                        "size": 6
+                        "x": 34,
+                        "y": 56,
+                        "size": 6,
+                        "shape": "trapezoid"
                     }
                 ]
             }

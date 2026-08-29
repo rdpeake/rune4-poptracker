@@ -10,8 +10,8 @@
         "children": [
             {
                 "name": "Shipment",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/ship_closed.png",
+                "chest_opened_img": "/images/items/ship_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -30,7 +30,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Giants Gloves",
+                        "name": "Giant's Gloves",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -68,10 +68,11 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Maya Road",
-                        "x": 2084,
-                        "y": 12,
-                        "size": 6
+                        "map": "Maya Road F1",
+                        "x": 34,
+                        "y": 34,
+                        "size": 6,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -86,8 +87,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -114,10 +115,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Maya Road",
-                                "x": 298,
-                                "y": 2105,
-                                "size": 6
+                                "map": "Maya Road Cave",
+                                "x": 34,
+                                "y": 34,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     }
@@ -134,8 +136,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -150,10 +152,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Maya Road",
-                                "x": 1483,
-                                "y": 1413,
-                                "size": 6
+                                "map": "Maya Road F2",
+                                "x": 34,
+                                "y": 34,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -165,38 +168,106 @@
                         "access_rules": [
                             " "
                         ],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "A7 - 2300 G",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "A7",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "2300 G",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Maya Road F2",
+                                        "x": 458,
+                                        "y": 222,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "B10 - Healing Potion x3 + Fruit Sandwich",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "B10",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Healing Potion x3 + Fruit Sandwich",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Maya Road F2",
+                                        "x": 583,
+                                        "y": 267,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "A4 - Mystery Potion x 4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "A4",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Mystery Potion x 4",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Maya Road F2",
+                                        "x": 250,
+                                        "y": 222,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "C1 - Axel Disaster Lv.1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Maya Road",
-                                "x": 891,
-                                "y": 1023,
-                                "size": 6
+                                "name": "C1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Axel Disaster Lv.1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Maya Road F2",
+                                        "x": 207,
+                                        "y": 311,
+                                        "size": 6
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -213,8 +284,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -229,10 +300,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Maya Road",
-                                "x": 2465,
-                                "y": 1964,
-                                "size": 6
+                                "map": "Maya Road F1",
+                                "x": 34,
+                                "y": 56,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -244,26 +316,56 @@
                         "access_rules": [
                             " "
                         ],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "B2 - Pineapple Seeds",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "B2",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Pineapple Seeds",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Maya Road F1",
+                                        "x": 363,
+                                        "y": 268,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "A3 - Blitz Lv. 1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Maya Road",
-                                "x": 2035,
-                                "y": 586,
-                                "size": 6
+                                "name": "A3",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Blitz Lv. 1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Maya Road F1",
+                                        "x": 196,
+                                        "y": 206,
+                                        "size": 6
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -280,8 +382,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -308,10 +410,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Maya Road",
-                                "x": 1298,
-                                "y": 1955,
-                                "size": 6
+                                "map": "Maya Road Cave",
+                                "x": 34,
+                                "y": 56,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -323,38 +426,87 @@
                         "access_rules": [
                             " "
                         ],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "A3 - Dark Snake Lv. 3",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "A3",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Dark Snake Lv. 3",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Maya Road Cave",
+                                        "x": 394,
+                                        "y": 90,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "B5 - Prism Lv.4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "B5",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Prism Lv.4",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Maya Road Cave",
+                                        "x": 508,
+                                        "y": 464,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "B1 - Rail Strike Lv.1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "B1 - Gloves",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Maya Road",
-                                "x": 1469,
-                                "y": 2401,
-                                "size": 6
+                                "name": "B1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Rail Strike Lv.1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    },
+                                    {
+                                        "name": "Gloves",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Maya Road Cave",
+                                        "x": 153,
+                                        "y": 464,
+                                        "size": 6
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -371,8 +523,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -393,10 +545,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Maya Road",
-                                "x": 1201,
-                                "y": 1078,
-                                "size": 6
+                                "map": "Maya Road Cave",
+                                "x": 34,
+                                "y": 78,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -408,26 +561,56 @@
                         "access_rules": [
                             " "
                         ],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "C3 - Mediseal Lv.1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "C3",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Mediseal Lv.1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Maya Road Cave",
+                                        "x": 70,
+                                        "y": 414,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "C1 - Delta Strike Lv.1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Maya Road",
-                                "x": 372,
-                                "y": 13,
-                                "size": 6
+                                "name": "C1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Delta Strike Lv.1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Maya Road Cave",
+                                        "x": 70,
+                                        "y": 378,
+                                        "size": 6
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -435,8 +618,8 @@
             },
             {
                 "name": "Tame",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -493,9 +676,212 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Maya Road",
-                        "x": 1690,
-                        "y": 1885,
+                        "map": "Maya Road F1",
+                        "x": 34,
+                        "y": 78,
+                        "size": 6,
+                        "shape": "trapezoid"
+                    }
+                ]
+            },
+            {
+                "name": "Sechs Territory",
+                "chest_unopened_img": "/images/items/area_closed.png",
+                "chest_opened_img": "/images/items/area_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Sechs Territory/Shipment/Boss - Icy Nose"
+                    },
+                    {
+                        "ref": "Sechs Territory/Shipment/Boss - Water Dragon Ash"
+                    },
+                    {
+                        "ref": "Sechs Territory/Shipment/Blue Core"
+                    },
+                    {
+                        "ref": "Sechs Territory/Shipment/Blue Giant's Glove"
+                    },
+                    {
+                        "ref": "Sechs Territory/Shipment/Gold Wolf Fang"
+                    },
+                    {
+                        "ref": "Sechs Territory/Shipment/Magic"
+                    },
+                    {
+                        "ref": "Sechs Territory/Shipment/Penguin Down"
+                    },
+                    {
+                        "ref": "Sechs Territory/Shipment/Scorpion Pincer"
+                    },
+                    {
+                        "ref": "Sechs Territory/Shipment/Shoulder Piece"
+                    },
+                    {
+                        "ref": "Sechs Territory/Shipment/Strong Vine"
+                    },
+                    {
+                        "ref": "Sechs Territory/Shipment/Unbroken Ivory Tusk"
+                    },
+                    {
+                        "ref": "Sechs Territory/Shipment/Wet Scale"
+                    },
+                    {
+                        "ref": "Sechs Territory/Shipment/White Grass"
+                    },
+                    {
+                        "ref": "Sechs Territory/Shipment/Diamond"
+                    },
+                    {
+                        "ref": "Sechs Territory/Shipment/White Stone"
+                    },
+                    {
+                        "ref": "Sechs Territory/Shipment/Giga Swing"
+                    },
+                    {
+                        "ref": "Sechs Territory/Cave/Shipment/Blowfish"
+                    },
+                    {
+                        "ref": "Sechs Territory/Cave/Shipment/Rare Can"
+                    },
+                    {
+                        "ref": "Sechs Territory/Cave/Shipment/Taimen"
+                    },
+                    {
+                        "ref": "Sechs Territory/Cave/Chest/C4/Mystery Potion x4"
+                    },
+                    {
+                        "ref": "Sechs Territory/Cave/Chest/D1/Giga Swing Lv.1"
+                    },
+                    {
+                        "ref": "Sechs Territory/Cave/Chest/D2/Rune Crystal"
+                    },
+                    {
+                        "ref": "Sechs Territory/F1/Shipment/Cyclone"
+                    },
+                    {
+                        "ref": "Sechs Territory/F1/Shipment/Master Cure"
+                    },
+                    {
+                        "ref": "Sechs Territory/F1/Shipment/Rapid Move"
+                    },
+                    {
+                        "ref": "Sechs Territory/F1/Shipment/Steel Heart"
+                    },
+                    {
+                        "ref": "Sechs Territory/F1/Chest/I2/Mystery Potion x x3 + Levelizer"
+                    },
+                    {
+                        "ref": "Sechs Territory/F1/Chest/G3/Master Cure Lv.1"
+                    },
+                    {
+                        "ref": "Sechs Territory/F1/Chest/D5/Water Crystal x4 + Big Crystal"
+                    },
+                    {
+                        "ref": "Sechs Territory/F1/Chest/C4/8000G"
+                    },
+                    {
+                        "ref": "Sechs Territory/F1/Chest/C4/Cyclone Lv.1"
+                    },
+                    {
+                        "ref": "Sechs Territory/F1/Chest/F1/Rapid Move Lv.1"
+                    },
+                    {
+                        "ref": "Sechs Territory/F1/Chest/C1/Magical Potion x4"
+                    },
+                    {
+                        "ref": "Sechs Territory/F1/Chest/B1/Miracle Axe Recipe"
+                    },
+                    {
+                        "ref": "Sechs Territory/F1/Chest/E5/Star Pendant"
+                    },
+                    {
+                        "ref": "Sechs Territory/F1/Chest/F8/Steel Heart Lv.1"
+                    },
+                    {
+                        "ref": "Sechs Territory/F1/Chest/B7/Ice Cream"
+                    },
+                    {
+                        "ref": "Sechs Territory/F1/Chest/E3/Throwing Ring"
+                    },
+                    {
+                        "ref": "Sechs Territory/F2/Shipment/Explosion"
+                    },
+                    {
+                        "ref": "Sechs Territory/F2/Shipment/Straight Punch"
+                    },
+                    {
+                        "ref": "Sechs Territory/F2/Shipment/Twin Attack"
+                    },
+                    {
+                        "ref": "Sechs Territory/F2/Chest/E3/Straight Punch Lv.1"
+                    },
+                    {
+                        "ref": "Sechs Territory/F2/Chest/D1/Mystery Potion x4"
+                    },
+                    {
+                        "ref": "Sechs Territory/F2/Chest/C6/Twin Attack Lv.1"
+                    },
+                    {
+                        "ref": "Sechs Territory/F2/Chest/C6/Explosion Lv.2"
+                    },
+                    {
+                        "ref": "Sechs Territory/F2/Chest/C1/Platinum Hammer Recipe + Dew Pendant"
+                    },
+                    {
+                        "ref": "Sechs Territory/Tame/Boss - Aquameleon"
+                    },
+                    {
+                        "ref": "Sechs Territory/Tame/Blue"
+                    },
+                    {
+                        "ref": "Sechs Territory/Tame/Boss - Crystal Mammoth"
+                    },
+                    {
+                        "ref": "Sechs Territory/Tame/Death Stalker"
+                    },
+                    {
+                        "ref": "Sechs Territory/Tame/Emperor Penguin"
+                    },
+                    {
+                        "ref": "Sechs Territory/Tame/Flower Crystal"
+                    },
+                    {
+                        "ref": "Sechs Territory/Tame/Hunter Wolf"
+                    },
+                    {
+                        "ref": "Sechs Territory/Tame/Little Wizard"
+                    },
+                    {
+                        "ref": "Sechs Territory/Tame/Mammoo"
+                    },
+                    {
+                        "ref": "Sechs Territory/Tame/Ogre Viking"
+                    },
+                    {
+                        "ref": "Sechs Territory/Tame/Orc Viking"
+                    },
+                    {
+                        "ref": "Sechs Territory/Tame/Sealy"
+                    },
+                    {
+                        "ref": "Sechs Territory/Tame/Snowy"
+                    },
+                    {
+                        "ref": "Sechs Territory/Tame/Titan"
+                    },
+                    {
+                        "ref": "Sechs Territory/Tame/Tundra"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road F1",
+                        "x": 48,
+                        "y": 208,
                         "size": 6
                     }
                 ]

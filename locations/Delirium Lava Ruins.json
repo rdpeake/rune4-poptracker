@@ -10,8 +10,8 @@
         "children": [
             {
                 "name": "Shipment",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/ship_closed.png",
+                "chest_opened_img": "/images/items/ship_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -24,7 +24,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Bulls Horn",
+                        "name": "Bull's Horn",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -36,7 +36,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Giants Nail",
+                        "name": "Giant's Nail",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -68,10 +68,11 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Delirium Lava Ruins",
-                        "x": 1066,
-                        "y": 821,
-                        "size": 6
+                        "map": "Delirium Lava Ruins F1",
+                        "x": 34,
+                        "y": 34,
+                        "size": 6,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -86,8 +87,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -114,10 +115,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Delirium Lava Ruins",
-                                "x": 98,
-                                "y": 2099,
-                                "size": 6
+                                "map": "Delirium Lava Ruins F1",
+                                "x": 34,
+                                "y": 56,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -129,38 +131,106 @@
                         "access_rules": [
                             " "
                         ],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "B4 - Healing Potion x3 + Rush Punch lvl.1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "B4",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Healing Potion x3 + Rush Punch lvl.1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Delirium Lava Ruins F1",
+                                        "x": 406,
+                                        "y": 280,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "C6 - Bonus Concerto Lv.1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "C6",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Bonus Concerto Lv.1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Delirium Lava Ruins F1",
+                                        "x": 538,
+                                        "y": 441,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "D1 - Trident",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "D1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Trident",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Delirium Lava Ruins F1",
+                                        "x": 406,
+                                        "y": 158,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "B2 - Healing Potion x4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Delirium Lava Ruins",
-                                "x": 85,
-                                "y": 14,
-                                "size": 6
+                                "name": "B2",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Healing Potion x4",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Delirium Lava Ruins F1",
+                                        "x": 311,
+                                        "y": 344,
+                                        "size": 6
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -177,8 +247,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -199,10 +269,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Delirium Lava Ruins",
-                                "x": 1356,
-                                "y": 2408,
-                                "size": 6
+                                "map": "Delirium Lava Ruins F2",
+                                "x": 34,
+                                "y": 34,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -214,50 +285,156 @@
                         "access_rules": [
                             " "
                         ],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "G2 - Recovery Potion x3 + Cheese Bread",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "G2",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Recovery Potion x3 + Cheese Bread",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Delirium Lava Ruins F2",
+                                        "x": 533,
+                                        "y": 375,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "H5 - Silver Boots",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "H5",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Silver Boots",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Delirium Lava Ruins F2",
+                                        "x": 583,
+                                        "y": 411,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "H1 - Light Barrier Lv.2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "H1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Light Barrier Lv.2",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Delirium Lava Ruins F2",
+                                        "x": 236,
+                                        "y": 401,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "F1 - Big Fire",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "F1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Big Fire",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Delirium Lava Ruins F2",
+                                        "x": 236,
+                                        "y": 307,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "D1 - Cure All Lv.1",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "D1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Cure All Lv.1",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Delirium Lava Ruins F2",
+                                        "x": 113,
+                                        "y": 220,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "I1 - Gold x2 + Silver x2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Delirium Lava Ruins",
-                                "x": 2338,
-                                "y": 2484,
-                                "size": 6
+                                "name": "I1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Gold x2 + Silver x2",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Delirium Lava Ruins F2",
+                                        "x": 385,
+                                        "y": 443,
+                                        "size": 6
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -265,8 +442,8 @@
             },
             {
                 "name": "Tame",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/tame_closed.png",
+                "chest_opened_img": "/images/items/tame_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -323,10 +500,11 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Delirium Lava Ruins",
-                        "x": 1268,
-                        "y": 272,
-                        "size": 6
+                        "map": "Delirium Lava Ruins F1",
+                        "x": 34,
+                        "y": 78,
+                        "size": 6,
+                        "shape": "trapezoid"
                     }
                 ]
             }

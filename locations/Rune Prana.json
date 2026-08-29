@@ -19,8 +19,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -47,10 +47,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Rune Prana",
-                                "x": 462,
-                                "y": 1407,
-                                "size": 6
+                                "map": "Rune Prana F2",
+                                "x": 34,
+                                "y": 34,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -62,45 +63,94 @@
                         "access_rules": [
                             " "
                         ],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "D4 - Magical Potion x2 + The Protein",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "D4",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Magical Potion x2 + The Protein",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Rune Prana F2",
+                                        "x": 522,
+                                        "y": 435,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "B3 - Anettes Necklace Recipe",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "B3",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Anette's Necklace Recipe",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    },
+                                    {
+                                        "name": "Greenifier+ x4",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Rune Prana F2",
+                                        "x": 406,
+                                        "y": 214,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "B3 - Greenifier+ x4",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "D1 - Double Kick Lv.8",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Rune Prana",
-                                "x": 1691,
-                                "y": 497,
-                                "size": 6
+                                "name": "D1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Double Kick Lv.8",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Rune Prana F2",
+                                        "x": 178,
+                                        "y": 439,
+                                        "size": 6
+                                    }
+                                ]
                             }
                         ]
                     },
                     {
                         "name": "Tame",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/tame_closed.png",
+                        "chest_opened_img": "/images/items/tame_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -121,10 +171,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Rune Prana",
-                                "x": 717,
-                                "y": 2186,
-                                "size": 6
+                                "map": "Rune Prana F2",
+                                "x": 34,
+                                "y": 56,
+                                "size": 6,
+                                "shape": "trapezoid"
                             }
                         ]
                     }
@@ -141,8 +192,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -161,7 +212,7 @@
                                 "item_count": 1
                             },
                             {
-                                "name": "Big Giants Nail",
+                                "name": "Big Giant's Nail",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -173,7 +224,7 @@
                                 "item_count": 1
                             },
                             {
-                                "name": "Queens Jaw",
+                                "name": "Queen's Jaw",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -187,10 +238,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Rune Prana",
-                                "x": 1139,
-                                "y": 1747,
-                                "size": 6
+                                "map": "Rune Prana F4",
+                                "x": 34,
+                                "y": 34,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -202,33 +254,63 @@
                         "access_rules": [
                             " "
                         ],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "D4 - Dry Curry Recipe",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "D4",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Dry Curry Recipe",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Rune Prana F4",
+                                        "x": 438,
+                                        "y": 367,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "A2 - Pineapple Juice Recipe + Magical Potion x2 + Orichalcum + Leveliser",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Rune Prana",
-                                "x": 2376,
-                                "y": 1075,
-                                "size": 6
+                                "name": "A2",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Pineapple Juice Recipe + Magical Potion x2 + Orichalcum + Leveliser",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Rune Prana F4",
+                                        "x": 433,
+                                        "y": 102,
+                                        "size": 6
+                                    }
+                                ]
                             }
                         ]
                     },
                     {
                         "name": "Tame",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/tame_closed.png",
+                        "chest_opened_img": "/images/items/tame_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -267,10 +349,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Rune Prana",
-                                "x": 659,
-                                "y": 1856,
-                                "size": 6
+                                "map": "Rune Prana F4",
+                                "x": 34,
+                                "y": 56,
+                                "size": 6,
+                                "shape": "trapezoid"
                             }
                         ]
                     }
@@ -287,8 +370,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -327,10 +410,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Rune Prana",
-                                "x": 1934,
-                                "y": 432,
-                                "size": 6
+                                "map": "Rune Prana F6",
+                                "x": 34,
+                                "y": 34,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -342,39 +426,88 @@
                         "access_rules": [
                             " "
                         ],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "B4 - Fireball Lv.8",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "B4",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Fireball Lv.8",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Rune Prana F6",
+                                        "x": 568,
+                                        "y": 224,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "D1 - Gyoza Recipe",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "D1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Gyoza Recipe",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Rune Prana F6",
+                                        "x": 100,
+                                        "y": 410,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "A3 - Fluffy Scarf Recipe",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Rune Prana",
-                                "x": 640,
-                                "y": 2453,
-                                "size": 6
+                                "name": "A3",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Fluffy Scarf Recipe",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Rune Prana F6",
+                                        "x": 295,
+                                        "y": 120,
+                                        "size": 6
+                                    }
+                                ]
                             }
                         ]
                     },
                     {
                         "name": "Tame",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/tame_closed.png",
+                        "chest_opened_img": "/images/items/tame_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -413,10 +546,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Rune Prana",
-                                "x": 1516,
-                                "y": 353,
-                                "size": 6
+                                "map": "Rune Prana F6",
+                                "x": 34,
+                                "y": 56,
+                                "size": 6,
+                                "shape": "trapezoid"
                             }
                         ]
                     }
@@ -433,8 +567,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -491,10 +625,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Rune Prana",
-                                "x": 250,
-                                "y": 2171,
-                                "size": 6
+                                "map": "Rune Prana F7",
+                                "x": 34,
+                                "y": 34,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -506,75 +641,162 @@
                         "access_rules": [
                             " "
                         ],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "G1 - Art of Attack Recipe + Art of Defense Recipe + Art of Magic Recipe",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "G1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Art of Attack Recipe + Art of Defense Recipe + Art of Magic Recipe",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    },
+                                    {
+                                        "name": "Gae Bolg Recipe + Kongo Recipe",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Rune Prana F7",
+                                        "x": 265,
+                                        "y": 477,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "E7 - Knight Boots Recipe",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "E7",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Knight Boots Recipe",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    },
+                                    {
+                                        "name": "Dragon Slayer Recipe + Balmung Recipe",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Rune Prana F7",
+                                        "x": 524,
+                                        "y": 341,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "E7 - Dragon Slayer Recipe + Balmung Recipe",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "B6",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Crown Recipe",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    },
+                                    {
+                                        "name": "Magic Broom Recipe + Hand of God Recipe",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Rune Prana F7",
+                                        "x": 597,
+                                        "y": 145,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "G1 - Gae Bolg Recipe + Kongo Recipe",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "A1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Royal Garter Recipe",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    },
+                                    {
+                                        "name": "Executioner Recipe + Rune Edge Recipe",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Rune Prana F7",
+                                        "x": 133,
+                                        "y": 77,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "B6 - Crown Recipe",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "B6 - Magic Broom Recipe + Hand of God Recipe",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "A1 - Royal Garter Recipe",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "A1 - Executioner Recipe + Rune Edge Recipe",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "E1 - Dragonic Stone x2",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Rune Prana",
-                                "x": 873,
-                                "y": 1909,
-                                "size": 6
+                                "name": "E1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Dragonic Stone x2",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Rune Prana F7",
+                                        "x": 75,
+                                        "y": 341,
+                                        "size": 6
+                                    }
+                                ]
                             }
                         ]
                     },
                     {
                         "name": "Tame",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/tame_closed.png",
+                        "chest_opened_img": "/images/items/tame_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -637,10 +859,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Rune Prana",
-                                "x": 63,
-                                "y": 1905,
-                                "size": 6
+                                "map": "Rune Prana F7",
+                                "x": 34,
+                                "y": 56,
+                                "size": 6,
+                                "shape": "trapezoid"
                             }
                         ]
                     }
@@ -657,8 +880,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -685,17 +908,18 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Rune Prana",
-                                "x": 1038,
-                                "y": 1495,
-                                "size": 6
+                                "map": "Rune Prana F1",
+                                "x": 34,
+                                "y": 34,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
                     {
                         "name": "Tame",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/tame_closed.png",
+                        "chest_opened_img": "/images/items/tame_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -728,10 +952,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Rune Prana",
-                                "x": 1936,
-                                "y": 679,
-                                "size": 6
+                                "map": "Rune Prana F1",
+                                "x": 34,
+                                "y": 56,
+                                "size": 6,
+                                "shape": "trapezoid"
                             }
                         ]
                     }
@@ -748,8 +973,8 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -770,10 +995,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Rune Prana",
-                                "x": 175,
-                                "y": 1241,
-                                "size": 6
+                                "map": "Rune Prana F5",
+                                "x": 34,
+                                "y": 34,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
@@ -785,40 +1011,70 @@
                         "access_rules": [
                             " "
                         ],
-                        "sections": [
+                        "children": [
                             {
-                                "name": "C4 - Mediseal Lv.10",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
+                                "name": "C4",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Mediseal Lv.10",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Rune Prana F5",
+                                        "x": 465,
+                                        "y": 328,
+                                        "size": 6
+                                    }
+                                ]
                             },
                             {
-                                "name": "A1 - Grilled G. Snapper Recipe",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Rune Prana",
-                                "x": 218,
-                                "y": 220,
-                                "size": 6
+                                "name": "A1",
+                                "chest_unopened_img": "/images/items/close.png",
+                                "chest_opened_img": "/images/items/open.png",
+                                "overlay_background": "#000000",
+                                "access_rules": [
+                                    " "
+                                ],
+                                "sections": [
+                                    {
+                                        "name": "Grilled G. Snapper Recipe",
+                                        "access_rules": [],
+                                        "visibility_rules": [],
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Rune Prana F5",
+                                        "x": 161,
+                                        "y": 126,
+                                        "size": 6
+                                    }
+                                ]
                             }
                         ]
                     },
                     {
                         "name": "Tame",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/tame_closed.png",
+                        "chest_opened_img": "/images/items/tame_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
                         ],
                         "sections": [
                             {
-                                "name": "Heavens Scissors",
+                                "name": "Heaven's Scissors",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -838,10 +1094,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Rune Prana",
-                                "x": 77,
-                                "y": 853,
-                                "size": 6
+                                "map": "Rune Prana F5",
+                                "x": 34,
+                                "y": 56,
+                                "size": 6,
+                                "shape": "trapezoid"
                             }
                         ]
                     }
@@ -858,21 +1115,21 @@
                 "children": [
                     {
                         "name": "Shipment",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/ship_closed.png",
+                        "chest_opened_img": "/images/items/ship_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
                         ],
                         "sections": [
                             {
-                                "name": "Pirates Armor",
+                                "name": "Pirate's Armor",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
                             },
                             {
-                                "name": "Turnips Miracle",
+                                "name": "Turnip's Miracle",
                                 "access_rules": [],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -880,17 +1137,18 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Rune Prana",
-                                "x": 1857,
-                                "y": 1879,
-                                "size": 6
+                                "map": "Rune Prana F3",
+                                "x": 34,
+                                "y": 34,
+                                "size": 6,
+                                "shape": "diamond"
                             }
                         ]
                     },
                     {
                         "name": "Tame",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/items/tame_closed.png",
+                        "chest_opened_img": "/images/items/tame_open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -923,10 +1181,11 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Rune Prana",
-                                "x": 1352,
-                                "y": 1657,
-                                "size": 6
+                                "map": "Rune Prana F3",
+                                "x": 34,
+                                "y": 56,
+                                "size": 6,
+                                "shape": "trapezoid"
                             }
                         ]
                     }

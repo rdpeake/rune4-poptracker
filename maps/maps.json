@@ -1,21 +1,9 @@
 [
     {
-        "name": "Anywhere (Rare)",
+        "name": "Overworld",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Anywhere (Rare).png"
-    },
-    {
-        "name": "Autumn Field",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Autumn Field.png"
-    },
-    {
-        "name": "Autumn River",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Autumn River.png"
+        "img": "images/maps/Overworld.png"
     },
     {
         "name": "Autumn Road",
@@ -24,34 +12,22 @@
         "img": "images/maps/Autumn Road.png"
     },
     {
-        "name": "Autumn Spring",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Autumn Spring.png"
-    },
-    {
         "name": "Cluck Cluck Nest",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Cluck_cluck_nest.webp"
+        "img": "images/maps/Cluck_cluck_nest.png"
     },
     {
-        "name": "Cooking",
+        "name": "Delirium Lava Ruins F1",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Cooking.png"
+        "img": "images/maps/Delirium_lava_ruins_1.png"
     },
     {
-        "name": "Crafting",
+        "name": "Delirium Lava Ruins F2",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Crafting.png"
-    },
-    {
-        "name": "Delirium Lava Ruins",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Delirium Lava Ruins.png"
+        "img": "images/maps/Delirium_lava_ruins_2.png"
     },
     {
         "name": "Demons Den",
@@ -60,28 +36,46 @@
         "img": "images/maps/Demons Den.png"
     },
     {
-        "name": "Field Dungeon",
+        "name": "Floating Empire Main",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Field Dungeon.png"
+        "img": "images/maps/Floating Empire_main.png"
     },
     {
-        "name": "Floating Empire",
+        "name": "Floating Empire East",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Floating Empire.png"
+        "img": "images/maps/Floating Empire_east.png"
     },
     {
-        "name": "Forge",
+        "name": "Floating Empire South",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Forge.png"
+        "img": "images/maps/Floating Empire_south.png"
+    },
+    {
+        "name": "Floating Empire West",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Floating Empire_west.png"
     },
     {
         "name": "Idra Cave",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Idra Cave.png"
+        "img": "images/maps/Idra_Cave_1.png"
+    },
+    {
+        "name": "Idra Cave B1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Idra_Cave_2.png"
+    },
+    {
+        "name": "Idra Cave B2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Idra_Cave_3.png"
     },
     {
         "name": "Leon Karnak",
@@ -90,16 +84,28 @@
         "img": "images/maps/Leon Karnak.png"
     },
     {
-        "name": "Maya Road",
+        "name": "Maya Road F1",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Maya Road.png"
+        "img": "images/maps/Maya_road_floor_1.png"
+    },
+    {
+        "name": "Maya Road F2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Maya_road_floor_2.png"
+    },
+    {
+        "name": "Maya Road Cave",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Maya_road_cave_1_2.png"
     },
     {
         "name": "Obsidian Mansion",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Obsidian Mansion.png"
+        "img": "images/maps/Obsidian_mansion.png"
     },
     {
         "name": "Revival Cave",
@@ -108,16 +114,64 @@
         "img": "images/maps/Revival Cave.png"
     },
     {
-        "name": "Rune Prana",
+        "name": "Rune Prana F1",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Rune Prana.png"
+        "img": "images/maps/Rune_Prana_1.png"
     },
     {
-        "name": "Sechs Territory",
+        "name": "Rune Prana F2",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Sechs Territory.png"
+        "img": "images/maps/Rune_Prana_2.png"
+    },
+    {
+        "name": "Rune Prana F3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rune_Prana_3.png"
+    },
+    {
+        "name": "Rune Prana F4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rune_Prana_4.png"
+    },
+    {
+        "name": "Rune Prana F5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rune_Prana_5.png"
+    },
+    {
+        "name": "Rune Prana F6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rune_Prana_6.png"
+    },
+    {
+        "name": "Rune Prana F7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Rune_Prana_7.png"
+    },
+    {
+        "name": "Sechs Territory 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sechs_territory_field_1.png"
+    },
+    {
+        "name": "Sechs Territory 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sechs_territory_field_2.png"
+    },
+    {
+        "name": "Sechs Territory Cave",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sechs_territory_cave.png"
     },
     {
         "name": "Selphia",
@@ -129,7 +183,7 @@
         "name": "Selphia Plains",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Selphia Plains.png"
+        "img": "images/maps/Selphia_plains.png"
     },
     {
         "name": "Sercerezo Hill",
@@ -144,33 +198,130 @@
         "img": "images/maps/Sharance Maze.png"
     },
     {
-        "name": "Spring Spring",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Spring Spring.png"
-    },
-    {
-        "name": "Summer Spring",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Summer Spring.png"
-    },
-    {
         "name": "Water Ruins",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Water Ruins.png"
-    },
-    {
-        "name": "Winter Spring",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Winter Spring.png"
+        "img": "images/maps/Water_ruins.png"
     },
     {
         "name": "Yokmir Forest",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Yokmir Forest.png"
+        "img": "images/maps/YokmirForest.png"
+    },
+    {
+        "name": "Yokmir Cave F1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Yokmir_cave_1.png"
+    },
+    {
+        "name": "Yokmir Cave F2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Yokmir_cave_2.png"
+    },
+    {
+        "name": "Yokmir Cave F3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Yokmir_cave_3.png"
+    },
+    {
+        "name": "Field Dungeon",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Blank.png"
+    },
+    {
+        "name": "Shipments Selphia",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_shipments_selphia.png"
+    },
+    {
+        "name": "Shipments Selphia Plains",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_shipments_selphiaplains.png"
+    },
+    {
+        "name": "Shipments Autumn Road",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_shipments_autumnroad.png"
+    },
+    {
+        "name": "Shipments Sercerezo Hill",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_shipments_sercerezohill.png"
+    },
+    {
+        "name": "Shipments Anywhere",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_shipments_anywhere.png"
+    },
+    {
+        "name": "Tames Selphia",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_tames_selphia.png"
+    },
+    {
+        "name": "Tames Selphia Plains",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_tames_selphiaplains.png"
+    },
+    {
+        "name": "Tames Autumn Road",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_tames_autumnroad.png"
+    },
+    {
+        "name": "Tames Sercerezo Hill",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_tames_sercerezohill.png"
+    },
+    {
+        "name": "Tames Anywhere",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_tames_anywhere.png"
+    },
+    {
+        "name": "Forge",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_forge.png"
+    },
+    {
+        "name": "Crafting",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_crafting.png"
+    },
+    {
+        "name": "Cooking",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_cooking.png"
     }
 ]
