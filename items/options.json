@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Crops locations",
+        "type": "toggle",
+        "img": "images/settings/opt_cropsanity.png",
+        "disabled_img": "images/settings/opt_cropsanity.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "opt_cropsanity"
+    },
+    {
+        "name": "Fish locations",
+        "type": "toggle",
+        "img": "images/settings/opt_fishsanity.png",
+        "disabled_img": "images/settings/opt_fishsanity.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "opt_fishsanity"
+    },
+    {
+        "name": "Gold Crops locations",
+        "type": "toggle",
+        "img": "images/settings/opt_goldcropsanity.png",
+        "disabled_img": "images/settings/opt_goldcropsanity.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "opt_goldcropsanity"
+    },
+    {
+        "name": "Large Crops locations",
+        "type": "toggle",
+        "img": "images/settings/opt_largecropsanity.png",
+        "disabled_img": "images/settings/opt_largecropsanity.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "opt_largecropsanity"
+    },
+    {
+        "name": "Drops locations",
+        "type": "toggle",
+        "img": "images/settings/opt_dropsanity.png",
+        "disabled_img": "images/settings/opt_dropsanity.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "opt_dropsanity"
+    },
+    {
+        "name": "Crafting locations",
+        "type": "toggle",
+        "img": "images/settings/opt_craftsanity.png",
+        "disabled_img": "images/settings/opt_craftsanity.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "opt_craftsanity"
+    },
+    {
+        "name": "Forge locations",
+        "type": "toggle",
+        "img": "images/settings/opt_forgesanity.png",
+        "disabled_img": "images/settings/opt_forgesanity.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "opt_forgesanity"
+    },
+    {
+        "name": "Dishes locations",
+        "type": "toggle",
+        "img": "images/settings/opt_dishsanity.png",
+        "disabled_img": "images/settings/opt_dishsanity.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "opt_dishsanity"
+    },
+    {
+        "name": "Spells locations",
+        "type": "toggle",
+        "img": "images/settings/opt_spellsanity.png",
+        "disabled_img": "images/settings/opt_spellsanity.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "opt_spellsanity"
+    },
+    {
+        "name": "Foraging locations",
+        "type": "toggle",
+        "img": "images/settings/opt_foragesanity.png",
+        "disabled_img": "images/settings/opt_foragesanity.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "opt_foragesanity"
+    },
+    {
+        "name": "Chemistry locations",
+        "type": "toggle",
+        "img": "images/settings/opt_chemicsanity.png",
+        "disabled_img": "images/settings/opt_chemicsanity.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "opt_chemicsanity"
+    },
+    {
+        "name": "Minerals locations",
+        "type": "toggle",
+        "img": "images/settings/opt_mineralsanity.png",
+        "disabled_img": "images/settings/opt_mineralsanity.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "opt_mineralsanity"
+    },
+    {
+        "name": "Requests locations",
+        "type": "toggle",
+        "img": "images/settings/opt_requestsanity.png",
+        "disabled_img": "images/settings/opt_requestsanity.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "opt_requestsanity"
+    },
+    {
+        "name": "Friendship locations",
+        "type": "toggle",
+        "img": "images/settings/opt_friendsanity.png",
+        "disabled_img": "images/settings/opt_friendsanity.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "opt_friendsanity"
+    },
+    {
+        "name": "Tames locations",
+        "type": "toggle",
+        "img": "images/settings/opt_tamesanity.png",
+        "disabled_img": "images/settings/opt_tamesanity.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "opt_tamesanity"
+    }
+]
