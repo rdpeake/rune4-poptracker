@@ -19,13 +19,17 @@
                 "sections": [
                     {
                         "name": "Boss - Fire Dragon Ash",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851293"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Black Bird Feather",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851313"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -33,7 +37,9 @@
                     },
                     {
                         "name": "Giant's Gloves",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851213"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -41,7 +47,9 @@
                     },
                     {
                         "name": "Green Core",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851288"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -49,7 +57,9 @@
                     },
                     {
                         "name": "Paralysis Poison",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851312"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -57,7 +67,9 @@
                     },
                     {
                         "name": "Rigid Horn",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851220"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -65,7 +77,9 @@
                     },
                     {
                         "name": "Fall Flounder",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851377"
+                        ],
                         "visibility_rules": [
                             "opt_fishsanity"
                         ],
@@ -73,7 +87,9 @@
                     },
                     {
                         "name": "Gold",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851189"
+                        ],
                         "visibility_rules": [
                             "opt_mineralsanity"
                         ],
@@ -110,7 +126,9 @@
                         "sections": [
                             {
                                 "name": "Mysterious Powder",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851316"
+                                ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
                                 ],
@@ -118,7 +136,9 @@
                             },
                             {
                                 "name": "Light Ore",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851303"
+                                ],
                                 "visibility_rules": [
                                     "opt_mineralsanity"
                                 ],
@@ -126,7 +146,9 @@
                             },
                             {
                                 "name": "Sapphire",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851195"
+                                ],
                                 "visibility_rules": [
                                     "opt_mineralsanity"
                                 ],
@@ -165,7 +187,9 @@
                         "sections": [
                             {
                                 "name": "Axel Disaster",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851435"
+                                ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
                                 ],
@@ -202,7 +226,9 @@
                                 "sections": [
                                     {
                                         "name": "2300 G",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851569"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -227,7 +253,9 @@
                                 "sections": [
                                     {
                                         "name": "Healing Potion x3 + Fruit Sandwich",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851570"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -252,7 +280,9 @@
                                 "sections": [
                                     {
                                         "name": "Mystery Potion x 4",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851573"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -277,7 +307,9 @@
                                 "sections": [
                                     {
                                         "name": "Axel Disaster Lv.1",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851574"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -315,7 +347,9 @@
                         "sections": [
                             {
                                 "name": "Blitz",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851424"
+                                ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
                                 ],
@@ -352,7 +386,9 @@
                                 "sections": [
                                     {
                                         "name": "Pineapple Seeds",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851564"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -377,7 +413,9 @@
                                 "sections": [
                                     {
                                         "name": "Blitz Lv. 1",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851566"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -415,7 +453,9 @@
                         "sections": [
                             {
                                 "name": "Dark Snake",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851408"
+                                ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
                                 ],
@@ -423,7 +463,9 @@
                             },
                             {
                                 "name": "Prism",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851406"
+                                ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
                                 ],
@@ -431,7 +473,9 @@
                             },
                             {
                                 "name": "Rail Strike",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851426"
+                                ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
                                 ],
@@ -468,7 +512,9 @@
                                 "sections": [
                                     {
                                         "name": "Dark Snake Lv. 3",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851567"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -493,7 +539,9 @@
                                 "sections": [
                                     {
                                         "name": "Prism Lv.4",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851568"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -518,13 +566,17 @@
                                 "sections": [
                                     {
                                         "name": "Rail Strike Lv.1",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851571"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     },
                                     {
                                         "name": "Gloves",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851572"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -562,7 +614,9 @@
                         "sections": [
                             {
                                 "name": "Delta Strike",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851431"
+                                ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
                                 ],
@@ -570,7 +624,9 @@
                             },
                             {
                                 "name": "Mediseal",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851415"
+                                ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
                                 ],
@@ -607,7 +663,9 @@
                                 "sections": [
                                     {
                                         "name": "Mediseal Lv.1",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851563"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -632,7 +690,9 @@
                                 "sections": [
                                     {
                                         "name": "Delta Strike Lv.1",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851565"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -661,7 +721,9 @@
                 "sections": [
                     {
                         "name": "Airror",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852674"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -669,7 +731,9 @@
                     },
                     {
                         "name": "Blackbird",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852691"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -677,7 +741,9 @@
                     },
                     {
                         "name": "Boss - Fiergaenger",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852723"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -685,7 +751,9 @@
                     },
                     {
                         "name": "Green",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852748"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -693,7 +761,9 @@
                     },
                     {
                         "name": "Hammer Troll",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852753"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -701,7 +771,9 @@
                     },
                     {
                         "name": "Heracles",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852757"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -709,7 +781,9 @@
                     },
                     {
                         "name": "Hornet Queen",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852764"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -717,7 +791,9 @@
                     },
                     {
                         "name": "Planchoa",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852812"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],

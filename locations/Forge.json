@@ -19,7 +19,9 @@
                 "sections": [
                     {
                         "name": "Gloves",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850916"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -27,7 +29,9 @@
                     },
                     {
                         "name": "Acutorimass",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850903"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -35,7 +39,9 @@
                     },
                     {
                         "name": "Aerial Blade",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850700"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -43,7 +49,9 @@
                     },
                     {
                         "name": "Algernon",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850870"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -51,7 +59,9 @@
                     },
                     {
                         "name": "Alldale",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850821"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -59,7 +69,9 @@
                     },
                     {
                         "name": "Amethyst Rod",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850863"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -67,7 +79,9 @@
                     },
                     {
                         "name": "Animal Puppets",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850919"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -75,7 +89,9 @@
                     },
                     {
                         "name": "Aqua Sword",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850698"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -83,7 +99,9 @@
                     },
                     {
                         "name": "Aquamarine Rod",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850864"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -91,7 +109,9 @@
                     },
                     {
                         "name": "Axe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850834"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -99,7 +119,9 @@
                     },
                     {
                         "name": "Back Scratcher",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850719"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -107,7 +129,9 @@
                     },
                     {
                         "name": "Balmung",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850755"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -115,7 +139,9 @@
                     },
                     {
                         "name": "Basilisk Fang",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850837"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -123,7 +149,9 @@
                     },
                     {
                         "name": "Basket",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850851"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -131,7 +159,9 @@
                     },
                     {
                         "name": "Bat",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850816"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -139,7 +169,9 @@
                     },
                     {
                         "name": "Battle Axe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850819"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -147,7 +179,9 @@
                     },
                     {
                         "name": "Battle Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850796"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -155,7 +189,9 @@
                     },
                     {
                         "name": "Battle Scythe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850836"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -163,7 +199,9 @@
                     },
                     {
                         "name": "Bazal Katar",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850924"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -171,7 +209,9 @@
                     },
                     {
                         "name": "Bear Claws",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850909"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -179,7 +219,9 @@
                     },
                     {
                         "name": "Beginner's Pole",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850952"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -187,7 +229,9 @@
                     },
                     {
                         "name": "Belvarose",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850781"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -195,7 +239,9 @@
                     },
                     {
                         "name": "Belzebuth",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850759"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -203,7 +249,9 @@
                     },
                     {
                         "name": "Big Knife",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850753"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -211,7 +259,9 @@
                     },
                     {
                         "name": "Bio Smasher",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850743"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -219,7 +269,9 @@
                     },
                     {
                         "name": "Bjor",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850782"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -227,7 +279,9 @@
                     },
                     {
                         "name": "Blessed Hoe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850930"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -235,7 +289,9 @@
                     },
                     {
                         "name": "Blood Lance",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850768"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -243,7 +299,9 @@
                     },
                     {
                         "name": "Blue-Eyed Blade",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850737"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -251,7 +309,9 @@
                     },
                     {
                         "name": "Bone Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850807"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -259,7 +319,9 @@
                     },
                     {
                         "name": "Brass Knuckles",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850907"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -267,7 +329,9 @@
                     },
                     {
                         "name": "Braveheart",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850758"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -275,7 +339,9 @@
                     },
                     {
                         "name": "Brionac",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850779"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -283,7 +349,9 @@
                     },
                     {
                         "name": "Broadsword",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850695"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -291,7 +359,9 @@
                     },
                     {
                         "name": "Broken Wall",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850892"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -299,7 +369,9 @@
                     },
                     {
                         "name": "Bubble Staff",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850855"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -307,7 +379,9 @@
                     },
                     {
                         "name": "Burning Sword",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850701"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -315,7 +389,9 @@
                     },
                     {
                         "name": "Caestus",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850923"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -323,7 +399,9 @@
                     },
                     {
                         "name": "Caliburn",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850761"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -331,7 +409,9 @@
                     },
                     {
                         "name": "Cat Punch",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850917"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -339,7 +419,9 @@
                     },
                     {
                         "name": "Chaos Blade",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850714"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -347,7 +429,9 @@
                     },
                     {
                         "name": "Chaos Edge",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850894"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -355,7 +439,9 @@
                     },
                     {
                         "name": "Cheap Axe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850946"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -363,7 +449,9 @@
                     },
                     {
                         "name": "Cheap Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850941"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -371,7 +459,9 @@
                     },
                     {
                         "name": "Cheap Hoe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850926"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -379,7 +469,9 @@
                     },
                     {
                         "name": "Cheap Pole",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850951"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -387,7 +479,9 @@
                     },
                     {
                         "name": "Cheap Sickle",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850936"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -395,7 +489,9 @@
                     },
                     {
                         "name": "Cheap Waterpot",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850931"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -403,7 +499,9 @@
                     },
                     {
                         "name": "Chopping Axe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850947"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -411,7 +509,9 @@
                     },
                     {
                         "name": "Claymore",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850729"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -419,7 +519,9 @@
                     },
                     {
                         "name": "Corsesca",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850771"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -427,7 +529,9 @@
                     },
                     {
                         "name": "Corsesca+",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850785"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -435,7 +539,9 @@
                     },
                     {
                         "name": "Crescent Axe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850824"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -443,7 +549,9 @@
                     },
                     {
                         "name": "Crescent Axe+",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850833"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -451,7 +559,9 @@
                     },
                     {
                         "name": "Crimson Staff",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850854"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -459,7 +569,9 @@
                     },
                     {
                         "name": "Crystal Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850808"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -467,7 +579,9 @@
                     },
                     {
                         "name": "Cutlass",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850718"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -475,7 +589,9 @@
                     },
                     {
                         "name": "Cyclone Blade",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850732"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -483,7 +599,9 @@
                     },
                     {
                         "name": "Cyclone Rod",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850858"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -491,7 +609,9 @@
                     },
                     {
                         "name": "Daicone",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850760"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -499,7 +619,9 @@
                     },
                     {
                         "name": "Dancing Dicer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850733"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -507,7 +629,9 @@
                     },
                     {
                         "name": "Dark Invitation",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850887"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -515,7 +639,9 @@
                     },
                     {
                         "name": "Deep Blizzard",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850886"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -523,7 +649,9 @@
                     },
                     {
                         "name": "Defender",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850699"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -531,7 +659,9 @@
                     },
                     {
                         "name": "Dekash",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850757"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -539,7 +669,9 @@
                     },
                     {
                         "name": "Demon Axe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850823"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -547,7 +679,9 @@
                     },
                     {
                         "name": "Desert Wind",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850891"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -555,7 +689,9 @@
                     },
                     {
                         "name": "Devil Finger",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850838"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -563,7 +699,9 @@
                     },
                     {
                         "name": "Diamond Rod",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850865"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -571,7 +709,9 @@
                     },
                     {
                         "name": "Double Edge",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850830"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -579,7 +719,9 @@
                     },
                     {
                         "name": "Double Scratch",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850899"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -587,7 +729,9 @@
                     },
                     {
                         "name": "Dragon Claws",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850918"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -595,7 +739,9 @@
                     },
                     {
                         "name": "Dragon Slayer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850709"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -603,7 +749,9 @@
                     },
                     {
                         "name": "Dragon's Fang",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850788"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -611,7 +759,9 @@
                     },
                     {
                         "name": "Dragoon Claw",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850889"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -619,7 +769,9 @@
                     },
                     {
                         "name": "Durendal",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850720"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -627,7 +779,9 @@
                     },
                     {
                         "name": "Earnest Edge",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850901"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -635,7 +789,9 @@
                     },
                     {
                         "name": "Earth Shade",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850742"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -643,7 +799,9 @@
                     },
                     {
                         "name": "Earth Staff",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850845"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -651,7 +809,9 @@
                     },
                     {
                         "name": "Efreet",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850885"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -659,7 +819,9 @@
                     },
                     {
                         "name": "Elvish Harp",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850873"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -667,7 +829,9 @@
                     },
                     {
                         "name": "Emerald Edge",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850897"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -675,7 +839,9 @@
                     },
                     {
                         "name": "Emerald Rod",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850861"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -683,7 +849,9 @@
                     },
                     {
                         "name": "Executioner",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850825"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -691,7 +859,9 @@
                     },
                     {
                         "name": "Famous Pole",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850954"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -699,7 +869,9 @@
                     },
                     {
                         "name": "Fatal Crush",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850813"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -707,7 +879,9 @@
                     },
                     {
                         "name": "Feather Lance",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850780"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -715,7 +889,9 @@
                     },
                     {
                         "name": "Fenrir",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850925"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -723,7 +899,9 @@
                     },
                     {
                         "name": "Fists of Dark",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850915"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -731,7 +909,9 @@
                     },
                     {
                         "name": "Fists of Fire",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850910"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -739,7 +919,9 @@
                     },
                     {
                         "name": "Fists of Light",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850914"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -747,7 +929,9 @@
                     },
                     {
                         "name": "Fists of the Earth",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850913"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -755,7 +939,9 @@
                     },
                     {
                         "name": "Fists of Water",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850911"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -763,7 +949,9 @@
                     },
                     {
                         "name": "Fists of Wind",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850912"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -771,7 +959,9 @@
                     },
                     {
                         "name": "Fivestaff",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850795"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -779,7 +969,9 @@
                     },
                     {
                         "name": "Flamberge",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850740"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -787,7 +979,9 @@
                     },
                     {
                         "name": "Flamberge+",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850751"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -795,7 +989,9 @@
                     },
                     {
                         "name": "Flame Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850803"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -803,7 +999,9 @@
                     },
                     {
                         "name": "Flame Saber",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850731"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -811,7 +1009,9 @@
                     },
                     {
                         "name": "Flare Lance",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850773"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -819,7 +1019,9 @@
                     },
                     {
                         "name": "Flare Staff",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850842"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -827,7 +1029,9 @@
                     },
                     {
                         "name": "Force Divide",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850888"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -835,7 +1039,9 @@
                     },
                     {
                         "name": "Force Element",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850749"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -843,7 +1049,9 @@
                     },
                     {
                         "name": "Friendly Rod",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850866"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -851,7 +1059,9 @@
                     },
                     {
                         "name": "Frost Axe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850827"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -859,7 +1069,9 @@
                     },
                     {
                         "name": "Frost Edge",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850878"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -867,7 +1079,9 @@
                     },
                     {
                         "name": "Gae Bolg",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850789"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -875,7 +1089,9 @@
                     },
                     {
                         "name": "Gaia Rod",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850856"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -883,7 +1099,9 @@
                     },
                     {
                         "name": "Gaia Sword",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850712"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -891,7 +1109,9 @@
                     },
                     {
                         "name": "Gigant Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850800"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -899,7 +1119,9 @@
                     },
                     {
                         "name": "Gigant Hammer+",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850810"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -907,7 +1129,9 @@
                     },
                     {
                         "name": "Gladius",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850721"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -915,7 +1139,9 @@
                     },
                     {
                         "name": "Golden Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850944"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -923,7 +1149,9 @@
                     },
                     {
                         "name": "Golden Turnip Staff",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850871"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -931,7 +1159,9 @@
                     },
                     {
                         "name": "Golem Punch",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850921"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -939,7 +1169,9 @@
                     },
                     {
                         "name": "Gorgeous Lx",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850902"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -947,7 +1179,9 @@
                     },
                     {
                         "name": "Gorgeous Sword",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850722"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -955,7 +1189,9 @@
                     },
                     {
                         "name": "Grand Smasher",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850736"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -963,7 +1199,9 @@
                     },
                     {
                         "name": "Grantale",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850713"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -971,7 +1209,9 @@
                     },
                     {
                         "name": "Graviton Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850806"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -979,7 +1219,9 @@
                     },
                     {
                         "name": "Great Axe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850822"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -987,7 +1229,9 @@
                     },
                     {
                         "name": "Great Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850798"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -995,7 +1239,9 @@
                     },
                     {
                         "name": "Great Sword",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850734"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1003,7 +1249,9 @@
                     },
                     {
                         "name": "Gungnir",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850783"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1011,7 +1259,9 @@
                     },
                     {
                         "name": "Halberd",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850766"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1019,7 +1269,9 @@
                     },
                     {
                         "name": "Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850811"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1027,7 +1279,9 @@
                     },
                     {
                         "name": "Hand of God",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850922"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1035,7 +1289,9 @@
                     },
                     {
                         "name": "Heart Fire",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850890"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1043,7 +1299,9 @@
                     },
                     {
                         "name": "Heat Axe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850826"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1051,7 +1309,9 @@
                     },
                     {
                         "name": "Heaven Asunder",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850735"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1059,7 +1319,9 @@
                     },
                     {
                         "name": "Heavy Lance",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850774"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1067,7 +1329,9 @@
                     },
                     {
                         "name": "Hell Branch",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850853"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1075,7 +1339,9 @@
                     },
                     {
                         "name": "Hell Curse",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850869"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1083,7 +1349,9 @@
                     },
                     {
                         "name": "Ice Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850804"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1091,7 +1359,9 @@
                     },
                     {
                         "name": "Ice Staff",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850843"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1099,7 +1369,9 @@
                     },
                     {
                         "name": "Iceberg",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850775"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1107,7 +1379,9 @@
                     },
                     {
                         "name": "Icifier",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850706"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1115,7 +1389,9 @@
                     },
                     {
                         "name": "Invisiblade",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850727"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1123,7 +1399,9 @@
                     },
                     {
                         "name": "Iron Bat",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850817"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1131,7 +1409,9 @@
                     },
                     {
                         "name": "Iron Edge",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850896"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1139,7 +1419,9 @@
                     },
                     {
                         "name": "Iron Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850942"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1147,7 +1429,9 @@
                     },
                     {
                         "name": "Iron Sickle",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850937"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1155,7 +1439,9 @@
                     },
                     {
                         "name": "Ironleaf Fists",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850920"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1163,7 +1449,9 @@
                     },
                     {
                         "name": "Joy Waterpot",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850935"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1171,7 +1459,9 @@
                     },
                     {
                         "name": "Katana",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850754"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1179,7 +1469,9 @@
                     },
                     {
                         "name": "Katzbalger",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850752"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1187,7 +1479,9 @@
                     },
                     {
                         "name": "Kongo",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850815"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1195,7 +1489,9 @@
                     },
                     {
                         "name": "Kote",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850908"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1203,7 +1499,9 @@
                     },
                     {
                         "name": "Lance",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850764"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1211,7 +1509,9 @@
                     },
                     {
                         "name": "Lance+",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850784"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1219,7 +1519,9 @@
                     },
                     {
                         "name": "Leather Gloves",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850906"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1227,7 +1529,9 @@
                     },
                     {
                         "name": "Legendary Sickle",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850940"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1235,7 +1539,9 @@
                     },
                     {
                         "name": "Legion",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850792"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1243,7 +1549,9 @@
                     },
                     {
                         "name": "Lightning Wand",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850844"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1251,7 +1559,9 @@
                     },
                     {
                         "name": "Lion Waterpot",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850933"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1259,7 +1569,9 @@
                     },
                     {
                         "name": "Lollipop",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850835"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1267,7 +1579,9 @@
                     },
                     {
                         "name": "Love-Love Rod",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850867"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1275,7 +1589,9 @@
                     },
                     {
                         "name": "Luck Blade",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850703"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1283,7 +1599,9 @@
                     },
                     {
                         "name": "Lumber Axe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850948"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1291,7 +1609,9 @@
                     },
                     {
                         "name": "Mage's Staff",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850847"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1299,7 +1619,9 @@
                     },
                     {
                         "name": "Mage's Staff+",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850849"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1307,7 +1629,9 @@
                     },
                     {
                         "name": "Magic Broom",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850850"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1315,7 +1639,9 @@
                     },
                     {
                         "name": "Magic Shot",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850852"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1323,7 +1649,9 @@
                     },
                     {
                         "name": "Magical Lance",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850790"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1331,7 +1659,9 @@
                     },
                     {
                         "name": "Metus",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850776"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1339,7 +1669,9 @@
                     },
                     {
                         "name": "Miracle Axe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850950"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1347,7 +1679,9 @@
                     },
                     {
                         "name": "Mjolnir",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850801"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1355,7 +1689,9 @@
                     },
                     {
                         "name": "Monk Staff",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850777"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1363,7 +1699,9 @@
                     },
                     {
                         "name": "Moon Shadow",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850748"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1371,7 +1709,9 @@
                     },
                     {
                         "name": "Mountain Axe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850949"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1379,7 +1719,9 @@
                     },
                     {
                         "name": "Needle Spear",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850765"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1387,7 +1729,9 @@
                     },
                     {
                         "name": "Orcus Sword",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850893"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1395,7 +1739,9 @@
                     },
                     {
                         "name": "Orochi",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850762"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1403,7 +1749,9 @@
                     },
                     {
                         "name": "Overbreak",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850778"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1411,7 +1759,9 @@
                     },
                     {
                         "name": "Pine Club",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850794"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1419,7 +1769,9 @@
                     },
                     {
                         "name": "Pitchfork",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850787"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1427,7 +1779,9 @@
                     },
                     {
                         "name": "Platinum Edge",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850884"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1435,7 +1789,9 @@
                     },
                     {
                         "name": "Platinum Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850945"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1443,7 +1799,9 @@
                     },
                     {
                         "name": "Platinum Sword",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850704"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1451,7 +1809,9 @@
                     },
                     {
                         "name": "Platinum Sword+",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850717"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1459,7 +1819,9 @@
                     },
                     {
                         "name": "Poison Blade",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850738"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1467,7 +1829,9 @@
                     },
                     {
                         "name": "Poison Queen",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850793"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1475,7 +1839,9 @@
                     },
                     {
                         "name": "Poison Spear",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850770"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1483,7 +1849,9 @@
                     },
                     {
                         "name": "Pole Axe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850820"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1491,7 +1859,9 @@
                     },
                     {
                         "name": "Pole Axe+",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850832"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1499,7 +1869,9 @@
                     },
                     {
                         "name": "Priest Saber",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850900"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1507,7 +1879,9 @@
                     },
                     {
                         "name": "Psycho",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850756"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1515,7 +1889,9 @@
                     },
                     {
                         "name": "Punisher",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850744"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1523,7 +1899,9 @@
                     },
                     {
                         "name": "Quality Sickle",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850938"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1531,7 +1909,9 @@
                     },
                     {
                         "name": "Rainbow Waterpot",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850934"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1539,7 +1919,9 @@
                     },
                     {
                         "name": "Rampage",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850883"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1547,7 +1929,9 @@
                     },
                     {
                         "name": "Raventine",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850705"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1555,7 +1939,9 @@
                     },
                     {
                         "name": "Rock Axe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850829"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1563,7 +1949,9 @@
                     },
                     {
                         "name": "Rod",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850839"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1571,7 +1959,9 @@
                     },
                     {
                         "name": "Ruby Rod",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850860"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1579,7 +1969,9 @@
                     },
                     {
                         "name": "Rune Blade",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850715"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1587,7 +1979,9 @@
                     },
                     {
                         "name": "Rune Edge",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850895"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1595,7 +1989,9 @@
                     },
                     {
                         "name": "Rune Legend",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850724"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1603,7 +1999,9 @@
                     },
                     {
                         "name": "Rune Staff",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850848"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1611,7 +2009,9 @@
                     },
                     {
                         "name": "Sacred Pole",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850955"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1619,7 +2019,9 @@
                     },
                     {
                         "name": "Safety Lance",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850791"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1627,7 +2029,9 @@
                     },
                     {
                         "name": "Saint Axe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850831"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1635,7 +2039,9 @@
                     },
                     {
                         "name": "Sakura",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850702"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1643,7 +2049,9 @@
                     },
                     {
                         "name": "Salamander",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850881"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1651,7 +2059,9 @@
                     },
                     {
                         "name": "Sapphire Rod",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850862"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1659,7 +2069,9 @@
                     },
                     {
                         "name": "Schnabel",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850799"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1667,7 +2079,9 @@
                     },
                     {
                         "name": "Sea Cutter",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850745"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1675,7 +2089,9 @@
                     },
                     {
                         "name": "Seasoned Hoe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850928"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1683,7 +2099,9 @@
                     },
                     {
                         "name": "Shine Blade",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850741"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1691,7 +2109,9 @@
                     },
                     {
                         "name": "Shiny Hoe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850929"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1699,7 +2119,9 @@
                     },
                     {
                         "name": "Shooting Star Staff",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850857"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1707,7 +2129,9 @@
                     },
                     {
                         "name": "Short Dagger",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850875"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1715,7 +2139,9 @@
                     },
                     {
                         "name": "Silent Grave",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850772"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1723,7 +2149,9 @@
                     },
                     {
                         "name": "Silver Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850943"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1731,7 +2159,9 @@
                     },
                     {
                         "name": "Silver Staff",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850841"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1739,7 +2169,9 @@
                     },
                     {
                         "name": "Skilled Pole",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850953"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1747,7 +2179,9 @@
                     },
                     {
                         "name": "Sky Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850805"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1755,7 +2189,9 @@
                     },
                     {
                         "name": "Smash Blade",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850708"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1763,7 +2199,9 @@
                     },
                     {
                         "name": "Snakesword",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850725"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1771,7 +2209,9 @@
                     },
                     {
                         "name": "Snow Crown",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850747"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1779,7 +2219,9 @@
                     },
                     {
                         "name": "Sonic Dagger",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850880"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1787,7 +2229,9 @@
                     },
                     {
                         "name": "Sorcerer's Wand",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850868"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1795,7 +2239,9 @@
                     },
                     {
                         "name": "Soul Eater",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850707"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1803,7 +2249,9 @@
                     },
                     {
                         "name": "Spear",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850763"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1811,7 +2259,9 @@
                     },
                     {
                         "name": "Spiked Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850802"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1819,7 +2269,9 @@
                     },
                     {
                         "name": "Splash Star",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850818"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1827,7 +2279,9 @@
                     },
                     {
                         "name": "Spoon",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850723"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1835,7 +2289,9 @@
                     },
                     {
                         "name": "Staff",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850840"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1843,7 +2299,9 @@
                     },
                     {
                         "name": "Star Saber",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850711"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1851,7 +2309,9 @@
                     },
                     {
                         "name": "Steel Edge",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850876"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1859,7 +2319,9 @@
                     },
                     {
                         "name": "Steel Katana",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850879"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1867,7 +2329,9 @@
                     },
                     {
                         "name": "Steel Slicer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850739"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1875,7 +2339,9 @@
                     },
                     {
                         "name": "Steel Sword",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850696"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1883,7 +2349,9 @@
                     },
                     {
                         "name": "Steel Sword+",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850716"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1891,7 +2359,9 @@
                     },
                     {
                         "name": "Storm Wand",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850859"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1899,7 +2369,9 @@
                     },
                     {
                         "name": "Strong Stone",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850814"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1907,7 +2379,9 @@
                     },
                     {
                         "name": "Sturdy Hoe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850927"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1915,7 +2389,9 @@
                     },
                     {
                         "name": "Sunspot",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850710"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1923,7 +2399,9 @@
                     },
                     {
                         "name": "Super Sickle",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850939"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1931,7 +2409,9 @@
                     },
                     {
                         "name": "Sweet Potato Staff",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850872"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1939,7 +2419,9 @@
                     },
                     {
                         "name": "Syringe",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850874"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1947,7 +2429,9 @@
                     },
                     {
                         "name": "Thief Knife",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850898"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1955,7 +2439,9 @@
                     },
                     {
                         "name": "Tin Waterpot",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850932"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1963,7 +2449,9 @@
                     },
                     {
                         "name": "Tomahawk",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850828"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1971,7 +2459,9 @@
                     },
                     {
                         "name": "Toy Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850812"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1979,7 +2469,9 @@
                     },
                     {
                         "name": "Trident",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850786"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1987,7 +2479,9 @@
                     },
                     {
                         "name": "Twin Blade",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850882"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -1995,7 +2489,9 @@
                     },
                     {
                         "name": "Twin Justice",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850905"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -2003,7 +2499,9 @@
                     },
                     {
                         "name": "Twin Leeks",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850904"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -2011,7 +2509,9 @@
                     },
                     {
                         "name": "Veggieblade",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850726"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -2019,7 +2519,9 @@
                     },
                     {
                         "name": "Volcanon",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850746"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -2027,7 +2529,9 @@
                     },
                     {
                         "name": "War Hammer",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850797"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -2035,7 +2539,9 @@
                     },
                     {
                         "name": "War Hammer+",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850809"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -2043,7 +2549,9 @@
                     },
                     {
                         "name": "Water Spear",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850767"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -2051,7 +2559,9 @@
                     },
                     {
                         "name": "Wind Edge",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850877"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -2059,7 +2569,9 @@
                     },
                     {
                         "name": "Wind Sword",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850697"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -2067,7 +2579,9 @@
                     },
                     {
                         "name": "Wizard's Staff",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850846"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -2075,7 +2589,9 @@
                     },
                     {
                         "name": "Wood Staff",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850769"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -2083,7 +2599,9 @@
                     },
                     {
                         "name": "Zweihaender",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850730"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],
@@ -2091,7 +2609,9 @@
                     },
                     {
                         "name": "Zweihaender+",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850750"
+                        ],
                         "visibility_rules": [
                             "opt_forgesanity"
                         ],

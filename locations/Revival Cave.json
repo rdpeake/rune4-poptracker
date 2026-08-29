@@ -19,13 +19,17 @@
                 "sections": [
                     {
                         "name": "Boss - Dragon Bones",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851251"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Ayngondaia Lawn",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850477"
+                        ],
                         "visibility_rules": [
                             "opt_foragesanity"
                         ],

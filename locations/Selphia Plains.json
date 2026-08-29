@@ -28,7 +28,9 @@
                         "sections": [
                             {
                                 "name": "Fairy Dust",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851244"
+                                ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
                                 ],
@@ -36,7 +38,9 @@
                             },
                             {
                                 "name": "Yellow Down",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851307"
+                                ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
                                 ],
@@ -44,7 +48,9 @@
                             },
                             {
                                 "name": "Apple",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850427"
+                                ],
                                 "visibility_rules": [
                                     "opt_foragesanity"
                                 ],
@@ -52,7 +58,9 @@
                             },
                             {
                                 "name": "Grapes",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850426"
+                                ],
                                 "visibility_rules": [
                                     "opt_foragesanity"
                                 ],
@@ -60,7 +68,9 @@
                             },
                             {
                                 "name": "Orange",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850428"
+                                ],
                                 "visibility_rules": [
                                     "opt_foragesanity"
                                 ],
@@ -68,7 +78,9 @@
                             },
                             {
                                 "name": "Bronze",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851187"
+                                ],
                                 "visibility_rules": [
                                     "opt_mineralsanity"
                                 ],
@@ -76,7 +88,9 @@
                             },
                             {
                                 "name": "Apple Tree Seeds",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851163"
+                                ],
                                 "visibility_rules": [
                                     "opt_foragesanity"
                                 ],
@@ -84,7 +98,9 @@
                             },
                             {
                                 "name": "Grape Tree Seed",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851165"
+                                ],
                                 "visibility_rules": [
                                     "opt_foragesanity"
                                 ],
@@ -92,7 +108,9 @@
                             },
                             {
                                 "name": "Orange Tree Seed",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851164"
+                                ],
                                 "visibility_rules": [
                                     "opt_foragesanity"
                                 ],
@@ -100,7 +118,9 @@
                             },
                             {
                                 "name": "Gust",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851422"
+                                ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
                                 ],
@@ -137,13 +157,17 @@
                                 "sections": [
                                     {
                                         "name": "Vest",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851505"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     },
                                     {
                                         "name": "Salmon Sashimi + Bamboo Rice",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851506"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -168,25 +192,33 @@
                                 "sections": [
                                     {
                                         "name": "Leveliser",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851507"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     },
                                     {
                                         "name": "Boiled Gyoza Recipe",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851508"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     },
                                     {
                                         "name": "Sacred Pole Recipe",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851509"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     },
                                     {
                                         "name": "Relax Tea",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851510"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -211,7 +243,9 @@
                                 "sections": [
                                     {
                                         "name": "Black Ribbon",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851513"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -236,7 +270,9 @@
                                 "sections": [
                                     {
                                         "name": "Gust Lv.1",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851543"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -261,7 +297,9 @@
                                 "sections": [
                                     {
                                         "name": "Leek Seeds x4",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851660"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -290,7 +328,9 @@
                 "sections": [
                     {
                         "name": "Fur",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851230"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -298,7 +338,9 @@
                     },
                     {
                         "name": "Holy Spore",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851295"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -306,7 +348,9 @@
                     },
                     {
                         "name": "Spore",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851232"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -314,7 +358,9 @@
                     },
                     {
                         "name": "Lamp Squid",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851379"
+                        ],
                         "visibility_rules": [
                             "opt_fishsanity"
                         ],
@@ -322,7 +368,9 @@
                     },
                     {
                         "name": "Lobster",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851380"
+                        ],
                         "visibility_rules": [
                             "opt_fishsanity"
                         ],
@@ -330,7 +378,9 @@
                     },
                     {
                         "name": "Pike",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851365"
+                        ],
                         "visibility_rules": [
                             "opt_fishsanity"
                         ],
@@ -338,7 +388,9 @@
                     },
                     {
                         "name": "Shrimp",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851367"
+                        ],
                         "visibility_rules": [
                             "opt_fishsanity"
                         ],
@@ -346,7 +398,9 @@
                     },
                     {
                         "name": "Tuna",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851375"
+                        ],
                         "visibility_rules": [
                             "opt_fishsanity"
                         ],
@@ -354,7 +408,9 @@
                     },
                     {
                         "name": "Green Grass",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850445"
+                        ],
                         "visibility_rules": [
                             "opt_foragesanity"
                         ],
@@ -362,7 +418,9 @@
                     },
                     {
                         "name": "Purple Grass",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850446"
+                        ],
                         "visibility_rules": [
                             "opt_foragesanity"
                         ],
@@ -370,7 +428,9 @@
                     },
                     {
                         "name": "Egg (S)",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850674"
+                        ],
                         "visibility_rules": [
                             "opt_foragesanity"
                         ],
@@ -378,7 +438,9 @@
                     },
                     {
                         "name": "Milk (S)",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850671"
+                        ],
                         "visibility_rules": [
                             "opt_foragesanity"
                         ],
@@ -386,7 +448,9 @@
                     },
                     {
                         "name": "Amethyst",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851196"
+                        ],
                         "visibility_rules": [
                             "opt_mineralsanity"
                         ],
@@ -394,7 +458,9 @@
                     },
                     {
                         "name": "Earth Crystal",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851206"
+                        ],
                         "visibility_rules": [
                             "opt_mineralsanity"
                         ],
@@ -402,7 +468,9 @@
                     },
                     {
                         "name": "Invisible Stone",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851297"
+                        ],
                         "visibility_rules": [
                             "opt_mineralsanity"
                         ],
@@ -410,7 +478,9 @@
                     },
                     {
                         "name": "Iron",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851186"
+                        ],
                         "visibility_rules": [
                             "opt_mineralsanity"
                         ],
@@ -418,7 +488,9 @@
                     },
                     {
                         "name": "Scrap Metal",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851185"
+                        ],
                         "visibility_rules": [
                             "opt_mineralsanity"
                         ],
@@ -426,7 +498,9 @@
                     },
                     {
                         "name": "Mushroom 1",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850415"
+                        ],
                         "visibility_rules": [
                             "opt_foragesanity"
                         ],
@@ -434,7 +508,9 @@
                     },
                     {
                         "name": "Mushroom 2",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850416"
+                        ],
                         "visibility_rules": [
                             "opt_foragesanity"
                         ],
@@ -442,7 +518,9 @@
                     },
                     {
                         "name": "Mushroom 3",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850417"
+                        ],
                         "visibility_rules": [
                             "opt_foragesanity"
                         ],
@@ -450,7 +528,9 @@
                     },
                     {
                         "name": "Mushroom 4",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850418"
+                        ],
                         "visibility_rules": [
                             "opt_foragesanity"
                         ],
@@ -458,7 +538,9 @@
                     },
                     {
                         "name": "Mushroom 5",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850419"
+                        ],
                         "visibility_rules": [
                             "opt_foragesanity"
                         ],
@@ -466,7 +548,9 @@
                     },
                     {
                         "name": "Mushroom 6",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850420"
+                        ],
                         "visibility_rules": [
                             "opt_foragesanity"
                         ],
@@ -474,7 +558,9 @@
                     },
                     {
                         "name": "Fur (S)",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851181"
+                        ],
                         "visibility_rules": [
                             "opt_foragesanity"
                         ],
@@ -482,13 +568,17 @@
                     },
                     {
                         "name": "Summer Headdress",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851067"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Power Wave",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851417"
+                        ],
                         "visibility_rules": [
                             "opt_spellsanity"
                         ],
@@ -496,7 +586,9 @@
                     },
                     {
                         "name": "Reaper Slash",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851433"
+                        ],
                         "visibility_rules": [
                             "opt_spellsanity"
                         ],
@@ -504,7 +596,9 @@
                     },
                     {
                         "name": "Upper Cut",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851440"
+                        ],
                         "visibility_rules": [
                             "opt_spellsanity"
                         ],
@@ -541,7 +635,9 @@
                         "sections": [
                             {
                                 "name": "Wooly Furball",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851246"
+                                ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
                                 ],
@@ -580,7 +676,9 @@
                         "sections": [
                             {
                                 "name": "Shirt",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851491"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -605,7 +703,9 @@
                         "sections": [
                             {
                                 "name": "Antidote Grass x3",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851492"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -630,19 +730,25 @@
                         "sections": [
                             {
                                 "name": "Spear + Iron Shield",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851493"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             },
                             {
                                 "name": "3x iron + Bronze",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851494"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             },
                             {
                                 "name": "4x Recovery Potion",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851495"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -667,13 +773,17 @@
                         "sections": [
                             {
                                 "name": "Power Wave Lv.1",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851496"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             },
                             {
                                 "name": "Toy Herb Seed x4",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851497"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -698,7 +808,9 @@
                         "sections": [
                             {
                                 "name": "Reaper Slash Lv.1",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851504"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -723,7 +835,9 @@
                         "sections": [
                             {
                                 "name": "800G",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851645"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -748,7 +862,9 @@
                         "sections": [
                             {
                                 "name": "Upper Cut Lv.1",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851646"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -773,13 +889,17 @@
                         "sections": [
                             {
                                 "name": "Turnip Seed x4",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851657"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             },
                             {
                                 "name": "Toy Herb Seed x4",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851658"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -806,7 +926,9 @@
                 "sections": [
                     {
                         "name": "Big Muck",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852689"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -814,7 +936,9 @@
                     },
                     {
                         "name": "Buffamoo",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852696"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -822,7 +946,9 @@
                     },
                     {
                         "name": "Chipsqueek",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852700"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -830,7 +956,9 @@
                     },
                     {
                         "name": "Cluckadoodle",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852702"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -838,7 +966,9 @@
                     },
                     {
                         "name": "Pomme Pomme",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852813"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -846,7 +976,9 @@
                     },
                     {
                         "name": "Wooly",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852853"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -874,7 +1006,9 @@
                 "sections": [
                     {
                         "name": "Duck",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852714"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -882,7 +1016,9 @@
                     },
                     {
                         "name": "Fairy",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852721"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -910,7 +1046,9 @@
                 "sections": [
                     {
                         "name": "Shmooly",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852830"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],

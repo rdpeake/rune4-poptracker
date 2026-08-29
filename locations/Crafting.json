@@ -19,7 +19,9 @@
                 "sections": [
                     {
                         "name": "Amethyst Brooch",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851000"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -27,7 +29,9 @@
                     },
                     {
                         "name": "Amethyst Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850975"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -35,7 +39,9 @@
                     },
                     {
                         "name": "Anette's Necklace",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851038"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -43,7 +49,9 @@
                     },
                     {
                         "name": "Aquamarine Brooch",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850999"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -51,7 +59,9 @@
                     },
                     {
                         "name": "Aquamarine Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850974"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -59,7 +69,9 @@
                     },
                     {
                         "name": "Art of Attack",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851030"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -67,7 +79,9 @@
                     },
                     {
                         "name": "Art of Defense",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851031"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -75,7 +89,9 @@
                     },
                     {
                         "name": "Art of Magic",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851032"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -83,7 +99,9 @@
                     },
                     {
                         "name": "Badge",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851020"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -91,7 +109,9 @@
                     },
                     {
                         "name": "Black Ribbon",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851055"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -99,7 +119,9 @@
                     },
                     {
                         "name": "Blue Ribbon",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851059"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -107,7 +129,9 @@
                     },
                     {
                         "name": "Bone Boots",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851095"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -115,7 +139,9 @@
                     },
                     {
                         "name": "Bone Shield",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850968"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -123,7 +149,9 @@
                     },
                     {
                         "name": "Brand Glasses",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851049"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -131,7 +159,9 @@
                     },
                     {
                         "name": "Bronze Bracelet",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850995"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -139,7 +169,9 @@
                     },
                     {
                         "name": "Cat Ears",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851072"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -147,7 +179,9 @@
                     },
                     {
                         "name": "Chain Mail",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851104"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -155,7 +189,9 @@
                     },
                     {
                         "name": "Champ Belt",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851017"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -163,7 +199,9 @@
                     },
                     {
                         "name": "Chaos Shield",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850966"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -171,7 +209,9 @@
                     },
                     {
                         "name": "Charm",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851013"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -179,7 +219,9 @@
                     },
                     {
                         "name": "Cheap Bracelet",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850994"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -187,7 +229,9 @@
                     },
                     {
                         "name": "Cotton Cloth",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851103"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -195,7 +239,9 @@
                     },
                     {
                         "name": "Courage Badge",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851025"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -203,7 +249,9 @@
                     },
                     {
                         "name": "Critical Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850989"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -211,7 +259,9 @@
                     },
                     {
                         "name": "Crown",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851073"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -219,7 +269,9 @@
                     },
                     {
                         "name": "Cursed Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850981"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -227,7 +279,9 @@
                     },
                     {
                         "name": "Cute Knitting",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851054"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -235,7 +289,9 @@
                     },
                     {
                         "name": "Dew Pendant",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851010"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -243,7 +299,9 @@
                     },
                     {
                         "name": "Diamond Brooch",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851003"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -251,7 +309,9 @@
                     },
                     {
                         "name": "Diamond Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850978"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -259,7 +319,9 @@
                     },
                     {
                         "name": "Dolphin Brooch",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851042"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -267,7 +329,9 @@
                     },
                     {
                         "name": "Dragon Cloak",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851113"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -275,7 +339,9 @@
                     },
                     {
                         "name": "Earrings",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851033"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -283,7 +349,9 @@
                     },
                     {
                         "name": "Earth Pendant",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851011"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -291,7 +359,9 @@
                     },
                     {
                         "name": "Earth Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850985"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -299,7 +369,9 @@
                     },
                     {
                         "name": "Element Shield",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850965"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -307,7 +379,9 @@
                     },
                     {
                         "name": "Elvish Cloak",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851111"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -315,7 +389,9 @@
                     },
                     {
                         "name": "Emerald Brooch",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851001"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -323,7 +399,9 @@
                     },
                     {
                         "name": "Emerald Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850976"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -331,7 +409,9 @@
                     },
                     {
                         "name": "Engagement Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851043"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -339,7 +419,9 @@
                     },
                     {
                         "name": "Fairy Boots",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851096"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -347,7 +429,9 @@
                     },
                     {
                         "name": "Fancy Hat",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851046"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -355,7 +439,9 @@
                     },
                     {
                         "name": "Fast Step Boots",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851090"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -363,7 +449,9 @@
                     },
                     {
                         "name": "Feather Boots",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851076"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -371,7 +459,9 @@
                     },
                     {
                         "name": "Feathered Hat",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851048"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -379,7 +469,9 @@
                     },
                     {
                         "name": "Field Pendant",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851009"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -387,7 +479,9 @@
                     },
                     {
                         "name": "Fire Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850982"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -395,7 +489,9 @@
                     },
                     {
                         "name": "Fireproof Hood",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851053"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -403,7 +499,9 @@
                     },
                     {
                         "name": "Fluffy Scarf",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851029"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -411,7 +509,9 @@
                     },
                     {
                         "name": "Four Dragons' Vest",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851116"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -419,7 +519,9 @@
                     },
                     {
                         "name": "Four Seasons",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851074"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -427,7 +529,9 @@
                     },
                     {
                         "name": "Free Farming Shoes",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851097"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -435,7 +539,9 @@
                     },
                     {
                         "name": "Ghost Boots",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851084"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -443,7 +549,9 @@
                     },
                     {
                         "name": "Gold Boots",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851094"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -451,7 +559,9 @@
                     },
                     {
                         "name": "Gold Bracelet",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850997"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -459,7 +569,9 @@
                     },
                     {
                         "name": "Gold Hairpin",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851045"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -467,7 +579,9 @@
                     },
                     {
                         "name": "Gold Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850987"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -475,7 +589,9 @@
                     },
                     {
                         "name": "Green Ribbon",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851060"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -483,7 +599,9 @@
                     },
                     {
                         "name": "Hand-Knit Scarf",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851028"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -491,7 +609,9 @@
                     },
                     {
                         "name": "Happy Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850980"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -499,7 +619,9 @@
                     },
                     {
                         "name": "Headband",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851047"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -507,7 +629,9 @@
                     },
                     {
                         "name": "Headdress",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851071"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -515,7 +639,9 @@
                     },
                     {
                         "name": "Heart Pendant",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851006"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -523,7 +649,9 @@
                     },
                     {
                         "name": "Heavy Boots",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851077"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -531,7 +659,9 @@
                     },
                     {
                         "name": "Heavy Shield",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850960"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -539,7 +669,9 @@
                     },
                     {
                         "name": "Hero's Proof",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851026"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -547,7 +679,9 @@
                     },
                     {
                         "name": "Holy Amulet",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851012"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -555,7 +689,9 @@
                     },
                     {
                         "name": "Ice Skates",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851081"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -563,7 +699,9 @@
                     },
                     {
                         "name": "Indigo Ribbon",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851062"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -571,7 +709,9 @@
                     },
                     {
                         "name": "Intelligent Glasses",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851051"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -579,7 +719,9 @@
                     },
                     {
                         "name": "Iron Geta",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851085"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -587,7 +729,9 @@
                     },
                     {
                         "name": "Iron Shield",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850957"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -595,7 +739,9 @@
                     },
                     {
                         "name": "Kite Shield",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850969"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -603,7 +749,9 @@
                     },
                     {
                         "name": "Knight Boots",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851079"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -611,7 +759,9 @@
                     },
                     {
                         "name": "Knight Shield",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850961"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -619,7 +769,9 @@
                     },
                     {
                         "name": "Lamellar Vest",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851110"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -627,7 +779,9 @@
                     },
                     {
                         "name": "Leather Belt",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851014"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -635,7 +789,9 @@
                     },
                     {
                         "name": "Leather Boots",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851078"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -643,7 +799,9 @@
                     },
                     {
                         "name": "Lolita Headdress",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851070"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -651,7 +809,9 @@
                     },
                     {
                         "name": "Lucky Strike",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851015"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -659,7 +819,9 @@
                     },
                     {
                         "name": "Magic Charm",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851022"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -667,7 +829,9 @@
                     },
                     {
                         "name": "Magic Earrings",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851035"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -675,7 +839,9 @@
                     },
                     {
                         "name": "Magic Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850993"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -683,7 +849,9 @@
                     },
                     {
                         "name": "Magic Shield",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850963"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -691,7 +859,9 @@
                     },
                     {
                         "name": "Magical Shield",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850970"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -699,7 +869,9 @@
                     },
                     {
                         "name": "Mail",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851102"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -707,7 +879,9 @@
                     },
                     {
                         "name": "Mercenary's Cloak",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851101"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -715,7 +889,9 @@
                     },
                     {
                         "name": "Monkey Plush",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850971"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -723,7 +899,9 @@
                     },
                     {
                         "name": "Orange Ribbon",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851056"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -731,7 +909,9 @@
                     },
                     {
                         "name": "Paralysis Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850991"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -739,7 +919,9 @@
                     },
                     {
                         "name": "Piyo Sandals",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851082"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -747,7 +929,9 @@
                     },
                     {
                         "name": "Platinum Bracelet",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850998"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -755,7 +939,9 @@
                     },
                     {
                         "name": "Platinum Mail",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851109"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -763,7 +949,9 @@
                     },
                     {
                         "name": "Platinum Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850988"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -771,7 +959,9 @@
                     },
                     {
                         "name": "Platinum Shield",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850959"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -779,7 +969,9 @@
                     },
                     {
                         "name": "Poison Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850992"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -787,7 +979,9 @@
                     },
                     {
                         "name": "Power Gloves",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851021"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -795,7 +989,9 @@
                     },
                     {
                         "name": "Power Protector",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851112"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -803,7 +999,9 @@
                     },
                     {
                         "name": "Prism Shield",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850964"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -811,7 +1009,9 @@
                     },
                     {
                         "name": "Proof of Wisdom",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851027"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -819,7 +1019,9 @@
                     },
                     {
                         "name": "Protector",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851106"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -827,7 +1029,9 @@
                     },
                     {
                         "name": "Pumpkin Headgear",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851065"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -835,7 +1039,9 @@
                     },
                     {
                         "name": "Purple Ribbon",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851061"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -843,7 +1049,9 @@
                     },
                     {
                         "name": "Red Ribbon",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851057"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -851,7 +1059,9 @@
                     },
                     {
                         "name": "Rocket Wing",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851092"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -859,7 +1069,9 @@
                     },
                     {
                         "name": "Rosary",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851024"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -867,7 +1079,9 @@
                     },
                     {
                         "name": "Round Shield",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850958"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -875,7 +1089,9 @@
                     },
                     {
                         "name": "Royal Garter",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851115"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -883,7 +1099,9 @@
                     },
                     {
                         "name": "Ruby Brooch",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851004"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -891,7 +1109,9 @@
                     },
                     {
                         "name": "Ruby Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850979"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -899,7 +1119,9 @@
                     },
                     {
                         "name": "Rune Shield",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850962"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -907,7 +1129,9 @@
                     },
                     {
                         "name": "Rune Vest",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851114"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -915,7 +1139,9 @@
                     },
                     {
                         "name": "Sapphire Brooch",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851002"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -923,7 +1149,9 @@
                     },
                     {
                         "name": "Sapphire Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850977"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -931,7 +1159,9 @@
                     },
                     {
                         "name": "Scale Vest",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851105"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -939,7 +1169,9 @@
                     },
                     {
                         "name": "Secret Shoes",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851087"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -947,7 +1179,9 @@
                     },
                     {
                         "name": "Shield Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851023"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -955,7 +1189,9 @@
                     },
                     {
                         "name": "Shirt",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851098"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -963,7 +1199,9 @@
                     },
                     {
                         "name": "Silent Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850990"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -971,7 +1209,9 @@
                     },
                     {
                         "name": "Silk Hat",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851075"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -979,7 +1219,9 @@
                     },
                     {
                         "name": "Silver Boots",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851093"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -987,7 +1229,9 @@
                     },
                     {
                         "name": "Silver Bracelet",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850996"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -995,7 +1239,9 @@
                     },
                     {
                         "name": "Silver Hairpin",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851044"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1003,7 +1249,9 @@
                     },
                     {
                         "name": "Silver Pendant",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851005"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1011,7 +1259,9 @@
                     },
                     {
                         "name": "Silver Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850986"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1019,7 +1269,9 @@
                     },
                     {
                         "name": "Small Shield",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850956"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1027,7 +1279,9 @@
                     },
                     {
                         "name": "Sneaking Boots",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851089"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1035,7 +1289,9 @@
                     },
                     {
                         "name": "Snow Boots",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851080"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1043,7 +1299,9 @@
                     },
                     {
                         "name": "Sparkling Shirt",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851108"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1051,7 +1309,9 @@
                     },
                     {
                         "name": "Spectacles",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851050"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1059,7 +1319,9 @@
                     },
                     {
                         "name": "Star Pendant",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851007"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1067,7 +1329,9 @@
                     },
                     {
                         "name": "Stay-up Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851040"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1075,7 +1339,9 @@
                     },
                     {
                         "name": "Step-In Boots",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851083"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1083,7 +1349,9 @@
                     },
                     {
                         "name": "Strange Pendant",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851041"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1091,7 +1359,9 @@
                     },
                     {
                         "name": "Straw Hat",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851052"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1099,7 +1369,9 @@
                     },
                     {
                         "name": "Strider Boots",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851086"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1107,7 +1379,9 @@
                     },
                     {
                         "name": "Sun Pendant",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851008"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1115,7 +1389,9 @@
                     },
                     {
                         "name": "Talisman",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851016"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1123,7 +1399,9 @@
                     },
                     {
                         "name": "Throwing Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851039"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1131,7 +1409,9 @@
                     },
                     {
                         "name": "Turnip Headgear",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851064"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1139,7 +1419,9 @@
                     },
                     {
                         "name": "Turtle Shield",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850967"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1147,7 +1429,9 @@
                     },
                     {
                         "name": "Umbrella",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850972"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1155,7 +1439,9 @@
                     },
                     {
                         "name": "Vest",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851099"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1163,7 +1449,9 @@
                     },
                     {
                         "name": "Water Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850984"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1171,7 +1459,9 @@
                     },
                     {
                         "name": "Water Shoes",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851091"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1179,7 +1469,9 @@
                     },
                     {
                         "name": "Wet Boots",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851088"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1187,7 +1479,9 @@
                     },
                     {
                         "name": "White Ribbon",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851063"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1195,7 +1489,9 @@
                     },
                     {
                         "name": "Wind Cloak",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851107"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1203,7 +1499,9 @@
                     },
                     {
                         "name": "Wind Ring",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850983"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1211,7 +1509,9 @@
                     },
                     {
                         "name": "Witch Earrings",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851034"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1219,7 +1519,9 @@
                     },
                     {
                         "name": "Wooly Shirt",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851100"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1227,7 +1529,9 @@
                     },
                     {
                         "name": "Work Gloves",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851019"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1235,7 +1539,9 @@
                     },
                     {
                         "name": "Yarn",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851184"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],
@@ -1243,7 +1549,9 @@
                     },
                     {
                         "name": "Yellow Ribbon",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851058"
+                        ],
                         "visibility_rules": [
                             "opt_craftsanity"
                         ],

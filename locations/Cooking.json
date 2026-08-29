@@ -28,7 +28,9 @@
                         "sections": [
                             {
                                 "name": "Apple Jam",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850587"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -36,7 +38,9 @@
                             },
                             {
                                 "name": "Apple Pie",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850624"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -44,7 +48,9 @@
                             },
                             {
                                 "name": "Baked Onigiri",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850607"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -52,7 +58,9 @@
                             },
                             {
                                 "name": "Boiled Egg",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850583"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -60,7 +68,9 @@
                             },
                             {
                                 "name": "Boiled Gyoza",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850585"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -68,7 +78,9 @@
                             },
                             {
                                 "name": "Boiled Pumpkin",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850581"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -76,7 +88,9 @@
                             },
                             {
                                 "name": "Boiled Spinach",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850582"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -84,7 +98,9 @@
                             },
                             {
                                 "name": "Bread",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850663"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -92,7 +108,9 @@
                             },
                             {
                                 "name": "Butter Roll",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850611"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -100,7 +118,9 @@
                             },
                             {
                                 "name": "Cake",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850621"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -108,7 +128,9 @@
                             },
                             {
                                 "name": "Cheese Bread",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850643"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -116,7 +138,9 @@
                             },
                             {
                                 "name": "Cheese Fondue",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850590"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -124,7 +148,9 @@
                             },
                             {
                                 "name": "Cheesecake",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850623"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -132,7 +158,9 @@
                             },
                             {
                                 "name": "Chinese Manju",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850645"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -140,7 +168,9 @@
                             },
                             {
                                 "name": "Choco Cookie",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850620"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -148,7 +178,9 @@
                             },
                             {
                                 "name": "Chocolate Cake",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850622"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -156,7 +188,9 @@
                             },
                             {
                                 "name": "Chocolate Sponge",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850649"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -164,7 +198,9 @@
                             },
                             {
                                 "name": "Cookie",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850619"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -172,7 +208,9 @@
                             },
                             {
                                 "name": "Corn on the Cob",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850606"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -180,7 +218,9 @@
                             },
                             {
                                 "name": "Curry Manju",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850646"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -188,7 +228,9 @@
                             },
                             {
                                 "name": "Curry Rice",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850599"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -196,7 +238,9 @@
                             },
                             {
                                 "name": "Curry Udon",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850592"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -204,7 +248,9 @@
                             },
                             {
                                 "name": "Doria",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850614"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -212,7 +258,9 @@
                             },
                             {
                                 "name": "Dumplings",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850652"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -220,7 +268,9 @@
                             },
                             {
                                 "name": "Egg Bowl",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850597"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -228,7 +278,9 @@
                             },
                             {
                                 "name": "Flan",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850650"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -236,7 +288,9 @@
                             },
                             {
                                 "name": "Glazed Yam",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850584"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -244,7 +298,9 @@
                             },
                             {
                                 "name": "Grape Jam",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850588"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -252,7 +308,9 @@
                             },
                             {
                                 "name": "Grape Liqueur",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850580"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -260,7 +318,9 @@
                             },
                             {
                                 "name": "Gratin",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850616"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -268,7 +328,9 @@
                             },
                             {
                                 "name": "Grilled Miso",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850603"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -276,7 +338,9 @@
                             },
                             {
                                 "name": "Hot Chocolate",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850579"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -284,7 +348,9 @@
                             },
                             {
                                 "name": "Hot Milk",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850578"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -292,7 +358,9 @@
                             },
                             {
                                 "name": "Jam Roll",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850610"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -300,7 +368,9 @@
                             },
                             {
                                 "name": "Marmalade",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850589"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -308,7 +378,9 @@
                             },
                             {
                                 "name": "Meat Dumpling",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850644"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -316,7 +388,9 @@
                             },
                             {
                                 "name": "Milk Porridge",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850595"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -324,7 +398,9 @@
                             },
                             {
                                 "name": "Pizza",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850612"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -332,7 +408,9 @@
                             },
                             {
                                 "name": "Pound Cake",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850648"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -340,7 +418,9 @@
                             },
                             {
                                 "name": "Pumpkin Flan",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850651"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -348,7 +428,9 @@
                             },
                             {
                                 "name": "Raisin Bread",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850659"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -356,7 +438,9 @@
                             },
                             {
                                 "name": "Relax Tea",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850602"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -364,7 +448,9 @@
                             },
                             {
                                 "name": "Rice Porridge",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850594"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -372,7 +458,9 @@
                             },
                             {
                                 "name": "Rockfish Stew",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850605"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -380,7 +468,9 @@
                             },
                             {
                                 "name": "Royal Curry",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850601"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -388,7 +478,9 @@
                             },
                             {
                                 "name": "Seafood Doria",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850615"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -396,7 +488,9 @@
                             },
                             {
                                 "name": "Seafood Gratin",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850617"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -404,7 +498,9 @@
                             },
                             {
                                 "name": "Seafood Pizza",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850613"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -412,7 +508,9 @@
                             },
                             {
                                 "name": "Steamed Bread",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850642"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -420,7 +518,9 @@
                             },
                             {
                                 "name": "Steamed Gyoza",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850647"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -428,7 +528,9 @@
                             },
                             {
                                 "name": "Stew",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850598"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -436,7 +538,9 @@
                             },
                             {
                                 "name": "Strawberry Jam",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850586"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -444,7 +548,9 @@
                             },
                             {
                                 "name": "Sweet Potato",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850608"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -452,7 +558,9 @@
                             },
                             {
                                 "name": "Tempura Bowl",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850596"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -460,7 +568,9 @@
                             },
                             {
                                 "name": "Tempura Udon",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850593"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -468,7 +578,9 @@
                             },
                             {
                                 "name": "Toast",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850609"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -476,7 +588,9 @@
                             },
                             {
                                 "name": "Udon",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850591"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -484,7 +598,9 @@
                             },
                             {
                                 "name": "Ultimate Curry",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850600"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -492,7 +608,9 @@
                             },
                             {
                                 "name": "Union Stew",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850604"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -500,7 +618,9 @@
                             },
                             {
                                 "name": "Yam of the Ages",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850618"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -508,7 +628,9 @@
                             },
                             {
                                 "name": "Yogurt",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850679"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -538,7 +660,9 @@
                         "sections": [
                             {
                                 "name": "Apple Juice",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850629"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -546,7 +670,9 @@
                             },
                             {
                                 "name": "Baked Apple",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850537"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -554,7 +680,9 @@
                             },
                             {
                                 "name": "Blowfish Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850523"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -562,7 +690,9 @@
                             },
                             {
                                 "name": "Butter",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850638"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -570,7 +700,9 @@
                             },
                             {
                                 "name": "Cabbage Cakes",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850528"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -578,7 +710,9 @@
                             },
                             {
                                 "name": "Char Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850502"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -586,7 +720,9 @@
                             },
                             {
                                 "name": "Cherry Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850505"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -594,7 +730,9 @@
                             },
                             {
                                 "name": "Corn Cereal",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850532"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -602,7 +740,9 @@
                             },
                             {
                                 "name": "Croquettes",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850530"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -610,7 +750,9 @@
                             },
                             {
                                 "name": "Curry Bread",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850538"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -618,7 +760,9 @@
                             },
                             {
                                 "name": "Disastrous Dish",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850500"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -626,7 +770,9 @@
                             },
                             {
                                 "name": "Donut",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850540"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -634,7 +780,9 @@
                             },
                             {
                                 "name": "Dried Sardines",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850565"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -642,7 +790,9 @@
                             },
                             {
                                 "name": "Dry Curry",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850546"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -650,7 +800,9 @@
                             },
                             {
                                 "name": "Failed Dish",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850499"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -658,7 +810,9 @@
                             },
                             {
                                 "name": "Fall Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850519"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -666,7 +820,9 @@
                             },
                             {
                                 "name": "Flounder Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850517"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -674,7 +830,9 @@
                             },
                             {
                                 "name": "French Fries",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850529"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -682,7 +840,9 @@
                             },
                             {
                                 "name": "French Toast",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850539"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -690,7 +850,9 @@
                             },
                             {
                                 "name": "Fried Eggs",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850534"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -698,7 +860,9 @@
                             },
                             {
                                 "name": "Fried Rice",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850527"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -706,7 +870,9 @@
                             },
                             {
                                 "name": "Fried Udon",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850541"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -714,7 +880,9 @@
                             },
                             {
                                 "name": "Fried Veggies",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850526"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -722,7 +890,9 @@
                             },
                             {
                                 "name": "Fruit Juice",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850631"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -730,7 +900,9 @@
                             },
                             {
                                 "name": "Fruit Smoothie",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850632"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -738,7 +910,9 @@
                             },
                             {
                                 "name": "Girella Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850510"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -746,7 +920,9 @@
                             },
                             {
                                 "name": "Glitter Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850508"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -754,7 +930,9 @@
                             },
                             {
                                 "name": "Gold Juice",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850639"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -762,7 +940,9 @@
                             },
                             {
                                 "name": "Grape Juice",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850627"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -770,7 +950,9 @@
                             },
                             {
                                 "name": "Grilled Blowfish",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850574"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -778,7 +960,9 @@
                             },
                             {
                                 "name": "Grilled C. Carp",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850554"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -786,7 +970,9 @@
                             },
                             {
                                 "name": "Grilled F.Flounder",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850570"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -794,7 +980,9 @@
                             },
                             {
                                 "name": "Grilled Flounder",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850568"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -802,7 +990,9 @@
                             },
                             {
                                 "name": "Grilled G. Snapper",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850558"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -810,7 +1000,9 @@
                             },
                             {
                                 "name": "Grilled Gibelio",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850555"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -818,7 +1010,9 @@
                             },
                             {
                                 "name": "Grilled Girella",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850557"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -826,7 +1020,9 @@
                             },
                             {
                                 "name": "Grilled L. Snapper",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850559"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -834,7 +1030,9 @@
                             },
                             {
                                 "name": "Grilled Lamp Squid",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850573"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -842,7 +1040,9 @@
                             },
                             {
                                 "name": "Grilled Lobster",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850575"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -850,7 +1050,9 @@
                             },
                             {
                                 "name": "Grilled Mackerel",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850561"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -858,7 +1060,9 @@
                             },
                             {
                                 "name": "Grilled Needlefish",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850566"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -866,7 +1070,9 @@
                             },
                             {
                                 "name": "Grilled S.Flounder",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850577"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -874,7 +1080,9 @@
                             },
                             {
                                 "name": "Grilled Shrimp",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850576"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -882,7 +1090,9 @@
                             },
                             {
                                 "name": "Grilled Skipjack",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850560"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -890,7 +1100,9 @@
                             },
                             {
                                 "name": "Grilled Snapper",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850556"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -898,7 +1110,9 @@
                             },
                             {
                                 "name": "Grilled Squid",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850571"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -906,7 +1120,9 @@
                             },
                             {
                                 "name": "Grilled Sunsquid",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850572"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -914,7 +1130,9 @@
                             },
                             {
                                 "name": "Grilled Turbot",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850569"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -922,7 +1140,9 @@
                             },
                             {
                                 "name": "Grilled Yellowtail",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850562"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -930,7 +1150,9 @@
                             },
                             {
                                 "name": "Gyoza",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850544"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -938,7 +1160,9 @@
                             },
                             {
                                 "name": "Hot Juice",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850641"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -946,7 +1170,9 @@
                             },
                             {
                                 "name": "Ice Cream",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850660"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -954,7 +1180,9 @@
                             },
                             {
                                 "name": "Ketchup",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850637"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -962,7 +1190,9 @@
                             },
                             {
                                 "name": "Lamp Squid Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850522"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -970,7 +1200,9 @@
                             },
                             {
                                 "name": "Lobster Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850524"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -978,7 +1210,9 @@
                             },
                             {
                                 "name": "Lover Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850509"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -986,7 +1220,9 @@
                             },
                             {
                                 "name": "Mayonnaise",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850677"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -994,7 +1230,9 @@
                             },
                             {
                                 "name": "Miso Eggplant",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850533"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1002,7 +1240,9 @@
                             },
                             {
                                 "name": "Mixed Juice",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850635"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1010,7 +1250,9 @@
                             },
                             {
                                 "name": "Mixed Smoothie",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850636"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1018,7 +1260,9 @@
                             },
                             {
                                 "name": "Needlefish Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850515"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1026,7 +1270,9 @@
                             },
                             {
                                 "name": "Omelet",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850535"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1034,7 +1280,9 @@
                             },
                             {
                                 "name": "Omelet Rice",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850536"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1042,7 +1290,9 @@
                             },
                             {
                                 "name": "Orange Juice",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850628"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1050,7 +1300,9 @@
                             },
                             {
                                 "name": "Pancakes",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850543"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1058,7 +1310,9 @@
                             },
                             {
                                 "name": "Pike Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850516"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1066,7 +1320,9 @@
                             },
                             {
                                 "name": "Pineapple Juice",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850625"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1074,7 +1330,9 @@
                             },
                             {
                                 "name": "Popcorn",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850531"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1082,7 +1340,9 @@
                             },
                             {
                                 "name": "Prelude to Love",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850640"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1090,7 +1350,9 @@
                             },
                             {
                                 "name": "Rainbow Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850503"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1098,7 +1360,9 @@
                             },
                             {
                                 "name": "Risotto",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850545"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1106,7 +1370,9 @@
                             },
                             {
                                 "name": "Salmon Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850504"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1114,7 +1380,9 @@
                             },
                             {
                                 "name": "Salted C. Salmon",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850550"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1122,7 +1390,9 @@
                             },
                             {
                                 "name": "Salted Char",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850548"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1130,7 +1400,9 @@
                             },
                             {
                                 "name": "Salted Chub",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850551"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1138,7 +1410,9 @@
                             },
                             {
                                 "name": "Salted Masu Trout",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850547"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1146,7 +1420,9 @@
                             },
                             {
                                 "name": "Salted Pike",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850567"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1154,7 +1430,9 @@
                             },
                             {
                                 "name": "Salted Pond Smelt",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850563"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1162,7 +1440,9 @@
                             },
                             {
                                 "name": "Salted R. Trout",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850549"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1170,7 +1450,9 @@
                             },
                             {
                                 "name": "Salted Salmon",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850552"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1178,7 +1460,9 @@
                             },
                             {
                                 "name": "Salted Taimen",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850553"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1186,7 +1470,9 @@
                             },
                             {
                                 "name": "Sardine Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850514"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1194,7 +1480,9 @@
                             },
                             {
                                 "name": "Shrimp Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850525"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1202,7 +1490,9 @@
                             },
                             {
                                 "name": "Skipjack Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850511"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1210,7 +1500,9 @@
                             },
                             {
                                 "name": "Snapper Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850507"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1218,7 +1510,9 @@
                             },
                             {
                                 "name": "Squid Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850520"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1226,7 +1520,9 @@
                             },
                             {
                                 "name": "Strawberry Milk",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850630"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1234,7 +1530,9 @@
                             },
                             {
                                 "name": "Sunsquid Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850521"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1242,7 +1540,9 @@
                             },
                             {
                                 "name": "Taimen Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850506"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1250,7 +1550,9 @@
                             },
                             {
                                 "name": "Tempura",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850542"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1258,7 +1560,9 @@
                             },
                             {
                                 "name": "Tomato Juice",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850626"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1266,7 +1570,9 @@
                             },
                             {
                                 "name": "Trout Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850501"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1274,7 +1580,9 @@
                             },
                             {
                                 "name": "Tuna Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850513"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1282,7 +1590,9 @@
                             },
                             {
                                 "name": "Tuna Teriyaki",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850564"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1290,7 +1600,9 @@
                             },
                             {
                                 "name": "Turbot Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850518"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1298,7 +1610,9 @@
                             },
                             {
                                 "name": "Vegetable Juice",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850633"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1306,7 +1620,9 @@
                             },
                             {
                                 "name": "Veggie Smoothie",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850634"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1314,7 +1630,9 @@
                             },
                             {
                                 "name": "Yellowtail Sashimi",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1850512"
+                                ],
                                 "visibility_rules": [
                                     "opt_dishsanity"
                                 ],
@@ -1335,7 +1653,9 @@
                 "sections": [
                     {
                         "name": "Bamboo Rice",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850658"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],
@@ -1343,7 +1663,9 @@
                     },
                     {
                         "name": "Cheese",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850678"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],
@@ -1351,7 +1673,9 @@
                     },
                     {
                         "name": "Fruit Sandwich",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850655"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],
@@ -1359,7 +1683,9 @@
                     },
                     {
                         "name": "Onigiri",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850662"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],
@@ -1367,7 +1693,9 @@
                     },
                     {
                         "name": "Pickle Mix",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850665"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],
@@ -1375,7 +1703,9 @@
                     },
                     {
                         "name": "Pickled Turnip",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850656"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],
@@ -1383,7 +1713,9 @@
                     },
                     {
                         "name": "Pickles",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850657"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],
@@ -1391,7 +1723,9 @@
                     },
                     {
                         "name": "Relax Tea Leaves",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850661"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],
@@ -1399,7 +1733,9 @@
                     },
                     {
                         "name": "Salad",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850653"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],
@@ -1407,7 +1743,9 @@
                     },
                     {
                         "name": "Salmon Onigiri",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850664"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],
@@ -1415,7 +1753,9 @@
                     },
                     {
                         "name": "Sandwich",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850654"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],
@@ -1423,7 +1763,9 @@
                     },
                     {
                         "name": "Turnip Heaven",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850666"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],

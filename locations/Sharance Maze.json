@@ -28,13 +28,17 @@
                         "sections": [
                             {
                                 "name": "Boss - Dragon Fin",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851261"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             },
                             {
                                 "name": "Boss - Legendary Scale",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851260"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -62,19 +66,25 @@
                 "sections": [
                     {
                         "name": "Boss - Earthwyrm Scale",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851266"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Boss - Firewyrm Scale",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851267"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Accessory Bread+",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850692"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],
@@ -82,7 +92,9 @@
                     },
                     {
                         "name": "Cooking Bread+",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850688"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],
@@ -90,7 +102,9 @@
                     },
                     {
                         "name": "Farming Bread+",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850694"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],
@@ -98,7 +112,9 @@
                     },
                     {
                         "name": "Medicine Bread+",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850686"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],
@@ -106,7 +122,9 @@
                     },
                     {
                         "name": "Weapon Bread+",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850690"
+                        ],
                         "visibility_rules": [
                             "opt_dishsanity"
                         ],
@@ -143,7 +161,9 @@
                         "sections": [
                             {
                                 "name": "Boss - Wind Dragon Tooth",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851276"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             }
@@ -171,7 +191,9 @@
                 "sections": [
                     {
                         "name": "Boss - Aquaticus",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852680"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -199,7 +221,9 @@
                 "sections": [
                     {
                         "name": "Boss - Fiersome",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852724"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -207,7 +231,9 @@
                     },
                     {
                         "name": "Boss - Terrable",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852838"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],

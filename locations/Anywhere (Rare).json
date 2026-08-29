@@ -19,7 +19,9 @@
                 "sections": [
                     {
                         "name": "Broken Box",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851243"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -27,7 +29,9 @@
                     },
                     {
                         "name": "Broken Hilt",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851242"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -35,7 +39,9 @@
                     },
                     {
                         "name": "Rune Crystal",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851287"
+                        ],
                         "visibility_rules": [
                             "opt_mineralsanity"
                         ],
@@ -43,7 +49,9 @@
                     },
                     {
                         "name": "Small Crystal",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851245"
+                        ],
                         "visibility_rules": [
                             "opt_mineralsanity"
                         ],
@@ -71,7 +79,9 @@
                 "sections": [
                     {
                         "name": "Gobble Box",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852739"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -79,7 +89,9 @@
                     },
                     {
                         "name": "Monster Box",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852796"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],

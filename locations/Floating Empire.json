@@ -28,13 +28,17 @@
                         "sections": [
                             {
                                 "name": "Boss - Golem Tablet",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851265"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             },
                             {
                                 "name": "Delta Laser",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851397"
+                                ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
                                 ],
@@ -71,7 +75,9 @@
                                 "sections": [
                                     {
                                         "name": "Neko Damashi Lv.5",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851600"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -96,13 +102,17 @@
                                 "sections": [
                                     {
                                         "name": "Magical Potion x4",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851601"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     },
                                     {
                                         "name": "Magic Ring",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851602"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -127,7 +137,9 @@
                                 "sections": [
                                     {
                                         "name": "Platinum",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851603"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -152,13 +164,17 @@
                                 "sections": [
                                     {
                                         "name": "Delta Laser Lv.5",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851604"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     },
                                     {
                                         "name": "Cyclone Lv.1",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851605"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -183,7 +199,9 @@
                                 "sections": [
                                     {
                                         "name": "18000G",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851606"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -208,7 +226,9 @@
                                 "sections": [
                                     {
                                         "name": "Stay Up ring",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851607"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -246,13 +266,17 @@
                         "sections": [
                             {
                                 "name": "Boss - MTGU Plate",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851279"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             },
                             {
                                 "name": "Penetrate Sonic",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851403"
+                                ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
                                 ],
@@ -260,7 +284,9 @@
                             },
                             {
                                 "name": "Tornado Swing",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851437"
+                                ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
                                 ],
@@ -297,7 +323,9 @@
                                 "sections": [
                                     {
                                         "name": "Invisible Stone",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851595"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -322,7 +350,9 @@
                                 "sections": [
                                     {
                                         "name": "Penetrate Sonic Lv.5",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851596"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -347,7 +377,9 @@
                                 "sections": [
                                     {
                                         "name": "Tornado Swing Lv.1",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851597"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -372,7 +404,9 @@
                                 "sections": [
                                     {
                                         "name": "Platinum",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851598"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -397,7 +431,9 @@
                                 "sections": [
                                     {
                                         "name": "Green Core",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851599"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -426,7 +462,9 @@
                 "sections": [
                     {
                         "name": "Blk. Tortoise Shell",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851327"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -434,7 +472,9 @@
                     },
                     {
                         "name": "Cheap Propeller",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851280"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -442,7 +482,9 @@
                     },
                     {
                         "name": "Dragon Fang",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851224"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -450,7 +492,9 @@
                     },
                     {
                         "name": "Fairy Elixir",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851324"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -458,7 +502,9 @@
                     },
                     {
                         "name": "Glistening Blade",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851323"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -466,7 +512,9 @@
                     },
                     {
                         "name": "Golem Stone",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851326"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -474,7 +522,9 @@
                     },
                     {
                         "name": "Great Hammer Shard",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851325"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -482,7 +532,9 @@
                     },
                     {
                         "name": "Love Crystal",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851249"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -490,7 +542,9 @@
                     },
                     {
                         "name": "Magic Claw",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851322"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -498,7 +552,9 @@
                     },
                     {
                         "name": "Pretty Thread",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851218"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -506,7 +562,9 @@
                     },
                     {
                         "name": "Quality Propeller",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851281"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -514,7 +572,9 @@
                     },
                     {
                         "name": "Thick Stick",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851321"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -522,7 +582,9 @@
                     },
                     {
                         "name": "Thunderbird Feather",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851328"
+                        ],
                         "visibility_rules": [
                             "opt_dropsanity"
                         ],
@@ -530,7 +592,9 @@
                     },
                     {
                         "name": "Golden Turnip",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850413"
+                        ],
                         "visibility_rules": [
                             "opt_goldcropsanity"
                         ],
@@ -538,7 +602,9 @@
                     },
                     {
                         "name": "Golden Tyrant Turnip",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850414"
+                        ],
                         "visibility_rules": [
                             "opt_goldcropsanity"
                         ],
@@ -546,7 +612,9 @@
                     },
                     {
                         "name": "Egg (L)",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850676"
+                        ],
                         "visibility_rules": [
                             "opt_foragesanity"
                         ],
@@ -554,7 +622,9 @@
                     },
                     {
                         "name": "Milk (L)",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1850673"
+                        ],
                         "visibility_rules": [
                             "opt_foragesanity"
                         ],
@@ -562,7 +632,9 @@
                     },
                     {
                         "name": "Platinum",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851190"
+                        ],
                         "visibility_rules": [
                             "opt_mineralsanity"
                         ],
@@ -570,7 +642,9 @@
                     },
                     {
                         "name": "Fur (L)",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851183"
+                        ],
                         "visibility_rules": [
                             "opt_foragesanity"
                         ],
@@ -578,7 +652,9 @@
                     },
                     {
                         "name": "Gold Turnip Seeds",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851160"
+                        ],
                         "visibility_rules": [
                             "opt_foragesanity"
                         ],
@@ -586,7 +662,9 @@
                     },
                     {
                         "name": "Neko Damashi",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1851443"
+                        ],
                         "visibility_rules": [
                             "opt_spellsanity"
                         ],
@@ -623,19 +701,25 @@
                         "sections": [
                             {
                                 "name": "Boss - Rusty Screw",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851282"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             },
                             {
                                 "name": "Boss - Shiny Screw",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851283"
+                                ],
                                 "visibility_rules": [],
                                 "item_count": 1
                             },
                             {
                                 "name": "Avenger Rock",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851400"
+                                ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
                                 ],
@@ -643,7 +727,9 @@
                             },
                             {
                                 "name": "Double Kick",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851441"
+                                ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
                                 ],
@@ -651,7 +737,9 @@
                             },
                             {
                                 "name": "Grand Impact",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851438"
+                                ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
                                 ],
@@ -659,7 +747,9 @@
                             },
                             {
                                 "name": "Round Break",
-                                "access_rules": [],
+                                "access_rules": [
+                                    "$RF4Access|1851420"
+                                ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
                                 ],
@@ -696,7 +786,9 @@
                                 "sections": [
                                     {
                                         "name": "Platinum",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851608"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -721,7 +813,9 @@
                                 "sections": [
                                     {
                                         "name": "Curry Udon",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851609"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -746,7 +840,9 @@
                                 "sections": [
                                     {
                                         "name": "Double Steel",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851610"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -771,7 +867,9 @@
                                 "sections": [
                                     {
                                         "name": "Grand Impact Lv.1",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851611"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -796,7 +894,9 @@
                                 "sections": [
                                     {
                                         "name": "Small Crystal",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851612"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -821,13 +921,17 @@
                                 "sections": [
                                     {
                                         "name": "Avenger Rock Lv.5",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851613"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     },
                                     {
                                         "name": "Round Break Lv.1",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851614"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -852,13 +956,17 @@
                                 "sections": [
                                     {
                                         "name": "Gold Cabbage Seed + Gold Pumpkin Seed + Gold Potato Seed",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851615"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     },
                                     {
                                         "name": "Miracle Axe Recipe",
-                                        "access_rules": [],
+                                        "access_rules": [
+                                            "$RF4Access|1851616"
+                                        ],
                                         "visibility_rules": [],
                                         "item_count": 1
                                     }
@@ -887,7 +995,9 @@
                 "sections": [
                     {
                         "name": "Blood Panther",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852692"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -895,7 +1005,9 @@
                     },
                     {
                         "name": "Dark Fairy",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852706"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -903,7 +1015,9 @@
                     },
                     {
                         "name": "Faust",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852722"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -911,7 +1025,9 @@
                     },
                     {
                         "name": "Fortoise",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852730"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -919,7 +1035,9 @@
                     },
                     {
                         "name": "Gigantes",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852738"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -927,7 +1045,9 @@
                     },
                     {
                         "name": "Golem",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852745"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -935,7 +1055,9 @@
                     },
                     {
                         "name": "Hell Spider",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852756"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -943,7 +1065,9 @@
                     },
                     {
                         "name": "Little Dragon",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852776"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -951,7 +1075,9 @@
                     },
                     {
                         "name": "Master Giant",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852790"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -959,7 +1085,9 @@
                     },
                     {
                         "name": "Pepper Ghost",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852810"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -967,7 +1095,9 @@
                     },
                     {
                         "name": "Thunderbird",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852840"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
@@ -995,7 +1125,9 @@
                 "sections": [
                     {
                         "name": "Dark Slime",
-                        "access_rules": [],
+                        "access_rules": [
+                            "$RF4Access|1852707"
+                        ],
                         "visibility_rules": [
                             "opt_tamesanity"
                         ],
