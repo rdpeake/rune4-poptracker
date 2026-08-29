@@ -3,263 +3,606 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Anywhere (Rare)",
+                "title": "Overworld",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Anywhere (Rare)"
-                    ]
-                }
-            },
-            {
-                "title": "Autumn Field",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Autumn Field"
-                    ]
-                }
-            },
-            {
-                "title": "Autumn River",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Autumn River"
-                    ]
-                }
-            },
-            {
-                "title": "Autumn Road",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Autumn Road"
-                    ]
-                }
-            },
-            {
-                "title": "Autumn Spring",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Autumn Spring"
-                    ]
-                }
-            },
-            {
-                "title": "Cluck Cluck Nest",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Cluck Cluck Nest"
-                    ]
-                }
-            },
-            {
-                "title": "Cooking",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Cooking"
-                    ]
-                }
-            },
-            {
-                "title": "Crafting",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Crafting"
-                    ]
-                }
-            },
-            {
-                "title": "Delirium Lava Ruins",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Delirium Lava Ruins"
-                    ]
-                }
-            },
-            {
-                "title": "Demons Den",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Demons Den"
-                    ]
-                }
-            },
-            {
-                "title": "Field Dungeon",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Field Dungeon"
-                    ]
-                }
-            },
-            {
-                "title": "Floating Empire",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Floating Empire"
-                    ]
-                }
-            },
-            {
-                "title": "Forge",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Forge"
-                    ]
-                }
-            },
-            {
-                "title": "Idra Cave",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Idra Cave"
-                    ]
-                }
-            },
-            {
-                "title": "Leon Karnak",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Leon Karnak"
-                    ]
-                }
-            },
-            {
-                "title": "Maya Road",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Maya Road"
-                    ]
-                }
-            },
-            {
-                "title": "Obsidian Mansion",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Obsidian Mansion"
-                    ]
-                }
-            },
-            {
-                "title": "Revival Cave",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Revival Cave"
-                    ]
-                }
-            },
-            {
-                "title": "Rune Prana",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Rune Prana"
-                    ]
-                }
-            },
-            {
-                "title": "Sechs Territory",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Sechs Territory"
+                        "Overworld"
                     ]
                 }
             },
             {
                 "title": "Selphia",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Selphia"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Town",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Selphia"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Floating Empire",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Main",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Floating Empire Main"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "West",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Floating Empire West"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "East",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Floating Empire East"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "South",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Floating Empire South"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sharance Maze",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Sharance Maze"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
                 "title": "Selphia Plains",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Selphia Plains"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Plains",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Selphia Plains"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Yokmir Forest",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Forest",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Yokmir Forest"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Cave",
+                                        "content": {
+                                            "type": "tabbed",
+                                            "tabs": [
+                                                {
+                                                    "title": "F1",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Yokmir Cave F1"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "F2",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Yokmir Cave F2"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "F3",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Yokmir Cave F3"
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Water Ruins",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Water Ruins"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Cluck Cluck Nest",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Cluck Cluck Nest"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Autumn Road",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Road",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Autumn Road"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Leon Karnak",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Karnak",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Leon Karnak"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Rune Prana",
+                                        "content": {
+                                            "type": "tabbed",
+                                            "tabs": [
+                                                {
+                                                    "title": "F1",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Rune Prana F1"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "F2",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Rune Prana F2"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "F3",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Rune Prana F3"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "F4",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Rune Prana F4"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "F5",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Rune Prana F5"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "F6",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Rune Prana F6"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "F7",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Rune Prana F7"
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Obsidian Mansion",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Obsidian Mansion"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Delirium Lava Ruins",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "F1",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Delirium Lava Ruins F1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "F2",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Delirium Lava Ruins F2"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Revival Cave",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Revival Cave"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Maya Road",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "F1",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Maya Road F1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "F2",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Maya Road F2"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Cave",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Maya Road Cave"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Sechs Territory",
+                                        "content": {
+                                            "type": "tabbed",
+                                            "tabs": [
+                                                {
+                                                    "title": "Field 1",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Sechs Territory 1"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Field 2",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Sechs Territory 2"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Cave",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Sechs Territory Cave"
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
                 "title": "Sercerezo Hill",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Sercerezo Hill"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Hill",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Sercerezo Hill"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Idra Cave",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Ground",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Idra Cave"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Basement 1",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Idra Cave B1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Basement 2",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Idra Cave B2"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Demon's Den",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Den",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Demons Den"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Field Dungeon",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Field Dungeon"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
-                "title": "Sharance Maze",
+                "title": "Crafting",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Sharance Maze"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Forge",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Forge"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Crafting",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Crafting"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Cooking",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Cooking"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
-                "title": "Spring Spring",
+                "title": "Shipments",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Spring Spring"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Selphia",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shipments Selphia"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Selphia Plains",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shipments Selphia Plains"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Autumn Road",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shipments Autumn Road"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sercerezo Hill",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shipments Sercerezo Hill"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Anywhere",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shipments Anywhere"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
-                "title": "Summer Spring",
+                "title": "Tames",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Summer Spring"
-                    ]
-                }
-            },
-            {
-                "title": "Water Ruins",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Water Ruins"
-                    ]
-                }
-            },
-            {
-                "title": "Winter Spring",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Winter Spring"
-                    ]
-                }
-            },
-            {
-                "title": "Yokmir Forest",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Yokmir Forest"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Selphia",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Tames Selphia"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Selphia Plains",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Tames Selphia Plains"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Autumn Road",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Tames Autumn Road"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sercerezo Hill",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Tames Sercerezo Hill"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Anywhere",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Tames Anywhere"
+                                ]
+                            }
+                        }
                     ]
                 }
             }
@@ -269,263 +612,606 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Anywhere (Rare)",
+                "title": "Overworld",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Anywhere (Rare)"
-                    ]
-                }
-            },
-            {
-                "title": "Autumn Field",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Autumn Field"
-                    ]
-                }
-            },
-            {
-                "title": "Autumn River",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Autumn River"
-                    ]
-                }
-            },
-            {
-                "title": "Autumn Road",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Autumn Road"
-                    ]
-                }
-            },
-            {
-                "title": "Autumn Spring",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Autumn Spring"
-                    ]
-                }
-            },
-            {
-                "title": "Cluck Cluck Nest",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Cluck Cluck Nest"
-                    ]
-                }
-            },
-            {
-                "title": "Cooking",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Cooking"
-                    ]
-                }
-            },
-            {
-                "title": "Crafting",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Crafting"
-                    ]
-                }
-            },
-            {
-                "title": "Delirium Lava Ruins",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Delirium Lava Ruins"
-                    ]
-                }
-            },
-            {
-                "title": "Demons Den",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Demons Den"
-                    ]
-                }
-            },
-            {
-                "title": "Field Dungeon",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Field Dungeon"
-                    ]
-                }
-            },
-            {
-                "title": "Floating Empire",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Floating Empire"
-                    ]
-                }
-            },
-            {
-                "title": "Forge",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Forge"
-                    ]
-                }
-            },
-            {
-                "title": "Idra Cave",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Idra Cave"
-                    ]
-                }
-            },
-            {
-                "title": "Leon Karnak",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Leon Karnak"
-                    ]
-                }
-            },
-            {
-                "title": "Maya Road",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Maya Road"
-                    ]
-                }
-            },
-            {
-                "title": "Obsidian Mansion",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Obsidian Mansion"
-                    ]
-                }
-            },
-            {
-                "title": "Revival Cave",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Revival Cave"
-                    ]
-                }
-            },
-            {
-                "title": "Rune Prana",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Rune Prana"
-                    ]
-                }
-            },
-            {
-                "title": "Sechs Territory",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Sechs Territory"
+                        "Overworld"
                     ]
                 }
             },
             {
                 "title": "Selphia",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Selphia"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Town",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Selphia"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Floating Empire",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Main",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Floating Empire Main"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "West",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Floating Empire West"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "East",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Floating Empire East"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "South",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Floating Empire South"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sharance Maze",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Sharance Maze"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
                 "title": "Selphia Plains",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Selphia Plains"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Plains",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Selphia Plains"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Yokmir Forest",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Forest",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Yokmir Forest"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Cave",
+                                        "content": {
+                                            "type": "tabbed",
+                                            "tabs": [
+                                                {
+                                                    "title": "F1",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Yokmir Cave F1"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "F2",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Yokmir Cave F2"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "F3",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Yokmir Cave F3"
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Water Ruins",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Water Ruins"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Cluck Cluck Nest",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Cluck Cluck Nest"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Autumn Road",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Road",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Autumn Road"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Leon Karnak",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Karnak",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Leon Karnak"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Rune Prana",
+                                        "content": {
+                                            "type": "tabbed",
+                                            "tabs": [
+                                                {
+                                                    "title": "F1",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Rune Prana F1"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "F2",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Rune Prana F2"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "F3",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Rune Prana F3"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "F4",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Rune Prana F4"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "F5",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Rune Prana F5"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "F6",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Rune Prana F6"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "F7",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Rune Prana F7"
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Obsidian Mansion",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Obsidian Mansion"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Delirium Lava Ruins",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "F1",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Delirium Lava Ruins F1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "F2",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Delirium Lava Ruins F2"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Revival Cave",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Revival Cave"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Maya Road",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "F1",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Maya Road F1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "F2",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Maya Road F2"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Cave",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Maya Road Cave"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Sechs Territory",
+                                        "content": {
+                                            "type": "tabbed",
+                                            "tabs": [
+                                                {
+                                                    "title": "Field 1",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Sechs Territory 1"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Field 2",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Sechs Territory 2"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Cave",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Sechs Territory Cave"
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
                 "title": "Sercerezo Hill",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Sercerezo Hill"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Hill",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Sercerezo Hill"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Idra Cave",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Ground",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Idra Cave"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Basement 1",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Idra Cave B1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Basement 2",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Idra Cave B2"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Demon's Den",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Den",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Demons Den"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Field Dungeon",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Field Dungeon"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
-                "title": "Sharance Maze",
+                "title": "Crafting",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Sharance Maze"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Forge",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Forge"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Crafting",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Crafting"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Cooking",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Cooking"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
-                "title": "Spring Spring",
+                "title": "Shipments",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Spring Spring"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Selphia",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shipments Selphia"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Selphia Plains",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shipments Selphia Plains"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Autumn Road",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shipments Autumn Road"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sercerezo Hill",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shipments Sercerezo Hill"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Anywhere",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shipments Anywhere"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
-                "title": "Summer Spring",
+                "title": "Tames",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Summer Spring"
-                    ]
-                }
-            },
-            {
-                "title": "Water Ruins",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Water Ruins"
-                    ]
-                }
-            },
-            {
-                "title": "Winter Spring",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Winter Spring"
-                    ]
-                }
-            },
-            {
-                "title": "Yokmir Forest",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Yokmir Forest"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Selphia",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Tames Selphia"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Selphia Plains",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Tames Selphia Plains"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Autumn Road",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Tames Autumn Road"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sercerezo Hill",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Tames Sercerezo Hill"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Anywhere",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Tames Anywhere"
+                                ]
+                            }
+                        }
                     ]
                 }
             }
