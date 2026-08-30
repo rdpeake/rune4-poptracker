@@ -20,7 +20,7 @@
                     {
                         "name": "Boss - Crystal Skull",
                         "access_rules": [
-                            "$RF4Access|1851274"
+                            "^$RF4Access|1851274"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -28,7 +28,7 @@
                     {
                         "name": "Boss - Grimoire Scale",
                         "access_rules": [
-                            "$RF4Access|1851259"
+                            "^$RF4Access|1851259"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -36,7 +36,7 @@
                     {
                         "name": "Boss - Left Rock Shard",
                         "access_rules": [
-                            "$RF4Access|1851272"
+                            "^$RF4Access|1851272"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -44,7 +44,7 @@
                     {
                         "name": "Boss - Right Rock Shard",
                         "access_rules": [
-                            "$RF4Access|1851273"
+                            "^$RF4Access|1851273"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -52,7 +52,7 @@
                     {
                         "name": "10-Fold Steel",
                         "access_rules": [
-                            "$RF4Access|1851300"
+                            "^$RF4Access|1851300"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -62,7 +62,7 @@
                     {
                         "name": "Devil Horn",
                         "access_rules": [
-                            "$RF4Access|1851207"
+                            "^$RF4Access|1851207"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -72,7 +72,7 @@
                     {
                         "name": "Double Steel",
                         "access_rules": [
-                            "$RF4Access|1851299"
+                            "^$RF4Access|1851299"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -82,7 +82,7 @@
                     {
                         "name": "Light Crystal",
                         "access_rules": [
-                            "$RF4Access|1851247"
+                            "^$RF4Access|1851247"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -92,7 +92,7 @@
                     {
                         "name": "Malm Claw",
                         "access_rules": [
-                            "$RF4Access|1851285"
+                            "^$RF4Access|1851285"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -102,7 +102,7 @@
                     {
                         "name": "Proof of Rank",
                         "access_rules": [
-                            "$RF4Access|1851334"
+                            "^$RF4Access|1851334"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -112,7 +112,7 @@
                     {
                         "name": "Warrior's Proof",
                         "access_rules": [
-                            "$RF4Access|1851202"
+                            "^$RF4Access|1851202"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -122,7 +122,7 @@
                     {
                         "name": "Big Crystal",
                         "access_rules": [
-                            "$RF4Access|1851286"
+                            "^$RF4Access|1851286"
                         ],
                         "visibility_rules": [
                             "opt_mineralsanity"
@@ -132,7 +132,7 @@
                     {
                         "name": "Orichalcum",
                         "access_rules": [
-                            "$RF4Access|1851191"
+                            "^$RF4Access|1851191"
                         ],
                         "visibility_rules": [
                             "opt_mineralsanity"
@@ -142,7 +142,7 @@
                     {
                         "name": "Darkness",
                         "access_rules": [
-                            "$RF4Access|1851409"
+                            "^$RF4Access|1851409"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -152,7 +152,7 @@
                     {
                         "name": "Hurricane",
                         "access_rules": [
-                            "$RF4Access|1851432"
+                            "^$RF4Access|1851432"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -162,7 +162,7 @@
                     {
                         "name": "Wind Slash",
                         "access_rules": [
-                            "$RF4Access|1851427"
+                            "^$RF4Access|1851427"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -201,7 +201,7 @@
                             {
                                 "name": "Hurricane Lv.5",
                                 "access_rules": [
-                                    "$RF4Access|1851617"
+                                    "^$RF4Access|1851617"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -209,7 +209,7 @@
                             {
                                 "name": "Devil Horn x2 + Platinum",
                                 "access_rules": [
-                                    "$RF4Access|1851618"
+                                    "^$RF4Access|1851618"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -236,7 +236,7 @@
                             {
                                 "name": "3x Vital Gummi + Lamellar Vest",
                                 "access_rules": [
-                                    "$RF4Access|1851619"
+                                    "^$RF4Access|1851619"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -263,7 +263,7 @@
                             {
                                 "name": "Salted Taimen Recipe",
                                 "access_rules": [
-                                    "$RF4Access|1851620"
+                                    "^$RF4Access|1851620"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -290,7 +290,7 @@
                             {
                                 "name": "Darkness Lv.5",
                                 "access_rules": [
-                                    "$RF4Access|1851621"
+                                    "^$RF4Access|1851621"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -317,7 +317,7 @@
                             {
                                 "name": "Blessed Hoe Recipe + Legendary Sickle Recipe",
                                 "access_rules": [
-                                    "$RF4Access|1851622"
+                                    "^$RF4Access|1851622"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -344,7 +344,7 @@
                             {
                                 "name": "Wind Slash Lv. 7",
                                 "access_rules": [
-                                    "$RF4Access|1851623"
+                                    "^$RF4Access|1851623"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -371,7 +371,7 @@
                             {
                                 "name": "Sunspot",
                                 "access_rules": [
-                                    "$RF4Access|1851624"
+                                    "^$RF4Access|1851624"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -400,7 +400,7 @@
                     {
                         "name": "Arch-Daemon",
                         "access_rules": [
-                            "$RF4Access|1852681"
+                            "^$RF4Access|1852681"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -410,7 +410,7 @@
                     {
                         "name": "Captain Goblin",
                         "access_rules": [
-                            "$RF4Access|1852697"
+                            "^$RF4Access|1852697"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -420,7 +420,7 @@
                     {
                         "name": "Goblin Don",
                         "access_rules": [
-                            "$RF4Access|1852742"
+                            "^$RF4Access|1852742"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -430,7 +430,7 @@
                     {
                         "name": "Boss - Grimoire 2",
                         "access_rules": [
-                            "$RF4Access|1852751"
+                            "^$RF4Access|1852751"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -440,7 +440,7 @@
                     {
                         "name": "Little Emperor",
                         "access_rules": [
-                            "$RF4Access|1852777"
+                            "^$RF4Access|1852777"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -450,7 +450,7 @@
                     {
                         "name": "Malm Tiger",
                         "access_rules": [
-                            "$RF4Access|1852785"
+                            "^$RF4Access|1852785"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -460,7 +460,7 @@
                     {
                         "name": "Minotaur King",
                         "access_rules": [
-                            "$RF4Access|1852795"
+                            "^$RF4Access|1852795"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -470,7 +470,7 @@
                     {
                         "name": "Nappie",
                         "access_rules": [
-                            "$RF4Access|1852797"
+                            "^$RF4Access|1852797"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -480,7 +480,7 @@
                     {
                         "name": "Boss - Sarcophagus",
                         "access_rules": [
-                            "$RF4Access|1852824"
+                            "^$RF4Access|1852824"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"

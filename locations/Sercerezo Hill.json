@@ -20,7 +20,7 @@
                     {
                         "name": "Blue Crystal",
                         "access_rules": [
-                            "$RF4Access|1850455"
+                            "^$RF4Access|1850455"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -30,7 +30,7 @@
                     {
                         "name": "Green Crystal",
                         "access_rules": [
-                            "$RF4Access|1850465"
+                            "^$RF4Access|1850465"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -40,7 +40,7 @@
                     {
                         "name": "Red Crystal",
                         "access_rules": [
-                            "$RF4Access|1850473"
+                            "^$RF4Access|1850473"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -50,7 +50,7 @@
                     {
                         "name": "White Crystal",
                         "access_rules": [
-                            "$RF4Access|1850475"
+                            "^$RF4Access|1850475"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -60,7 +60,7 @@
                     {
                         "name": "Ivory Tusk",
                         "access_rules": [
-                            "$RF4Access|1851309"
+                            "^$RF4Access|1851309"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -70,7 +70,7 @@
                     {
                         "name": "Root",
                         "access_rules": [
-                            "$RF4Access|1851231"
+                            "^$RF4Access|1851231"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -80,7 +80,7 @@
                     {
                         "name": "Yellow Core",
                         "access_rules": [
-                            "$RF4Access|1851290"
+                            "^$RF4Access|1851290"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -90,7 +90,7 @@
                     {
                         "name": "Masu Trout",
                         "access_rules": [
-                            "$RF4Access|1851352"
+                            "^$RF4Access|1851352"
                         ],
                         "visibility_rules": [
                             "opt_fishsanity"
@@ -100,7 +100,7 @@
                     {
                         "name": "Rockfish",
                         "access_rules": [
-                            "$RF4Access|1851383"
+                            "^$RF4Access|1851383"
                         ],
                         "visibility_rules": [
                             "opt_fishsanity"
@@ -110,7 +110,7 @@
                     {
                         "name": "Sand Flounder",
                         "access_rules": [
-                            "$RF4Access|1851382"
+                            "^$RF4Access|1851382"
                         ],
                         "visibility_rules": [
                             "opt_fishsanity"
@@ -120,7 +120,7 @@
                     {
                         "name": "Mealy Apple",
                         "access_rules": [
-                            "$RF4Access|1850429"
+                            "^$RF4Access|1850429"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -130,7 +130,7 @@
                     {
                         "name": "Golden Cabbage",
                         "access_rules": [
-                            "$RF4Access|1850407"
+                            "^$RF4Access|1850407"
                         ],
                         "visibility_rules": [
                             "opt_goldcropsanity"
@@ -140,7 +140,7 @@
                     {
                         "name": "Golden King Cabbage",
                         "access_rules": [
-                            "$RF4Access|1850408"
+                            "^$RF4Access|1850408"
                         ],
                         "visibility_rules": [
                             "opt_goldcropsanity"
@@ -150,7 +150,7 @@
                     {
                         "name": "Orange Grass",
                         "access_rules": [
-                            "$RF4Access|1850441"
+                            "^$RF4Access|1850441"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -160,7 +160,7 @@
                     {
                         "name": "Big Blue Crystal",
                         "access_rules": [
-                            "$RF4Access|1850456"
+                            "^$RF4Access|1850456"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -170,7 +170,7 @@
                     {
                         "name": "Big Green Crystal",
                         "access_rules": [
-                            "$RF4Access|1850466"
+                            "^$RF4Access|1850466"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -180,7 +180,7 @@
                     {
                         "name": "Big Red Crystal",
                         "access_rules": [
-                            "$RF4Access|1850474"
+                            "^$RF4Access|1850474"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -190,7 +190,7 @@
                     {
                         "name": "Big White Crystal",
                         "access_rules": [
-                            "$RF4Access|1850476"
+                            "^$RF4Access|1850476"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -200,7 +200,7 @@
                     {
                         "name": "Monarch Mushroom",
                         "access_rules": [
-                            "$RF4Access|1850421"
+                            "^$RF4Access|1850421"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -210,7 +210,7 @@
                     {
                         "name": "Blue Crystal Seeds",
                         "access_rules": [
-                            "$RF4Access|1851142"
+                            "^$RF4Access|1851142"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -220,7 +220,7 @@
                     {
                         "name": "Gold Cabbage Seeds",
                         "access_rules": [
-                            "$RF4Access|1851157"
+                            "^$RF4Access|1851157"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -230,7 +230,7 @@
                     {
                         "name": "Green Crystal Seeds",
                         "access_rules": [
-                            "$RF4Access|1851147"
+                            "^$RF4Access|1851147"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -240,7 +240,7 @@
                     {
                         "name": "Red Crystal Seeds",
                         "access_rules": [
-                            "$RF4Access|1851151"
+                            "^$RF4Access|1851151"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -250,7 +250,7 @@
                     {
                         "name": "White Crystal Seeds",
                         "access_rules": [
-                            "$RF4Access|1851152"
+                            "^$RF4Access|1851152"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -260,7 +260,7 @@
                     {
                         "name": "Spring Headdress",
                         "access_rules": [
-                            "$RF4Access|1851066"
+                            "^$RF4Access|1851066"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -268,7 +268,7 @@
                     {
                         "name": "Medipoison",
                         "access_rules": [
-                            "$RF4Access|1851413"
+                            "^$RF4Access|1851413"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -278,7 +278,7 @@
                     {
                         "name": "Shine",
                         "access_rules": [
-                            "$RF4Access|1851405"
+                            "^$RF4Access|1851405"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -288,7 +288,7 @@
                     {
                         "name": "Stardust Upper",
                         "access_rules": [
-                            "$RF4Access|1851436"
+                            "^$RF4Access|1851436"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -298,7 +298,7 @@
                     {
                         "name": "Storm",
                         "access_rules": [
-                            "$RF4Access|1851423"
+                            "^$RF4Access|1851423"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -337,7 +337,7 @@
                             {
                                 "name": "Stardust Upper Lv.1",
                                 "access_rules": [
-                                    "$RF4Access|1851544"
+                                    "^$RF4Access|1851544"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -364,7 +364,7 @@
                             {
                                 "name": "Shine Lv. 3",
                                 "access_rules": [
-                                    "$RF4Access|1851545"
+                                    "^$RF4Access|1851545"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -391,7 +391,7 @@
                             {
                                 "name": "Silver Staff",
                                 "access_rules": [
-                                    "$RF4Access|1851546"
+                                    "^$RF4Access|1851546"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -418,7 +418,7 @@
                             {
                                 "name": "12250G",
                                 "access_rules": [
-                                    "$RF4Access|1851547"
+                                    "^$RF4Access|1851547"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -445,7 +445,7 @@
                             {
                                 "name": "Scaled Vest",
                                 "access_rules": [
-                                    "$RF4Access|1851548"
+                                    "^$RF4Access|1851548"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -453,7 +453,7 @@
                             {
                                 "name": "Storm Lv.1",
                                 "access_rules": [
-                                    "$RF4Access|1851549"
+                                    "^$RF4Access|1851549"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -461,7 +461,7 @@
                             {
                                 "name": "Grilled Shrimp + Grape Liqueur",
                                 "access_rules": [
-                                    "$RF4Access|1851550"
+                                    "^$RF4Access|1851550"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -488,7 +488,7 @@
                             {
                                 "name": "Cherry Grass Seeds x4 + Strawberry Seeds x4",
                                 "access_rules": [
-                                    "$RF4Access|1851655"
+                                    "^$RF4Access|1851655"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -496,7 +496,7 @@
                             {
                                 "name": "Strawberry Seeds x$",
                                 "access_rules": [
-                                    "$RF4Access|1851656"
+                                    "^$RF4Access|1851656"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -523,7 +523,7 @@
                             {
                                 "name": "Medipoison",
                                 "access_rules": [
-                                    "$RF4Access|1851667"
+                                    "^$RF4Access|1851667"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -552,7 +552,7 @@
                     {
                         "name": "Elefun",
                         "access_rules": [
-                            "$RF4Access|1852715"
+                            "^$RF4Access|1852715"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -562,7 +562,7 @@
                     {
                         "name": "Flower Blossom",
                         "access_rules": [
-                            "$RF4Access|1852726"
+                            "^$RF4Access|1852726"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -572,7 +572,7 @@
                     {
                         "name": "Typhoon",
                         "access_rules": [
-                            "$RF4Access|1852849"
+                            "^$RF4Access|1852849"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -582,7 +582,7 @@
                     {
                         "name": "Yellow",
                         "access_rules": [
-                            "$RF4Access|1852854"
+                            "^$RF4Access|1852854"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"

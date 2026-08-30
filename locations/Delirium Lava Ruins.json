@@ -20,7 +20,7 @@
                     {
                         "name": "Boss - Rafflesia Petal",
                         "access_rules": [
-                            "$RF4Access|1851278"
+                            "^$RF4Access|1851278"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -28,7 +28,7 @@
                     {
                         "name": "Bull's Horn",
                         "access_rules": [
-                            "$RF4Access|1851227"
+                            "^$RF4Access|1851227"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -38,7 +38,7 @@
                     {
                         "name": "Fire Crystal",
                         "access_rules": [
-                            "$RF4Access|1851239"
+                            "^$RF4Access|1851239"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -48,7 +48,7 @@
                     {
                         "name": "Giant's Nail",
                         "access_rules": [
-                            "$RF4Access|1851212"
+                            "^$RF4Access|1851212"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -58,7 +58,7 @@
                     {
                         "name": "Quality Cloth",
                         "access_rules": [
-                            "$RF4Access|1851199"
+                            "^$RF4Access|1851199"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -68,7 +68,7 @@
                     {
                         "name": "Scorpion Tail",
                         "access_rules": [
-                            "$RF4Access|1851221"
+                            "^$RF4Access|1851221"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -78,7 +78,7 @@
                     {
                         "name": "Red Grass",
                         "access_rules": [
-                            "$RF4Access|1850442"
+                            "^$RF4Access|1850442"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -88,7 +88,7 @@
                     {
                         "name": "Ruby",
                         "access_rules": [
-                            "$RF4Access|1851193"
+                            "^$RF4Access|1851193"
                         ],
                         "visibility_rules": [
                             "opt_mineralsanity"
@@ -127,7 +127,7 @@
                             {
                                 "name": "Big Fire",
                                 "access_rules": [
-                                    "$RF4Access|1851393"
+                                    "^$RF4Access|1851393"
                                 ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
@@ -137,7 +137,7 @@
                             {
                                 "name": "Bonus Concerto",
                                 "access_rules": [
-                                    "$RF4Access|1851447"
+                                    "^$RF4Access|1851447"
                                 ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
@@ -147,7 +147,7 @@
                             {
                                 "name": "Rush Punch",
                                 "access_rules": [
-                                    "$RF4Access|1851444"
+                                    "^$RF4Access|1851444"
                                 ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
@@ -186,7 +186,7 @@
                                     {
                                         "name": "Healing Potion x3 + Rush Punch lvl.1",
                                         "access_rules": [
-                                            "$RF4Access|1851534"
+                                            "^$RF4Access|1851534"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -213,7 +213,7 @@
                                     {
                                         "name": "Bonus Concerto Lv.1",
                                         "access_rules": [
-                                            "$RF4Access|1851535"
+                                            "^$RF4Access|1851535"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -240,7 +240,7 @@
                                     {
                                         "name": "Trident",
                                         "access_rules": [
-                                            "$RF4Access|1851536"
+                                            "^$RF4Access|1851536"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -267,7 +267,7 @@
                                     {
                                         "name": "Healing Potion x4",
                                         "access_rules": [
-                                            "$RF4Access|1851654"
+                                            "^$RF4Access|1851654"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -307,7 +307,7 @@
                             {
                                 "name": "Cure All",
                                 "access_rules": [
-                                    "$RF4Access|1851411"
+                                    "^$RF4Access|1851411"
                                 ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
@@ -317,7 +317,7 @@
                             {
                                 "name": "Light Barrier",
                                 "access_rules": [
-                                    "$RF4Access|1851404"
+                                    "^$RF4Access|1851404"
                                 ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
@@ -356,7 +356,7 @@
                                     {
                                         "name": "Recovery Potion x3 + Cheese Bread",
                                         "access_rules": [
-                                            "$RF4Access|1851537"
+                                            "^$RF4Access|1851537"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -383,7 +383,7 @@
                                     {
                                         "name": "Silver Boots",
                                         "access_rules": [
-                                            "$RF4Access|1851538"
+                                            "^$RF4Access|1851538"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -410,7 +410,7 @@
                                     {
                                         "name": "Light Barrier Lv.2",
                                         "access_rules": [
-                                            "$RF4Access|1851539"
+                                            "^$RF4Access|1851539"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -437,7 +437,7 @@
                                     {
                                         "name": "Big Fire",
                                         "access_rules": [
-                                            "$RF4Access|1851540"
+                                            "^$RF4Access|1851540"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -464,7 +464,7 @@
                                     {
                                         "name": "Cure All Lv.1",
                                         "access_rules": [
-                                            "$RF4Access|1851541"
+                                            "^$RF4Access|1851541"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -491,7 +491,7 @@
                                     {
                                         "name": "Gold x2 + Silver x2",
                                         "access_rules": [
-                                            "$RF4Access|1851542"
+                                            "^$RF4Access|1851542"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -522,7 +522,7 @@
                     {
                         "name": "Buffaloo",
                         "access_rules": [
-                            "$RF4Access|1852695"
+                            "^$RF4Access|1852695"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -532,7 +532,7 @@
                     {
                         "name": "Flower Lion",
                         "access_rules": [
-                            "$RF4Access|1852729"
+                            "^$RF4Access|1852729"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -542,7 +542,7 @@
                     {
                         "name": "Gangster Goblin",
                         "access_rules": [
-                            "$RF4Access|1852734"
+                            "^$RF4Access|1852734"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -552,7 +552,7 @@
                     {
                         "name": "Goblin Pirate",
                         "access_rules": [
-                            "$RF4Access|1852743"
+                            "^$RF4Access|1852743"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -562,7 +562,7 @@
                     {
                         "name": "Ignis",
                         "access_rules": [
-                            "$RF4Access|1852769"
+                            "^$RF4Access|1852769"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -572,7 +572,7 @@
                     {
                         "name": "Scorpion",
                         "access_rules": [
-                            "$RF4Access|1852825"
+                            "^$RF4Access|1852825"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -582,7 +582,7 @@
                     {
                         "name": "Tomato Ghost",
                         "access_rules": [
-                            "$RF4Access|1852843"
+                            "^$RF4Access|1852843"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -592,7 +592,7 @@
                     {
                         "name": "Troll",
                         "access_rules": [
-                            "$RF4Access|1852846"
+                            "^$RF4Access|1852846"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"

@@ -20,7 +20,7 @@
                     {
                         "name": "Accessory Bread",
                         "access_rules": [
-                            "$RF4Access|1850691"
+                            "^$RF4Access|1850691"
                         ],
                         "visibility_rules": [
                             "opt_dishsanity"
@@ -30,7 +30,7 @@
                     {
                         "name": "Cooking Bread",
                         "access_rules": [
-                            "$RF4Access|1850687"
+                            "^$RF4Access|1850687"
                         ],
                         "visibility_rules": [
                             "opt_dishsanity"
@@ -40,7 +40,7 @@
                     {
                         "name": "Farming Bread",
                         "access_rules": [
-                            "$RF4Access|1850693"
+                            "^$RF4Access|1850693"
                         ],
                         "visibility_rules": [
                             "opt_dishsanity"
@@ -50,7 +50,7 @@
                     {
                         "name": "Medicine Bread",
                         "access_rules": [
-                            "$RF4Access|1850685"
+                            "^$RF4Access|1850685"
                         ],
                         "visibility_rules": [
                             "opt_dishsanity"
@@ -60,7 +60,7 @@
                     {
                         "name": "Weapon Bread",
                         "access_rules": [
-                            "$RF4Access|1850689"
+                            "^$RF4Access|1850689"
                         ],
                         "visibility_rules": [
                             "opt_dishsanity"
@@ -70,7 +70,7 @@
                     {
                         "name": "Turnip",
                         "access_rules": [
-                            "$RF4Access|1850396"
+                            "^$RF4Access|1850396"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -78,7 +78,7 @@
                     {
                         "name": "4-Leaf Clover",
                         "access_rules": [
-                            "$RF4Access|1850461"
+                            "^$RF4Access|1850461"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -88,7 +88,7 @@
                     {
                         "name": "Autumn Grass",
                         "access_rules": [
-                            "$RF4Access|1850469"
+                            "^$RF4Access|1850469"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -98,7 +98,7 @@
                     {
                         "name": "Bok Choy",
                         "access_rules": [
-                            "$RF4Access|1850402"
+                            "^$RF4Access|1850402"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -108,7 +108,7 @@
                     {
                         "name": "Cabbage",
                         "access_rules": [
-                            "$RF4Access|1850368"
+                            "^$RF4Access|1850368"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -118,7 +118,7 @@
                     {
                         "name": "Carrot",
                         "access_rules": [
-                            "$RF4Access|1850390"
+                            "^$RF4Access|1850390"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -128,7 +128,7 @@
                     {
                         "name": "Charm Blue",
                         "access_rules": [
-                            "$RF4Access|1850436"
+                            "^$RF4Access|1850436"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -138,7 +138,7 @@
                     {
                         "name": "Cherry Grass",
                         "access_rules": [
-                            "$RF4Access|1850451"
+                            "^$RF4Access|1850451"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -148,7 +148,7 @@
                     {
                         "name": "Corn",
                         "access_rules": [
-                            "$RF4Access|1850380"
+                            "^$RF4Access|1850380"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -158,7 +158,7 @@
                     {
                         "name": "Cucumber",
                         "access_rules": [
-                            "$RF4Access|1850378"
+                            "^$RF4Access|1850378"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -168,7 +168,7 @@
                     {
                         "name": "Eggplant",
                         "access_rules": [
-                            "$RF4Access|1850384"
+                            "^$RF4Access|1850384"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -178,7 +178,7 @@
                     {
                         "name": "Emery Flower",
                         "access_rules": [
-                            "$RF4Access|1850457"
+                            "^$RF4Access|1850457"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -188,7 +188,7 @@
                     {
                         "name": "Fireflower",
                         "access_rules": [
-                            "$RF4Access|1850463"
+                            "^$RF4Access|1850463"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -198,7 +198,7 @@
                     {
                         "name": "Green Pepper",
                         "access_rules": [
-                            "$RF4Access|1850392"
+                            "^$RF4Access|1850392"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -208,7 +208,7 @@
                     {
                         "name": "Hot-Hot Fruit",
                         "access_rules": [
-                            "$RF4Access|1850404"
+                            "^$RF4Access|1850404"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -218,7 +218,7 @@
                     {
                         "name": "Ironleaf",
                         "access_rules": [
-                            "$RF4Access|1850459"
+                            "^$RF4Access|1850459"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -228,7 +228,7 @@
                     {
                         "name": "Lamp Grass",
                         "access_rules": [
-                            "$RF4Access|1850453"
+                            "^$RF4Access|1850453"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -238,7 +238,7 @@
                     {
                         "name": "Moondrop Flower",
                         "access_rules": [
-                            "$RF4Access|1850432"
+                            "^$RF4Access|1850432"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -248,7 +248,7 @@
                     {
                         "name": "Noel Grass",
                         "access_rules": [
-                            "$RF4Access|1850467"
+                            "^$RF4Access|1850467"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -258,7 +258,7 @@
                     {
                         "name": "Onion",
                         "access_rules": [
-                            "$RF4Access|1850374"
+                            "^$RF4Access|1850374"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -268,7 +268,7 @@
                     {
                         "name": "Pineapple",
                         "access_rules": [
-                            "$RF4Access|1850424"
+                            "^$RF4Access|1850424"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -278,7 +278,7 @@
                     {
                         "name": "Pink Cat",
                         "access_rules": [
-                            "$RF4Access|1850434"
+                            "^$RF4Access|1850434"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -288,7 +288,7 @@
                     {
                         "name": "Pink Melon",
                         "access_rules": [
-                            "$RF4Access|1850372"
+                            "^$RF4Access|1850372"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -298,7 +298,7 @@
                     {
                         "name": "Pink Turnip",
                         "access_rules": [
-                            "$RF4Access|1850370"
+                            "^$RF4Access|1850370"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -308,7 +308,7 @@
                     {
                         "name": "Pom-Pom Grass",
                         "access_rules": [
-                            "$RF4Access|1850471"
+                            "^$RF4Access|1850471"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -318,7 +318,7 @@
                     {
                         "name": "Potato",
                         "access_rules": [
-                            "$RF4Access|1850388"
+                            "^$RF4Access|1850388"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -328,7 +328,7 @@
                     {
                         "name": "Pumpkin",
                         "access_rules": [
-                            "$RF4Access|1850376"
+                            "^$RF4Access|1850376"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -338,7 +338,7 @@
                     {
                         "name": "Radish",
                         "access_rules": [
-                            "$RF4Access|1850398"
+                            "^$RF4Access|1850398"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -348,7 +348,7 @@
                     {
                         "name": "Spinach",
                         "access_rules": [
-                            "$RF4Access|1850394"
+                            "^$RF4Access|1850394"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -358,7 +358,7 @@
                     {
                         "name": "Strawberry",
                         "access_rules": [
-                            "$RF4Access|1850422"
+                            "^$RF4Access|1850422"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -368,7 +368,7 @@
                     {
                         "name": "Tomato",
                         "access_rules": [
-                            "$RF4Access|1850382"
+                            "^$RF4Access|1850382"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -378,7 +378,7 @@
                     {
                         "name": "Toyherb",
                         "access_rules": [
-                            "$RF4Access|1850430"
+                            "^$RF4Access|1850430"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -388,7 +388,7 @@
                     {
                         "name": "Yam",
                         "access_rules": [
-                            "$RF4Access|1850386"
+                            "^$RF4Access|1850386"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -398,7 +398,7 @@
                     {
                         "name": "Boot",
                         "access_rules": [
-                            "$RF4Access|1851385"
+                            "^$RF4Access|1851385"
                         ],
                         "visibility_rules": [
                             "opt_fishsanity"
@@ -408,7 +408,7 @@
                     {
                         "name": "Can",
                         "access_rules": [
-                            "$RF4Access|1851384"
+                            "^$RF4Access|1851384"
                         ],
                         "visibility_rules": [
                             "opt_fishsanity"
@@ -418,7 +418,7 @@
                     {
                         "name": "Scrap Metal+",
                         "access_rules": [
-                            "$RF4Access|1851304"
+                            "^$RF4Access|1851304"
                         ],
                         "visibility_rules": [
                             "opt_forgesanity"
@@ -428,7 +428,7 @@
                     {
                         "name": "Gldn. Doom Pumpkin",
                         "access_rules": [
-                            "$RF4Access|1850410"
+                            "^$RF4Access|1850410"
                         ],
                         "visibility_rules": [
                             "opt_goldcropsanity"
@@ -438,7 +438,7 @@
                     {
                         "name": "Golden Pumpkin",
                         "access_rules": [
-                            "$RF4Access|1850409"
+                            "^$RF4Access|1850409"
                         ],
                         "visibility_rules": [
                             "opt_goldcropsanity"
@@ -448,7 +448,7 @@
                     {
                         "name": "Antidote Grass",
                         "access_rules": [
-                            "$RF4Access|1850439"
+                            "^$RF4Access|1850439"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -458,7 +458,7 @@
                     {
                         "name": "Fodder",
                         "access_rules": [
-                            "$RF4Access|1851180"
+                            "^$RF4Access|1851180"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -468,7 +468,7 @@
                     {
                         "name": "Medicinal Herb",
                         "access_rules": [
-                            "$RF4Access|1850438"
+                            "^$RF4Access|1850438"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -478,7 +478,7 @@
                     {
                         "name": "Weeds",
                         "access_rules": [
-                            "$RF4Access|1850449"
+                            "^$RF4Access|1850449"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -488,7 +488,7 @@
                     {
                         "name": "Withered Grass",
                         "access_rules": [
-                            "$RF4Access|1850450"
+                            "^$RF4Access|1850450"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -498,7 +498,7 @@
                     {
                         "name": "Chocolate",
                         "access_rules": [
-                            "$RF4Access|1850668"
+                            "^$RF4Access|1850668"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -508,7 +508,7 @@
                     {
                         "name": "Curry Powder",
                         "access_rules": [
-                            "$RF4Access|1850683"
+                            "^$RF4Access|1850683"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -518,7 +518,7 @@
                     {
                         "name": "Elli Leaves",
                         "access_rules": [
-                            "$RF4Access|1850670"
+                            "^$RF4Access|1850670"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -528,7 +528,7 @@
                     {
                         "name": "Flour",
                         "access_rules": [
-                            "$RF4Access|1850681"
+                            "^$RF4Access|1850681"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -538,7 +538,7 @@
                     {
                         "name": "Heavy Spice",
                         "access_rules": [
-                            "$RF4Access|1850490"
+                            "^$RF4Access|1850490"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -548,7 +548,7 @@
                     {
                         "name": "Mixed Herbs",
                         "access_rules": [
-                            "$RF4Access|1850493"
+                            "^$RF4Access|1850493"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -558,7 +558,7 @@
                     {
                         "name": "Oil",
                         "access_rules": [
-                            "$RF4Access|1850682"
+                            "^$RF4Access|1850682"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -568,7 +568,7 @@
                     {
                         "name": "Rice",
                         "access_rules": [
-                            "$RF4Access|1850667"
+                            "^$RF4Access|1850667"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -578,7 +578,7 @@
                     {
                         "name": "Rice Flour",
                         "access_rules": [
-                            "$RF4Access|1850684"
+                            "^$RF4Access|1850684"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -588,7 +588,7 @@
                     {
                         "name": "Sour Drop",
                         "access_rules": [
-                            "$RF4Access|1850492"
+                            "^$RF4Access|1850492"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -598,7 +598,7 @@
                     {
                         "name": "Sweet Powder",
                         "access_rules": [
-                            "$RF4Access|1850491"
+                            "^$RF4Access|1850491"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -608,7 +608,7 @@
                     {
                         "name": "Wine",
                         "access_rules": [
-                            "$RF4Access|1850669"
+                            "^$RF4Access|1850669"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -618,7 +618,7 @@
                     {
                         "name": "Big Autumn Grass",
                         "access_rules": [
-                            "$RF4Access|1850470"
+                            "^$RF4Access|1850470"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -628,7 +628,7 @@
                     {
                         "name": "Big Fireflower",
                         "access_rules": [
-                            "$RF4Access|1850464"
+                            "^$RF4Access|1850464"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -638,7 +638,7 @@
                     {
                         "name": "Boss Bok Choy",
                         "access_rules": [
-                            "$RF4Access|1850403"
+                            "^$RF4Access|1850403"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -648,7 +648,7 @@
                     {
                         "name": "Colossal Pink",
                         "access_rules": [
-                            "$RF4Access|1850371"
+                            "^$RF4Access|1850371"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -658,7 +658,7 @@
                     {
                         "name": "Conqueror Melon",
                         "access_rules": [
-                            "$RF4Access|1850373"
+                            "^$RF4Access|1850373"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -668,7 +668,7 @@
                     {
                         "name": "Doom Pumpkin",
                         "access_rules": [
-                            "$RF4Access|1850377"
+                            "^$RF4Access|1850377"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -678,7 +678,7 @@
                     {
                         "name": "Emperor Eggplant",
                         "access_rules": [
-                            "$RF4Access|1850385"
+                            "^$RF4Access|1850385"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -688,7 +688,7 @@
                     {
                         "name": "Giant Hot-Hot Fruit",
                         "access_rules": [
-                            "$RF4Access|1850405"
+                            "^$RF4Access|1850405"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -698,7 +698,7 @@
                     {
                         "name": "Gigant Corn",
                         "access_rules": [
-                            "$RF4Access|1850381"
+                            "^$RF4Access|1850381"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -708,7 +708,7 @@
                     {
                         "name": "Great 4-Leaf Clover",
                         "access_rules": [
-                            "$RF4Access|1850462"
+                            "^$RF4Access|1850462"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -718,7 +718,7 @@
                     {
                         "name": "Great Charm Blue",
                         "access_rules": [
-                            "$RF4Access|1850437"
+                            "^$RF4Access|1850437"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -728,7 +728,7 @@
                     {
                         "name": "Great Emery Flower",
                         "access_rules": [
-                            "$RF4Access|1850458"
+                            "^$RF4Access|1850458"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -738,7 +738,7 @@
                     {
                         "name": "Green Pepper Rex",
                         "access_rules": [
-                            "$RF4Access|1850393"
+                            "^$RF4Access|1850393"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -748,7 +748,7 @@
                     {
                         "name": "Kaiser Cucumber",
                         "access_rules": [
-                            "$RF4Access|1850379"
+                            "^$RF4Access|1850379"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -758,7 +758,7 @@
                     {
                         "name": "Kaiser Lamp Grass",
                         "access_rules": [
-                            "$RF4Access|1850454"
+                            "^$RF4Access|1850454"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -768,7 +768,7 @@
                     {
                         "name": "King Cabbage",
                         "access_rules": [
-                            "$RF4Access|1850369"
+                            "^$RF4Access|1850369"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -778,7 +778,7 @@
                     {
                         "name": "King Cherry Grass",
                         "access_rules": [
-                            "$RF4Access|1850452"
+                            "^$RF4Access|1850452"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -788,7 +788,7 @@
                     {
                         "name": "King Pineapple",
                         "access_rules": [
-                            "$RF4Access|1850425"
+                            "^$RF4Access|1850425"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -798,7 +798,7 @@
                     {
                         "name": "King Pink Cat",
                         "access_rules": [
-                            "$RF4Access|1850435"
+                            "^$RF4Access|1850435"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -808,7 +808,7 @@
                     {
                         "name": "King Pom-Pom Grass",
                         "access_rules": [
-                            "$RF4Access|1850472"
+                            "^$RF4Access|1850472"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -818,7 +818,7 @@
                     {
                         "name": "Large Noel Grass",
                         "access_rules": [
-                            "$RF4Access|1850468"
+                            "^$RF4Access|1850468"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -828,7 +828,7 @@
                     {
                         "name": "Lordly Yam",
                         "access_rules": [
-                            "$RF4Access|1850387"
+                            "^$RF4Access|1850387"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -838,7 +838,7 @@
                     {
                         "name": "Noble Radish",
                         "access_rules": [
-                            "$RF4Access|1850399"
+                            "^$RF4Access|1850399"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -848,7 +848,7 @@
                     {
                         "name": "Princely Potato",
                         "access_rules": [
-                            "$RF4Access|1850389"
+                            "^$RF4Access|1850389"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -858,7 +858,7 @@
                     {
                         "name": "Royal Carrot",
                         "access_rules": [
-                            "$RF4Access|1850391"
+                            "^$RF4Access|1850391"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -868,7 +868,7 @@
                     {
                         "name": "Sovereign Spinach",
                         "access_rules": [
-                            "$RF4Access|1850395"
+                            "^$RF4Access|1850395"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -878,7 +878,7 @@
                     {
                         "name": "Sultan Strawberry",
                         "access_rules": [
-                            "$RF4Access|1850423"
+                            "^$RF4Access|1850423"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -888,7 +888,7 @@
                     {
                         "name": "Super Ironleaf",
                         "access_rules": [
-                            "$RF4Access|1850460"
+                            "^$RF4Access|1850460"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -898,7 +898,7 @@
                     {
                         "name": "Titan Tomato",
                         "access_rules": [
-                            "$RF4Access|1850383"
+                            "^$RF4Access|1850383"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -908,7 +908,7 @@
                     {
                         "name": "Tyrant Turnip",
                         "access_rules": [
-                            "$RF4Access|1850397"
+                            "^$RF4Access|1850397"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -918,7 +918,7 @@
                     {
                         "name": "Ultra Moondrop Flower",
                         "access_rules": [
-                            "$RF4Access|1850433"
+                            "^$RF4Access|1850433"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -928,7 +928,7 @@
                     {
                         "name": "Ultra Onion",
                         "access_rules": [
-                            "$RF4Access|1850375"
+                            "^$RF4Access|1850375"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -938,7 +938,7 @@
                     {
                         "name": "Ultra Toyherb",
                         "access_rules": [
-                            "$RF4Access|1850431"
+                            "^$RF4Access|1850431"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -948,7 +948,7 @@
                     {
                         "name": "Bamboo Sprout",
                         "access_rules": [
-                            "$RF4Access|1850406"
+                            "^$RF4Access|1850406"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -956,7 +956,7 @@
                     {
                         "name": "Branch",
                         "access_rules": [
-                            "$RF4Access|1851388"
+                            "^$RF4Access|1851388"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -964,7 +964,7 @@
                     {
                         "name": "Lumber",
                         "access_rules": [
-                            "$RF4Access|1851389"
+                            "^$RF4Access|1851389"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -972,7 +972,7 @@
                     {
                         "name": "Material Stone",
                         "access_rules": [
-                            "$RF4Access|1851390"
+                            "^$RF4Access|1851390"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -980,7 +980,7 @@
                     {
                         "name": "Rock",
                         "access_rules": [
-                            "$RF4Access|1851387"
+                            "^$RF4Access|1851387"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -988,7 +988,7 @@
                     {
                         "name": "Antidote Potion",
                         "access_rules": [
-                            "$RF4Access|1850482"
+                            "^$RF4Access|1850482"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -998,7 +998,7 @@
                     {
                         "name": "Cold Medicine",
                         "access_rules": [
-                            "$RF4Access|1850485"
+                            "^$RF4Access|1850485"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1008,7 +1008,7 @@
                     {
                         "name": "Formuade",
                         "access_rules": [
-                            "$RF4Access|1850486"
+                            "^$RF4Access|1850486"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1018,7 +1018,7 @@
                     {
                         "name": "Formula A",
                         "access_rules": [
-                            "$RF4Access|1851173"
+                            "^$RF4Access|1851173"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1028,7 +1028,7 @@
                     {
                         "name": "Formula B",
                         "access_rules": [
-                            "$RF4Access|1851174"
+                            "^$RF4Access|1851174"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1038,7 +1038,7 @@
                     {
                         "name": "Formula C",
                         "access_rules": [
-                            "$RF4Access|1851175"
+                            "^$RF4Access|1851175"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1048,7 +1048,7 @@
                     {
                         "name": "Giantizer",
                         "access_rules": [
-                            "$RF4Access|1851178"
+                            "^$RF4Access|1851178"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1058,7 +1058,7 @@
                     {
                         "name": "Greenifier",
                         "access_rules": [
-                            "$RF4Access|1851171"
+                            "^$RF4Access|1851171"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1068,7 +1068,7 @@
                     {
                         "name": "Greenifier+",
                         "access_rules": [
-                            "$RF4Access|1851172"
+                            "^$RF4Access|1851172"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1078,7 +1078,7 @@
                     {
                         "name": "Healing Potion",
                         "access_rules": [
-                            "$RF4Access|1850495"
+                            "^$RF4Access|1850495"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1088,7 +1088,7 @@
                     {
                         "name": "Invinciroid",
                         "access_rules": [
-                            "$RF4Access|1850488"
+                            "^$RF4Access|1850488"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1098,7 +1098,7 @@
                     {
                         "name": "Leveliser",
                         "access_rules": [
-                            "$RF4Access|1850489"
+                            "^$RF4Access|1850489"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1108,7 +1108,7 @@
                     {
                         "name": "Love Potion",
                         "access_rules": [
-                            "$RF4Access|1850487"
+                            "^$RF4Access|1850487"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1118,7 +1118,7 @@
                     {
                         "name": "Magical Potion",
                         "access_rules": [
-                            "$RF4Access|1850497"
+                            "^$RF4Access|1850497"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1128,7 +1128,7 @@
                     {
                         "name": "Minimizer",
                         "access_rules": [
-                            "$RF4Access|1851179"
+                            "^$RF4Access|1851179"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1138,7 +1138,7 @@
                     {
                         "name": "Mystery Potion",
                         "access_rules": [
-                            "$RF4Access|1850496"
+                            "^$RF4Access|1850496"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1148,7 +1148,7 @@
                     {
                         "name": "No Rot α",
                         "access_rules": [
-                            "$RF4Access|1851176"
+                            "^$RF4Access|1851176"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1158,7 +1158,7 @@
                     {
                         "name": "No Rot β",
                         "access_rules": [
-                            "$RF4Access|1851177"
+                            "^$RF4Access|1851177"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1168,7 +1168,7 @@
                     {
                         "name": "Object X",
                         "access_rules": [
-                            "$RF4Access|1850498"
+                            "^$RF4Access|1850498"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1178,7 +1178,7 @@
                     {
                         "name": "Para-Gone",
                         "access_rules": [
-                            "$RF4Access|1850483"
+                            "^$RF4Access|1850483"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1188,7 +1188,7 @@
                     {
                         "name": "Recovery Potion",
                         "access_rules": [
-                            "$RF4Access|1850494"
+                            "^$RF4Access|1850494"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1198,7 +1198,7 @@
                     {
                         "name": "Roundoff",
                         "access_rules": [
-                            "$RF4Access|1850484"
+                            "^$RF4Access|1850484"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1208,7 +1208,7 @@
                     {
                         "name": "Wettable Powder",
                         "access_rules": [
-                            "$RF4Access|1851170"
+                            "^$RF4Access|1851170"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1218,7 +1218,7 @@
                     {
                         "name": "Autumn Grass Seeds",
                         "access_rules": [
-                            "$RF4Access|1851149"
+                            "^$RF4Access|1851149"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1228,7 +1228,7 @@
                     {
                         "name": "Bok Choy Seeds",
                         "access_rules": [
-                            "$RF4Access|1851156"
+                            "^$RF4Access|1851156"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1238,7 +1238,7 @@
                     {
                         "name": "Cabbage Seeds",
                         "access_rules": [
-                            "$RF4Access|1851124"
+                            "^$RF4Access|1851124"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1248,7 +1248,7 @@
                     {
                         "name": "Carrot Seeds",
                         "access_rules": [
-                            "$RF4Access|1851134"
+                            "^$RF4Access|1851134"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1258,7 +1258,7 @@
                     {
                         "name": "Charm Blue Seeds",
                         "access_rules": [
-                            "$RF4Access|1851138"
+                            "^$RF4Access|1851138"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1268,7 +1268,7 @@
                     {
                         "name": "Cherry Grass Seeds",
                         "access_rules": [
-                            "$RF4Access|1851140"
+                            "^$RF4Access|1851140"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1278,7 +1278,7 @@
                     {
                         "name": "Clover Seeds",
                         "access_rules": [
-                            "$RF4Access|1851145"
+                            "^$RF4Access|1851145"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1288,7 +1288,7 @@
                     {
                         "name": "Corn Seeds",
                         "access_rules": [
-                            "$RF4Access|1851128"
+                            "^$RF4Access|1851128"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1298,7 +1298,7 @@
                     {
                         "name": "Cucumber Seeds",
                         "access_rules": [
-                            "$RF4Access|1851122"
+                            "^$RF4Access|1851122"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1308,7 +1308,7 @@
                     {
                         "name": "Eggplant Seeds",
                         "access_rules": [
-                            "$RF4Access|1851133"
+                            "^$RF4Access|1851133"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1318,7 +1318,7 @@
                     {
                         "name": "Emery Flower Seeds",
                         "access_rules": [
-                            "$RF4Access|1851143"
+                            "^$RF4Access|1851143"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1328,7 +1328,7 @@
                     {
                         "name": "Fireflower Seeds",
                         "access_rules": [
-                            "$RF4Access|1851146"
+                            "^$RF4Access|1851146"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1338,7 +1338,7 @@
                     {
                         "name": "Fodder Seeds",
                         "access_rules": [
-                            "$RF4Access|1851139"
+                            "^$RF4Access|1851139"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1348,7 +1348,7 @@
                     {
                         "name": "Gold Melon Seeds",
                         "access_rules": [
-                            "$RF4Access|1851161"
+                            "^$RF4Access|1851161"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1358,7 +1358,7 @@
                     {
                         "name": "Gold Pumpkin Seeds",
                         "access_rules": [
-                            "$RF4Access|1851158"
+                            "^$RF4Access|1851158"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1368,7 +1368,7 @@
                     {
                         "name": "Green Pepper Seeds",
                         "access_rules": [
-                            "$RF4Access|1851137"
+                            "^$RF4Access|1851137"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1378,7 +1378,7 @@
                     {
                         "name": "Hot-Hot Seeds",
                         "access_rules": [
-                            "$RF4Access|1851162"
+                            "^$RF4Access|1851162"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1388,7 +1388,7 @@
                     {
                         "name": "Ironleaf Seeds",
                         "access_rules": [
-                            "$RF4Access|1851144"
+                            "^$RF4Access|1851144"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1398,7 +1398,7 @@
                     {
                         "name": "Lamp Grass Seeds",
                         "access_rules": [
-                            "$RF4Access|1851141"
+                            "^$RF4Access|1851141"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1408,7 +1408,7 @@
                     {
                         "name": "Moondrop Seeds",
                         "access_rules": [
-                            "$RF4Access|1851125"
+                            "^$RF4Access|1851125"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1418,7 +1418,7 @@
                     {
                         "name": "Noel Grass Seeds",
                         "access_rules": [
-                            "$RF4Access|1851148"
+                            "^$RF4Access|1851148"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1428,7 +1428,7 @@
                     {
                         "name": "Onion Seeds",
                         "access_rules": [
-                            "$RF4Access|1851129"
+                            "^$RF4Access|1851129"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1438,7 +1438,7 @@
                     {
                         "name": "Pineapple Seeds",
                         "access_rules": [
-                            "$RF4Access|1851131"
+                            "^$RF4Access|1851131"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1448,7 +1448,7 @@
                     {
                         "name": "Pink Cat Seeds",
                         "access_rules": [
-                            "$RF4Access|1851132"
+                            "^$RF4Access|1851132"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1458,7 +1458,7 @@
                     {
                         "name": "Pink Turnip Seeds",
                         "access_rules": [
-                            "$RF4Access|1851153"
+                            "^$RF4Access|1851153"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1468,7 +1468,7 @@
                     {
                         "name": "Pom-Pom Grass Sds.",
                         "access_rules": [
-                            "$RF4Access|1851150"
+                            "^$RF4Access|1851150"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1478,7 +1478,7 @@
                     {
                         "name": "Potato Seeds",
                         "access_rules": [
-                            "$RF4Access|1851121"
+                            "^$RF4Access|1851121"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1488,7 +1488,7 @@
                     {
                         "name": "Pumpkin Seeds",
                         "access_rules": [
-                            "$RF4Access|1851130"
+                            "^$RF4Access|1851130"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1498,7 +1498,7 @@
                     {
                         "name": "Radish Seeds",
                         "access_rules": [
-                            "$RF4Access|1851154"
+                            "^$RF4Access|1851154"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1508,7 +1508,7 @@
                     {
                         "name": "Spinach Seeds",
                         "access_rules": [
-                            "$RF4Access|1851136"
+                            "^$RF4Access|1851136"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1518,7 +1518,7 @@
                     {
                         "name": "Strawberry Seeds",
                         "access_rules": [
-                            "$RF4Access|1851123"
+                            "^$RF4Access|1851123"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1528,7 +1528,7 @@
                     {
                         "name": "Tomato Seeds",
                         "access_rules": [
-                            "$RF4Access|1851127"
+                            "^$RF4Access|1851127"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1538,7 +1538,7 @@
                     {
                         "name": "Toyherb Seeds",
                         "access_rules": [
-                            "$RF4Access|1851126"
+                            "^$RF4Access|1851126"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1548,7 +1548,7 @@
                     {
                         "name": "Turnip Seeds",
                         "access_rules": [
-                            "$RF4Access|1851120"
+                            "^$RF4Access|1851120"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1558,7 +1558,7 @@
                     {
                         "name": "Yam Seeds",
                         "access_rules": [
-                            "$RF4Access|1851135"
+                            "^$RF4Access|1851135"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -1568,7 +1568,7 @@
                     {
                         "name": "Fireball",
                         "access_rules": [
-                            "$RF4Access|1851392"
+                            "^$RF4Access|1851392"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -1578,7 +1578,7 @@
                     {
                         "name": "Greeting Spell",
                         "access_rules": [
-                            "$RF4Access|1851416"
+                            "^$RF4Access|1851416"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -1588,7 +1588,7 @@
                     {
                         "name": "Iron Waltz",
                         "access_rules": [
-                            "$RF4Access|1851449"
+                            "^$RF4Access|1851449"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -1598,7 +1598,7 @@
                     {
                         "name": "Rush Attack",
                         "access_rules": [
-                            "$RF4Access|1851419"
+                            "^$RF4Access|1851419"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -1608,7 +1608,7 @@
                     {
                         "name": "Striking March",
                         "access_rules": [
-                            "$RF4Access|1851448"
+                            "^$RF4Access|1851448"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -1618,7 +1618,7 @@
                     {
                         "name": "Brush",
                         "access_rules": [
-                            "$RF4Access|1851117"
+                            "^$RF4Access|1851117"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1626,7 +1626,7 @@
                     {
                         "name": "progression",
                         "access_rules": [
-                            "$RF4Access|1851118"
+                            "^$RF4Access|1851118"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1634,7 +1634,7 @@
                     {
                         "name": "Magnifying Glass",
                         "access_rules": [
-                            "$RF4Access|1851119"
+                            "^$RF4Access|1851119"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -1642,7 +1642,7 @@
                     {
                         "name": "Heart Drink",
                         "access_rules": [
-                            "$RF4Access|1850481"
+                            "^$RF4Access|1850481"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1652,7 +1652,7 @@
                     {
                         "name": "Intelligencer",
                         "access_rules": [
-                            "$RF4Access|1850479"
+                            "^$RF4Access|1850479"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1662,7 +1662,7 @@
                     {
                         "name": "The Protein",
                         "access_rules": [
-                            "$RF4Access|1850478"
+                            "^$RF4Access|1850478"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1672,7 +1672,7 @@
                     {
                         "name": "Vital Gummi",
                         "access_rules": [
-                            "$RF4Access|1850480"
+                            "^$RF4Access|1850480"
                         ],
                         "visibility_rules": [
                             "opt_chemicsanity"
@@ -1702,7 +1702,7 @@
                     {
                         "name": "First Task!",
                         "access_rules": [
-                            "$RF4Access|1851904"
+                            "^$RF4Access|1851904"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1712,7 +1712,7 @@
                     {
                         "name": "How to place furniture!",
                         "access_rules": [
-                            "$RF4Access|1851905"
+                            "^$RF4Access|1851905"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1722,7 +1722,7 @@
                     {
                         "name": "Make Lumber",
                         "access_rules": [
-                            "$RF4Access|1851906"
+                            "^$RF4Access|1851906"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1732,7 +1732,7 @@
                     {
                         "name": "Give an item!",
                         "access_rules": [
-                            "$RF4Access|1851907"
+                            "^$RF4Access|1851907"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1742,7 +1742,7 @@
                     {
                         "name": "Purchase Rice!",
                         "access_rules": [
-                            "$RF4Access|1851908"
+                            "^$RF4Access|1851908"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1752,7 +1752,7 @@
                     {
                         "name": "Make Material Stone!",
                         "access_rules": [
-                            "$RF4Access|1851909"
+                            "^$RF4Access|1851909"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1762,7 +1762,7 @@
                     {
                         "name": "Try Fishing!",
                         "access_rules": [
-                            "$RF4Access|1851910"
+                            "^$RF4Access|1851910"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1772,7 +1772,7 @@
                     {
                         "name": "Use a Fertilizer Bin!",
                         "access_rules": [
-                            "$RF4Access|1851911"
+                            "^$RF4Access|1851911"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1782,7 +1782,7 @@
                     {
                         "name": "Mine Iron!",
                         "access_rules": [
-                            "$RF4Access|1851912"
+                            "^$RF4Access|1851912"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1792,7 +1792,7 @@
                     {
                         "name": "Raise friendship levels! (1)",
                         "access_rules": [
-                            "$RF4Access|1851913"
+                            "^$RF4Access|1851913"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1802,7 +1802,7 @@
                     {
                         "name": "Look at illustrations!",
                         "access_rules": [
-                            "$RF4Access|1851914"
+                            "^$RF4Access|1851914"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1812,7 +1812,7 @@
                     {
                         "name": "Check difficulty level!",
                         "access_rules": [
-                            "$RF4Access|1851915"
+                            "^$RF4Access|1851915"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1822,7 +1822,7 @@
                     {
                         "name": "Get an Airship License!",
                         "access_rules": [
-                            "$RF4Access|1851916"
+                            "^$RF4Access|1851916"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1832,7 +1832,7 @@
                     {
                         "name": "Get a Cooking Table!",
                         "access_rules": [
-                            "$RF4Access|1851917"
+                            "^$RF4Access|1851917"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1842,7 +1842,7 @@
                     {
                         "name": "Start Cooking!",
                         "access_rules": [
-                            "$RF4Access|1851918"
+                            "^$RF4Access|1851918"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1852,7 +1852,7 @@
                     {
                         "name": "Get a Forge!",
                         "access_rules": [
-                            "$RF4Access|1851919"
+                            "^$RF4Access|1851919"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1862,7 +1862,7 @@
                     {
                         "name": "Forge a weapon!",
                         "access_rules": [
-                            "$RF4Access|1851920"
+                            "^$RF4Access|1851920"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1872,7 +1872,7 @@
                     {
                         "name": "Make a farming tool!",
                         "access_rules": [
-                            "$RF4Access|1851921"
+                            "^$RF4Access|1851921"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1882,7 +1882,7 @@
                     {
                         "name": "Get a Crafting Table!",
                         "access_rules": [
-                            "$RF4Access|1851922"
+                            "^$RF4Access|1851922"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1892,7 +1892,7 @@
                     {
                         "name": "Make some armor!",
                         "access_rules": [
-                            "$RF4Access|1851923"
+                            "^$RF4Access|1851923"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1902,7 +1902,7 @@
                     {
                         "name": "Get a Chemistry Set!",
                         "access_rules": [
-                            "$RF4Access|1851924"
+                            "^$RF4Access|1851924"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1912,7 +1912,7 @@
                     {
                         "name": "Make some medicine!",
                         "access_rules": [
-                            "$RF4Access|1851925"
+                            "^$RF4Access|1851925"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1922,7 +1922,7 @@
                     {
                         "name": "Raise a skill level!",
                         "access_rules": [
-                            "$RF4Access|1851926"
+                            "^$RF4Access|1851926"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1932,7 +1932,7 @@
                     {
                         "name": "Raise a weapon skill level!",
                         "access_rules": [
-                            "$RF4Access|1851927"
+                            "^$RF4Access|1851927"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1942,7 +1942,7 @@
                     {
                         "name": "Upgrade a weapon!",
                         "access_rules": [
-                            "$RF4Access|1851928"
+                            "^$RF4Access|1851928"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1952,7 +1952,7 @@
                     {
                         "name": "Raise a magic skill level!",
                         "access_rules": [
-                            "$RF4Access|1851929"
+                            "^$RF4Access|1851929"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1962,7 +1962,7 @@
                     {
                         "name": "Upgrade your armor!",
                         "access_rules": [
-                            "$RF4Access|1851930"
+                            "^$RF4Access|1851930"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1972,7 +1972,7 @@
                     {
                         "name": "Use a nutrient!",
                         "access_rules": [
-                            "$RF4Access|1851931"
+                            "^$RF4Access|1851931"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1982,7 +1982,7 @@
                     {
                         "name": "Get a Shop License!",
                         "access_rules": [
-                            "$RF4Access|1851933"
+                            "^$RF4Access|1851933"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -1992,7 +1992,7 @@
                     {
                         "name": "Prepare for a typhoon!",
                         "access_rules": [
-                            "$RF4Access|1851934"
+                            "^$RF4Access|1851934"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2002,7 +2002,7 @@
                     {
                         "name": "Befriend 5 monsters!",
                         "access_rules": [
-                            "$RF4Access|1851935"
+                            "^$RF4Access|1851935"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2012,7 +2012,7 @@
                     {
                         "name": "Upgrade a Staff!",
                         "access_rules": [
-                            "$RF4Access|1851936"
+                            "^$RF4Access|1851936"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2022,7 +2022,7 @@
                     {
                         "name": "Raise friendship levels! (5)",
                         "access_rules": [
-                            "$RF4Access|1851937"
+                            "^$RF4Access|1851937"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2032,7 +2032,7 @@
                     {
                         "name": "Ship a level 10 flower!",
                         "access_rules": [
-                            "$RF4Access|1851938"
+                            "^$RF4Access|1851938"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2042,7 +2042,7 @@
                     {
                         "name": "Harvest a large gold crop!",
                         "access_rules": [
-                            "$RF4Access|1851940"
+                            "^$RF4Access|1851940"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2052,7 +2052,7 @@
                     {
                         "name": "Harvest all crops!",
                         "access_rules": [
-                            "$RF4Access|1851941"
+                            "^$RF4Access|1851941"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2062,7 +2062,7 @@
                     {
                         "name": "Ship a gold level 10 crop!",
                         "access_rules": [
-                            "$RF4Access|1851942"
+                            "^$RF4Access|1851942"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2072,7 +2072,7 @@
                     {
                         "name": "Raise a skill level to 50!",
                         "access_rules": [
-                            "$RF4Access|1851943"
+                            "^$RF4Access|1851943"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2082,7 +2082,7 @@
                     {
                         "name": "Befriend 50 monsters!",
                         "access_rules": [
-                            "$RF4Access|1851944"
+                            "^$RF4Access|1851944"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2092,7 +2092,7 @@
                     {
                         "name": "Raise friendship levels! (10)",
                         "access_rules": [
-                            "$RF4Access|1851945"
+                            "^$RF4Access|1851945"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2102,7 +2102,7 @@
                     {
                         "name": "Get a 50% shipment rate!",
                         "access_rules": [
-                            "$RF4Access|1851946"
+                            "^$RF4Access|1851946"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2112,7 +2112,7 @@
                     {
                         "name": "Raise a skill level to 80!",
                         "access_rules": [
-                            "$RF4Access|1851947"
+                            "^$RF4Access|1851947"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2122,7 +2122,7 @@
                     {
                         "name": "Complete the Sharance Maze!",
                         "access_rules": [
-                            "$RF4Access|1851948"
+                            "^$RF4Access|1851948"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2132,7 +2132,7 @@
                     {
                         "name": "Give Dolce a Moondrop!",
                         "access_rules": [
-                            "$RF4Access|1851949"
+                            "^$RF4Access|1851949"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2142,7 +2142,7 @@
                     {
                         "name": "Build a Monster Barn!",
                         "access_rules": [
-                            "$RF4Access|1851950"
+                            "^$RF4Access|1851950"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2152,7 +2152,7 @@
                     {
                         "name": "Befriend monsters!",
                         "access_rules": [
-                            "$RF4Access|1851951"
+                            "^$RF4Access|1851951"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2162,7 +2162,7 @@
                     {
                         "name": "Ride on a monster friend!",
                         "access_rules": [
-                            "$RF4Access|1851952"
+                            "^$RF4Access|1851952"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2172,7 +2172,7 @@
                     {
                         "name": "Befriend an item monster!",
                         "access_rules": [
-                            "$RF4Access|1851953"
+                            "^$RF4Access|1851953"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2182,7 +2182,7 @@
                     {
                         "name": "Give a monster a task!",
                         "access_rules": [
-                            "$RF4Access|1851954"
+                            "^$RF4Access|1851954"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2192,7 +2192,7 @@
                     {
                         "name": "Befriend a boss monster!",
                         "access_rules": [
-                            "$RF4Access|1851955"
+                            "^$RF4Access|1851955"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2202,7 +2202,7 @@
                     {
                         "name": "Prepare for Marriage!",
                         "access_rules": [
-                            "$RF4Access|1851956"
+                            "^$RF4Access|1851956"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2212,7 +2212,7 @@
                     {
                         "name": "From Eliza!",
                         "access_rules": [
-                            "$RF4Access|1851957"
+                            "^$RF4Access|1851957"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2222,7 +2222,7 @@
                     {
                         "name": "Harvest Potato!",
                         "access_rules": [
-                            "$RF4Access|1851959"
+                            "^$RF4Access|1851959"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2232,7 +2232,7 @@
                     {
                         "name": "Harvest 20 Turnip!",
                         "access_rules": [
-                            "$RF4Access|1851960"
+                            "^$RF4Access|1851960"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2242,7 +2242,7 @@
                     {
                         "name": "Harvest 5 Radishes!",
                         "access_rules": [
-                            "$RF4Access|1851961"
+                            "^$RF4Access|1851961"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2252,7 +2252,7 @@
                     {
                         "name": "Ship a level 2 Turnip!",
                         "access_rules": [
-                            "$RF4Access|1851962"
+                            "^$RF4Access|1851962"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2262,7 +2262,7 @@
                     {
                         "name": "Harvest 6 veggies!",
                         "access_rules": [
-                            "$RF4Access|1851963"
+                            "^$RF4Access|1851963"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2272,7 +2272,7 @@
                     {
                         "name": "Ship a level 5 veggie!",
                         "access_rules": [
-                            "$RF4Access|1851964"
+                            "^$RF4Access|1851964"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2282,7 +2282,7 @@
                     {
                         "name": "Till Corn",
                         "access_rules": [
-                            "$RF4Access|1851965"
+                            "^$RF4Access|1851965"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2292,7 +2292,7 @@
                     {
                         "name": "Give Dylas a Carrot!",
                         "access_rules": [
-                            "$RF4Access|1851966"
+                            "^$RF4Access|1851966"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2302,7 +2302,7 @@
                     {
                         "name": "Harvest 12 veggies!",
                         "access_rules": [
-                            "$RF4Access|1851967"
+                            "^$RF4Access|1851967"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2312,7 +2312,7 @@
                     {
                         "name": "Ship a level 10 veggie!",
                         "access_rules": [
-                            "$RF4Access|1851968"
+                            "^$RF4Access|1851968"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2322,7 +2322,7 @@
                     {
                         "name": "Harvest certain veggies!",
                         "access_rules": [
-                            "$RF4Access|1851969"
+                            "^$RF4Access|1851969"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2332,7 +2332,7 @@
                     {
                         "name": "Cut down a Shining Tree!",
                         "access_rules": [
-                            "$RF4Access|1851970"
+                            "^$RF4Access|1851970"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2342,7 +2342,7 @@
                     {
                         "name": "Harvest 20 Oranges!",
                         "access_rules": [
-                            "$RF4Access|1851971"
+                            "^$RF4Access|1851971"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2352,7 +2352,7 @@
                     {
                         "name": "Harvest a large veggie!",
                         "access_rules": [
-                            "$RF4Access|1851972"
+                            "^$RF4Access|1851972"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2362,7 +2362,7 @@
                     {
                         "name": "Harvest 50 Grapes!",
                         "access_rules": [
-                            "$RF4Access|1851973"
+                            "^$RF4Access|1851973"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2372,7 +2372,7 @@
                     {
                         "name": "Harvest 50 Apples!",
                         "access_rules": [
-                            "$RF4Access|1851974"
+                            "^$RF4Access|1851974"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2382,7 +2382,7 @@
                     {
                         "name": "Harvest non-golden veggies!",
                         "access_rules": [
-                            "$RF4Access|1851975"
+                            "^$RF4Access|1851975"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2392,7 +2392,7 @@
                     {
                         "name": "Gift for Margaret!",
                         "access_rules": [
-                            "$RF4Access|1851976"
+                            "^$RF4Access|1851976"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2402,7 +2402,7 @@
                     {
                         "name": "Get a 25% shipment rate!",
                         "access_rules": [
-                            "$RF4Access|1851977"
+                            "^$RF4Access|1851977"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2412,7 +2412,7 @@
                     {
                         "name": "Give a Turnip Heaven!",
                         "access_rules": [
-                            "$RF4Access|1851978"
+                            "^$RF4Access|1851978"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2422,7 +2422,7 @@
                     {
                         "name": "Harvest a Sword Flower!",
                         "access_rules": [
-                            "$RF4Access|1851979"
+                            "^$RF4Access|1851979"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2432,7 +2432,7 @@
                     {
                         "name": "Harvest a Shield Flower!",
                         "access_rules": [
-                            "$RF4Access|1851980"
+                            "^$RF4Access|1851980"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2442,7 +2442,7 @@
                     {
                         "name": "Complete a field dungeon!",
                         "access_rules": [
-                            "$RF4Access|1851981"
+                            "^$RF4Access|1851981"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2452,7 +2452,7 @@
                     {
                         "name": "Harvest Toyherb!",
                         "access_rules": [
-                            "$RF4Access|1851982"
+                            "^$RF4Access|1851982"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2462,7 +2462,7 @@
                     {
                         "name": "Harvest 3 flowers!",
                         "access_rules": [
-                            "$RF4Access|1851983"
+                            "^$RF4Access|1851983"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2472,7 +2472,7 @@
                     {
                         "name": "Give Amber a Toyherb!",
                         "access_rules": [
-                            "$RF4Access|1851984"
+                            "^$RF4Access|1851984"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2482,7 +2482,7 @@
                     {
                         "name": "Harvest 9 Charm Blues!",
                         "access_rules": [
-                            "$RF4Access|1851985"
+                            "^$RF4Access|1851985"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2492,7 +2492,7 @@
                     {
                         "name": "Harvest Cherry Grass!",
                         "access_rules": [
-                            "$RF4Access|1851986"
+                            "^$RF4Access|1851986"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2502,7 +2502,7 @@
                     {
                         "name": "Harvest 5 flowers!",
                         "access_rules": [
-                            "$RF4Access|1851987"
+                            "^$RF4Access|1851987"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2512,7 +2512,7 @@
                     {
                         "name": "Till a 4-Leaf Clover!",
                         "access_rules": [
-                            "$RF4Access|1851988"
+                            "^$RF4Access|1851988"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2522,7 +2522,7 @@
                     {
                         "name": "Fight using an Ironleaf!",
                         "access_rules": [
-                            "$RF4Access|1851989"
+                            "^$RF4Access|1851989"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2532,7 +2532,7 @@
                     {
                         "name": "Harvest a large flower!",
                         "access_rules": [
-                            "$RF4Access|1851990"
+                            "^$RF4Access|1851990"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2542,7 +2542,7 @@
                     {
                         "name": "Harvest Autumn Grass!",
                         "access_rules": [
-                            "$RF4Access|1851991"
+                            "^$RF4Access|1851991"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2552,7 +2552,7 @@
                     {
                         "name": "Harvest Blue Crystal!",
                         "access_rules": [
-                            "$RF4Access|1851992"
+                            "^$RF4Access|1851992"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2562,7 +2562,7 @@
                     {
                         "name": "Harvest Green Crystal!",
                         "access_rules": [
-                            "$RF4Access|1851993"
+                            "^$RF4Access|1851993"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2572,7 +2572,7 @@
                     {
                         "name": "Harvest Red Crystal!",
                         "access_rules": [
-                            "$RF4Access|1851994"
+                            "^$RF4Access|1851994"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2582,7 +2582,7 @@
                     {
                         "name": "Harvest White Crystal!",
                         "access_rules": [
-                            "$RF4Access|1851995"
+                            "^$RF4Access|1851995"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2592,7 +2592,7 @@
                     {
                         "name": "Harvest almost all crops!",
                         "access_rules": [
-                            "$RF4Access|1851996"
+                            "^$RF4Access|1851996"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2602,7 +2602,7 @@
                     {
                         "name": "Raise shipment rates!",
                         "access_rules": [
-                            "$RF4Access|1851932"
+                            "^$RF4Access|1851932"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2612,7 +2612,7 @@
                     {
                         "name": "Raise total shipment fee!",
                         "access_rules": [
-                            "$RF4Access|1851939"
+                            "^$RF4Access|1851939"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2622,7 +2622,7 @@
                     {
                         "name": "Make a shipment!",
                         "access_rules": [
-                            "$RF4Access|1851958"
+                            "^$RF4Access|1851958"
                         ],
                         "visibility_rules": [
                             "opt_requestsanity"
@@ -2660,7 +2660,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852176"
+                                    "^$RF4Access|1852176"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2670,7 +2670,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852177"
+                                    "^$RF4Access|1852177"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2680,7 +2680,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852178"
+                                    "^$RF4Access|1852178"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2690,7 +2690,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852179"
+                                    "^$RF4Access|1852179"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2700,7 +2700,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852180"
+                                    "^$RF4Access|1852180"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2710,7 +2710,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852181"
+                                    "^$RF4Access|1852181"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2720,7 +2720,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852182"
+                                    "^$RF4Access|1852182"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2730,7 +2730,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852183"
+                                    "^$RF4Access|1852183"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2740,7 +2740,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852184"
+                                    "^$RF4Access|1852184"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2750,7 +2750,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852185"
+                                    "^$RF4Access|1852185"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2779,7 +2779,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852192"
+                                    "^$RF4Access|1852192"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2789,7 +2789,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852193"
+                                    "^$RF4Access|1852193"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2799,7 +2799,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852194"
+                                    "^$RF4Access|1852194"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2809,7 +2809,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852195"
+                                    "^$RF4Access|1852195"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2819,7 +2819,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852196"
+                                    "^$RF4Access|1852196"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2829,7 +2829,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852197"
+                                    "^$RF4Access|1852197"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2839,7 +2839,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852198"
+                                    "^$RF4Access|1852198"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2849,7 +2849,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852199"
+                                    "^$RF4Access|1852199"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2859,7 +2859,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852200"
+                                    "^$RF4Access|1852200"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2869,7 +2869,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852201"
+                                    "^$RF4Access|1852201"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2898,7 +2898,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852208"
+                                    "^$RF4Access|1852208"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2908,7 +2908,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852209"
+                                    "^$RF4Access|1852209"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2918,7 +2918,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852210"
+                                    "^$RF4Access|1852210"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2928,7 +2928,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852211"
+                                    "^$RF4Access|1852211"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2938,7 +2938,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852212"
+                                    "^$RF4Access|1852212"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2948,7 +2948,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852213"
+                                    "^$RF4Access|1852213"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2958,7 +2958,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852214"
+                                    "^$RF4Access|1852214"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2968,7 +2968,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852215"
+                                    "^$RF4Access|1852215"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2978,7 +2978,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852216"
+                                    "^$RF4Access|1852216"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -2988,7 +2988,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852217"
+                                    "^$RF4Access|1852217"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3017,7 +3017,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852224"
+                                    "^$RF4Access|1852224"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3027,7 +3027,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852225"
+                                    "^$RF4Access|1852225"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3037,7 +3037,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852226"
+                                    "^$RF4Access|1852226"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3047,7 +3047,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852227"
+                                    "^$RF4Access|1852227"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3057,7 +3057,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852228"
+                                    "^$RF4Access|1852228"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3067,7 +3067,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852229"
+                                    "^$RF4Access|1852229"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3077,7 +3077,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852230"
+                                    "^$RF4Access|1852230"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3087,7 +3087,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852231"
+                                    "^$RF4Access|1852231"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3097,7 +3097,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852232"
+                                    "^$RF4Access|1852232"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3107,7 +3107,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852233"
+                                    "^$RF4Access|1852233"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3136,7 +3136,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852240"
+                                    "^$RF4Access|1852240"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3146,7 +3146,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852241"
+                                    "^$RF4Access|1852241"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3156,7 +3156,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852242"
+                                    "^$RF4Access|1852242"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3166,7 +3166,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852243"
+                                    "^$RF4Access|1852243"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3176,7 +3176,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852244"
+                                    "^$RF4Access|1852244"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3186,7 +3186,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852245"
+                                    "^$RF4Access|1852245"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3196,7 +3196,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852246"
+                                    "^$RF4Access|1852246"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3206,7 +3206,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852247"
+                                    "^$RF4Access|1852247"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3216,7 +3216,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852248"
+                                    "^$RF4Access|1852248"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3226,7 +3226,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852249"
+                                    "^$RF4Access|1852249"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3255,7 +3255,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852256"
+                                    "^$RF4Access|1852256"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3265,7 +3265,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852257"
+                                    "^$RF4Access|1852257"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3275,7 +3275,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852258"
+                                    "^$RF4Access|1852258"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3285,7 +3285,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852259"
+                                    "^$RF4Access|1852259"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3295,7 +3295,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852260"
+                                    "^$RF4Access|1852260"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3305,7 +3305,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852261"
+                                    "^$RF4Access|1852261"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3315,7 +3315,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852262"
+                                    "^$RF4Access|1852262"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3325,7 +3325,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852263"
+                                    "^$RF4Access|1852263"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3335,7 +3335,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852264"
+                                    "^$RF4Access|1852264"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3345,7 +3345,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852265"
+                                    "^$RF4Access|1852265"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3374,7 +3374,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852272"
+                                    "^$RF4Access|1852272"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3384,7 +3384,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852273"
+                                    "^$RF4Access|1852273"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3394,7 +3394,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852274"
+                                    "^$RF4Access|1852274"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3404,7 +3404,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852275"
+                                    "^$RF4Access|1852275"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3414,7 +3414,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852276"
+                                    "^$RF4Access|1852276"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3424,7 +3424,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852277"
+                                    "^$RF4Access|1852277"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3434,7 +3434,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852278"
+                                    "^$RF4Access|1852278"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3444,7 +3444,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852279"
+                                    "^$RF4Access|1852279"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3454,7 +3454,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852280"
+                                    "^$RF4Access|1852280"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3464,7 +3464,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852281"
+                                    "^$RF4Access|1852281"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3493,7 +3493,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852288"
+                                    "^$RF4Access|1852288"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3503,7 +3503,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852289"
+                                    "^$RF4Access|1852289"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3513,7 +3513,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852290"
+                                    "^$RF4Access|1852290"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3523,7 +3523,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852291"
+                                    "^$RF4Access|1852291"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3533,7 +3533,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852292"
+                                    "^$RF4Access|1852292"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3543,7 +3543,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852293"
+                                    "^$RF4Access|1852293"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3553,7 +3553,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852294"
+                                    "^$RF4Access|1852294"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3563,7 +3563,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852295"
+                                    "^$RF4Access|1852295"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3573,7 +3573,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852296"
+                                    "^$RF4Access|1852296"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3583,7 +3583,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852297"
+                                    "^$RF4Access|1852297"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3612,7 +3612,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852304"
+                                    "^$RF4Access|1852304"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3622,7 +3622,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852305"
+                                    "^$RF4Access|1852305"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3632,7 +3632,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852306"
+                                    "^$RF4Access|1852306"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3642,7 +3642,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852307"
+                                    "^$RF4Access|1852307"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3652,7 +3652,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852308"
+                                    "^$RF4Access|1852308"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3662,7 +3662,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852309"
+                                    "^$RF4Access|1852309"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3672,7 +3672,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852310"
+                                    "^$RF4Access|1852310"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3682,7 +3682,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852311"
+                                    "^$RF4Access|1852311"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3692,7 +3692,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852312"
+                                    "^$RF4Access|1852312"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3702,7 +3702,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852313"
+                                    "^$RF4Access|1852313"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3731,7 +3731,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852320"
+                                    "^$RF4Access|1852320"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3741,7 +3741,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852321"
+                                    "^$RF4Access|1852321"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3751,7 +3751,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852322"
+                                    "^$RF4Access|1852322"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3761,7 +3761,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852323"
+                                    "^$RF4Access|1852323"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3771,7 +3771,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852324"
+                                    "^$RF4Access|1852324"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3781,7 +3781,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852325"
+                                    "^$RF4Access|1852325"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3791,7 +3791,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852326"
+                                    "^$RF4Access|1852326"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3801,7 +3801,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852327"
+                                    "^$RF4Access|1852327"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3811,7 +3811,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852328"
+                                    "^$RF4Access|1852328"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3821,7 +3821,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852329"
+                                    "^$RF4Access|1852329"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3850,7 +3850,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852336"
+                                    "^$RF4Access|1852336"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3860,7 +3860,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852337"
+                                    "^$RF4Access|1852337"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3870,7 +3870,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852338"
+                                    "^$RF4Access|1852338"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3880,7 +3880,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852339"
+                                    "^$RF4Access|1852339"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3890,7 +3890,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852340"
+                                    "^$RF4Access|1852340"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3900,7 +3900,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852341"
+                                    "^$RF4Access|1852341"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3910,7 +3910,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852342"
+                                    "^$RF4Access|1852342"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3920,7 +3920,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852343"
+                                    "^$RF4Access|1852343"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3930,7 +3930,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852344"
+                                    "^$RF4Access|1852344"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3940,7 +3940,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852345"
+                                    "^$RF4Access|1852345"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3969,7 +3969,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852352"
+                                    "^$RF4Access|1852352"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3979,7 +3979,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852353"
+                                    "^$RF4Access|1852353"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3989,7 +3989,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852354"
+                                    "^$RF4Access|1852354"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -3999,7 +3999,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852355"
+                                    "^$RF4Access|1852355"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4009,7 +4009,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852356"
+                                    "^$RF4Access|1852356"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4019,7 +4019,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852357"
+                                    "^$RF4Access|1852357"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4029,7 +4029,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852358"
+                                    "^$RF4Access|1852358"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4039,7 +4039,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852359"
+                                    "^$RF4Access|1852359"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4049,7 +4049,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852360"
+                                    "^$RF4Access|1852360"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4059,7 +4059,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852361"
+                                    "^$RF4Access|1852361"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4088,7 +4088,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852368"
+                                    "^$RF4Access|1852368"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4098,7 +4098,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852369"
+                                    "^$RF4Access|1852369"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4108,7 +4108,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852370"
+                                    "^$RF4Access|1852370"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4118,7 +4118,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852371"
+                                    "^$RF4Access|1852371"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4128,7 +4128,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852372"
+                                    "^$RF4Access|1852372"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4138,7 +4138,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852373"
+                                    "^$RF4Access|1852373"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4148,7 +4148,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852374"
+                                    "^$RF4Access|1852374"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4158,7 +4158,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852375"
+                                    "^$RF4Access|1852375"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4168,7 +4168,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852376"
+                                    "^$RF4Access|1852376"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4178,7 +4178,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852377"
+                                    "^$RF4Access|1852377"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4207,7 +4207,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852384"
+                                    "^$RF4Access|1852384"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4217,7 +4217,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852385"
+                                    "^$RF4Access|1852385"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4227,7 +4227,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852386"
+                                    "^$RF4Access|1852386"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4237,7 +4237,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852387"
+                                    "^$RF4Access|1852387"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4247,7 +4247,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852388"
+                                    "^$RF4Access|1852388"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4257,7 +4257,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852389"
+                                    "^$RF4Access|1852389"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4267,7 +4267,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852390"
+                                    "^$RF4Access|1852390"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4277,7 +4277,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852391"
+                                    "^$RF4Access|1852391"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4287,7 +4287,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852392"
+                                    "^$RF4Access|1852392"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4297,7 +4297,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852393"
+                                    "^$RF4Access|1852393"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4326,7 +4326,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852400"
+                                    "^$RF4Access|1852400"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4336,7 +4336,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852401"
+                                    "^$RF4Access|1852401"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4346,7 +4346,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852402"
+                                    "^$RF4Access|1852402"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4356,7 +4356,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852403"
+                                    "^$RF4Access|1852403"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4366,7 +4366,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852404"
+                                    "^$RF4Access|1852404"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4376,7 +4376,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852405"
+                                    "^$RF4Access|1852405"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4386,7 +4386,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852406"
+                                    "^$RF4Access|1852406"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4396,7 +4396,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852407"
+                                    "^$RF4Access|1852407"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4406,7 +4406,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852408"
+                                    "^$RF4Access|1852408"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4416,7 +4416,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852409"
+                                    "^$RF4Access|1852409"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4445,7 +4445,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852416"
+                                    "^$RF4Access|1852416"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4455,7 +4455,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852417"
+                                    "^$RF4Access|1852417"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4465,7 +4465,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852418"
+                                    "^$RF4Access|1852418"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4475,7 +4475,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852419"
+                                    "^$RF4Access|1852419"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4485,7 +4485,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852420"
+                                    "^$RF4Access|1852420"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4495,7 +4495,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852421"
+                                    "^$RF4Access|1852421"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4505,7 +4505,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852422"
+                                    "^$RF4Access|1852422"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4515,7 +4515,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852423"
+                                    "^$RF4Access|1852423"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4525,7 +4525,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852424"
+                                    "^$RF4Access|1852424"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4535,7 +4535,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852425"
+                                    "^$RF4Access|1852425"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4564,7 +4564,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852432"
+                                    "^$RF4Access|1852432"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4574,7 +4574,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852433"
+                                    "^$RF4Access|1852433"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4584,7 +4584,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852434"
+                                    "^$RF4Access|1852434"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4594,7 +4594,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852435"
+                                    "^$RF4Access|1852435"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4604,7 +4604,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852436"
+                                    "^$RF4Access|1852436"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4614,7 +4614,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852437"
+                                    "^$RF4Access|1852437"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4624,7 +4624,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852438"
+                                    "^$RF4Access|1852438"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4634,7 +4634,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852439"
+                                    "^$RF4Access|1852439"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4644,7 +4644,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852440"
+                                    "^$RF4Access|1852440"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4654,7 +4654,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852441"
+                                    "^$RF4Access|1852441"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4683,7 +4683,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852448"
+                                    "^$RF4Access|1852448"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4693,7 +4693,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852449"
+                                    "^$RF4Access|1852449"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4703,7 +4703,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852450"
+                                    "^$RF4Access|1852450"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4713,7 +4713,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852451"
+                                    "^$RF4Access|1852451"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4723,7 +4723,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852452"
+                                    "^$RF4Access|1852452"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4733,7 +4733,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852453"
+                                    "^$RF4Access|1852453"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4743,7 +4743,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852454"
+                                    "^$RF4Access|1852454"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4753,7 +4753,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852455"
+                                    "^$RF4Access|1852455"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4763,7 +4763,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852456"
+                                    "^$RF4Access|1852456"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4773,7 +4773,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852457"
+                                    "^$RF4Access|1852457"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4802,7 +4802,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852464"
+                                    "^$RF4Access|1852464"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4812,7 +4812,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852465"
+                                    "^$RF4Access|1852465"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4822,7 +4822,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852466"
+                                    "^$RF4Access|1852466"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4832,7 +4832,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852467"
+                                    "^$RF4Access|1852467"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4842,7 +4842,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852468"
+                                    "^$RF4Access|1852468"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4852,7 +4852,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852469"
+                                    "^$RF4Access|1852469"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4862,7 +4862,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852470"
+                                    "^$RF4Access|1852470"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4872,7 +4872,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852471"
+                                    "^$RF4Access|1852471"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4882,7 +4882,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852472"
+                                    "^$RF4Access|1852472"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4892,7 +4892,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852473"
+                                    "^$RF4Access|1852473"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4921,7 +4921,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852480"
+                                    "^$RF4Access|1852480"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4931,7 +4931,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852481"
+                                    "^$RF4Access|1852481"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4941,7 +4941,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852482"
+                                    "^$RF4Access|1852482"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4951,7 +4951,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852483"
+                                    "^$RF4Access|1852483"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4961,7 +4961,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852484"
+                                    "^$RF4Access|1852484"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4971,7 +4971,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852485"
+                                    "^$RF4Access|1852485"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4981,7 +4981,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852486"
+                                    "^$RF4Access|1852486"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -4991,7 +4991,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852487"
+                                    "^$RF4Access|1852487"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -5001,7 +5001,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852488"
+                                    "^$RF4Access|1852488"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -5011,7 +5011,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852489"
+                                    "^$RF4Access|1852489"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -5040,7 +5040,7 @@
                             {
                                 "name": "1",
                                 "access_rules": [
-                                    "$RF4Access|1852496"
+                                    "^$RF4Access|1852496"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -5050,7 +5050,7 @@
                             {
                                 "name": "2",
                                 "access_rules": [
-                                    "$RF4Access|1852497"
+                                    "^$RF4Access|1852497"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -5060,7 +5060,7 @@
                             {
                                 "name": "3",
                                 "access_rules": [
-                                    "$RF4Access|1852498"
+                                    "^$RF4Access|1852498"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -5070,7 +5070,7 @@
                             {
                                 "name": "4",
                                 "access_rules": [
-                                    "$RF4Access|1852499"
+                                    "^$RF4Access|1852499"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -5080,7 +5080,7 @@
                             {
                                 "name": "5",
                                 "access_rules": [
-                                    "$RF4Access|1852500"
+                                    "^$RF4Access|1852500"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -5090,7 +5090,7 @@
                             {
                                 "name": "6",
                                 "access_rules": [
-                                    "$RF4Access|1852501"
+                                    "^$RF4Access|1852501"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -5100,7 +5100,7 @@
                             {
                                 "name": "7",
                                 "access_rules": [
-                                    "$RF4Access|1852502"
+                                    "^$RF4Access|1852502"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -5110,7 +5110,7 @@
                             {
                                 "name": "8",
                                 "access_rules": [
-                                    "$RF4Access|1852503"
+                                    "^$RF4Access|1852503"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -5120,7 +5120,7 @@
                             {
                                 "name": "9",
                                 "access_rules": [
-                                    "$RF4Access|1852504"
+                                    "^$RF4Access|1852504"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -5130,7 +5130,7 @@
                             {
                                 "name": "10",
                                 "access_rules": [
-                                    "$RF4Access|1852505"
+                                    "^$RF4Access|1852505"
                                 ],
                                 "visibility_rules": [
                                     "opt_friendsanity"
@@ -5161,7 +5161,7 @@
                     {
                         "name": "Pajamas",
                         "access_rules": [
-                            "$RF4Access|1852880"
+                            "^$RF4Access|1852880"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -5169,7 +5169,7 @@
                     {
                         "name": "Swimsuit",
                         "access_rules": [
-                            "$RF4Access|1852881"
+                            "^$RF4Access|1852881"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -5177,7 +5177,7 @@
                     {
                         "name": "Chipsqueek Costume",
                         "access_rules": [
-                            "$RF4Access|1852882"
+                            "^$RF4Access|1852882"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -5185,7 +5185,7 @@
                     {
                         "name": "Wooly Costume",
                         "access_rules": [
-                            "$RF4Access|1852883"
+                            "^$RF4Access|1852883"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -5193,7 +5193,7 @@
                     {
                         "name": "Selphia Soldier",
                         "access_rules": [
-                            "$RF4Access|1852884"
+                            "^$RF4Access|1852884"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -5201,7 +5201,7 @@
                     {
                         "name": "Sechs Soldier",
                         "access_rules": [
-                            "$RF4Access|1852885"
+                            "^$RF4Access|1852885"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -5209,7 +5209,7 @@
                     {
                         "name": "Red Passion",
                         "access_rules": [
-                            "$RF4Access|1852886"
+                            "^$RF4Access|1852886"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -5217,7 +5217,7 @@
                     {
                         "name": "Blue Sky",
                         "access_rules": [
-                            "$RF4Access|1852887"
+                            "^$RF4Access|1852887"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -5225,7 +5225,7 @@
                     {
                         "name": "Fruity Lemon",
                         "access_rules": [
-                            "$RF4Access|1852888"
+                            "^$RF4Access|1852888"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -5233,7 +5233,7 @@
                     {
                         "name": "Green Forest",
                         "access_rules": [
-                            "$RF4Access|1852889"
+                            "^$RF4Access|1852889"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -5241,7 +5241,7 @@
                     {
                         "name": "Persian Pink",
                         "access_rules": [
-                            "$RF4Access|1852890"
+                            "^$RF4Access|1852890"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -5249,7 +5249,7 @@
                     {
                         "name": "Fruity Orange",
                         "access_rules": [
-                            "$RF4Access|1852891"
+                            "^$RF4Access|1852891"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -5257,7 +5257,7 @@
                     {
                         "name": "Midnight Wings",
                         "access_rules": [
-                            "$RF4Access|1852892"
+                            "^$RF4Access|1852892"
                         ],
                         "visibility_rules": [],
                         "item_count": 1

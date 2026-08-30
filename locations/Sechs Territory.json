@@ -20,7 +20,7 @@
                     {
                         "name": "Boss - Icy Nose",
                         "access_rules": [
-                            "$RF4Access|1851256"
+                            "^$RF4Access|1851256"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -28,7 +28,7 @@
                     {
                         "name": "Boss - Water Dragon Ash",
                         "access_rules": [
-                            "$RF4Access|1851292"
+                            "^$RF4Access|1851292"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -36,7 +36,7 @@
                     {
                         "name": "Blue Core",
                         "access_rules": [
-                            "$RF4Access|1851291"
+                            "^$RF4Access|1851291"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -46,7 +46,7 @@
                     {
                         "name": "Blue Giant's Glove",
                         "access_rules": [
-                            "$RF4Access|1851320"
+                            "^$RF4Access|1851320"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -56,7 +56,7 @@
                     {
                         "name": "Gold Wolf Fang",
                         "access_rules": [
-                            "$RF4Access|1851319"
+                            "^$RF4Access|1851319"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -66,7 +66,7 @@
                     {
                         "name": "Magic",
                         "access_rules": [
-                            "$RF4Access|1851318"
+                            "^$RF4Access|1851318"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -76,7 +76,7 @@
                     {
                         "name": "Penguin Down",
                         "access_rules": [
-                            "$RF4Access|1851308"
+                            "^$RF4Access|1851308"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -86,7 +86,7 @@
                     {
                         "name": "Scorpion Pincer",
                         "access_rules": [
-                            "$RF4Access|1851222"
+                            "^$RF4Access|1851222"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -96,7 +96,7 @@
                     {
                         "name": "Shoulder Piece",
                         "access_rules": [
-                            "$RF4Access|1851211"
+                            "^$RF4Access|1851211"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -106,7 +106,7 @@
                     {
                         "name": "Strong Vine",
                         "access_rules": [
-                            "$RF4Access|1851235"
+                            "^$RF4Access|1851235"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -116,7 +116,7 @@
                     {
                         "name": "Unbroken Ivory Tusk",
                         "access_rules": [
-                            "$RF4Access|1851310"
+                            "^$RF4Access|1851310"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -126,7 +126,7 @@
                     {
                         "name": "Wet Scale",
                         "access_rules": [
-                            "$RF4Access|1851317"
+                            "^$RF4Access|1851317"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -136,7 +136,7 @@
                     {
                         "name": "White Grass",
                         "access_rules": [
-                            "$RF4Access|1850448"
+                            "^$RF4Access|1850448"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -146,7 +146,7 @@
                     {
                         "name": "Diamond",
                         "access_rules": [
-                            "$RF4Access|1851192"
+                            "^$RF4Access|1851192"
                         ],
                         "visibility_rules": [
                             "opt_mineralsanity"
@@ -156,7 +156,7 @@
                     {
                         "name": "White Stone",
                         "access_rules": [
-                            "$RF4Access|1851296"
+                            "^$RF4Access|1851296"
                         ],
                         "visibility_rules": [
                             "opt_mineralsanity"
@@ -166,7 +166,7 @@
                     {
                         "name": "Giga Swing",
                         "access_rules": [
-                            "$RF4Access|1851439"
+                            "^$RF4Access|1851439"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -205,7 +205,7 @@
                             {
                                 "name": "Blowfish",
                                 "access_rules": [
-                                    "$RF4Access|1851372"
+                                    "^$RF4Access|1851372"
                                 ],
                                 "visibility_rules": [
                                     "opt_fishsanity"
@@ -215,7 +215,7 @@
                             {
                                 "name": "Rare Can",
                                 "access_rules": [
-                                    "$RF4Access|1851386"
+                                    "^$RF4Access|1851386"
                                 ],
                                 "visibility_rules": [
                                     "opt_fishsanity"
@@ -225,7 +225,7 @@
                             {
                                 "name": "Taimen",
                                 "access_rules": [
-                                    "$RF4Access|1851354"
+                                    "^$RF4Access|1851354"
                                 ],
                                 "visibility_rules": [
                                     "opt_fishsanity"
@@ -264,7 +264,7 @@
                                     {
                                         "name": "Mystery Potion x4",
                                         "access_rules": [
-                                            "$RF4Access|1851585"
+                                            "^$RF4Access|1851585"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -291,7 +291,7 @@
                                     {
                                         "name": "Giga Swing Lv.1",
                                         "access_rules": [
-                                            "$RF4Access|1851588"
+                                            "^$RF4Access|1851588"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -318,7 +318,7 @@
                                     {
                                         "name": "Rune Crystal",
                                         "access_rules": [
-                                            "$RF4Access|1851589"
+                                            "^$RF4Access|1851589"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -358,7 +358,7 @@
                             {
                                 "name": "Cyclone",
                                 "access_rules": [
-                                    "$RF4Access|1851445"
+                                    "^$RF4Access|1851445"
                                 ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
@@ -368,7 +368,7 @@
                             {
                                 "name": "Master Cure",
                                 "access_rules": [
-                                    "$RF4Access|1851412"
+                                    "^$RF4Access|1851412"
                                 ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
@@ -378,7 +378,7 @@
                             {
                                 "name": "Rapid Move",
                                 "access_rules": [
-                                    "$RF4Access|1851446"
+                                    "^$RF4Access|1851446"
                                 ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
@@ -388,7 +388,7 @@
                             {
                                 "name": "Steel Heart",
                                 "access_rules": [
-                                    "$RF4Access|1851430"
+                                    "^$RF4Access|1851430"
                                 ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
@@ -427,7 +427,7 @@
                                     {
                                         "name": "Mystery Potion x x3 + Levelizer",
                                         "access_rules": [
-                                            "$RF4Access|1851575"
+                                            "^$RF4Access|1851575"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -454,7 +454,7 @@
                                     {
                                         "name": "Master Cure Lv.1",
                                         "access_rules": [
-                                            "$RF4Access|1851576"
+                                            "^$RF4Access|1851576"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -481,7 +481,7 @@
                                     {
                                         "name": "Water Crystal x4 + Big Crystal",
                                         "access_rules": [
-                                            "$RF4Access|1851577"
+                                            "^$RF4Access|1851577"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -508,7 +508,7 @@
                                     {
                                         "name": "8000G",
                                         "access_rules": [
-                                            "$RF4Access|1851578"
+                                            "^$RF4Access|1851578"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -516,7 +516,7 @@
                                     {
                                         "name": "Cyclone Lv.1",
                                         "access_rules": [
-                                            "$RF4Access|1851579"
+                                            "^$RF4Access|1851579"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -543,7 +543,7 @@
                                     {
                                         "name": "Rapid Move Lv.1",
                                         "access_rules": [
-                                            "$RF4Access|1851580"
+                                            "^$RF4Access|1851580"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -570,7 +570,7 @@
                                     {
                                         "name": "Magical Potion x4",
                                         "access_rules": [
-                                            "$RF4Access|1851581"
+                                            "^$RF4Access|1851581"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -597,7 +597,7 @@
                                     {
                                         "name": "Miracle Axe Recipe",
                                         "access_rules": [
-                                            "$RF4Access|1851582"
+                                            "^$RF4Access|1851582"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -624,7 +624,7 @@
                                     {
                                         "name": "Star Pendant",
                                         "access_rules": [
-                                            "$RF4Access|1851583"
+                                            "^$RF4Access|1851583"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -651,7 +651,7 @@
                                     {
                                         "name": "Steel Heart Lv.1",
                                         "access_rules": [
-                                            "$RF4Access|1851584"
+                                            "^$RF4Access|1851584"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -678,7 +678,7 @@
                                     {
                                         "name": "Ice Cream",
                                         "access_rules": [
-                                            "$RF4Access|1851586"
+                                            "^$RF4Access|1851586"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -705,7 +705,7 @@
                                     {
                                         "name": "Throwing Ring",
                                         "access_rules": [
-                                            "$RF4Access|1851587"
+                                            "^$RF4Access|1851587"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -745,7 +745,7 @@
                             {
                                 "name": "Explosion",
                                 "access_rules": [
-                                    "$RF4Access|1851394"
+                                    "^$RF4Access|1851394"
                                 ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
@@ -755,7 +755,7 @@
                             {
                                 "name": "Straight Punch",
                                 "access_rules": [
-                                    "$RF4Access|1851442"
+                                    "^$RF4Access|1851442"
                                 ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
@@ -765,7 +765,7 @@
                             {
                                 "name": "Twin Attack",
                                 "access_rules": [
-                                    "$RF4Access|1851425"
+                                    "^$RF4Access|1851425"
                                 ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
@@ -804,7 +804,7 @@
                                     {
                                         "name": "Straight Punch Lv.1",
                                         "access_rules": [
-                                            "$RF4Access|1851590"
+                                            "^$RF4Access|1851590"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -831,7 +831,7 @@
                                     {
                                         "name": "Mystery Potion x4",
                                         "access_rules": [
-                                            "$RF4Access|1851591"
+                                            "^$RF4Access|1851591"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -858,7 +858,7 @@
                                     {
                                         "name": "Twin Attack Lv.1",
                                         "access_rules": [
-                                            "$RF4Access|1851592"
+                                            "^$RF4Access|1851592"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -866,7 +866,7 @@
                                     {
                                         "name": "Explosion Lv.2",
                                         "access_rules": [
-                                            "$RF4Access|1851593"
+                                            "^$RF4Access|1851593"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -893,7 +893,7 @@
                                     {
                                         "name": "Platinum Hammer Recipe + Dew Pendant",
                                         "access_rules": [
-                                            "$RF4Access|1851594"
+                                            "^$RF4Access|1851594"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -924,7 +924,7 @@
                     {
                         "name": "Boss - Aquameleon",
                         "access_rules": [
-                            "$RF4Access|1852679"
+                            "^$RF4Access|1852679"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -934,7 +934,7 @@
                     {
                         "name": "Blue",
                         "access_rules": [
-                            "$RF4Access|1852693"
+                            "^$RF4Access|1852693"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -944,7 +944,7 @@
                     {
                         "name": "Boss - Crystal Mammoth",
                         "access_rules": [
-                            "$RF4Access|1852703"
+                            "^$RF4Access|1852703"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -954,7 +954,7 @@
                     {
                         "name": "Death Stalker",
                         "access_rules": [
-                            "$RF4Access|1852712"
+                            "^$RF4Access|1852712"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -964,7 +964,7 @@
                     {
                         "name": "Emperor Penguin",
                         "access_rules": [
-                            "$RF4Access|1852718"
+                            "^$RF4Access|1852718"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -974,7 +974,7 @@
                     {
                         "name": "Flower Crystal",
                         "access_rules": [
-                            "$RF4Access|1852727"
+                            "^$RF4Access|1852727"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -984,7 +984,7 @@
                     {
                         "name": "Hunter Wolf",
                         "access_rules": [
-                            "$RF4Access|1852767"
+                            "^$RF4Access|1852767"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -994,7 +994,7 @@
                     {
                         "name": "Little Wizard",
                         "access_rules": [
-                            "$RF4Access|1852780"
+                            "^$RF4Access|1852780"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -1004,7 +1004,7 @@
                     {
                         "name": "Mammoo",
                         "access_rules": [
-                            "$RF4Access|1852787"
+                            "^$RF4Access|1852787"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -1014,7 +1014,7 @@
                     {
                         "name": "Ogre Viking",
                         "access_rules": [
-                            "$RF4Access|1852801"
+                            "^$RF4Access|1852801"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -1024,7 +1024,7 @@
                     {
                         "name": "Orc Viking",
                         "access_rules": [
-                            "$RF4Access|1852808"
+                            "^$RF4Access|1852808"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -1034,7 +1034,7 @@
                     {
                         "name": "Sealy",
                         "access_rules": [
-                            "$RF4Access|1852826"
+                            "^$RF4Access|1852826"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -1044,7 +1044,7 @@
                     {
                         "name": "Snowy",
                         "access_rules": [
-                            "$RF4Access|1852835"
+                            "^$RF4Access|1852835"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -1054,7 +1054,7 @@
                     {
                         "name": "Titan",
                         "access_rules": [
-                            "$RF4Access|1852842"
+                            "^$RF4Access|1852842"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -1064,7 +1064,7 @@
                     {
                         "name": "Tundra",
                         "access_rules": [
-                            "$RF4Access|1852847"
+                            "^$RF4Access|1852847"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"

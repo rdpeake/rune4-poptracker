@@ -20,7 +20,7 @@
                     {
                         "name": "Broken Box",
                         "access_rules": [
-                            "$RF4Access|1851243"
+                            "^$RF4Access|1851243"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -30,7 +30,7 @@
                     {
                         "name": "Broken Hilt",
                         "access_rules": [
-                            "$RF4Access|1851242"
+                            "^$RF4Access|1851242"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -40,7 +40,7 @@
                     {
                         "name": "Rune Crystal",
                         "access_rules": [
-                            "$RF4Access|1851287"
+                            "^$RF4Access|1851287"
                         ],
                         "visibility_rules": [
                             "opt_mineralsanity"
@@ -50,7 +50,7 @@
                     {
                         "name": "Small Crystal",
                         "access_rules": [
-                            "$RF4Access|1851245"
+                            "^$RF4Access|1851245"
                         ],
                         "visibility_rules": [
                             "opt_mineralsanity"
@@ -80,7 +80,7 @@
                     {
                         "name": "Gobble Box",
                         "access_rules": [
-                            "$RF4Access|1852739"
+                            "^$RF4Access|1852739"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -90,7 +90,7 @@
                     {
                         "name": "Monster Box",
                         "access_rules": [
-                            "$RF4Access|1852796"
+                            "^$RF4Access|1852796"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"

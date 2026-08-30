@@ -29,7 +29,7 @@
                             {
                                 "name": "Boss - Ammonite",
                                 "access_rules": [
-                                    "$RF4Access|1851255"
+                                    "^$RF4Access|1851255"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -37,7 +37,7 @@
                             {
                                 "name": "Poison King",
                                 "access_rules": [
-                                    "$RF4Access|1851340"
+                                    "^$RF4Access|1851340"
                                 ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
@@ -47,7 +47,7 @@
                             {
                                 "name": "Yellow Feather",
                                 "access_rules": [
-                                    "$RF4Access|1851330"
+                                    "^$RF4Access|1851330"
                                 ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
@@ -86,7 +86,7 @@
                                     {
                                         "name": "Magical Potion x2 + The Protein",
                                         "access_rules": [
-                                            "$RF4Access|1851625"
+                                            "^$RF4Access|1851625"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -113,7 +113,7 @@
                                     {
                                         "name": "Anette's Necklace Recipe",
                                         "access_rules": [
-                                            "$RF4Access|1851626"
+                                            "^$RF4Access|1851626"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -121,7 +121,7 @@
                                     {
                                         "name": "Greenifier+ x4",
                                         "access_rules": [
-                                            "$RF4Access|1851627"
+                                            "^$RF4Access|1851627"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -148,7 +148,7 @@
                                     {
                                         "name": "Double Kick Lv.8",
                                         "access_rules": [
-                                            "$RF4Access|1851628"
+                                            "^$RF4Access|1851628"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -177,7 +177,7 @@
                             {
                                 "name": "King Bee",
                                 "access_rules": [
-                                    "$RF4Access|1852771"
+                                    "^$RF4Access|1852771"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -187,7 +187,7 @@
                             {
                                 "name": "Boss - Octopirate 2",
                                 "access_rules": [
-                                    "$RF4Access|1852800"
+                                    "^$RF4Access|1852800"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -228,7 +228,7 @@
                             {
                                 "name": "Boss - Blue Lion Fur",
                                 "access_rules": [
-                                    "$RF4Access|1851253"
+                                    "^$RF4Access|1851253"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -236,7 +236,7 @@
                             {
                                 "name": "Boss - Red Lion Fur",
                                 "access_rules": [
-                                    "$RF4Access|1851252"
+                                    "^$RF4Access|1851252"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -244,7 +244,7 @@
                             {
                                 "name": "Big Giant's Nail",
                                 "access_rules": [
-                                    "$RF4Access|1851329"
+                                    "^$RF4Access|1851329"
                                 ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
@@ -254,7 +254,7 @@
                             {
                                 "name": "Crimson Scale",
                                 "access_rules": [
-                                    "$RF4Access|1851349"
+                                    "^$RF4Access|1851349"
                                 ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
@@ -264,7 +264,7 @@
                             {
                                 "name": "Queen's Jaw",
                                 "access_rules": [
-                                    "$RF4Access|1851339"
+                                    "^$RF4Access|1851339"
                                 ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
@@ -274,7 +274,7 @@
                             {
                                 "name": "Dragonic Stone",
                                 "access_rules": [
-                                    "$RF4Access|1851351"
+                                    "^$RF4Access|1851351"
                                 ],
                                 "visibility_rules": [
                                     "opt_mineralsanity"
@@ -313,7 +313,7 @@
                                     {
                                         "name": "Dry Curry Recipe",
                                         "access_rules": [
-                                            "$RF4Access|1851629"
+                                            "^$RF4Access|1851629"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -340,7 +340,7 @@
                                     {
                                         "name": "Pineapple Juice Recipe + Magical Potion x2 + Orichalcum + Leveliser",
                                         "access_rules": [
-                                            "$RF4Access|1851630"
+                                            "^$RF4Access|1851630"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -369,7 +369,7 @@
                             {
                                 "name": "Ant Queen",
                                 "access_rules": [
-                                    "$RF4Access|1852678"
+                                    "^$RF4Access|1852678"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -379,7 +379,7 @@
                             {
                                 "name": "Boss - Hinoe",
                                 "access_rules": [
-                                    "$RF4Access|1852761"
+                                    "^$RF4Access|1852761"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -389,7 +389,7 @@
                             {
                                 "name": "Boss - Kinoto",
                                 "access_rules": [
-                                    "$RF4Access|1852773"
+                                    "^$RF4Access|1852773"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -399,7 +399,7 @@
                             {
                                 "name": "Leoplicant",
                                 "access_rules": [
-                                    "$RF4Access|1852775"
+                                    "^$RF4Access|1852775"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -409,7 +409,7 @@
                             {
                                 "name": "Red Dragon",
                                 "access_rules": [
-                                    "$RF4Access|1852817"
+                                    "^$RF4Access|1852817"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -450,7 +450,7 @@
                             {
                                 "name": "Boss - Broken Ice Wall",
                                 "access_rules": [
-                                    "$RF4Access|1851254"
+                                    "^$RF4Access|1851254"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -458,7 +458,7 @@
                             {
                                 "name": "Blue Scale",
                                 "access_rules": [
-                                    "$RF4Access|1851347"
+                                    "^$RF4Access|1851347"
                                 ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
@@ -468,7 +468,7 @@
                             {
                                 "name": "Glitter Scale",
                                 "access_rules": [
-                                    "$RF4Access|1851348"
+                                    "^$RF4Access|1851348"
                                 ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
@@ -478,7 +478,7 @@
                             {
                                 "name": "Golem Spirit Stone",
                                 "access_rules": [
-                                    "$RF4Access|1851337"
+                                    "^$RF4Access|1851337"
                                 ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
@@ -488,7 +488,7 @@
                             {
                                 "name": "Love Scale",
                                 "access_rules": [
-                                    "$RF4Access|1851350"
+                                    "^$RF4Access|1851350"
                                 ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
@@ -527,7 +527,7 @@
                                     {
                                         "name": "Fireball Lv.8",
                                         "access_rules": [
-                                            "$RF4Access|1851633"
+                                            "^$RF4Access|1851633"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -554,7 +554,7 @@
                                     {
                                         "name": "Gyoza Recipe",
                                         "access_rules": [
-                                            "$RF4Access|1851634"
+                                            "^$RF4Access|1851634"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -581,7 +581,7 @@
                                     {
                                         "name": "Fluffy Scarf Recipe",
                                         "access_rules": [
-                                            "$RF4Access|1851635"
+                                            "^$RF4Access|1851635"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -610,7 +610,7 @@
                             {
                                 "name": "Blue Dragon",
                                 "access_rules": [
-                                    "$RF4Access|1852694"
+                                    "^$RF4Access|1852694"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -620,7 +620,7 @@
                             {
                                 "name": "Boss - Death Wall",
                                 "access_rules": [
-                                    "$RF4Access|1852713"
+                                    "^$RF4Access|1852713"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -630,7 +630,7 @@
                             {
                                 "name": "Elemental Emperor",
                                 "access_rules": [
-                                    "$RF4Access|1852716"
+                                    "^$RF4Access|1852716"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -640,7 +640,7 @@
                             {
                                 "name": "Pink Dragon",
                                 "access_rules": [
-                                    "$RF4Access|1852811"
+                                    "^$RF4Access|1852811"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -650,7 +650,7 @@
                             {
                                 "name": "Yellow Dragon",
                                 "access_rules": [
-                                    "$RF4Access|1852855"
+                                    "^$RF4Access|1852855"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -691,7 +691,7 @@
                             {
                                 "name": "Boss - Chest Hair",
                                 "access_rules": [
-                                    "$RF4Access|1851257"
+                                    "^$RF4Access|1851257"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -699,7 +699,7 @@
                             {
                                 "name": "Boss - Chimera Tail",
                                 "access_rules": [
-                                    "$RF4Access|1851258"
+                                    "^$RF4Access|1851258"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -707,7 +707,7 @@
                             {
                                 "name": "Boss - Moving Branch",
                                 "access_rules": [
-                                    "$RF4Access|1851262"
+                                    "^$RF4Access|1851262"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -715,7 +715,7 @@
                             {
                                 "name": "Boss - Rune Sphere Shard",
                                 "access_rules": [
-                                    "$RF4Access|1851277"
+                                    "^$RF4Access|1851277"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -723,7 +723,7 @@
                             {
                                 "name": "Boss - Tablet of Truth",
                                 "access_rules": [
-                                    "$RF4Access|1851343"
+                                    "^$RF4Access|1851343"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -731,7 +731,7 @@
                             {
                                 "name": "Boss - Throne of the Empire",
                                 "access_rules": [
-                                    "$RF4Access|1851275"
+                                    "^$RF4Access|1851275"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -739,7 +739,7 @@
                             {
                                 "name": "Ancient Orc Cloth",
                                 "access_rules": [
-                                    "$RF4Access|1851338"
+                                    "^$RF4Access|1851338"
                                 ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
@@ -749,7 +749,7 @@
                             {
                                 "name": "Black Scale",
                                 "access_rules": [
-                                    "$RF4Access|1851346"
+                                    "^$RF4Access|1851346"
                                 ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
@@ -788,7 +788,7 @@
                                     {
                                         "name": "Art of Attack Recipe + Art of Defense Recipe + Art of Magic Recipe",
                                         "access_rules": [
-                                            "$RF4Access|1851636"
+                                            "^$RF4Access|1851636"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -796,7 +796,7 @@
                                     {
                                         "name": "Gae Bolg Recipe + Kongo Recipe",
                                         "access_rules": [
-                                            "$RF4Access|1851639"
+                                            "^$RF4Access|1851639"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -823,7 +823,7 @@
                                     {
                                         "name": "Knight Boots Recipe",
                                         "access_rules": [
-                                            "$RF4Access|1851637"
+                                            "^$RF4Access|1851637"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -831,7 +831,7 @@
                                     {
                                         "name": "Dragon Slayer Recipe + Balmung Recipe",
                                         "access_rules": [
-                                            "$RF4Access|1851638"
+                                            "^$RF4Access|1851638"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -858,7 +858,7 @@
                                     {
                                         "name": "Crown Recipe",
                                         "access_rules": [
-                                            "$RF4Access|1851640"
+                                            "^$RF4Access|1851640"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -866,7 +866,7 @@
                                     {
                                         "name": "Magic Broom Recipe + Hand of God Recipe",
                                         "access_rules": [
-                                            "$RF4Access|1851641"
+                                            "^$RF4Access|1851641"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -893,7 +893,7 @@
                                     {
                                         "name": "Royal Garter Recipe",
                                         "access_rules": [
-                                            "$RF4Access|1851642"
+                                            "^$RF4Access|1851642"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -901,7 +901,7 @@
                                     {
                                         "name": "Executioner Recipe + Rune Edge Recipe",
                                         "access_rules": [
-                                            "$RF4Access|1851643"
+                                            "^$RF4Access|1851643"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -928,7 +928,7 @@
                                     {
                                         "name": "Dragonic Stone x2",
                                         "access_rules": [
-                                            "$RF4Access|1851666"
+                                            "^$RF4Access|1851666"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -957,7 +957,7 @@
                             {
                                 "name": "Black Dragon",
                                 "access_rules": [
-                                    "$RF4Access|1852690"
+                                    "^$RF4Access|1852690"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -967,7 +967,7 @@
                             {
                                 "name": "Boss - Chimera 2",
                                 "access_rules": [
-                                    "$RF4Access|1852699"
+                                    "^$RF4Access|1852699"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -977,7 +977,7 @@
                             {
                                 "name": "Boss - Dead Tree 2",
                                 "access_rules": [
-                                    "$RF4Access|1852709"
+                                    "^$RF4Access|1852709"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -987,7 +987,7 @@
                             {
                                 "name": "Boss - Emerald (Boss)",
                                 "access_rules": [
-                                    "$RF4Access|1852717"
+                                    "^$RF4Access|1852717"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -997,7 +997,7 @@
                             {
                                 "name": "Boss - G Golem",
                                 "access_rules": [
-                                    "$RF4Access|1852732"
+                                    "^$RF4Access|1852732"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -1007,7 +1007,7 @@
                             {
                                 "name": "Boss - Greater Demon 2",
                                 "access_rules": [
-                                    "$RF4Access|1852747"
+                                    "^$RF4Access|1852747"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -1017,7 +1017,7 @@
                             {
                                 "name": "Boss - Marin",
                                 "access_rules": [
-                                    "$RF4Access|1852788"
+                                    "^$RF4Access|1852788"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -1027,7 +1027,7 @@
                             {
                                 "name": "Boss - Olive",
                                 "access_rules": [
-                                    "$RF4Access|1852802"
+                                    "^$RF4Access|1852802"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -1037,7 +1037,7 @@
                             {
                                 "name": "Boss - Rouge",
                                 "access_rules": [
-                                    "$RF4Access|1852819"
+                                    "^$RF4Access|1852819"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -1078,7 +1078,7 @@
                             {
                                 "name": "Boss - Electro Crystal",
                                 "access_rules": [
-                                    "$RF4Access|1851263"
+                                    "^$RF4Access|1851263"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -1086,7 +1086,7 @@
                             {
                                 "name": "Dragon Scale",
                                 "access_rules": [
-                                    "$RF4Access|1851336"
+                                    "^$RF4Access|1851336"
                                 ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
@@ -1096,7 +1096,7 @@
                             {
                                 "name": "Quality Worn Cloth",
                                 "access_rules": [
-                                    "$RF4Access|1851331"
+                                    "^$RF4Access|1851331"
                                 ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
@@ -1126,7 +1126,7 @@
                             {
                                 "name": "Boss - Bane Dragon",
                                 "access_rules": [
-                                    "$RF4Access|1852685"
+                                    "^$RF4Access|1852685"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -1136,7 +1136,7 @@
                             {
                                 "name": "Flare Mage",
                                 "access_rules": [
-                                    "$RF4Access|1852725"
+                                    "^$RF4Access|1852725"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -1146,7 +1146,7 @@
                             {
                                 "name": "Green Dragon",
                                 "access_rules": [
-                                    "$RF4Access|1852749"
+                                    "^$RF4Access|1852749"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -1156,7 +1156,7 @@
                             {
                                 "name": "Onionger",
                                 "access_rules": [
-                                    "$RF4Access|1852804"
+                                    "^$RF4Access|1852804"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -1197,7 +1197,7 @@
                             {
                                 "name": "Boss - Melody Bottle",
                                 "access_rules": [
-                                    "$RF4Access|1851264"
+                                    "^$RF4Access|1851264"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -1205,7 +1205,7 @@
                             {
                                 "name": "Dangerous Scissors",
                                 "access_rules": [
-                                    "$RF4Access|1851341"
+                                    "^$RF4Access|1851341"
                                 ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
@@ -1244,7 +1244,7 @@
                                     {
                                         "name": "Mediseal Lv.10",
                                         "access_rules": [
-                                            "$RF4Access|1851631"
+                                            "^$RF4Access|1851631"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -1271,7 +1271,7 @@
                                     {
                                         "name": "Grilled G. Snapper Recipe",
                                         "access_rules": [
-                                            "$RF4Access|1851632"
+                                            "^$RF4Access|1851632"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -1300,7 +1300,7 @@
                             {
                                 "name": "Heaven's Scissors",
                                 "access_rules": [
-                                    "$RF4Access|1852755"
+                                    "^$RF4Access|1852755"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -1310,7 +1310,7 @@
                             {
                                 "name": "Ice Wizard",
                                 "access_rules": [
-                                    "$RF4Access|1852768"
+                                    "^$RF4Access|1852768"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -1320,7 +1320,7 @@
                             {
                                 "name": "Boss - Siren",
                                 "access_rules": [
-                                    "$RF4Access|1852832"
+                                    "^$RF4Access|1852832"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -1361,7 +1361,7 @@
                             {
                                 "name": "Pirate's Armor",
                                 "access_rules": [
-                                    "$RF4Access|1851332"
+                                    "^$RF4Access|1851332"
                                 ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
@@ -1371,7 +1371,7 @@
                             {
                                 "name": "Turnip's Miracle",
                                 "access_rules": [
-                                    "$RF4Access|1851335"
+                                    "^$RF4Access|1851335"
                                 ],
                                 "visibility_rules": [
                                     "opt_dropsanity"
@@ -1401,7 +1401,7 @@
                             {
                                 "name": "Boss - Crystal Mammoth 2",
                                 "access_rules": [
-                                    "$RF4Access|1852704"
+                                    "^$RF4Access|1852704"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -1411,7 +1411,7 @@
                             {
                                 "name": "High Ogre Viking",
                                 "access_rules": [
-                                    "$RF4Access|1852758"
+                                    "^$RF4Access|1852758"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -1421,7 +1421,7 @@
                             {
                                 "name": "High Orc Viking",
                                 "access_rules": [
-                                    "$RF4Access|1852760"
+                                    "^$RF4Access|1852760"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"
@@ -1431,7 +1431,7 @@
                             {
                                 "name": "Turnip Ghost",
                                 "access_rules": [
-                                    "$RF4Access|1852848"
+                                    "^$RF4Access|1852848"
                                 ],
                                 "visibility_rules": [
                                     "opt_tamesanity"

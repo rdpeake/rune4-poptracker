@@ -20,7 +20,7 @@
                     {
                         "name": "Big Bird's Comb",
                         "access_rules": [
-                            "$RF4Access|1851344"
+                            "^$RF4Access|1851344"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -50,7 +50,7 @@
                     {
                         "name": "Mamadoodle",
                         "access_rules": [
-                            "$RF4Access|1852786"
+                            "^$RF4Access|1852786"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"

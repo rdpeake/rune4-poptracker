@@ -20,7 +20,7 @@
                     {
                         "name": "Boss - Earth Dragon Ash",
                         "access_rules": [
-                            "$RF4Access|1851294"
+                            "^$RF4Access|1851294"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -28,7 +28,7 @@
                     {
                         "name": "Devil Blood",
                         "access_rules": [
-                            "$RF4Access|1851208"
+                            "^$RF4Access|1851208"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -38,7 +38,7 @@
                     {
                         "name": "Hammer Piece",
                         "access_rules": [
-                            "$RF4Access|1851214"
+                            "^$RF4Access|1851214"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -48,7 +48,7 @@
                     {
                         "name": "Magic Powder",
                         "access_rules": [
-                            "$RF4Access|1851209"
+                            "^$RF4Access|1851209"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -58,7 +58,7 @@
                     {
                         "name": "Silk Cloth",
                         "access_rules": [
-                            "$RF4Access|1851200"
+                            "^$RF4Access|1851200"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -68,7 +68,7 @@
                     {
                         "name": "Skull",
                         "access_rules": [
-                            "$RF4Access|1851241"
+                            "^$RF4Access|1851241"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -78,7 +78,7 @@
                     {
                         "name": "Tiny Golem Stone",
                         "access_rules": [
-                            "$RF4Access|1851311"
+                            "^$RF4Access|1851311"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -88,7 +88,7 @@
                     {
                         "name": "Sunsquid",
                         "access_rules": [
-                            "$RF4Access|1851366"
+                            "^$RF4Access|1851366"
                         ],
                         "visibility_rules": [
                             "opt_fishsanity"
@@ -98,7 +98,7 @@
                     {
                         "name": "Throbby Snapper",
                         "access_rules": [
-                            "$RF4Access|1851369"
+                            "^$RF4Access|1851369"
                         ],
                         "visibility_rules": [
                             "opt_fishsanity"
@@ -108,7 +108,7 @@
                     {
                         "name": "Egg (M)",
                         "access_rules": [
-                            "$RF4Access|1850675"
+                            "^$RF4Access|1850675"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -118,7 +118,7 @@
                     {
                         "name": "Milk (M)",
                         "access_rules": [
-                            "$RF4Access|1850672"
+                            "^$RF4Access|1850672"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -128,7 +128,7 @@
                     {
                         "name": "Fur (M)",
                         "access_rules": [
-                            "$RF4Access|1851182"
+                            "^$RF4Access|1851182"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -138,7 +138,7 @@
                     {
                         "name": "Mediparalyze",
                         "access_rules": [
-                            "$RF4Access|1851414"
+                            "^$RF4Access|1851414"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -177,7 +177,7 @@
                             {
                                 "name": "Double Sonic",
                                 "access_rules": [
-                                    "$RF4Access|1851402"
+                                    "^$RF4Access|1851402"
                                 ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
@@ -187,7 +187,7 @@
                             {
                                 "name": "Earth Spike",
                                 "access_rules": [
-                                    "$RF4Access|1851399"
+                                    "^$RF4Access|1851399"
                                 ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
@@ -226,7 +226,7 @@
                                     {
                                         "name": "Wind Edge",
                                         "access_rules": [
-                                            "$RF4Access|1851554"
+                                            "^$RF4Access|1851554"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -253,7 +253,7 @@
                                     {
                                         "name": "Mystery Potion x4",
                                         "access_rules": [
-                                            "$RF4Access|1851558"
+                                            "^$RF4Access|1851558"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -280,7 +280,7 @@
                                     {
                                         "name": "Double Sonic Lv.3",
                                         "access_rules": [
-                                            "$RF4Access|1851559"
+                                            "^$RF4Access|1851559"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -307,7 +307,7 @@
                                     {
                                         "name": "Gold Bracelet",
                                         "access_rules": [
-                                            "$RF4Access|1851560"
+                                            "^$RF4Access|1851560"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -334,7 +334,7 @@
                                     {
                                         "name": "Choco Cookie",
                                         "access_rules": [
-                                            "$RF4Access|1851561"
+                                            "^$RF4Access|1851561"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -361,7 +361,7 @@
                                     {
                                         "name": "Earth Spike Lv.3",
                                         "access_rules": [
-                                            "$RF4Access|1851562"
+                                            "^$RF4Access|1851562"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -401,7 +401,7 @@
                             {
                                 "name": "Millionstrike",
                                 "access_rules": [
-                                    "$RF4Access|1851434"
+                                    "^$RF4Access|1851434"
                                 ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
@@ -411,7 +411,7 @@
                             {
                                 "name": "Mind Thrust",
                                 "access_rules": [
-                                    "$RF4Access|1851421"
+                                    "^$RF4Access|1851421"
                                 ],
                                 "visibility_rules": [
                                     "opt_spellsanity"
@@ -450,7 +450,7 @@
                                     {
                                         "name": "Empty...?",
                                         "access_rules": [
-                                            "$RF4Access|1851551"
+                                            "^$RF4Access|1851551"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -458,7 +458,7 @@
                                     {
                                         "name": "Mind Thrust Lv. 1",
                                         "access_rules": [
-                                            "$RF4Access|1851553"
+                                            "^$RF4Access|1851553"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -485,7 +485,7 @@
                                     {
                                         "name": "Mediparalyze Lv.1",
                                         "access_rules": [
-                                            "$RF4Access|1851552"
+                                            "^$RF4Access|1851552"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -512,7 +512,7 @@
                                     {
                                         "name": "12600G",
                                         "access_rules": [
-                                            "$RF4Access|1851555"
+                                            "^$RF4Access|1851555"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -539,7 +539,7 @@
                                     {
                                         "name": "Orange Ribbon",
                                         "access_rules": [
-                                            "$RF4Access|1851556"
+                                            "^$RF4Access|1851556"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -566,7 +566,7 @@
                                     {
                                         "name": "Sapphire Rod",
                                         "access_rules": [
-                                            "$RF4Access|1851557"
+                                            "^$RF4Access|1851557"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -593,7 +593,7 @@
                                     {
                                         "name": "Millionstrike Lv.1",
                                         "access_rules": [
-                                            "$RF4Access|1851668"
+                                            "^$RF4Access|1851668"
                                         ],
                                         "visibility_rules": [],
                                         "item_count": 1
@@ -624,7 +624,7 @@
                     {
                         "name": "Daemon",
                         "access_rules": [
-                            "$RF4Access|1852705"
+                            "^$RF4Access|1852705"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -634,7 +634,7 @@
                     {
                         "name": "Gaias",
                         "access_rules": [
-                            "$RF4Access|1852733"
+                            "^$RF4Access|1852733"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -644,7 +644,7 @@
                     {
                         "name": "Goblin Sniper",
                         "access_rules": [
-                            "$RF4Access|1852744"
+                            "^$RF4Access|1852744"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -654,7 +654,7 @@
                     {
                         "name": "Hobgoblin",
                         "access_rules": [
-                            "$RF4Access|1852762"
+                            "^$RF4Access|1852762"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -664,7 +664,7 @@
                     {
                         "name": "Little Golem",
                         "access_rules": [
-                            "$RF4Access|1852778"
+                            "^$RF4Access|1852778"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -674,7 +674,7 @@
                     {
                         "name": "Little Mage",
                         "access_rules": [
-                            "$RF4Access|1852779"
+                            "^$RF4Access|1852779"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -684,7 +684,7 @@
                     {
                         "name": "Minotaur",
                         "access_rules": [
-                            "$RF4Access|1852794"
+                            "^$RF4Access|1852794"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -694,7 +694,7 @@
                     {
                         "name": "Necro",
                         "access_rules": [
-                            "$RF4Access|1852798"
+                            "^$RF4Access|1852798"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -704,7 +704,7 @@
                     {
                         "name": "Boss - Terraclone",
                         "access_rules": [
-                            "$RF4Access|1852839"
+                            "^$RF4Access|1852839"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"

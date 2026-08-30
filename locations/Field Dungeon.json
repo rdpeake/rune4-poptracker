@@ -20,7 +20,7 @@
                     {
                         "name": "Boss - Greater Demon",
                         "access_rules": [
-                            "$RF4Access|1852746"
+                            "^$RF4Access|1852746"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -30,7 +30,7 @@
                     {
                         "name": "Boss - Grimoire",
                         "access_rules": [
-                            "$RF4Access|1852750"
+                            "^$RF4Access|1852750"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -40,7 +40,7 @@
                     {
                         "name": "Boss - Octopirate",
                         "access_rules": [
-                            "$RF4Access|1852799"
+                            "^$RF4Access|1852799"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"

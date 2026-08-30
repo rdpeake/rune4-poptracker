@@ -20,7 +20,7 @@
                     {
                         "name": "Boss - Chimera's Claw",
                         "access_rules": [
-                            "$RF4Access|1851342"
+                            "^$RF4Access|1851342"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -28,7 +28,7 @@
                     {
                         "name": "Boss - Lightning Mane",
                         "access_rules": [
-                            "$RF4Access|1851269"
+                            "^$RF4Access|1851269"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -36,7 +36,7 @@
                     {
                         "name": "Leek",
                         "access_rules": [
-                            "$RF4Access|1850400"
+                            "^$RF4Access|1850400"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -46,7 +46,7 @@
                     {
                         "name": "Bird's Feather",
                         "access_rules": [
-                            "$RF4Access|1851228"
+                            "^$RF4Access|1851228"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -56,7 +56,7 @@
                     {
                         "name": "Blade Shard",
                         "access_rules": [
-                            "$RF4Access|1851333"
+                            "^$RF4Access|1851333"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -66,7 +66,7 @@
                     {
                         "name": "Fish Fossil",
                         "access_rules": [
-                            "$RF4Access|1851236"
+                            "^$RF4Access|1851236"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -76,7 +76,7 @@
                     {
                         "name": "Old Bandage",
                         "access_rules": [
-                            "$RF4Access|1851204"
+                            "^$RF4Access|1851204"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -86,7 +86,7 @@
                     {
                         "name": "Turtle Shell",
                         "access_rules": [
-                            "$RF4Access|1851238"
+                            "^$RF4Access|1851238"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -96,7 +96,7 @@
                     {
                         "name": "Water Crystal",
                         "access_rules": [
-                            "$RF4Access|1851237"
+                            "^$RF4Access|1851237"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -106,7 +106,7 @@
                     {
                         "name": "Gold Prince Potato",
                         "access_rules": [
-                            "$RF4Access|1850412"
+                            "^$RF4Access|1850412"
                         ],
                         "visibility_rules": [
                             "opt_goldcropsanity"
@@ -116,7 +116,7 @@
                     {
                         "name": "Golden Potato",
                         "access_rules": [
-                            "$RF4Access|1850411"
+                            "^$RF4Access|1850411"
                         ],
                         "visibility_rules": [
                             "opt_goldcropsanity"
@@ -126,7 +126,7 @@
                     {
                         "name": "Legendary Leek",
                         "access_rules": [
-                            "$RF4Access|1850401"
+                            "^$RF4Access|1850401"
                         ],
                         "visibility_rules": [
                             "opt_largecropsanity"
@@ -136,7 +136,7 @@
                     {
                         "name": "Aquamarine",
                         "access_rules": [
-                            "$RF4Access|1851197"
+                            "^$RF4Access|1851197"
                         ],
                         "visibility_rules": [
                             "opt_mineralsanity"
@@ -146,7 +146,7 @@
                     {
                         "name": "Gold Potato Seeds",
                         "access_rules": [
-                            "$RF4Access|1851159"
+                            "^$RF4Access|1851159"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -156,7 +156,7 @@
                     {
                         "name": "Leek Seeds",
                         "access_rules": [
-                            "$RF4Access|1851155"
+                            "^$RF4Access|1851155"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -166,7 +166,7 @@
                     {
                         "name": "Water Laser",
                         "access_rules": [
-                            "$RF4Access|1851395"
+                            "^$RF4Access|1851395"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -205,7 +205,7 @@
                             {
                                 "name": "Blue Ribbon",
                                 "access_rules": [
-                                    "$RF4Access|1851498"
+                                    "^$RF4Access|1851498"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -232,7 +232,7 @@
                             {
                                 "name": "Aquamarine + Bronze",
                                 "access_rules": [
-                                    "$RF4Access|1851499"
+                                    "^$RF4Access|1851499"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -259,7 +259,7 @@
                             {
                                 "name": "Rod",
                                 "access_rules": [
-                                    "$RF4Access|1851500"
+                                    "^$RF4Access|1851500"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -286,7 +286,7 @@
                             {
                                 "name": "Water Laser Lv.1",
                                 "access_rules": [
-                                    "$RF4Access|1851501"
+                                    "^$RF4Access|1851501"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -313,7 +313,7 @@
                             {
                                 "name": "Battle Axe",
                                 "access_rules": [
-                                    "$RF4Access|1851502"
+                                    "^$RF4Access|1851502"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -321,7 +321,7 @@
                             {
                                 "name": "Para-Gone + Roundoff",
                                 "access_rules": [
-                                    "$RF4Access|1851647"
+                                    "^$RF4Access|1851647"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -348,7 +348,7 @@
                             {
                                 "name": "Recovery Potion x4",
                                 "access_rules": [
-                                    "$RF4Access|1851503"
+                                    "^$RF4Access|1851503"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -377,7 +377,7 @@
                     {
                         "name": "Boss - Chimera",
                         "access_rules": [
-                            "$RF4Access|1852698"
+                            "^$RF4Access|1852698"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -387,7 +387,7 @@
                     {
                         "name": "Goblin",
                         "access_rules": [
-                            "$RF4Access|1852740"
+                            "^$RF4Access|1852740"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -397,7 +397,7 @@
                     {
                         "name": "Goblin Archer",
                         "access_rules": [
-                            "$RF4Access|1852741"
+                            "^$RF4Access|1852741"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -407,7 +407,7 @@
                     {
                         "name": "Sky Fish",
                         "access_rules": [
-                            "$RF4Access|1852833"
+                            "^$RF4Access|1852833"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -417,7 +417,7 @@
                     {
                         "name": "Boss - Thunderbolt",
                         "access_rules": [
-                            "$RF4Access|1852841"
+                            "^$RF4Access|1852841"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -427,7 +427,7 @@
                     {
                         "name": "Tortas",
                         "access_rules": [
-                            "$RF4Access|1852844"
+                            "^$RF4Access|1852844"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -437,7 +437,7 @@
                     {
                         "name": "Weagle",
                         "access_rules": [
-                            "$RF4Access|1852852"
+                            "^$RF4Access|1852852"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"

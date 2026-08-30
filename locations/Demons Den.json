@@ -20,7 +20,7 @@
                     {
                         "name": "Boss - Raccoon Leaf",
                         "access_rules": [
-                            "$RF4Access|1851250"
+                            "^$RF4Access|1851250"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -28,7 +28,7 @@
                     {
                         "name": "Magic Plant Shield",
                         "access_rules": [
-                            "$RF4Access|1850973"
+                            "^$RF4Access|1850973"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -38,7 +38,7 @@
                     {
                         "name": "Plant Sword",
                         "access_rules": [
-                            "$RF4Access|1850728"
+                            "^$RF4Access|1850728"
                         ],
                         "visibility_rules": [
                             "opt_cropsanity"
@@ -48,7 +48,7 @@
                     {
                         "name": "Dungeon Seed",
                         "access_rules": [
-                            "$RF4Access|1851167"
+                            "^$RF4Access|1851167"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -58,7 +58,7 @@
                     {
                         "name": "Shield Seed",
                         "access_rules": [
-                            "$RF4Access|1851169"
+                            "^$RF4Access|1851169"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -68,7 +68,7 @@
                     {
                         "name": "Sword Seed",
                         "access_rules": [
-                            "$RF4Access|1851168"
+                            "^$RF4Access|1851168"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -107,7 +107,7 @@
                             {
                                 "name": "Healing Potion x4",
                                 "access_rules": [
-                                    "$RF4Access|1851661"
+                                    "^$RF4Access|1851661"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -136,7 +136,7 @@
                     {
                         "name": "Boss - Magnuto",
                         "access_rules": [
-                            "$RF4Access|1852782"
+                            "^$RF4Access|1852782"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"

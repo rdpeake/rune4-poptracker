@@ -20,7 +20,7 @@
                     {
                         "name": "Boss - Cursed Doll",
                         "access_rules": [
-                            "$RF4Access|1851270"
+                            "^$RF4Access|1851270"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -28,7 +28,7 @@
                     {
                         "name": "Boss - Puppetry Strings",
                         "access_rules": [
-                            "$RF4Access|1851271"
+                            "^$RF4Access|1851271"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -36,7 +36,7 @@
                     {
                         "name": "Dark Crystal",
                         "access_rules": [
-                            "$RF4Access|1851248"
+                            "^$RF4Access|1851248"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -46,7 +46,7 @@
                     {
                         "name": "Ghost Hood",
                         "access_rules": [
-                            "$RF4Access|1851240"
+                            "^$RF4Access|1851240"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -56,7 +56,7 @@
                     {
                         "name": "Insect Jaw",
                         "access_rules": [
-                            "$RF4Access|1851216"
+                            "^$RF4Access|1851216"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -66,7 +66,7 @@
                     {
                         "name": "Magic Crystal",
                         "access_rules": [
-                            "$RF4Access|1851210"
+                            "^$RF4Access|1851210"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -76,7 +76,7 @@
                     {
                         "name": "Panther Claw",
                         "access_rules": [
-                            "$RF4Access|1851223"
+                            "^$RF4Access|1851223"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -86,7 +86,7 @@
                     {
                         "name": "Spider's Thread",
                         "access_rules": [
-                            "$RF4Access|1851217"
+                            "^$RF4Access|1851217"
                         ],
                         "visibility_rules": [
                             "opt_dropsanity"
@@ -96,7 +96,7 @@
                     {
                         "name": "Black Grass",
                         "access_rules": [
-                            "$RF4Access|1850440"
+                            "^$RF4Access|1850440"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -106,7 +106,7 @@
                     {
                         "name": "Glitta Augite",
                         "access_rules": [
-                            "$RF4Access|1851302"
+                            "^$RF4Access|1851302"
                         ],
                         "visibility_rules": [
                             "opt_mineralsanity"
@@ -116,7 +116,7 @@
                     {
                         "name": "Shining Seed",
                         "access_rules": [
-                            "$RF4Access|1851166"
+                            "^$RF4Access|1851166"
                         ],
                         "visibility_rules": [
                             "opt_foragesanity"
@@ -126,7 +126,7 @@
                     {
                         "name": "Cure",
                         "access_rules": [
-                            "$RF4Access|1851410"
+                            "^$RF4Access|1851410"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -136,7 +136,7 @@
                     {
                         "name": "Flash Strike",
                         "access_rules": [
-                            "$RF4Access|1851428"
+                            "^$RF4Access|1851428"
                         ],
                         "visibility_rules": [
                             "opt_spellsanity"
@@ -175,7 +175,7 @@
                             {
                                 "name": "Steel Edge",
                                 "access_rules": [
-                                    "$RF4Access|1851511"
+                                    "^$RF4Access|1851511"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -183,7 +183,7 @@
                             {
                                 "name": "1800 G",
                                 "access_rules": [
-                                    "$RF4Access|1851649"
+                                    "^$RF4Access|1851649"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -210,7 +210,7 @@
                             {
                                 "name": "Flash Strike Lv.1",
                                 "access_rules": [
-                                    "$RF4Access|1851512"
+                                    "^$RF4Access|1851512"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -237,7 +237,7 @@
                             {
                                 "name": "Recovery Potion x3 + Heart Drink",
                                 "access_rules": [
-                                    "$RF4Access|1851514"
+                                    "^$RF4Access|1851514"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -264,7 +264,7 @@
                             {
                                 "name": "Cure Lv.1",
                                 "access_rules": [
-                                    "$RF4Access|1851515"
+                                    "^$RF4Access|1851515"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -291,7 +291,7 @@
                             {
                                 "name": "2500G",
                                 "access_rules": [
-                                    "$RF4Access|1851648"
+                                    "^$RF4Access|1851648"
                                 ],
                                 "visibility_rules": [],
                                 "item_count": 1
@@ -320,7 +320,7 @@
                     {
                         "name": "Ghost",
                         "access_rules": [
-                            "$RF4Access|1852736"
+                            "^$RF4Access|1852736"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -330,7 +330,7 @@
                     {
                         "name": "Ghost Ray",
                         "access_rules": [
-                            "$RF4Access|1852737"
+                            "^$RF4Access|1852737"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -340,7 +340,7 @@
                     {
                         "name": "Boss - Marionetta",
                         "access_rules": [
-                            "$RF4Access|1852789"
+                            "^$RF4Access|1852789"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -350,7 +350,7 @@
                     {
                         "name": "Onion Ghost",
                         "access_rules": [
-                            "$RF4Access|1852803"
+                            "^$RF4Access|1852803"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -360,7 +360,7 @@
                     {
                         "name": "Shadow Panther",
                         "access_rules": [
-                            "$RF4Access|1852829"
+                            "^$RF4Access|1852829"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -370,7 +370,7 @@
                     {
                         "name": "Slime",
                         "access_rules": [
-                            "$RF4Access|1852834"
+                            "^$RF4Access|1852834"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -380,7 +380,7 @@
                     {
                         "name": "Spider",
                         "access_rules": [
-                            "$RF4Access|1852836"
+                            "^$RF4Access|1852836"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"
@@ -390,7 +390,7 @@
                     {
                         "name": "Spirit",
                         "access_rules": [
-                            "$RF4Access|1852837"
+                            "^$RF4Access|1852837"
                         ],
                         "visibility_rules": [
                             "opt_tamesanity"

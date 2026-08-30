@@ -1,7 +1,7 @@
 """Attach the generated access rules to the pack's location sections.
 
 location_mapping.lua gives AP id -> "@Root/Child/.../Section". Each such section
-gets access_rules ["$RF4Access|<apid>"], which scripts/logic/rf4_rules.lua
+gets access_rules ["^$RF4Access|<apid>"], which scripts/logic/rf4_rules.lua
 evaluates against the clauses exported from the apworld.
 """
 import json, glob, re, os, collections
@@ -64,7 +64,11 @@ for apid, paths in mapping.items():
             # the result is the same and the file no longer depends on run order.
             no_clause += 1
         _, node = hit
-        node['access_rules'] = ["$RF4Access|%d" % apid]
+        # the "^" makes PopTracker read the return as an AccessibilityLevel
+        # rather than as an item count; without it a SequenceBreak (5) is just
+        # "5 >= 1" and paints green. doc/PACKS.md, "Rules starting with ^".
+        # Needs PopTracker >= 0.25.6.
+        node['access_rules'] = ["^$RF4Access|%d" % apid]
         applied += 1
 
 for p, d in files.items():
