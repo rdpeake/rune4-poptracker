@@ -4048,6 +4048,13 @@
                 "opt_tamesanity"
             ],
             [
+                "opt_grocerysanity",
+                "opt_outfitsanity",
+                "opt_maxshiptier",
+                "opt_maxfriend",
+                "opt_maxsell"
+            ],
+            [
                 "rf4_logic_info"
             ]
         ]

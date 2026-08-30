@@ -148,5 +148,65 @@
         "initial_active_state": true,
         "overlay_align": "right",
         "codes": "opt_tamesanity"
+    },
+    {
+        "name": "Groceries locations",
+        "type": "toggle",
+        "img": "images/items/bread.png",
+        "disabled_img": "images/items/bread.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "opt_grocerysanity"
+    },
+    {
+        "name": "Outfit locations",
+        "type": "toggle",
+        "img": "images/items/headdress.png",
+        "disabled_img": "images/items/headdress.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "opt_outfitsanity"
+    },
+    {
+        "name": "Max shipment tier",
+        "type": "consumable",
+        "img": "images/items/ship_closed.png",
+        "min_quantity": 5,
+        "max_quantity": 11,
+        "initial_quantity": 9,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_background": "#000000",
+        "overlay_align": "right",
+        "codes": "opt_maxshiptier"
+    },
+    {
+        "name": "Max friendship level",
+        "type": "consumable",
+        "img": "images/settings/opt_friendsanity.png",
+        "min_quantity": 1,
+        "max_quantity": 10,
+        "initial_quantity": 6,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_background": "#000000",
+        "overlay_align": "right",
+        "codes": "opt_maxfriend"
+    },
+    {
+        "name": "Max sale value (thousands of G)",
+        "type": "consumable",
+        "img": "images/items/gold.png",
+        "min_quantity": 10,
+        "max_quantity": 800,
+        "initial_quantity": 500,
+        "increment": 10,
+        "decrement": 10,
+        "overlay_background": "#000000",
+        "overlay_align": "right",
+        "overlay_font_size": 9,
+        "codes": "opt_maxsell"
     }
 ]

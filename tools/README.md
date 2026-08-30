@@ -28,6 +28,9 @@ they can be run from anywhere.
    but `copy`) and the two address formulas are reproduced, then checked
    against `location_mapping.lua` so an upstream change to either fails loudly
    rather than exporting wrong ids.
+   `scripts/location_filters.lua` evaluates these against the pack's own
+   settings when offline; when connected the room's location list answers
+   directly and the settings panel is filled back in from it.
 3. `apply_rules.py` → rewrites `locations/*.json`
    Tags every mapped section with `"$RF4Access|<ap id>"`, resolved through
    `scripts/autotracking/location_mapping.lua`.
