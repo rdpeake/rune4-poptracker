@@ -25,3 +25,15 @@
 # Never convert, never diff as text.
 *.png   binary
 *.zip   binary
+
+# What ships in a release zip. `git archive` honours export-ignore, so
+#   git archive --format=zip -o pack.zip v<version>
+# yields exactly the pack: manifest, images, items, layouts, locations, maps,
+# scripts and the licence. Everything below is development-only -- tools/ needs
+# the apworld checkout that .gitignore keeps out of the tree, and
+# datapackage_url.json points at a local export path nothing in the pack reads.
+.gitattributes          export-ignore
+.gitignore              export-ignore
+datapackage_url.json    export-ignore
+tests/                  export-ignore
+tools/                  export-ignore
