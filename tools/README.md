@@ -16,11 +16,33 @@ they can be run from anywhere.
 1. `export_logic.py` → `scripts/logic/rf4_data.lua`
    The region graph, entrance rules, recipe and shipment tables, and one AND-list
    of clauses per AP location id.
-2. `apply_rules.py` → rewrites `locations/*.json`
+2. `export_location_meta.py` → `scripts/autotracking/location_meta.lua`
+   Per-location tier, sell value, friendship level and the grocery/outfit
+   category sets, for the five apworld options that decide the location pool
+   but never reach `fill_slot_data`: `grocerysanity`, `outfitsanity`,
+   `max_ship_tier`, `max_sell_value` and `max_friendship`.
+   Read from the apworld's own CSVs under `stub/rf4/data/` rather than by
+   importing its Python, so this one needs no `BaseClasses` stub. Friendship
+   and outfit locations have no CSV — `Locations.py` generates them from two
+   dicts in `game_data.py` — so that module is imported (it depends on nothing
+   but `copy`) and the two address formulas are reproduced, then checked
+   against `location_mapping.lua` so an upstream change to either fails loudly
+   rather than exporting wrong ids.
+3. `apply_rules.py` → rewrites `locations/*.json`
    Tags every mapped section with `"$RF4Access|<ap id>"`, resolved through
    `scripts/autotracking/location_mapping.lua`.
 
 `scripts/logic/rf4_rules.lua` evaluates the clauses at runtime and is hand-written.
+
+## Upstream data bugs the export matches
+
+`parse_csv` keys its rows by `Name`, so where a sheet holds two rows with the
+same name the later one silently wins. Shipments has five such pairs — `Gloves`
+is both a Craft worth 170 (line 125) and a Forge worth 380 (line 693), and
+`Turnip`, `Squid` and `Battle Turnip` each carry a stray "Category" row.
+`export_location_meta.py` collapses them the same way, because the seed was
+generated from the collapsed table; reading both rows would put 1078 sell
+values in the pack against the 1077 generation used.
 
 ## Verifying
 
