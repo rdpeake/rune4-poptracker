@@ -23,7 +23,7 @@
                             "^$RF4Access|1852746"
                         ],
                         "visibility_rules": [
-                            "opt_tamesanity"
+                            "opt_tamesanity,$RF4Visible|1852746"
                         ],
                         "item_count": 1
                     },
@@ -33,7 +33,7 @@
                             "^$RF4Access|1852750"
                         ],
                         "visibility_rules": [
-                            "opt_tamesanity"
+                            "opt_tamesanity,$RF4Visible|1852750"
                         ],
                         "item_count": 1
                     },
@@ -43,7 +43,7 @@
                             "^$RF4Access|1852799"
                         ],
                         "visibility_rules": [
-                            "opt_tamesanity"
+                            "opt_tamesanity,$RF4Visible|1852799"
                         ],
                         "item_count": 1
                     }

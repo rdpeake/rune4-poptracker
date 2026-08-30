@@ -32,8 +32,12 @@ they can be run from anywhere.
    settings when offline; when connected the room's location list answers
    directly and the settings panel is filled back in from it.
 3. `apply_rules.py` → rewrites `locations/*.json`
-   Tags every mapped section with `"$RF4Access|<ap id>"`, resolved through
-   `scripts/autotracking/location_mapping.lua`.
+   Tags every mapped section with `"^$RF4Access|<ap id>"` and
+   `"$RF4Visible|<ap id>"`, resolved through
+   `scripts/autotracking/location_mapping.lua`. The `^` on the access rule is
+   required: without it PopTracker reads the return as an item count, and a
+   SequenceBreak (5) is just "5 >= 1" and paints green. The visibility rule
+   must NOT have one — it resolves through the count branch and returns 0 or 1.
 
 `scripts/logic/rf4_rules.lua` evaluates the clauses at runtime and is hand-written.
 

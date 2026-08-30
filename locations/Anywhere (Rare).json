@@ -23,7 +23,7 @@
                             "^$RF4Access|1851243"
                         ],
                         "visibility_rules": [
-                            "opt_dropsanity"
+                            "opt_dropsanity,$RF4Visible|1851243"
                         ],
                         "item_count": 1
                     },
@@ -33,7 +33,7 @@
                             "^$RF4Access|1851242"
                         ],
                         "visibility_rules": [
-                            "opt_dropsanity"
+                            "opt_dropsanity,$RF4Visible|1851242"
                         ],
                         "item_count": 1
                     },
@@ -43,7 +43,7 @@
                             "^$RF4Access|1851287"
                         ],
                         "visibility_rules": [
-                            "opt_mineralsanity"
+                            "opt_mineralsanity,$RF4Visible|1851287"
                         ],
                         "item_count": 1
                     },
@@ -53,7 +53,7 @@
                             "^$RF4Access|1851245"
                         ],
                         "visibility_rules": [
-                            "opt_mineralsanity"
+                            "opt_mineralsanity,$RF4Visible|1851245"
                         ],
                         "item_count": 1
                     }
@@ -83,7 +83,7 @@
                             "^$RF4Access|1852739"
                         ],
                         "visibility_rules": [
-                            "opt_tamesanity"
+                            "opt_tamesanity,$RF4Visible|1852739"
                         ],
                         "item_count": 1
                     },
@@ -93,7 +93,7 @@
                             "^$RF4Access|1852796"
                         ],
                         "visibility_rules": [
-                            "opt_tamesanity"
+                            "opt_tamesanity,$RF4Visible|1852796"
                         ],
                         "item_count": 1
                     }

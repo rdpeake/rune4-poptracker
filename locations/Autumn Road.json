@@ -22,7 +22,9 @@
                         "access_rules": [
                             "^$RF4Access|1851353"
                         ],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "$RF4Visible|1851353"
+                        ],
                         "item_count": 1
                     },
                     {
@@ -31,7 +33,7 @@
                             "^$RF4Access|1851284"
                         ],
                         "visibility_rules": [
-                            "opt_dropsanity"
+                            "opt_dropsanity,$RF4Visible|1851284"
                         ],
                         "item_count": 1
                     },
@@ -41,7 +43,7 @@
                             "^$RF4Access|1851233"
                         ],
                         "visibility_rules": [
-                            "opt_dropsanity"
+                            "opt_dropsanity,$RF4Visible|1851233"
                         ],
                         "item_count": 1
                     },
@@ -51,7 +53,7 @@
                             "^$RF4Access|1851306"
                         ],
                         "visibility_rules": [
-                            "opt_dropsanity"
+                            "opt_dropsanity,$RF4Visible|1851306"
                         ],
                         "item_count": 1
                     },
@@ -61,7 +63,7 @@
                             "^$RF4Access|1851289"
                         ],
                         "visibility_rules": [
-                            "opt_dropsanity"
+                            "opt_dropsanity,$RF4Visible|1851289"
                         ],
                         "item_count": 1
                     },
@@ -71,7 +73,7 @@
                             "^$RF4Access|1851314"
                         ],
                         "visibility_rules": [
-                            "opt_dropsanity"
+                            "opt_dropsanity,$RF4Visible|1851314"
                         ],
                         "item_count": 1
                     },
@@ -81,7 +83,7 @@
                             "^$RF4Access|1851358"
                         ],
                         "visibility_rules": [
-                            "opt_fishsanity"
+                            "opt_fishsanity,$RF4Visible|1851358"
                         ],
                         "item_count": 1
                     },
@@ -91,7 +93,7 @@
                             "^$RF4Access|1851364"
                         ],
                         "visibility_rules": [
-                            "opt_fishsanity"
+                            "opt_fishsanity,$RF4Visible|1851364"
                         ],
                         "item_count": 1
                     },
@@ -101,7 +103,7 @@
                             "^$RF4Access|1851381"
                         ],
                         "visibility_rules": [
-                            "opt_fishsanity"
+                            "opt_fishsanity,$RF4Visible|1851381"
                         ],
                         "item_count": 1
                     },
@@ -111,7 +113,7 @@
                             "^$RF4Access|1851362"
                         ],
                         "visibility_rules": [
-                            "opt_fishsanity"
+                            "opt_fishsanity,$RF4Visible|1851362"
                         ],
                         "item_count": 1
                     },
@@ -121,7 +123,7 @@
                             "^$RF4Access|1851368"
                         ],
                         "visibility_rules": [
-                            "opt_fishsanity"
+                            "opt_fishsanity,$RF4Visible|1851368"
                         ],
                         "item_count": 1
                     },
@@ -131,7 +133,7 @@
                             "^$RF4Access|1851373"
                         ],
                         "visibility_rules": [
-                            "opt_fishsanity"
+                            "opt_fishsanity,$RF4Visible|1851373"
                         ],
                         "item_count": 1
                     },
@@ -141,7 +143,7 @@
                             "^$RF4Access|1850443"
                         ],
                         "visibility_rules": [
-                            "opt_foragesanity"
+                            "opt_foragesanity,$RF4Visible|1850443"
                         ],
                         "item_count": 1
                     },
@@ -151,7 +153,7 @@
                             "^$RF4Access|1851298"
                         ],
                         "visibility_rules": [
-                            "opt_mineralsanity"
+                            "opt_mineralsanity,$RF4Visible|1851298"
                         ],
                         "item_count": 1
                     },
@@ -161,7 +163,7 @@
                             "^$RF4Access|1851188"
                         ],
                         "visibility_rules": [
-                            "opt_mineralsanity"
+                            "opt_mineralsanity,$RF4Visible|1851188"
                         ],
                         "item_count": 1
                     },
@@ -170,7 +172,9 @@
                         "access_rules": [
                             "^$RF4Access|1851068"
                         ],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "$RF4Visible|1851068"
+                        ],
                         "item_count": 1
                     },
                     {
@@ -178,7 +182,9 @@
                         "access_rules": [
                             "^$RF4Access|1851069"
                         ],
-                        "visibility_rules": [],
+                        "visibility_rules": [
+                            "$RF4Visible|1851069"
+                        ],
                         "item_count": 1
                     },
                     {
@@ -187,7 +193,7 @@
                             "^$RF4Access|1851407"
                         ],
                         "visibility_rules": [
-                            "opt_spellsanity"
+                            "opt_spellsanity,$RF4Visible|1851407"
                         ],
                         "item_count": 1
                     },
@@ -197,7 +203,7 @@
                             "^$RF4Access|1851429"
                         ],
                         "visibility_rules": [
-                            "opt_spellsanity"
+                            "opt_spellsanity,$RF4Visible|1851429"
                         ],
                         "item_count": 1
                     },
@@ -207,7 +213,7 @@
                             "^$RF4Access|1851396"
                         ],
                         "visibility_rules": [
-                            "opt_spellsanity"
+                            "opt_spellsanity,$RF4Visible|1851396"
                         ],
                         "item_count": 1
                     },
@@ -217,7 +223,7 @@
                             "^$RF4Access|1851398"
                         ],
                         "visibility_rules": [
-                            "opt_spellsanity"
+                            "opt_spellsanity,$RF4Visible|1851398"
                         ],
                         "item_count": 1
                     }
@@ -255,7 +261,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851523"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851523"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -282,7 +290,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851524"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851524"
+                                ],
                                 "item_count": 1
                             },
                             {
@@ -290,7 +300,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851525"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851525"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -317,7 +329,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851526"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851526"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -344,7 +358,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851527"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851527"
+                                ],
                                 "item_count": 1
                             },
                             {
@@ -352,7 +368,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851528"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851528"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -379,7 +397,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851529"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851529"
+                                ],
                                 "item_count": 1
                             },
                             {
@@ -387,7 +407,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851530"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851530"
+                                ],
                                 "item_count": 1
                             },
                             {
@@ -395,7 +417,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851531"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851531"
+                                ],
                                 "item_count": 1
                             },
                             {
@@ -403,7 +427,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851532"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851532"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -430,7 +456,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851533"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851533"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -457,7 +485,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851653"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851653"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -484,7 +514,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851659"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851659"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -511,7 +543,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851662"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851662"
+                                ],
                                 "item_count": 1
                             },
                             {
@@ -519,7 +553,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851663"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851663"
+                                ],
                                 "item_count": 1
                             },
                             {
@@ -527,7 +563,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851664"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851664"
+                                ],
                                 "item_count": 1
                             },
                             {
@@ -535,7 +573,9 @@
                                 "access_rules": [
                                     "^$RF4Access|1851665"
                                 ],
-                                "visibility_rules": [],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851665"
+                                ],
                                 "item_count": 1
                             }
                         ],
@@ -565,7 +605,7 @@
                             "^$RF4Access|1852728"
                         ],
                         "visibility_rules": [
-                            "opt_tamesanity"
+                            "opt_tamesanity,$RF4Visible|1852728"
                         ],
                         "item_count": 1
                     },
@@ -575,7 +615,7 @@
                             "^$RF4Access|1852731"
                         ],
                         "visibility_rules": [
-                            "opt_tamesanity"
+                            "opt_tamesanity,$RF4Visible|1852731"
                         ],
                         "item_count": 1
                     },
@@ -585,7 +625,7 @@
                             "^$RF4Access|1852793"
                         ],
                         "visibility_rules": [
-                            "opt_tamesanity"
+                            "opt_tamesanity,$RF4Visible|1852793"
                         ],
                         "item_count": 1
                     },
@@ -595,7 +635,7 @@
                             "^$RF4Access|1852809"
                         ],
                         "visibility_rules": [
-                            "opt_tamesanity"
+                            "opt_tamesanity,$RF4Visible|1852809"
                         ],
                         "item_count": 1
                     },
@@ -605,7 +645,7 @@
                             "^$RF4Access|1852816"
                         ],
                         "visibility_rules": [
-                            "opt_tamesanity"
+                            "opt_tamesanity,$RF4Visible|1852816"
                         ],
                         "item_count": 1
                     },
@@ -615,7 +655,7 @@
                             "^$RF4Access|1852845"
                         ],
                         "visibility_rules": [
-                            "opt_tamesanity"
+                            "opt_tamesanity,$RF4Visible|1852845"
                         ],
                         "item_count": 1
                     }
