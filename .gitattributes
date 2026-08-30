@@ -1,0 +1,27 @@
+# Line endings.
+#
+# This pack was committed from Windows without a .gitattributes, so what is
+# stored in the repository drifted: 34 JSON files hold CRLF and 3 hold LF, 10
+# Lua files hold CRLF and 12 hold LF. The LF ones are the generated and newer
+# files -- tools/*.py and any editor under WSL write LF -- and the CRLF ones
+# are the original template plus the wiki-built location JSONs.
+#
+# The cost of that split is silent whole-file churn: a script that reads a
+# CRLF file in Python text mode and writes it back produces LF, and every line
+# of the file then shows as changed. Adding a "^" to 1723 access rules once
+# turned into a 29,000 line diff that way.
+#
+# text=auto stores LF in the repository and converts on checkout, so a tool
+# that writes LF no longer rewrites anything git can see.
+
+* text=auto
+
+# Named explicitly so the setting does not depend on the content heuristic.
+*.json  text
+*.lua   text
+*.py    text
+*.md    text
+
+# Never convert, never diff as text.
+*.png   binary
+*.zip   binary
