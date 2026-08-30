@@ -4046,6 +4046,9 @@
                 "opt_requestsanity",
                 "opt_friendsanity",
                 "opt_tamesanity"
+            ],
+            [
+                "rf4_logic_info"
             ]
         ]
     }

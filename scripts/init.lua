@@ -9,6 +9,7 @@ require("scripts.logic.base_logic")
 require("scripts.logic.graph_logic.logic_main")
 -- access logic ported from the apworld (rf4_data.lua is generated)
 require("scripts.logic.rf4_rules")
+require("scripts.logic_info")
 
 -- Maps
 Tracker:AddMaps("maps/maps.json")
@@ -30,6 +31,7 @@ function OnFrameHandler()
     ScriptHost:AddWatchForCode("StateChanged", "*", StateChanged)
     ScriptHost:AddOnLocationSectionChangedHandler("location_section_change_handler", LocationHandler)
     CreateLuaManualStorageItem("manual_location_storage")
+    CreateLogicInfoItem()
     ForceUpdate()
 end
 require("scripts.luaitems")

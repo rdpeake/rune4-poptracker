@@ -24,7 +24,7 @@
                         },
                         {
                             "type": "group",
-                            "header": "Location Options",
+                            "header": "Location Options / Logic",
                             "dock": "top",
                             "content": {
                                 "type": "layout",
@@ -81,7 +81,7 @@
                         },
                         {
                             "type": "group",
-                            "header": "Location Options",
+                            "header": "Location Options / Logic",
                             "dock": "left",
                             "content": {
                                 "type": "layout",

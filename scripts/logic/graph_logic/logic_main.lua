@@ -304,6 +304,7 @@ function StateChanged()
     stale = true
     -- tracked items changed, so the ported apworld logic must recompute
     if RF4_Invalidate then RF4_Invalidate() end
+    if RF4_UpdateLogicInfo then RF4_UpdateLogicInfo() end
     -- Entry_Point:discover(AccessibilityLevel.Normal, 0)
 end
 
