@@ -73,7 +73,8 @@ for apid, paths in mapping.items():
 
 for p, d in files.items():
     txt = json.dumps(d, indent=4, ensure_ascii=False)
-    open(p, 'w', encoding='utf-8', newline='\r\n').write(txt)
+    # LF: the repo normalised in the .gitattributes commit
+    open(p, 'w', encoding='utf-8', newline='\n').write(txt)
 
 print("mapped ap ids        :", len(mapping))
 print("sections given rules :", applied)
