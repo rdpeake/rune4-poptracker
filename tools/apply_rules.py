@@ -88,8 +88,9 @@ for apid, paths in mapping.items():
 
 for p, d in files.items():
     txt = json.dumps(d, indent=4, ensure_ascii=False)
-    # LF: the repo normalised in the .gitattributes commit
-    open(p, 'w', encoding='utf-8', newline='\n').write(txt)
+    # LF: the repo normalised in the .gitattributes commit. The trailing
+    # newline keeps any other writer of these files from flipping them back.
+    open(p, 'w', encoding='utf-8', newline='\n').write(txt + '\n')
 
 print("mapped ap ids        :", len(mapping))
 print("sections given rules :", applied)
