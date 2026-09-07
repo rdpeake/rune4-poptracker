@@ -548,6 +548,16 @@
                         "item_count": 1
                     },
                     {
+                        "name": "Gloves (Accessory)",
+                        "access_rules": [
+                            "^$RF4Access|1851018"
+                        ],
+                        "visibility_rules": [
+                            "opt_craftsanity,$RF4Visible|1851018"
+                        ],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Gold Boots",
                         "access_rules": [
                             "^$RF4Access|1851094"

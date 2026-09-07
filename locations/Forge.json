@@ -18,16 +18,6 @@
                 ],
                 "sections": [
                     {
-                        "name": "Gloves",
-                        "access_rules": [
-                            "^$RF4Access|1850916"
-                        ],
-                        "visibility_rules": [
-                            "opt_craftsanity,$RF4Visible|1850916"
-                        ],
-                        "item_count": 1
-                    },
-                    {
                         "name": "Acutorimass",
                         "access_rules": [
                             "^$RF4Access|1850903"
@@ -928,16 +918,6 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Fists of the Earth",
-                        "access_rules": [
-                            "^$RF4Access|1850913"
-                        ],
-                        "visibility_rules": [
-                            "opt_forgesanity,$RF4Visible|1850913"
-                        ],
-                        "item_count": 1
-                    },
-                    {
                         "name": "Fists of Water",
                         "access_rules": [
                             "^$RF4Access|1850911"
@@ -954,6 +934,16 @@
                         ],
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850912"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fists of the Earth",
+                        "access_rules": [
+                            "^$RF4Access|1850913"
+                        ],
+                        "visibility_rules": [
+                            "opt_forgesanity,$RF4Visible|1850913"
                         ],
                         "item_count": 1
                     },
@@ -1134,6 +1124,16 @@
                         ],
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850721"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gloves (Weapon)",
+                        "access_rules": [
+                            "^$RF4Access|1850916"
+                        ],
+                        "visibility_rules": [
+                            "opt_craftsanity,$RF4Visible|1850916"
                         ],
                         "item_count": 1
                     },
