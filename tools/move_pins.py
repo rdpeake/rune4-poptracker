@@ -22,7 +22,8 @@ Where a pin ends up depends only on its room and on how many pins share that
 room, never on where the pin happens to be now, so running this twice moves
 nothing the second time.
 
-Pins parked off-map in the x=34 column are aggregates and never move.
+A pin drawn as a shape -- trapezoid, diamond -- is a region's aggregate,
+parked off the art because its checks have no one room. Those never move.
 
     python3 tools/move_pins.py            report
     python3 tools/move_pins.py --write    apply
@@ -35,7 +36,6 @@ import re
 import sys
 
 PACK = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + '/'
-PARKED_X = 34
 NEAR = 60           # a pin further than this from any room is left alone
 
 # A pin sits on the room's own point, which is where the label is drawn too, so
@@ -220,8 +220,8 @@ def main():
                     if not img or img not in derived:
                         kept += 1
                         continue
-                    if mp['x'] == PARKED_X:
-                        parked += 1
+                    if mp.get('shape'):
+                        parked += 1          # an aggregate, parked off the art
                         continue
                     code = None
                     for part in reversed(here):
