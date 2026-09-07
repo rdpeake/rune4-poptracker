@@ -2,8 +2,8 @@
     {
         "name": "First Task!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_firsttask.png",
+        "disabled_img": "images/events/req_firsttask.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_firsttask"
@@ -11,8 +11,8 @@
     {
         "name": "How to place furniture!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_howtoplacefurniture.png",
+        "disabled_img": "images/events/req_howtoplacefurniture.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_howtoplacefurniture"
@@ -20,8 +20,8 @@
     {
         "name": "Make Lumber",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_makelumber.png",
+        "disabled_img": "images/events/req_makelumber.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_makelumber"
@@ -29,8 +29,8 @@
     {
         "name": "Give an item!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_giveanitem.png",
+        "disabled_img": "images/events/req_giveanitem.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_giveanitem"
@@ -38,8 +38,8 @@
     {
         "name": "Purchase Rice!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_purchaserice.png",
+        "disabled_img": "images/events/req_purchaserice.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_purchaserice"
@@ -47,8 +47,8 @@
     {
         "name": "Make Material Stone!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_makematerialstone.png",
+        "disabled_img": "images/events/req_makematerialstone.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_makematerialstone"
@@ -56,8 +56,8 @@
     {
         "name": "Try Fishing!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_tryfishing.png",
+        "disabled_img": "images/events/req_tryfishing.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_tryfishing"
@@ -65,8 +65,8 @@
     {
         "name": "Use a Fertilizer Bin!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_useafertilizerbin.png",
+        "disabled_img": "images/events/req_useafertilizerbin.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_useafertilizerbin"
@@ -74,8 +74,8 @@
     {
         "name": "Mine Iron!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_mineiron.png",
+        "disabled_img": "images/events/req_mineiron.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_mineiron"
@@ -83,8 +83,8 @@
     {
         "name": "Raise friendship levels! (1)",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_raisefriendshiplevels1.png",
+        "disabled_img": "images/events/req_raisefriendshiplevels1.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_raisefriendshiplevels1"
@@ -92,8 +92,8 @@
     {
         "name": "Look at illustrations!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_lookatillustrations.png",
+        "disabled_img": "images/events/req_lookatillustrations.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_lookatillustrations"
@@ -101,8 +101,8 @@
     {
         "name": "Check difficulty level!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_checkdifficultylevel.png",
+        "disabled_img": "images/events/req_checkdifficultylevel.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_checkdifficultylevel"
@@ -110,8 +110,8 @@
     {
         "name": "Get an Airship License!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_getanairshiplicense.png",
+        "disabled_img": "images/events/req_getanairshiplicense.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_getanairshiplicense"
@@ -119,8 +119,8 @@
     {
         "name": "Get a Cooking Table!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_getacookingtable.png",
+        "disabled_img": "images/events/req_getacookingtable.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_getacookingtable"
@@ -128,8 +128,8 @@
     {
         "name": "Start Cooking!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_startcooking.png",
+        "disabled_img": "images/events/req_startcooking.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_startcooking"
@@ -137,8 +137,8 @@
     {
         "name": "Get a Forge!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_getaforge.png",
+        "disabled_img": "images/events/req_getaforge.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_getaforge"
@@ -146,8 +146,8 @@
     {
         "name": "Forge a weapon!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_forgeaweapon.png",
+        "disabled_img": "images/events/req_forgeaweapon.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_forgeaweapon"
@@ -155,8 +155,8 @@
     {
         "name": "Make a farming tool!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_makeafarmingtool.png",
+        "disabled_img": "images/events/req_makeafarmingtool.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_makeafarmingtool"
@@ -164,8 +164,8 @@
     {
         "name": "Get a Crafting Table!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_getacraftingtable.png",
+        "disabled_img": "images/events/req_getacraftingtable.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_getacraftingtable"
@@ -173,8 +173,8 @@
     {
         "name": "Make some armor!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_makesomearmor.png",
+        "disabled_img": "images/events/req_makesomearmor.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_makesomearmor"
@@ -182,8 +182,8 @@
     {
         "name": "Get a Chemistry Set!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_getachemistryset.png",
+        "disabled_img": "images/events/req_getachemistryset.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_getachemistryset"
@@ -191,8 +191,8 @@
     {
         "name": "Make some medicine!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_makesomemedicine.png",
+        "disabled_img": "images/events/req_makesomemedicine.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_makesomemedicine"
@@ -200,8 +200,8 @@
     {
         "name": "Raise a skill level!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_raiseaskilllevel.png",
+        "disabled_img": "images/events/req_raiseaskilllevel.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_raiseaskilllevel"
@@ -209,8 +209,8 @@
     {
         "name": "Raise a weapon skill level!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_raiseaweaponskilllevel.png",
+        "disabled_img": "images/events/req_raiseaweaponskilllevel.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_raiseaweaponskilllevel"
@@ -218,8 +218,8 @@
     {
         "name": "Upgrade a weapon!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_upgradeaweapon.png",
+        "disabled_img": "images/events/req_upgradeaweapon.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_upgradeaweapon"
@@ -227,8 +227,8 @@
     {
         "name": "Raise a magic skill level!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_raiseamagicskilllevel.png",
+        "disabled_img": "images/events/req_raiseamagicskilllevel.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_raiseamagicskilllevel"
@@ -236,8 +236,8 @@
     {
         "name": "Upgrade your armor!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_upgradeyourarmor.png",
+        "disabled_img": "images/events/req_upgradeyourarmor.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_upgradeyourarmor"
@@ -245,8 +245,8 @@
     {
         "name": "Use a nutrient!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_useanutrient.png",
+        "disabled_img": "images/events/req_useanutrient.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_useanutrient"
@@ -254,8 +254,8 @@
     {
         "name": "Raise shipment rates!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_raiseshipmentrates.png",
+        "disabled_img": "images/events/req_raiseshipmentrates.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_raiseshipmentrates"
@@ -263,8 +263,8 @@
     {
         "name": "Get a Shop License!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_getashoplicense.png",
+        "disabled_img": "images/events/req_getashoplicense.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_getashoplicense"
@@ -272,8 +272,8 @@
     {
         "name": "Prepare for a typhoon!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_prepareforatyphoon.png",
+        "disabled_img": "images/events/req_prepareforatyphoon.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_prepareforatyphoon"
@@ -281,8 +281,8 @@
     {
         "name": "Befriend 5 monsters!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_befriend5monsters.png",
+        "disabled_img": "images/events/req_befriend5monsters.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_befriend5monsters"
@@ -290,8 +290,8 @@
     {
         "name": "Upgrade a Staff!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_upgradeastaff.png",
+        "disabled_img": "images/events/req_upgradeastaff.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_upgradeastaff"
@@ -299,8 +299,8 @@
     {
         "name": "Raise friendship levels! (5)",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_raisefriendshiplevels5.png",
+        "disabled_img": "images/events/req_raisefriendshiplevels5.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_raisefriendshiplevels5"
@@ -308,8 +308,8 @@
     {
         "name": "Ship a level 10 flower!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_shipalevel10flower.png",
+        "disabled_img": "images/events/req_shipalevel10flower.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_shipalevel10flower"
@@ -317,8 +317,8 @@
     {
         "name": "Raise total shipment fee!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_raisetotalshipmentfee.png",
+        "disabled_img": "images/events/req_raisetotalshipmentfee.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_raisetotalshipmentfee"
@@ -326,8 +326,8 @@
     {
         "name": "Harvest a large gold crop!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvestalargegoldcrop.png",
+        "disabled_img": "images/events/req_harvestalargegoldcrop.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvestalargegoldcrop"
@@ -335,8 +335,8 @@
     {
         "name": "Harvest all crops!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvestallcrops.png",
+        "disabled_img": "images/events/req_harvestallcrops.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvestallcrops"
@@ -344,8 +344,8 @@
     {
         "name": "Ship a gold level 10 crop!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_shipagoldlevel10crop.png",
+        "disabled_img": "images/events/req_shipagoldlevel10crop.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_shipagoldlevel10crop"
@@ -353,8 +353,8 @@
     {
         "name": "Raise a skill level to 50!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_raiseaskilllevelto50.png",
+        "disabled_img": "images/events/req_raiseaskilllevelto50.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_raiseaskilllevelto50"
@@ -362,8 +362,8 @@
     {
         "name": "Befriend 50 monsters!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_befriend50monsters.png",
+        "disabled_img": "images/events/req_befriend50monsters.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_befriend50monsters"
@@ -371,8 +371,8 @@
     {
         "name": "Raise friendship levels! (10)",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_raisefriendshiplevels10.png",
+        "disabled_img": "images/events/req_raisefriendshiplevels10.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_raisefriendshiplevels10"
@@ -380,8 +380,8 @@
     {
         "name": "Get a 50% shipment rate!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_geta50shipmentrate.png",
+        "disabled_img": "images/events/req_geta50shipmentrate.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_geta50shipmentrate"
@@ -389,8 +389,8 @@
     {
         "name": "Raise a skill level to 80!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_raiseaskilllevelto80.png",
+        "disabled_img": "images/events/req_raiseaskilllevelto80.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_raiseaskilllevelto80"
@@ -398,8 +398,8 @@
     {
         "name": "Complete the Sharance Maze!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_completethesharancemaze.png",
+        "disabled_img": "images/events/req_completethesharancemaze.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_completethesharancemaze"
@@ -407,8 +407,8 @@
     {
         "name": "Give Dolce a Moondrop!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_givedolceamoondrop.png",
+        "disabled_img": "images/events/req_givedolceamoondrop.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_givedolceamoondrop"
@@ -416,8 +416,8 @@
     {
         "name": "Build a Monster Barn!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_buildamonsterbarn.png",
+        "disabled_img": "images/events/req_buildamonsterbarn.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_buildamonsterbarn"
@@ -425,8 +425,8 @@
     {
         "name": "Befriend monsters!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_befriendmonsters.png",
+        "disabled_img": "images/events/req_befriendmonsters.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_befriendmonsters"
@@ -434,8 +434,8 @@
     {
         "name": "Ride on a monster friend!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_rideonamonsterfriend.png",
+        "disabled_img": "images/events/req_rideonamonsterfriend.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_rideonamonsterfriend"
@@ -443,8 +443,8 @@
     {
         "name": "Befriend an item monster!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_befriendanitemmonster.png",
+        "disabled_img": "images/events/req_befriendanitemmonster.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_befriendanitemmonster"
@@ -452,8 +452,8 @@
     {
         "name": "Give a monster a task!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_giveamonsteratask.png",
+        "disabled_img": "images/events/req_giveamonsteratask.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_giveamonsteratask"
@@ -461,8 +461,8 @@
     {
         "name": "Befriend a boss monster!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_befriendabossmonster.png",
+        "disabled_img": "images/events/req_befriendabossmonster.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_befriendabossmonster"
@@ -470,8 +470,8 @@
     {
         "name": "Prepare for Marriage!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_prepareformarriage.png",
+        "disabled_img": "images/events/req_prepareformarriage.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_prepareformarriage"
@@ -479,8 +479,8 @@
     {
         "name": "From Eliza!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_fromeliza.png",
+        "disabled_img": "images/events/req_fromeliza.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_fromeliza"
@@ -488,8 +488,8 @@
     {
         "name": "Make a shipment!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_makeashipment.png",
+        "disabled_img": "images/events/req_makeashipment.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_makeashipment"
@@ -497,8 +497,8 @@
     {
         "name": "Harvest Potato!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvestpotato.png",
+        "disabled_img": "images/events/req_harvestpotato.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvestpotato"
@@ -506,8 +506,8 @@
     {
         "name": "Harvest 20 Turnip!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvest20turnip.png",
+        "disabled_img": "images/events/req_harvest20turnip.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvest20turnip"
@@ -515,8 +515,8 @@
     {
         "name": "Harvest 5 Radishes!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvest5radishes.png",
+        "disabled_img": "images/events/req_harvest5radishes.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvest5radishes"
@@ -524,8 +524,8 @@
     {
         "name": "Ship a level 2 Turnip!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_shipalevel2turnip.png",
+        "disabled_img": "images/events/req_shipalevel2turnip.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_shipalevel2turnip"
@@ -533,8 +533,8 @@
     {
         "name": "Harvest 6 veggies!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvest6veggies.png",
+        "disabled_img": "images/events/req_harvest6veggies.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvest6veggies"
@@ -542,8 +542,8 @@
     {
         "name": "Ship a level 5 veggie!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_shipalevel5veggie.png",
+        "disabled_img": "images/events/req_shipalevel5veggie.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_shipalevel5veggie"
@@ -551,8 +551,8 @@
     {
         "name": "Till Corn",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_tillcorn.png",
+        "disabled_img": "images/events/req_tillcorn.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_tillcorn"
@@ -560,8 +560,8 @@
     {
         "name": "Give Dylas a Carrot!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_givedylasacarrot.png",
+        "disabled_img": "images/events/req_givedylasacarrot.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_givedylasacarrot"
@@ -569,8 +569,8 @@
     {
         "name": "Harvest 12 veggies!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvest12veggies.png",
+        "disabled_img": "images/events/req_harvest12veggies.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvest12veggies"
@@ -578,8 +578,8 @@
     {
         "name": "Ship a level 10 veggie!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_shipalevel10veggie.png",
+        "disabled_img": "images/events/req_shipalevel10veggie.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_shipalevel10veggie"
@@ -587,8 +587,8 @@
     {
         "name": "Harvest certain veggies!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvestcertainveggies.png",
+        "disabled_img": "images/events/req_harvestcertainveggies.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvestcertainveggies"
@@ -596,8 +596,8 @@
     {
         "name": "Cut down a Shining Tree!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_cutdownashiningtree.png",
+        "disabled_img": "images/events/req_cutdownashiningtree.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_cutdownashiningtree"
@@ -605,8 +605,8 @@
     {
         "name": "Harvest 20 Oranges!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvest20oranges.png",
+        "disabled_img": "images/events/req_harvest20oranges.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvest20oranges"
@@ -614,8 +614,8 @@
     {
         "name": "Harvest a large veggie!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvestalargeveggie.png",
+        "disabled_img": "images/events/req_harvestalargeveggie.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvestalargeveggie"
@@ -623,8 +623,8 @@
     {
         "name": "Harvest 50 Grapes!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvest50grapes.png",
+        "disabled_img": "images/events/req_harvest50grapes.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvest50grapes"
@@ -632,8 +632,8 @@
     {
         "name": "Harvest 50 Apples!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvest50apples.png",
+        "disabled_img": "images/events/req_harvest50apples.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvest50apples"
@@ -641,8 +641,8 @@
     {
         "name": "Harvest non-golden veggies!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvestnongoldenveggies.png",
+        "disabled_img": "images/events/req_harvestnongoldenveggies.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvestnongoldenveggies"
@@ -650,8 +650,8 @@
     {
         "name": "Gift for Margaret!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_giftformargaret.png",
+        "disabled_img": "images/events/req_giftformargaret.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_giftformargaret"
@@ -659,8 +659,8 @@
     {
         "name": "Get a 25% shipment rate!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_geta25shipmentrate.png",
+        "disabled_img": "images/events/req_geta25shipmentrate.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_geta25shipmentrate"
@@ -668,8 +668,8 @@
     {
         "name": "Give a Turnip Heaven!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_giveaturnipheaven.png",
+        "disabled_img": "images/events/req_giveaturnipheaven.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_giveaturnipheaven"
@@ -677,8 +677,8 @@
     {
         "name": "Harvest a Sword Flower!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvestaswordflower.png",
+        "disabled_img": "images/events/req_harvestaswordflower.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvestaswordflower"
@@ -686,8 +686,8 @@
     {
         "name": "Harvest a Shield Flower!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvestashieldflower.png",
+        "disabled_img": "images/events/req_harvestashieldflower.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvestashieldflower"
@@ -695,8 +695,8 @@
     {
         "name": "Complete a field dungeon!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_completeafielddungeon.png",
+        "disabled_img": "images/events/req_completeafielddungeon.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_completeafielddungeon"
@@ -704,8 +704,8 @@
     {
         "name": "Harvest Toyherb!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvesttoyherb.png",
+        "disabled_img": "images/events/req_harvesttoyherb.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvesttoyherb"
@@ -713,8 +713,8 @@
     {
         "name": "Harvest 3 flowers!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvest3flowers.png",
+        "disabled_img": "images/events/req_harvest3flowers.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvest3flowers"
@@ -722,8 +722,8 @@
     {
         "name": "Give Amber a Toyherb!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_giveamberatoyherb.png",
+        "disabled_img": "images/events/req_giveamberatoyherb.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_giveamberatoyherb"
@@ -731,8 +731,8 @@
     {
         "name": "Harvest 9 Charm Blues!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvest9charmblues.png",
+        "disabled_img": "images/events/req_harvest9charmblues.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvest9charmblues"
@@ -740,8 +740,8 @@
     {
         "name": "Harvest Cherry Grass!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvestcherrygrass.png",
+        "disabled_img": "images/events/req_harvestcherrygrass.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvestcherrygrass"
@@ -749,8 +749,8 @@
     {
         "name": "Harvest 5 flowers!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvest5flowers.png",
+        "disabled_img": "images/events/req_harvest5flowers.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvest5flowers"
@@ -758,8 +758,8 @@
     {
         "name": "Till a 4-Leaf Clover!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_tilla4leafclover.png",
+        "disabled_img": "images/events/req_tilla4leafclover.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_tilla4leafclover"
@@ -767,8 +767,8 @@
     {
         "name": "Fight using an Ironleaf!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_fightusinganironleaf.png",
+        "disabled_img": "images/events/req_fightusinganironleaf.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_fightusinganironleaf"
@@ -776,8 +776,8 @@
     {
         "name": "Harvest a large flower!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvestalargeflower.png",
+        "disabled_img": "images/events/req_harvestalargeflower.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvestalargeflower"
@@ -785,8 +785,8 @@
     {
         "name": "Harvest Autumn Grass!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvestautumngrass.png",
+        "disabled_img": "images/events/req_harvestautumngrass.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvestautumngrass"
@@ -794,8 +794,8 @@
     {
         "name": "Harvest Blue Crystal!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvestbluecrystal.png",
+        "disabled_img": "images/events/req_harvestbluecrystal.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvestbluecrystal"
@@ -803,8 +803,8 @@
     {
         "name": "Harvest Green Crystal!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvestgreencrystal.png",
+        "disabled_img": "images/events/req_harvestgreencrystal.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvestgreencrystal"
@@ -812,8 +812,8 @@
     {
         "name": "Harvest Red Crystal!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvestredcrystal.png",
+        "disabled_img": "images/events/req_harvestredcrystal.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvestredcrystal"
@@ -821,8 +821,8 @@
     {
         "name": "Harvest White Crystal!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvestwhitecrystal.png",
+        "disabled_img": "images/events/req_harvestwhitecrystal.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvestwhitecrystal"
@@ -830,8 +830,8 @@
     {
         "name": "Harvest almost all crops!",
         "type": "toggle",
-        "img": "images/settings/opt_requestsanity.png",
-        "disabled_img": "images/settings/opt_requestsanity.png",
+        "img": "images/events/req_harvestalmostallcrops.png",
+        "disabled_img": "images/events/req_harvestalmostallcrops.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "codes": "req_harvestalmostallcrops"

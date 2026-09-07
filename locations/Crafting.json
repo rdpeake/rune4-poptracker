@@ -25,7 +25,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851000"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/amethystbrooch.png",
+                        "chest_opened_img": "/images/items/open/amethystbrooch.png"
                     },
                     {
                         "name": "Amethyst Ring",
@@ -35,7 +37,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850975"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/amethystring.png",
+                        "chest_opened_img": "/images/items/open/amethystring.png"
                     },
                     {
                         "name": "Anette's Necklace",
@@ -45,7 +49,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851038"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/anettesnecklace.png",
+                        "chest_opened_img": "/images/items/open/anettesnecklace.png"
                     },
                     {
                         "name": "Aquamarine Brooch",
@@ -55,7 +61,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850999"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/aquamarinebrooch.png",
+                        "chest_opened_img": "/images/items/open/aquamarinebrooch.png"
                     },
                     {
                         "name": "Aquamarine Ring",
@@ -65,7 +73,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850974"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/aquamarinering.png",
+                        "chest_opened_img": "/images/items/open/aquamarinering.png"
                     },
                     {
                         "name": "Art of Attack",
@@ -75,7 +85,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851030"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/artofattack.png",
+                        "chest_opened_img": "/images/items/open/artofattack.png"
                     },
                     {
                         "name": "Art of Defense",
@@ -85,7 +97,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851031"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/artofdefense.png",
+                        "chest_opened_img": "/images/items/open/artofdefense.png"
                     },
                     {
                         "name": "Art of Magic",
@@ -95,7 +109,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851032"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/artofmagic.png",
+                        "chest_opened_img": "/images/items/open/artofmagic.png"
                     },
                     {
                         "name": "Badge",
@@ -105,7 +121,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851020"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/badge.png",
+                        "chest_opened_img": "/images/items/open/badge.png"
                     },
                     {
                         "name": "Black Ribbon",
@@ -115,7 +133,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851055"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/blackribbon.png",
+                        "chest_opened_img": "/images/items/open/blackribbon.png"
                     },
                     {
                         "name": "Blue Ribbon",
@@ -125,7 +145,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851059"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/blueribbon.png",
+                        "chest_opened_img": "/images/items/open/blueribbon.png"
                     },
                     {
                         "name": "Bone Boots",
@@ -135,7 +157,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851095"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/boneboots.png",
+                        "chest_opened_img": "/images/items/open/boneboots.png"
                     },
                     {
                         "name": "Bone Shield",
@@ -145,7 +169,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850968"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/boneshield.png",
+                        "chest_opened_img": "/images/items/open/boneshield.png"
                     },
                     {
                         "name": "Brand Glasses",
@@ -155,7 +181,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851049"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/brandglasses.png",
+                        "chest_opened_img": "/images/items/open/brandglasses.png"
                     },
                     {
                         "name": "Bronze Bracelet",
@@ -165,7 +193,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850995"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bronzebracelet.png",
+                        "chest_opened_img": "/images/items/open/bronzebracelet.png"
                     },
                     {
                         "name": "Cat Ears",
@@ -175,7 +205,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851072"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/catears.png",
+                        "chest_opened_img": "/images/items/open/catears.png"
                     },
                     {
                         "name": "Chain Mail",
@@ -185,7 +217,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851104"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/chainmail.png",
+                        "chest_opened_img": "/images/items/open/chainmail.png"
                     },
                     {
                         "name": "Champ Belt",
@@ -195,7 +229,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851017"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/champbelt.png",
+                        "chest_opened_img": "/images/items/open/champbelt.png"
                     },
                     {
                         "name": "Chaos Shield",
@@ -205,7 +241,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850966"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/chaosshield.png",
+                        "chest_opened_img": "/images/items/open/chaosshield.png"
                     },
                     {
                         "name": "Charm",
@@ -215,7 +253,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851013"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/charm.png",
+                        "chest_opened_img": "/images/items/open/charm.png"
                     },
                     {
                         "name": "Cheap Bracelet",
@@ -225,7 +265,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850994"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cheapbracelet.png",
+                        "chest_opened_img": "/images/items/open/cheapbracelet.png"
                     },
                     {
                         "name": "Cotton Cloth",
@@ -235,7 +277,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851103"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cottoncloth.png",
+                        "chest_opened_img": "/images/items/open/cottoncloth.png"
                     },
                     {
                         "name": "Courage Badge",
@@ -245,7 +289,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851025"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/couragebadge.png",
+                        "chest_opened_img": "/images/items/open/couragebadge.png"
                     },
                     {
                         "name": "Critical Ring",
@@ -255,7 +301,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850989"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/criticalring.png",
+                        "chest_opened_img": "/images/items/open/criticalring.png"
                     },
                     {
                         "name": "Crown",
@@ -265,7 +313,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851073"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/crown.png",
+                        "chest_opened_img": "/images/items/open/crown.png"
                     },
                     {
                         "name": "Cursed Ring",
@@ -275,7 +325,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850981"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cursedring.png",
+                        "chest_opened_img": "/images/items/open/cursedring.png"
                     },
                     {
                         "name": "Cute Knitting",
@@ -285,7 +337,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851054"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cuteknitting.png",
+                        "chest_opened_img": "/images/items/open/cuteknitting.png"
                     },
                     {
                         "name": "Dew Pendant",
@@ -295,7 +349,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851010"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/dewpendant.png",
+                        "chest_opened_img": "/images/items/open/dewpendant.png"
                     },
                     {
                         "name": "Diamond Brooch",
@@ -305,7 +361,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851003"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/diamondbrooch.png",
+                        "chest_opened_img": "/images/items/open/diamondbrooch.png"
                     },
                     {
                         "name": "Diamond Ring",
@@ -315,7 +373,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850978"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/diamondring.png",
+                        "chest_opened_img": "/images/items/open/diamondring.png"
                     },
                     {
                         "name": "Dolphin Brooch",
@@ -325,7 +385,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851042"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/dolphinbrooch.png",
+                        "chest_opened_img": "/images/items/open/dolphinbrooch.png"
                     },
                     {
                         "name": "Dragon Cloak",
@@ -335,7 +397,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851113"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/dragoncloak.png",
+                        "chest_opened_img": "/images/items/open/dragoncloak.png"
                     },
                     {
                         "name": "Earrings",
@@ -345,7 +409,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851033"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/earrings.png",
+                        "chest_opened_img": "/images/items/open/earrings.png"
                     },
                     {
                         "name": "Earth Pendant",
@@ -355,7 +421,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851011"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/earthpendant.png",
+                        "chest_opened_img": "/images/items/open/earthpendant.png"
                     },
                     {
                         "name": "Earth Ring",
@@ -365,7 +433,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850985"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/earthring.png",
+                        "chest_opened_img": "/images/items/open/earthring.png"
                     },
                     {
                         "name": "Element Shield",
@@ -375,7 +445,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850965"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/elementshield.png",
+                        "chest_opened_img": "/images/items/open/elementshield.png"
                     },
                     {
                         "name": "Elvish Cloak",
@@ -385,7 +457,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851111"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/elvishcloak.png",
+                        "chest_opened_img": "/images/items/open/elvishcloak.png"
                     },
                     {
                         "name": "Emerald Brooch",
@@ -395,7 +469,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851001"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/emeraldbrooch.png",
+                        "chest_opened_img": "/images/items/open/emeraldbrooch.png"
                     },
                     {
                         "name": "Emerald Ring",
@@ -405,7 +481,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850976"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/emeraldring.png",
+                        "chest_opened_img": "/images/items/open/emeraldring.png"
                     },
                     {
                         "name": "Engagement Ring",
@@ -415,7 +493,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851043"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/engagementring.png",
+                        "chest_opened_img": "/images/items/open/engagementring.png"
                     },
                     {
                         "name": "Fairy Boots",
@@ -425,7 +505,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851096"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fairyboots.png",
+                        "chest_opened_img": "/images/items/open/fairyboots.png"
                     },
                     {
                         "name": "Fancy Hat",
@@ -435,7 +517,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851046"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fancyhat.png",
+                        "chest_opened_img": "/images/items/open/fancyhat.png"
                     },
                     {
                         "name": "Fast Step Boots",
@@ -445,7 +529,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851090"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/faststepboots.png",
+                        "chest_opened_img": "/images/items/open/faststepboots.png"
                     },
                     {
                         "name": "Feather Boots",
@@ -455,7 +541,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851076"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/featherboots.png",
+                        "chest_opened_img": "/images/items/open/featherboots.png"
                     },
                     {
                         "name": "Feathered Hat",
@@ -465,7 +553,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851048"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/featheredhat.png",
+                        "chest_opened_img": "/images/items/open/featheredhat.png"
                     },
                     {
                         "name": "Field Pendant",
@@ -475,7 +565,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851009"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fieldpendant.png",
+                        "chest_opened_img": "/images/items/open/fieldpendant.png"
                     },
                     {
                         "name": "Fire Ring",
@@ -485,7 +577,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850982"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/firering.png",
+                        "chest_opened_img": "/images/items/open/firering.png"
                     },
                     {
                         "name": "Fireproof Hood",
@@ -495,7 +589,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851053"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fireproofhood.png",
+                        "chest_opened_img": "/images/items/open/fireproofhood.png"
                     },
                     {
                         "name": "Fluffy Scarf",
@@ -505,7 +601,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851029"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fluffyscarf.png",
+                        "chest_opened_img": "/images/items/open/fluffyscarf.png"
                     },
                     {
                         "name": "Four Dragons' Vest",
@@ -515,7 +613,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851116"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fourdragonsvest.png",
+                        "chest_opened_img": "/images/items/open/fourdragonsvest.png"
                     },
                     {
                         "name": "Four Seasons",
@@ -525,7 +625,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851074"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fourseasons.png",
+                        "chest_opened_img": "/images/items/open/fourseasons.png"
                     },
                     {
                         "name": "Free Farming Shoes",
@@ -535,7 +637,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851097"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/freefarmingshoes.png",
+                        "chest_opened_img": "/images/items/open/freefarmingshoes.png"
                     },
                     {
                         "name": "Ghost Boots",
@@ -545,7 +649,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851084"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ghostboots.png",
+                        "chest_opened_img": "/images/items/open/ghostboots.png"
                     },
                     {
                         "name": "Gloves (Accessory)",
@@ -555,7 +661,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851018"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/gloves(accessory).png",
+                        "chest_opened_img": "/images/items/open/gloves(accessory).png"
                     },
                     {
                         "name": "Gold Boots",
@@ -565,7 +673,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851094"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/goldboots.png",
+                        "chest_opened_img": "/images/items/open/goldboots.png"
                     },
                     {
                         "name": "Gold Bracelet",
@@ -575,7 +685,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850997"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/goldbracelet.png",
+                        "chest_opened_img": "/images/items/open/goldbracelet.png"
                     },
                     {
                         "name": "Gold Hairpin",
@@ -585,7 +697,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851045"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/goldhairpin.png",
+                        "chest_opened_img": "/images/items/open/goldhairpin.png"
                     },
                     {
                         "name": "Gold Ring",
@@ -595,7 +709,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850987"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/goldring.png",
+                        "chest_opened_img": "/images/items/open/goldring.png"
                     },
                     {
                         "name": "Green Ribbon",
@@ -605,7 +721,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851060"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/greenribbon.png",
+                        "chest_opened_img": "/images/items/open/greenribbon.png"
                     },
                     {
                         "name": "Hand-Knit Scarf",
@@ -615,7 +733,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851028"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/hand-knitscarf.png",
+                        "chest_opened_img": "/images/items/open/hand-knitscarf.png"
                     },
                     {
                         "name": "Happy Ring",
@@ -625,7 +745,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850980"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/happyring.png",
+                        "chest_opened_img": "/images/items/open/happyring.png"
                     },
                     {
                         "name": "Headband",
@@ -635,7 +757,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851047"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/headband.png",
+                        "chest_opened_img": "/images/items/open/headband.png"
                     },
                     {
                         "name": "Headdress",
@@ -645,7 +769,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851071"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/headdress.png",
+                        "chest_opened_img": "/images/items/open/headdress.png"
                     },
                     {
                         "name": "Heart Pendant",
@@ -655,7 +781,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851006"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/heartpendant.png",
+                        "chest_opened_img": "/images/items/open/heartpendant.png"
                     },
                     {
                         "name": "Heavy Boots",
@@ -665,7 +793,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851077"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/heavyboots.png",
+                        "chest_opened_img": "/images/items/open/heavyboots.png"
                     },
                     {
                         "name": "Heavy Shield",
@@ -675,7 +805,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850960"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/heavyshield.png",
+                        "chest_opened_img": "/images/items/open/heavyshield.png"
                     },
                     {
                         "name": "Hero's Proof",
@@ -685,7 +817,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851026"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/herosproof.png",
+                        "chest_opened_img": "/images/items/open/herosproof.png"
                     },
                     {
                         "name": "Holy Amulet",
@@ -695,7 +829,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851012"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/holyamulet.png",
+                        "chest_opened_img": "/images/items/open/holyamulet.png"
                     },
                     {
                         "name": "Ice Skates",
@@ -705,7 +841,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851081"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/iceskates.png",
+                        "chest_opened_img": "/images/items/open/iceskates.png"
                     },
                     {
                         "name": "Indigo Ribbon",
@@ -715,7 +853,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851062"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/indigoribbon.png",
+                        "chest_opened_img": "/images/items/open/indigoribbon.png"
                     },
                     {
                         "name": "Intelligent Glasses",
@@ -725,7 +865,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851051"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/intelligentglasses.png",
+                        "chest_opened_img": "/images/items/open/intelligentglasses.png"
                     },
                     {
                         "name": "Iron Geta",
@@ -735,7 +877,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851085"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/irongeta.png",
+                        "chest_opened_img": "/images/items/open/irongeta.png"
                     },
                     {
                         "name": "Iron Shield",
@@ -745,7 +889,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850957"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ironshield.png",
+                        "chest_opened_img": "/images/items/open/ironshield.png"
                     },
                     {
                         "name": "Kite Shield",
@@ -755,7 +901,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850969"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/kiteshield.png",
+                        "chest_opened_img": "/images/items/open/kiteshield.png"
                     },
                     {
                         "name": "Knight Boots",
@@ -765,7 +913,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851079"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/knightboots.png",
+                        "chest_opened_img": "/images/items/open/knightboots.png"
                     },
                     {
                         "name": "Knight Shield",
@@ -775,7 +925,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850961"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/knightshield.png",
+                        "chest_opened_img": "/images/items/open/knightshield.png"
                     },
                     {
                         "name": "Lamellar Vest",
@@ -785,7 +937,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851110"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/lamellarvest.png",
+                        "chest_opened_img": "/images/items/open/lamellarvest.png"
                     },
                     {
                         "name": "Leather Belt",
@@ -795,7 +949,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851014"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/leatherbelt.png",
+                        "chest_opened_img": "/images/items/open/leatherbelt.png"
                     },
                     {
                         "name": "Leather Boots",
@@ -805,7 +961,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851078"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/leatherboots.png",
+                        "chest_opened_img": "/images/items/open/leatherboots.png"
                     },
                     {
                         "name": "Lolita Headdress",
@@ -815,7 +973,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851070"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/lolitaheaddress.png",
+                        "chest_opened_img": "/images/items/open/lolitaheaddress.png"
                     },
                     {
                         "name": "Lucky Strike",
@@ -825,7 +985,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851015"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/luckystrike.png",
+                        "chest_opened_img": "/images/items/open/luckystrike.png"
                     },
                     {
                         "name": "Magic Charm",
@@ -835,7 +997,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851022"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/magiccharm.png",
+                        "chest_opened_img": "/images/items/open/magiccharm.png"
                     },
                     {
                         "name": "Magic Earrings",
@@ -845,7 +1009,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851035"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/magicearrings.png",
+                        "chest_opened_img": "/images/items/open/magicearrings.png"
                     },
                     {
                         "name": "Magic Ring",
@@ -855,7 +1021,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850993"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/magicring.png",
+                        "chest_opened_img": "/images/items/open/magicring.png"
                     },
                     {
                         "name": "Magic Shield",
@@ -865,7 +1033,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850963"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/magicshield.png",
+                        "chest_opened_img": "/images/items/open/magicshield.png"
                     },
                     {
                         "name": "Magical Shield",
@@ -875,7 +1045,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850970"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/magicalshield.png",
+                        "chest_opened_img": "/images/items/open/magicalshield.png"
                     },
                     {
                         "name": "Mail",
@@ -885,7 +1057,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851102"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/mail.png",
+                        "chest_opened_img": "/images/items/open/mail.png"
                     },
                     {
                         "name": "Mercenary's Cloak",
@@ -895,7 +1069,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851101"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/mercenaryscloak.png",
+                        "chest_opened_img": "/images/items/open/mercenaryscloak.png"
                     },
                     {
                         "name": "Monkey Plush",
@@ -905,7 +1081,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850971"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/monkeyplush.png",
+                        "chest_opened_img": "/images/items/open/monkeyplush.png"
                     },
                     {
                         "name": "Orange Ribbon",
@@ -915,7 +1093,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851056"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/orangeribbon.png",
+                        "chest_opened_img": "/images/items/open/orangeribbon.png"
                     },
                     {
                         "name": "Paralysis Ring",
@@ -925,7 +1105,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850991"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/paralysisring.png",
+                        "chest_opened_img": "/images/items/open/paralysisring.png"
                     },
                     {
                         "name": "Piyo Sandals",
@@ -935,7 +1117,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851082"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/piyosandals.png",
+                        "chest_opened_img": "/images/items/open/piyosandals.png"
                     },
                     {
                         "name": "Platinum Bracelet",
@@ -945,7 +1129,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850998"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/platinumbracelet.png",
+                        "chest_opened_img": "/images/items/open/platinumbracelet.png"
                     },
                     {
                         "name": "Platinum Mail",
@@ -955,7 +1141,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851109"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/platinummail.png",
+                        "chest_opened_img": "/images/items/open/platinummail.png"
                     },
                     {
                         "name": "Platinum Ring",
@@ -965,7 +1153,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850988"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/platinumring.png",
+                        "chest_opened_img": "/images/items/open/platinumring.png"
                     },
                     {
                         "name": "Platinum Shield",
@@ -975,7 +1165,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850959"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/platinumshield.png",
+                        "chest_opened_img": "/images/items/open/platinumshield.png"
                     },
                     {
                         "name": "Poison Ring",
@@ -985,7 +1177,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850992"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/poisonring.png",
+                        "chest_opened_img": "/images/items/open/poisonring.png"
                     },
                     {
                         "name": "Power Gloves",
@@ -995,7 +1189,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851021"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/powergloves.png",
+                        "chest_opened_img": "/images/items/open/powergloves.png"
                     },
                     {
                         "name": "Power Protector",
@@ -1005,7 +1201,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851112"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/powerprotector.png",
+                        "chest_opened_img": "/images/items/open/powerprotector.png"
                     },
                     {
                         "name": "Prism Shield",
@@ -1015,7 +1213,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850964"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/prismshield.png",
+                        "chest_opened_img": "/images/items/open/prismshield.png"
                     },
                     {
                         "name": "Proof of Wisdom",
@@ -1025,7 +1225,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851027"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/proofofwisdom.png",
+                        "chest_opened_img": "/images/items/open/proofofwisdom.png"
                     },
                     {
                         "name": "Protector",
@@ -1035,7 +1237,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851106"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/protector.png",
+                        "chest_opened_img": "/images/items/open/protector.png"
                     },
                     {
                         "name": "Pumpkin Headgear",
@@ -1045,7 +1249,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851065"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pumpkinheadgear.png",
+                        "chest_opened_img": "/images/items/open/pumpkinheadgear.png"
                     },
                     {
                         "name": "Purple Ribbon",
@@ -1055,7 +1261,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851061"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/purpleribbon.png",
+                        "chest_opened_img": "/images/items/open/purpleribbon.png"
                     },
                     {
                         "name": "Red Ribbon",
@@ -1065,7 +1273,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851057"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/redribbon.png",
+                        "chest_opened_img": "/images/items/open/redribbon.png"
                     },
                     {
                         "name": "Rocket Wing",
@@ -1075,7 +1285,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851092"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/rocketwing.png",
+                        "chest_opened_img": "/images/items/open/rocketwing.png"
                     },
                     {
                         "name": "Rosary",
@@ -1085,7 +1297,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851024"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/rosary.png",
+                        "chest_opened_img": "/images/items/open/rosary.png"
                     },
                     {
                         "name": "Round Shield",
@@ -1095,7 +1309,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850958"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/roundshield.png",
+                        "chest_opened_img": "/images/items/open/roundshield.png"
                     },
                     {
                         "name": "Royal Garter",
@@ -1105,7 +1321,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851115"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/royalgarter.png",
+                        "chest_opened_img": "/images/items/open/royalgarter.png"
                     },
                     {
                         "name": "Ruby Brooch",
@@ -1115,7 +1333,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851004"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/rubybrooch.png",
+                        "chest_opened_img": "/images/items/open/rubybrooch.png"
                     },
                     {
                         "name": "Ruby Ring",
@@ -1125,7 +1345,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850979"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/rubyring.png",
+                        "chest_opened_img": "/images/items/open/rubyring.png"
                     },
                     {
                         "name": "Rune Shield",
@@ -1135,7 +1357,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850962"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/runeshield.png",
+                        "chest_opened_img": "/images/items/open/runeshield.png"
                     },
                     {
                         "name": "Rune Vest",
@@ -1145,7 +1369,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851114"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/runevest.png",
+                        "chest_opened_img": "/images/items/open/runevest.png"
                     },
                     {
                         "name": "Sapphire Brooch",
@@ -1155,7 +1381,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851002"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sapphirebrooch.png",
+                        "chest_opened_img": "/images/items/open/sapphirebrooch.png"
                     },
                     {
                         "name": "Sapphire Ring",
@@ -1165,7 +1393,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850977"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sapphirering.png",
+                        "chest_opened_img": "/images/items/open/sapphirering.png"
                     },
                     {
                         "name": "Scale Vest",
@@ -1175,7 +1405,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851105"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/scalevest.png",
+                        "chest_opened_img": "/images/items/open/scalevest.png"
                     },
                     {
                         "name": "Secret Shoes",
@@ -1185,7 +1417,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851087"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/secretshoes.png",
+                        "chest_opened_img": "/images/items/open/secretshoes.png"
                     },
                     {
                         "name": "Shield Ring",
@@ -1195,7 +1429,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851023"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/shieldring.png",
+                        "chest_opened_img": "/images/items/open/shieldring.png"
                     },
                     {
                         "name": "Shirt",
@@ -1205,7 +1441,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851098"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/shirt.png",
+                        "chest_opened_img": "/images/items/open/shirt.png"
                     },
                     {
                         "name": "Silent Ring",
@@ -1215,7 +1453,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850990"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/silentring.png",
+                        "chest_opened_img": "/images/items/open/silentring.png"
                     },
                     {
                         "name": "Silk Hat",
@@ -1225,7 +1465,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851075"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/silkhat.png",
+                        "chest_opened_img": "/images/items/open/silkhat.png"
                     },
                     {
                         "name": "Silver Boots",
@@ -1235,7 +1477,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851093"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/silverboots.png",
+                        "chest_opened_img": "/images/items/open/silverboots.png"
                     },
                     {
                         "name": "Silver Bracelet",
@@ -1245,7 +1489,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850996"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/silverbracelet.png",
+                        "chest_opened_img": "/images/items/open/silverbracelet.png"
                     },
                     {
                         "name": "Silver Hairpin",
@@ -1255,7 +1501,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851044"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/silverhairpin.png",
+                        "chest_opened_img": "/images/items/open/silverhairpin.png"
                     },
                     {
                         "name": "Silver Pendant",
@@ -1265,7 +1513,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851005"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/silverpendant.png",
+                        "chest_opened_img": "/images/items/open/silverpendant.png"
                     },
                     {
                         "name": "Silver Ring",
@@ -1275,7 +1525,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850986"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/silverring.png",
+                        "chest_opened_img": "/images/items/open/silverring.png"
                     },
                     {
                         "name": "Small Shield",
@@ -1285,7 +1537,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850956"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/smallshield.png",
+                        "chest_opened_img": "/images/items/open/smallshield.png"
                     },
                     {
                         "name": "Sneaking Boots",
@@ -1295,7 +1549,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851089"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sneakingboots.png",
+                        "chest_opened_img": "/images/items/open/sneakingboots.png"
                     },
                     {
                         "name": "Snow Boots",
@@ -1305,7 +1561,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851080"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/snowboots.png",
+                        "chest_opened_img": "/images/items/open/snowboots.png"
                     },
                     {
                         "name": "Sparkling Shirt",
@@ -1315,7 +1573,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851108"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sparklingshirt.png",
+                        "chest_opened_img": "/images/items/open/sparklingshirt.png"
                     },
                     {
                         "name": "Spectacles",
@@ -1325,7 +1585,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851050"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/spectacles.png",
+                        "chest_opened_img": "/images/items/open/spectacles.png"
                     },
                     {
                         "name": "Star Pendant",
@@ -1335,7 +1597,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851007"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/starpendant.png",
+                        "chest_opened_img": "/images/items/open/starpendant.png"
                     },
                     {
                         "name": "Stay-up Ring",
@@ -1345,7 +1609,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851040"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/stay-upring.png",
+                        "chest_opened_img": "/images/items/open/stay-upring.png"
                     },
                     {
                         "name": "Step-In Boots",
@@ -1355,7 +1621,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851083"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/step-inboots.png",
+                        "chest_opened_img": "/images/items/open/step-inboots.png"
                     },
                     {
                         "name": "Strange Pendant",
@@ -1365,7 +1633,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851041"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/strangependant.png",
+                        "chest_opened_img": "/images/items/open/strangependant.png"
                     },
                     {
                         "name": "Straw Hat",
@@ -1375,7 +1645,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851052"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/strawhat.png",
+                        "chest_opened_img": "/images/items/open/strawhat.png"
                     },
                     {
                         "name": "Strider Boots",
@@ -1385,7 +1657,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851086"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/striderboots.png",
+                        "chest_opened_img": "/images/items/open/striderboots.png"
                     },
                     {
                         "name": "Sun Pendant",
@@ -1395,7 +1669,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851008"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sunpendant.png",
+                        "chest_opened_img": "/images/items/open/sunpendant.png"
                     },
                     {
                         "name": "Talisman",
@@ -1405,7 +1681,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851016"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/talisman.png",
+                        "chest_opened_img": "/images/items/open/talisman.png"
                     },
                     {
                         "name": "Throwing Ring",
@@ -1415,7 +1693,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851039"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/throwingring.png",
+                        "chest_opened_img": "/images/items/open/throwingring.png"
                     },
                     {
                         "name": "Turnip Headgear",
@@ -1425,7 +1705,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851064"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/turnipheadgear.png",
+                        "chest_opened_img": "/images/items/open/turnipheadgear.png"
                     },
                     {
                         "name": "Turtle Shield",
@@ -1435,7 +1717,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850967"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/turtleshield.png",
+                        "chest_opened_img": "/images/items/open/turtleshield.png"
                     },
                     {
                         "name": "Umbrella",
@@ -1445,7 +1729,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850972"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/umbrella.png",
+                        "chest_opened_img": "/images/items/open/umbrella.png"
                     },
                     {
                         "name": "Vest",
@@ -1455,7 +1741,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851099"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/vest.png",
+                        "chest_opened_img": "/images/items/open/vest.png"
                     },
                     {
                         "name": "Water Ring",
@@ -1465,7 +1753,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850984"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/waterring.png",
+                        "chest_opened_img": "/images/items/open/waterring.png"
                     },
                     {
                         "name": "Water Shoes",
@@ -1475,7 +1765,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851091"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/watershoes.png",
+                        "chest_opened_img": "/images/items/open/watershoes.png"
                     },
                     {
                         "name": "Wet Boots",
@@ -1485,7 +1777,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851088"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/wetboots.png",
+                        "chest_opened_img": "/images/items/open/wetboots.png"
                     },
                     {
                         "name": "White Ribbon",
@@ -1495,7 +1789,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851063"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/whiteribbon.png",
+                        "chest_opened_img": "/images/items/open/whiteribbon.png"
                     },
                     {
                         "name": "Wind Cloak",
@@ -1505,7 +1801,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851107"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/windcloak.png",
+                        "chest_opened_img": "/images/items/open/windcloak.png"
                     },
                     {
                         "name": "Wind Ring",
@@ -1515,7 +1813,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850983"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/windring.png",
+                        "chest_opened_img": "/images/items/open/windring.png"
                     },
                     {
                         "name": "Witch Earrings",
@@ -1525,7 +1825,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851034"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/witchearrings.png",
+                        "chest_opened_img": "/images/items/open/witchearrings.png"
                     },
                     {
                         "name": "Wooly Shirt",
@@ -1535,7 +1837,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851100"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/woolyshirt.png",
+                        "chest_opened_img": "/images/items/open/woolyshirt.png"
                     },
                     {
                         "name": "Work Gloves",
@@ -1545,7 +1849,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851019"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/workgloves.png",
+                        "chest_opened_img": "/images/items/open/workgloves.png"
                     },
                     {
                         "name": "Yarn",
@@ -1555,7 +1861,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851184"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/yarn.png",
+                        "chest_opened_img": "/images/items/open/yarn.png"
                     },
                     {
                         "name": "Yellow Ribbon",
@@ -1565,7 +1873,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1851058"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/yellowribbon.png",
+                        "chest_opened_img": "/images/items/open/yellowribbon.png"
                     }
                 ]
             }

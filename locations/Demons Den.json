@@ -25,7 +25,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851250"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/raccoonleaf.png",
+                        "chest_opened_img": "/images/items/open/raccoonleaf.png"
                     },
                     {
                         "name": "Magic Plant Shield",
@@ -35,7 +37,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850973"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/magicplantshield.png",
+                        "chest_opened_img": "/images/items/open/magicplantshield.png"
                     },
                     {
                         "name": "Plant Sword",
@@ -45,7 +49,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850728"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/plantsword.png",
+                        "chest_opened_img": "/images/items/open/plantsword.png"
                     },
                     {
                         "name": "Dungeon Seed",
@@ -55,7 +61,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851167"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/dungeonseed.png",
+                        "chest_opened_img": "/images/items/open/dungeonseed.png"
                     },
                     {
                         "name": "Shield Seed",
@@ -65,7 +73,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851169"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/shieldseed.png",
+                        "chest_opened_img": "/images/items/open/shieldseed.png"
                     },
                     {
                         "name": "Sword Seed",
@@ -75,7 +85,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851168"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/swordseed.png",
+                        "chest_opened_img": "/images/items/open/swordseed.png"
                     }
                 ],
                 "map_locations": [
@@ -145,7 +157,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852782"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/bossmagnuto.png",
+                        "chest_opened_img": "/images/monsters/open/bossmagnuto.png"
                     }
                 ],
                 "map_locations": [

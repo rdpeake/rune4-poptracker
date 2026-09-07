@@ -34,7 +34,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850587"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/applejam.png",
+                                "chest_opened_img": "/images/items/open/applejam.png"
                             },
                             {
                                 "name": "Apple Pie",
@@ -44,7 +46,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850624"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/applepie.png",
+                                "chest_opened_img": "/images/items/open/applepie.png"
                             },
                             {
                                 "name": "Baked Onigiri",
@@ -54,7 +58,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850607"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/bakedonigiri.png",
+                                "chest_opened_img": "/images/items/open/bakedonigiri.png"
                             },
                             {
                                 "name": "Boiled Egg",
@@ -64,7 +70,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850583"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/boiledegg.png",
+                                "chest_opened_img": "/images/items/open/boiledegg.png"
                             },
                             {
                                 "name": "Boiled Gyoza",
@@ -74,7 +82,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850585"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/boiledgyoza.png",
+                                "chest_opened_img": "/images/items/open/boiledgyoza.png"
                             },
                             {
                                 "name": "Boiled Pumpkin",
@@ -84,7 +94,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850581"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/boiledpumpkin.png",
+                                "chest_opened_img": "/images/items/open/boiledpumpkin.png"
                             },
                             {
                                 "name": "Boiled Spinach",
@@ -94,7 +106,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850582"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/boiledspinach.png",
+                                "chest_opened_img": "/images/items/open/boiledspinach.png"
                             },
                             {
                                 "name": "Bread",
@@ -104,7 +118,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850663"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/bread.png",
+                                "chest_opened_img": "/images/items/open/bread.png"
                             },
                             {
                                 "name": "Butter Roll",
@@ -114,7 +130,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850611"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/butterroll.png",
+                                "chest_opened_img": "/images/items/open/butterroll.png"
                             },
                             {
                                 "name": "Cake",
@@ -124,7 +142,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850621"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/cake.png",
+                                "chest_opened_img": "/images/items/open/cake.png"
                             },
                             {
                                 "name": "Cheese Bread",
@@ -134,7 +154,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850643"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/cheesebread.png",
+                                "chest_opened_img": "/images/items/open/cheesebread.png"
                             },
                             {
                                 "name": "Cheese Fondue",
@@ -144,7 +166,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850590"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/cheesefondue.png",
+                                "chest_opened_img": "/images/items/open/cheesefondue.png"
                             },
                             {
                                 "name": "Cheesecake",
@@ -154,7 +178,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850623"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/cheesecake.png",
+                                "chest_opened_img": "/images/items/open/cheesecake.png"
                             },
                             {
                                 "name": "Chinese Manju",
@@ -164,7 +190,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850645"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/chinesemanju.png",
+                                "chest_opened_img": "/images/items/open/chinesemanju.png"
                             },
                             {
                                 "name": "Choco Cookie",
@@ -174,7 +202,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850620"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/chococookie.png",
+                                "chest_opened_img": "/images/items/open/chococookie.png"
                             },
                             {
                                 "name": "Chocolate Cake",
@@ -184,7 +214,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850622"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/chocolatecake.png",
+                                "chest_opened_img": "/images/items/open/chocolatecake.png"
                             },
                             {
                                 "name": "Chocolate Sponge",
@@ -194,7 +226,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850649"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/chocolatesponge.png",
+                                "chest_opened_img": "/images/items/open/chocolatesponge.png"
                             },
                             {
                                 "name": "Cookie",
@@ -204,7 +238,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850619"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/cookie.png",
+                                "chest_opened_img": "/images/items/open/cookie.png"
                             },
                             {
                                 "name": "Corn on the Cob",
@@ -214,7 +250,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850606"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/cornonthecob.png",
+                                "chest_opened_img": "/images/items/open/cornonthecob.png"
                             },
                             {
                                 "name": "Curry Manju",
@@ -224,7 +262,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850646"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/currymanju.png",
+                                "chest_opened_img": "/images/items/open/currymanju.png"
                             },
                             {
                                 "name": "Curry Rice",
@@ -234,7 +274,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850599"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/curryrice.png",
+                                "chest_opened_img": "/images/items/open/curryrice.png"
                             },
                             {
                                 "name": "Curry Udon",
@@ -244,7 +286,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850592"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/curryudon.png",
+                                "chest_opened_img": "/images/items/open/curryudon.png"
                             },
                             {
                                 "name": "Doria",
@@ -254,7 +298,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850614"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/doria.png",
+                                "chest_opened_img": "/images/items/open/doria.png"
                             },
                             {
                                 "name": "Dumplings",
@@ -264,7 +310,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850652"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/dumplings.png",
+                                "chest_opened_img": "/images/items/open/dumplings.png"
                             },
                             {
                                 "name": "Egg Bowl",
@@ -274,7 +322,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850597"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/eggbowl.png",
+                                "chest_opened_img": "/images/items/open/eggbowl.png"
                             },
                             {
                                 "name": "Flan",
@@ -284,7 +334,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850650"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/flan.png",
+                                "chest_opened_img": "/images/items/open/flan.png"
                             },
                             {
                                 "name": "Glazed Yam",
@@ -294,7 +346,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850584"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/glazedyam.png",
+                                "chest_opened_img": "/images/items/open/glazedyam.png"
                             },
                             {
                                 "name": "Grape Jam",
@@ -304,7 +358,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850588"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grapejam.png",
+                                "chest_opened_img": "/images/items/open/grapejam.png"
                             },
                             {
                                 "name": "Grape Liqueur",
@@ -314,7 +370,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850580"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grapeliqueur.png",
+                                "chest_opened_img": "/images/items/open/grapeliqueur.png"
                             },
                             {
                                 "name": "Gratin",
@@ -324,7 +382,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850616"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/gratin.png",
+                                "chest_opened_img": "/images/items/open/gratin.png"
                             },
                             {
                                 "name": "Grilled Miso",
@@ -334,7 +394,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850603"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledmiso.png",
+                                "chest_opened_img": "/images/items/open/grilledmiso.png"
                             },
                             {
                                 "name": "Hot Chocolate",
@@ -344,7 +406,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850579"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/hotchocolate.png",
+                                "chest_opened_img": "/images/items/open/hotchocolate.png"
                             },
                             {
                                 "name": "Hot Milk",
@@ -354,7 +418,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850578"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/hotmilk.png",
+                                "chest_opened_img": "/images/items/open/hotmilk.png"
                             },
                             {
                                 "name": "Jam Roll",
@@ -364,7 +430,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850610"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/jamroll.png",
+                                "chest_opened_img": "/images/items/open/jamroll.png"
                             },
                             {
                                 "name": "Marmalade",
@@ -374,7 +442,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850589"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/marmalade.png",
+                                "chest_opened_img": "/images/items/open/marmalade.png"
                             },
                             {
                                 "name": "Meat Dumpling",
@@ -384,7 +454,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850644"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/meatdumpling.png",
+                                "chest_opened_img": "/images/items/open/meatdumpling.png"
                             },
                             {
                                 "name": "Milk Porridge",
@@ -394,7 +466,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850595"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/milkporridge.png",
+                                "chest_opened_img": "/images/items/open/milkporridge.png"
                             },
                             {
                                 "name": "Pizza",
@@ -404,7 +478,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850612"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/pizza.png",
+                                "chest_opened_img": "/images/items/open/pizza.png"
                             },
                             {
                                 "name": "Pound Cake",
@@ -414,7 +490,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850648"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/poundcake.png",
+                                "chest_opened_img": "/images/items/open/poundcake.png"
                             },
                             {
                                 "name": "Pumpkin Flan",
@@ -424,7 +502,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850651"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/pumpkinflan.png",
+                                "chest_opened_img": "/images/items/open/pumpkinflan.png"
                             },
                             {
                                 "name": "Raisin Bread",
@@ -434,7 +514,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850659"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/raisinbread.png",
+                                "chest_opened_img": "/images/items/open/raisinbread.png"
                             },
                             {
                                 "name": "Relax Tea",
@@ -444,7 +526,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850602"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/relaxtea.png",
+                                "chest_opened_img": "/images/items/open/relaxtea.png"
                             },
                             {
                                 "name": "Rice Porridge",
@@ -454,7 +538,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850594"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/riceporridge.png",
+                                "chest_opened_img": "/images/items/open/riceporridge.png"
                             },
                             {
                                 "name": "Rockfish Stew",
@@ -464,7 +550,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850605"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/rockfishstew.png",
+                                "chest_opened_img": "/images/items/open/rockfishstew.png"
                             },
                             {
                                 "name": "Royal Curry",
@@ -474,7 +562,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850601"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/royalcurry.png",
+                                "chest_opened_img": "/images/items/open/royalcurry.png"
                             },
                             {
                                 "name": "Seafood Doria",
@@ -484,7 +574,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850615"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/seafooddoria.png",
+                                "chest_opened_img": "/images/items/open/seafooddoria.png"
                             },
                             {
                                 "name": "Seafood Gratin",
@@ -494,7 +586,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850617"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/seafoodgratin.png",
+                                "chest_opened_img": "/images/items/open/seafoodgratin.png"
                             },
                             {
                                 "name": "Seafood Pizza",
@@ -504,7 +598,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850613"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/seafoodpizza.png",
+                                "chest_opened_img": "/images/items/open/seafoodpizza.png"
                             },
                             {
                                 "name": "Steamed Bread",
@@ -514,7 +610,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850642"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/steamedbread.png",
+                                "chest_opened_img": "/images/items/open/steamedbread.png"
                             },
                             {
                                 "name": "Steamed Gyoza",
@@ -524,7 +622,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850647"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/steamedgyoza.png",
+                                "chest_opened_img": "/images/items/open/steamedgyoza.png"
                             },
                             {
                                 "name": "Stew",
@@ -534,7 +634,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850598"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/stew.png",
+                                "chest_opened_img": "/images/items/open/stew.png"
                             },
                             {
                                 "name": "Strawberry Jam",
@@ -544,7 +646,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850586"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/strawberryjam.png",
+                                "chest_opened_img": "/images/items/open/strawberryjam.png"
                             },
                             {
                                 "name": "Sweet Potato",
@@ -554,7 +658,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850608"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/sweetpotato.png",
+                                "chest_opened_img": "/images/items/open/sweetpotato.png"
                             },
                             {
                                 "name": "Tempura Bowl",
@@ -564,7 +670,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850596"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/tempurabowl.png",
+                                "chest_opened_img": "/images/items/open/tempurabowl.png"
                             },
                             {
                                 "name": "Tempura Udon",
@@ -574,7 +682,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850593"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/tempuraudon.png",
+                                "chest_opened_img": "/images/items/open/tempuraudon.png"
                             },
                             {
                                 "name": "Toast",
@@ -584,7 +694,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850609"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/toast.png",
+                                "chest_opened_img": "/images/items/open/toast.png"
                             },
                             {
                                 "name": "Udon",
@@ -594,7 +706,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850591"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/udon.png",
+                                "chest_opened_img": "/images/items/open/udon.png"
                             },
                             {
                                 "name": "Ultimate Curry",
@@ -604,7 +718,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850600"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/ultimatecurry.png",
+                                "chest_opened_img": "/images/items/open/ultimatecurry.png"
                             },
                             {
                                 "name": "Union Stew",
@@ -614,7 +730,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850604"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/unionstew.png",
+                                "chest_opened_img": "/images/items/open/unionstew.png"
                             },
                             {
                                 "name": "Yam of the Ages",
@@ -624,7 +742,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850618"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/yamoftheages.png",
+                                "chest_opened_img": "/images/items/open/yamoftheages.png"
                             },
                             {
                                 "name": "Yogurt",
@@ -634,7 +754,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850679"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/yogurt.png",
+                                "chest_opened_img": "/images/items/open/yogurt.png"
                             }
                         ]
                     }
@@ -666,7 +788,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850629"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/applejuice.png",
+                                "chest_opened_img": "/images/items/open/applejuice.png"
                             },
                             {
                                 "name": "Baked Apple",
@@ -676,7 +800,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850537"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/bakedapple.png",
+                                "chest_opened_img": "/images/items/open/bakedapple.png"
                             },
                             {
                                 "name": "Blowfish Sashimi",
@@ -686,7 +812,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850523"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/blowfishsashimi.png",
+                                "chest_opened_img": "/images/items/open/blowfishsashimi.png"
                             },
                             {
                                 "name": "Butter",
@@ -696,7 +824,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850638"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/butter.png",
+                                "chest_opened_img": "/images/items/open/butter.png"
                             },
                             {
                                 "name": "Cabbage Cakes",
@@ -706,7 +836,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850528"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/cabbagecakes.png",
+                                "chest_opened_img": "/images/items/open/cabbagecakes.png"
                             },
                             {
                                 "name": "Char Sashimi",
@@ -716,7 +848,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850502"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/charsashimi.png",
+                                "chest_opened_img": "/images/items/open/charsashimi.png"
                             },
                             {
                                 "name": "Cherry Sashimi",
@@ -726,7 +860,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850505"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/cherrysashimi.png",
+                                "chest_opened_img": "/images/items/open/cherrysashimi.png"
                             },
                             {
                                 "name": "Corn Cereal",
@@ -736,7 +872,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850532"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/corncereal.png",
+                                "chest_opened_img": "/images/items/open/corncereal.png"
                             },
                             {
                                 "name": "Croquettes",
@@ -746,7 +884,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850530"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/croquettes.png",
+                                "chest_opened_img": "/images/items/open/croquettes.png"
                             },
                             {
                                 "name": "Curry Bread",
@@ -756,7 +896,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850538"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/currybread.png",
+                                "chest_opened_img": "/images/items/open/currybread.png"
                             },
                             {
                                 "name": "Disastrous Dish",
@@ -766,7 +908,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850500"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/disastrousdish.png",
+                                "chest_opened_img": "/images/items/open/disastrousdish.png"
                             },
                             {
                                 "name": "Donut",
@@ -776,7 +920,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850540"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/donut.png",
+                                "chest_opened_img": "/images/items/open/donut.png"
                             },
                             {
                                 "name": "Dried Sardines",
@@ -786,7 +932,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850565"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/driedsardines.png",
+                                "chest_opened_img": "/images/items/open/driedsardines.png"
                             },
                             {
                                 "name": "Dry Curry",
@@ -796,7 +944,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850546"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/drycurry.png",
+                                "chest_opened_img": "/images/items/open/drycurry.png"
                             },
                             {
                                 "name": "Failed Dish",
@@ -806,7 +956,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850499"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/faileddish.png",
+                                "chest_opened_img": "/images/items/open/faileddish.png"
                             },
                             {
                                 "name": "Fall Sashimi",
@@ -816,7 +968,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850519"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/fallsashimi.png",
+                                "chest_opened_img": "/images/items/open/fallsashimi.png"
                             },
                             {
                                 "name": "Flounder Sashimi",
@@ -826,7 +980,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850517"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/floundersashimi.png",
+                                "chest_opened_img": "/images/items/open/floundersashimi.png"
                             },
                             {
                                 "name": "French Fries",
@@ -836,7 +992,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850529"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/frenchfries.png",
+                                "chest_opened_img": "/images/items/open/frenchfries.png"
                             },
                             {
                                 "name": "French Toast",
@@ -846,7 +1004,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850539"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/frenchtoast.png",
+                                "chest_opened_img": "/images/items/open/frenchtoast.png"
                             },
                             {
                                 "name": "Fried Eggs",
@@ -856,7 +1016,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850534"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/friedeggs.png",
+                                "chest_opened_img": "/images/items/open/friedeggs.png"
                             },
                             {
                                 "name": "Fried Rice",
@@ -866,7 +1028,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850527"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/friedrice.png",
+                                "chest_opened_img": "/images/items/open/friedrice.png"
                             },
                             {
                                 "name": "Fried Udon",
@@ -876,7 +1040,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850541"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/friedudon.png",
+                                "chest_opened_img": "/images/items/open/friedudon.png"
                             },
                             {
                                 "name": "Fried Veggies",
@@ -886,7 +1052,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850526"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/friedveggies.png",
+                                "chest_opened_img": "/images/items/open/friedveggies.png"
                             },
                             {
                                 "name": "Fruit Juice",
@@ -896,7 +1064,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850631"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/fruitjuice.png",
+                                "chest_opened_img": "/images/items/open/fruitjuice.png"
                             },
                             {
                                 "name": "Fruit Smoothie",
@@ -906,7 +1076,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850632"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/fruitsmoothie.png",
+                                "chest_opened_img": "/images/items/open/fruitsmoothie.png"
                             },
                             {
                                 "name": "Girella Sashimi",
@@ -916,7 +1088,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850510"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/girellasashimi.png",
+                                "chest_opened_img": "/images/items/open/girellasashimi.png"
                             },
                             {
                                 "name": "Glitter Sashimi",
@@ -926,7 +1100,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850508"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/glittersashimi.png",
+                                "chest_opened_img": "/images/items/open/glittersashimi.png"
                             },
                             {
                                 "name": "Gold Juice",
@@ -936,7 +1112,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850639"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/goldjuice.png",
+                                "chest_opened_img": "/images/items/open/goldjuice.png"
                             },
                             {
                                 "name": "Grape Juice",
@@ -946,7 +1124,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850627"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grapejuice.png",
+                                "chest_opened_img": "/images/items/open/grapejuice.png"
                             },
                             {
                                 "name": "Grilled Blowfish",
@@ -956,7 +1136,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850574"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledblowfish.png",
+                                "chest_opened_img": "/images/items/open/grilledblowfish.png"
                             },
                             {
                                 "name": "Grilled C. Carp",
@@ -966,7 +1148,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850554"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledc.carp.png",
+                                "chest_opened_img": "/images/items/open/grilledc.carp.png"
                             },
                             {
                                 "name": "Grilled F.Flounder",
@@ -976,7 +1160,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850570"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledf.flounder.png",
+                                "chest_opened_img": "/images/items/open/grilledf.flounder.png"
                             },
                             {
                                 "name": "Grilled Flounder",
@@ -986,7 +1172,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850568"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledflounder.png",
+                                "chest_opened_img": "/images/items/open/grilledflounder.png"
                             },
                             {
                                 "name": "Grilled G. Snapper",
@@ -996,7 +1184,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850558"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledg.snapper.png",
+                                "chest_opened_img": "/images/items/open/grilledg.snapper.png"
                             },
                             {
                                 "name": "Grilled Gibelio",
@@ -1006,7 +1196,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850555"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledgibelio.png",
+                                "chest_opened_img": "/images/items/open/grilledgibelio.png"
                             },
                             {
                                 "name": "Grilled Girella",
@@ -1016,7 +1208,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850557"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledgirella.png",
+                                "chest_opened_img": "/images/items/open/grilledgirella.png"
                             },
                             {
                                 "name": "Grilled L. Snapper",
@@ -1026,7 +1220,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850559"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledl.snapper.png",
+                                "chest_opened_img": "/images/items/open/grilledl.snapper.png"
                             },
                             {
                                 "name": "Grilled Lamp Squid",
@@ -1036,7 +1232,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850573"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledlampsquid.png",
+                                "chest_opened_img": "/images/items/open/grilledlampsquid.png"
                             },
                             {
                                 "name": "Grilled Lobster",
@@ -1046,7 +1244,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850575"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledlobster.png",
+                                "chest_opened_img": "/images/items/open/grilledlobster.png"
                             },
                             {
                                 "name": "Grilled Mackerel",
@@ -1056,7 +1256,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850561"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledmackerel.png",
+                                "chest_opened_img": "/images/items/open/grilledmackerel.png"
                             },
                             {
                                 "name": "Grilled Needlefish",
@@ -1066,7 +1268,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850566"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledneedlefish.png",
+                                "chest_opened_img": "/images/items/open/grilledneedlefish.png"
                             },
                             {
                                 "name": "Grilled S.Flounder",
@@ -1076,7 +1280,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850577"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilleds.flounder.png",
+                                "chest_opened_img": "/images/items/open/grilleds.flounder.png"
                             },
                             {
                                 "name": "Grilled Shrimp",
@@ -1086,7 +1292,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850576"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledshrimp.png",
+                                "chest_opened_img": "/images/items/open/grilledshrimp.png"
                             },
                             {
                                 "name": "Grilled Skipjack",
@@ -1096,7 +1304,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850560"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledskipjack.png",
+                                "chest_opened_img": "/images/items/open/grilledskipjack.png"
                             },
                             {
                                 "name": "Grilled Snapper",
@@ -1106,7 +1316,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850556"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledsnapper.png",
+                                "chest_opened_img": "/images/items/open/grilledsnapper.png"
                             },
                             {
                                 "name": "Grilled Squid",
@@ -1116,7 +1328,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850571"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledsquid.png",
+                                "chest_opened_img": "/images/items/open/grilledsquid.png"
                             },
                             {
                                 "name": "Grilled Sunsquid",
@@ -1126,7 +1340,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850572"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledsunsquid.png",
+                                "chest_opened_img": "/images/items/open/grilledsunsquid.png"
                             },
                             {
                                 "name": "Grilled Turbot",
@@ -1136,7 +1352,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850569"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledturbot.png",
+                                "chest_opened_img": "/images/items/open/grilledturbot.png"
                             },
                             {
                                 "name": "Grilled Yellowtail",
@@ -1146,7 +1364,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850562"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/grilledyellowtail.png",
+                                "chest_opened_img": "/images/items/open/grilledyellowtail.png"
                             },
                             {
                                 "name": "Gyoza",
@@ -1156,7 +1376,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850544"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/gyoza.png",
+                                "chest_opened_img": "/images/items/open/gyoza.png"
                             },
                             {
                                 "name": "Hot Juice",
@@ -1166,7 +1388,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850641"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/hotjuice.png",
+                                "chest_opened_img": "/images/items/open/hotjuice.png"
                             },
                             {
                                 "name": "Ice Cream",
@@ -1176,7 +1400,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850660"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/icecream.png",
+                                "chest_opened_img": "/images/items/open/icecream.png"
                             },
                             {
                                 "name": "Ketchup",
@@ -1186,7 +1412,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850637"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/ketchup.png",
+                                "chest_opened_img": "/images/items/open/ketchup.png"
                             },
                             {
                                 "name": "Lamp Squid Sashimi",
@@ -1196,7 +1424,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850522"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/lampsquidsashimi.png",
+                                "chest_opened_img": "/images/items/open/lampsquidsashimi.png"
                             },
                             {
                                 "name": "Lobster Sashimi",
@@ -1206,7 +1436,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850524"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/lobstersashimi.png",
+                                "chest_opened_img": "/images/items/open/lobstersashimi.png"
                             },
                             {
                                 "name": "Lover Sashimi",
@@ -1216,7 +1448,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850509"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/loversashimi.png",
+                                "chest_opened_img": "/images/items/open/loversashimi.png"
                             },
                             {
                                 "name": "Mayonnaise",
@@ -1226,7 +1460,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850677"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/mayonnaise.png",
+                                "chest_opened_img": "/images/items/open/mayonnaise.png"
                             },
                             {
                                 "name": "Miso Eggplant",
@@ -1236,7 +1472,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850533"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/misoeggplant.png",
+                                "chest_opened_img": "/images/items/open/misoeggplant.png"
                             },
                             {
                                 "name": "Mixed Juice",
@@ -1246,7 +1484,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850635"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/mixedjuice.png",
+                                "chest_opened_img": "/images/items/open/mixedjuice.png"
                             },
                             {
                                 "name": "Mixed Smoothie",
@@ -1256,7 +1496,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850636"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/mixedsmoothie.png",
+                                "chest_opened_img": "/images/items/open/mixedsmoothie.png"
                             },
                             {
                                 "name": "Needlefish Sashimi",
@@ -1266,7 +1508,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850515"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/needlefishsashimi.png",
+                                "chest_opened_img": "/images/items/open/needlefishsashimi.png"
                             },
                             {
                                 "name": "Omelet",
@@ -1276,7 +1520,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850535"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/omelet.png",
+                                "chest_opened_img": "/images/items/open/omelet.png"
                             },
                             {
                                 "name": "Omelet Rice",
@@ -1286,7 +1532,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850536"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/omeletrice.png",
+                                "chest_opened_img": "/images/items/open/omeletrice.png"
                             },
                             {
                                 "name": "Orange Juice",
@@ -1296,7 +1544,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850628"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/orangejuice.png",
+                                "chest_opened_img": "/images/items/open/orangejuice.png"
                             },
                             {
                                 "name": "Pancakes",
@@ -1306,7 +1556,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850543"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/pancakes.png",
+                                "chest_opened_img": "/images/items/open/pancakes.png"
                             },
                             {
                                 "name": "Pike Sashimi",
@@ -1316,7 +1568,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850516"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/pikesashimi.png",
+                                "chest_opened_img": "/images/items/open/pikesashimi.png"
                             },
                             {
                                 "name": "Pineapple Juice",
@@ -1326,7 +1580,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850625"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/pineapplejuice.png",
+                                "chest_opened_img": "/images/items/open/pineapplejuice.png"
                             },
                             {
                                 "name": "Popcorn",
@@ -1336,7 +1592,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850531"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/popcorn.png",
+                                "chest_opened_img": "/images/items/open/popcorn.png"
                             },
                             {
                                 "name": "Prelude to Love",
@@ -1346,7 +1604,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850640"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/preludetolove.png",
+                                "chest_opened_img": "/images/items/open/preludetolove.png"
                             },
                             {
                                 "name": "Rainbow Sashimi",
@@ -1356,7 +1616,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850503"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/rainbowsashimi.png",
+                                "chest_opened_img": "/images/items/open/rainbowsashimi.png"
                             },
                             {
                                 "name": "Risotto",
@@ -1366,7 +1628,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850545"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/risotto.png",
+                                "chest_opened_img": "/images/items/open/risotto.png"
                             },
                             {
                                 "name": "Salmon Sashimi",
@@ -1376,7 +1640,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850504"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/salmonsashimi.png",
+                                "chest_opened_img": "/images/items/open/salmonsashimi.png"
                             },
                             {
                                 "name": "Salted C. Salmon",
@@ -1386,7 +1652,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850550"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/saltedc.salmon.png",
+                                "chest_opened_img": "/images/items/open/saltedc.salmon.png"
                             },
                             {
                                 "name": "Salted Char",
@@ -1396,7 +1664,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850548"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/saltedchar.png",
+                                "chest_opened_img": "/images/items/open/saltedchar.png"
                             },
                             {
                                 "name": "Salted Chub",
@@ -1406,7 +1676,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850551"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/saltedchub.png",
+                                "chest_opened_img": "/images/items/open/saltedchub.png"
                             },
                             {
                                 "name": "Salted Masu Trout",
@@ -1416,7 +1688,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850547"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/saltedmasutrout.png",
+                                "chest_opened_img": "/images/items/open/saltedmasutrout.png"
                             },
                             {
                                 "name": "Salted Pike",
@@ -1426,7 +1700,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850567"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/saltedpike.png",
+                                "chest_opened_img": "/images/items/open/saltedpike.png"
                             },
                             {
                                 "name": "Salted Pond Smelt",
@@ -1436,7 +1712,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850563"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/saltedpondsmelt.png",
+                                "chest_opened_img": "/images/items/open/saltedpondsmelt.png"
                             },
                             {
                                 "name": "Salted R. Trout",
@@ -1446,7 +1724,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850549"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/saltedr.trout.png",
+                                "chest_opened_img": "/images/items/open/saltedr.trout.png"
                             },
                             {
                                 "name": "Salted Salmon",
@@ -1456,7 +1736,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850552"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/saltedsalmon.png",
+                                "chest_opened_img": "/images/items/open/saltedsalmon.png"
                             },
                             {
                                 "name": "Salted Taimen",
@@ -1466,7 +1748,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850553"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/saltedtaimen.png",
+                                "chest_opened_img": "/images/items/open/saltedtaimen.png"
                             },
                             {
                                 "name": "Sardine Sashimi",
@@ -1476,7 +1760,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850514"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/sardinesashimi.png",
+                                "chest_opened_img": "/images/items/open/sardinesashimi.png"
                             },
                             {
                                 "name": "Shrimp Sashimi",
@@ -1486,7 +1772,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850525"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/shrimpsashimi.png",
+                                "chest_opened_img": "/images/items/open/shrimpsashimi.png"
                             },
                             {
                                 "name": "Skipjack Sashimi",
@@ -1496,7 +1784,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850511"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/skipjacksashimi.png",
+                                "chest_opened_img": "/images/items/open/skipjacksashimi.png"
                             },
                             {
                                 "name": "Snapper Sashimi",
@@ -1506,7 +1796,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850507"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/snappersashimi.png",
+                                "chest_opened_img": "/images/items/open/snappersashimi.png"
                             },
                             {
                                 "name": "Squid Sashimi",
@@ -1516,7 +1808,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850520"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/squidsashimi.png",
+                                "chest_opened_img": "/images/items/open/squidsashimi.png"
                             },
                             {
                                 "name": "Strawberry Milk",
@@ -1526,7 +1820,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850630"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/strawberrymilk.png",
+                                "chest_opened_img": "/images/items/open/strawberrymilk.png"
                             },
                             {
                                 "name": "Sunsquid Sashimi",
@@ -1536,7 +1832,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850521"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/sunsquidsashimi.png",
+                                "chest_opened_img": "/images/items/open/sunsquidsashimi.png"
                             },
                             {
                                 "name": "Taimen Sashimi",
@@ -1546,7 +1844,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850506"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/taimensashimi.png",
+                                "chest_opened_img": "/images/items/open/taimensashimi.png"
                             },
                             {
                                 "name": "Tempura",
@@ -1556,7 +1856,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850542"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/tempura.png",
+                                "chest_opened_img": "/images/items/open/tempura.png"
                             },
                             {
                                 "name": "Tomato Juice",
@@ -1566,7 +1868,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850626"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/tomatojuice.png",
+                                "chest_opened_img": "/images/items/open/tomatojuice.png"
                             },
                             {
                                 "name": "Trout Sashimi",
@@ -1576,7 +1880,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850501"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/troutsashimi.png",
+                                "chest_opened_img": "/images/items/open/troutsashimi.png"
                             },
                             {
                                 "name": "Tuna Sashimi",
@@ -1586,7 +1892,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850513"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/tunasashimi.png",
+                                "chest_opened_img": "/images/items/open/tunasashimi.png"
                             },
                             {
                                 "name": "Tuna Teriyaki",
@@ -1596,7 +1904,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850564"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/tunateriyaki.png",
+                                "chest_opened_img": "/images/items/open/tunateriyaki.png"
                             },
                             {
                                 "name": "Turbot Sashimi",
@@ -1606,7 +1916,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850518"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/turbotsashimi.png",
+                                "chest_opened_img": "/images/items/open/turbotsashimi.png"
                             },
                             {
                                 "name": "Vegetable Juice",
@@ -1616,7 +1928,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850633"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/vegetablejuice.png",
+                                "chest_opened_img": "/images/items/open/vegetablejuice.png"
                             },
                             {
                                 "name": "Veggie Smoothie",
@@ -1626,7 +1940,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850634"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/veggiesmoothie.png",
+                                "chest_opened_img": "/images/items/open/veggiesmoothie.png"
                             },
                             {
                                 "name": "Yellowtail Sashimi",
@@ -1636,7 +1952,9 @@
                                 "visibility_rules": [
                                     "opt_dishsanity,$RF4Visible|1850512"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/yellowtailsashimi.png",
+                                "chest_opened_img": "/images/items/open/yellowtailsashimi.png"
                             }
                         ]
                     }
@@ -1659,7 +1977,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850658"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bamboorice.png",
+                        "chest_opened_img": "/images/items/open/bamboorice.png"
                     },
                     {
                         "name": "Cheese",
@@ -1669,7 +1989,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850678"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cheese.png",
+                        "chest_opened_img": "/images/items/open/cheese.png"
                     },
                     {
                         "name": "Fruit Sandwich",
@@ -1679,7 +2001,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850655"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fruitsandwich.png",
+                        "chest_opened_img": "/images/items/open/fruitsandwich.png"
                     },
                     {
                         "name": "Onigiri",
@@ -1689,7 +2013,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850662"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/onigiri.png",
+                        "chest_opened_img": "/images/items/open/onigiri.png"
                     },
                     {
                         "name": "Pickle Mix",
@@ -1699,7 +2025,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850665"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/picklemix.png",
+                        "chest_opened_img": "/images/items/open/picklemix.png"
                     },
                     {
                         "name": "Pickled Turnip",
@@ -1709,7 +2037,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850656"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pickledturnip.png",
+                        "chest_opened_img": "/images/items/open/pickledturnip.png"
                     },
                     {
                         "name": "Pickles",
@@ -1719,7 +2049,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850657"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pickles.png",
+                        "chest_opened_img": "/images/items/open/pickles.png"
                     },
                     {
                         "name": "Relax Tea Leaves",
@@ -1729,7 +2061,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850661"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/relaxtealeaves.png",
+                        "chest_opened_img": "/images/items/open/relaxtealeaves.png"
                     },
                     {
                         "name": "Salad",
@@ -1739,7 +2073,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850653"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/salad.png",
+                        "chest_opened_img": "/images/items/open/salad.png"
                     },
                     {
                         "name": "Salmon Onigiri",
@@ -1749,7 +2085,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850664"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/salmononigiri.png",
+                        "chest_opened_img": "/images/items/open/salmononigiri.png"
                     },
                     {
                         "name": "Sandwich",
@@ -1759,7 +2097,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850654"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sandwich.png",
+                        "chest_opened_img": "/images/items/open/sandwich.png"
                     },
                     {
                         "name": "Turnip Heaven",
@@ -1769,7 +2109,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850666"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/turnipheaven.png",
+                        "chest_opened_img": "/images/items/open/turnipheaven.png"
                     }
                 ]
             }

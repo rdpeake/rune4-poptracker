@@ -25,7 +25,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850691"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/accessorybread.png",
+                        "chest_opened_img": "/images/items/open/accessorybread.png"
                     },
                     {
                         "name": "Cooking Bread",
@@ -35,7 +37,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850687"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cookingbread.png",
+                        "chest_opened_img": "/images/items/open/cookingbread.png"
                     },
                     {
                         "name": "Farming Bread",
@@ -45,7 +49,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850693"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/farmingbread.png",
+                        "chest_opened_img": "/images/items/open/farmingbread.png"
                     },
                     {
                         "name": "Medicine Bread",
@@ -55,7 +61,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850685"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/medicinebread.png",
+                        "chest_opened_img": "/images/items/open/medicinebread.png"
                     },
                     {
                         "name": "Weapon Bread",
@@ -65,7 +73,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850689"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/weaponbread.png",
+                        "chest_opened_img": "/images/items/open/weaponbread.png"
                     },
                     {
                         "name": "Turnip",
@@ -75,7 +85,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1850396"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/turnip.png",
+                        "chest_opened_img": "/images/items/open/turnip.png"
                     },
                     {
                         "name": "4-Leaf Clover",
@@ -85,7 +97,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850461"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/4-leafclover.png",
+                        "chest_opened_img": "/images/items/open/4-leafclover.png"
                     },
                     {
                         "name": "Autumn Grass",
@@ -95,7 +109,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850469"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/autumngrass.png",
+                        "chest_opened_img": "/images/items/open/autumngrass.png"
                     },
                     {
                         "name": "Bok Choy",
@@ -105,7 +121,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850402"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bokchoy.png",
+                        "chest_opened_img": "/images/items/open/bokchoy.png"
                     },
                     {
                         "name": "Cabbage",
@@ -115,7 +133,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850368"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cabbage.png",
+                        "chest_opened_img": "/images/items/open/cabbage.png"
                     },
                     {
                         "name": "Carrot",
@@ -125,7 +145,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850390"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/carrot.png",
+                        "chest_opened_img": "/images/items/open/carrot.png"
                     },
                     {
                         "name": "Charm Blue",
@@ -135,7 +157,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850436"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/charmblue.png",
+                        "chest_opened_img": "/images/items/open/charmblue.png"
                     },
                     {
                         "name": "Cherry Grass",
@@ -145,7 +169,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850451"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cherrygrass.png",
+                        "chest_opened_img": "/images/items/open/cherrygrass.png"
                     },
                     {
                         "name": "Corn",
@@ -155,7 +181,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850380"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/corn.png",
+                        "chest_opened_img": "/images/items/open/corn.png"
                     },
                     {
                         "name": "Cucumber",
@@ -165,7 +193,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850378"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cucumber.png",
+                        "chest_opened_img": "/images/items/open/cucumber.png"
                     },
                     {
                         "name": "Eggplant",
@@ -175,7 +205,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850384"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/eggplant.png",
+                        "chest_opened_img": "/images/items/open/eggplant.png"
                     },
                     {
                         "name": "Emery Flower",
@@ -185,7 +217,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850457"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/emeryflower.png",
+                        "chest_opened_img": "/images/items/open/emeryflower.png"
                     },
                     {
                         "name": "Fireflower",
@@ -195,7 +229,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850463"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fireflower.png",
+                        "chest_opened_img": "/images/items/open/fireflower.png"
                     },
                     {
                         "name": "Green Pepper",
@@ -205,7 +241,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850392"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/greenpepper.png",
+                        "chest_opened_img": "/images/items/open/greenpepper.png"
                     },
                     {
                         "name": "Hot-Hot Fruit",
@@ -215,7 +253,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850404"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/hot-hotfruit.png",
+                        "chest_opened_img": "/images/items/open/hot-hotfruit.png"
                     },
                     {
                         "name": "Ironleaf",
@@ -225,7 +265,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850459"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ironleaf.png",
+                        "chest_opened_img": "/images/items/open/ironleaf.png"
                     },
                     {
                         "name": "Lamp Grass",
@@ -235,7 +277,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850453"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/lampgrass.png",
+                        "chest_opened_img": "/images/items/open/lampgrass.png"
                     },
                     {
                         "name": "Moondrop Flower",
@@ -245,7 +289,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850432"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/moondropflower.png",
+                        "chest_opened_img": "/images/items/open/moondropflower.png"
                     },
                     {
                         "name": "Noel Grass",
@@ -255,7 +301,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850467"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/noelgrass.png",
+                        "chest_opened_img": "/images/items/open/noelgrass.png"
                     },
                     {
                         "name": "Onion",
@@ -265,7 +313,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850374"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/onion.png",
+                        "chest_opened_img": "/images/items/open/onion.png"
                     },
                     {
                         "name": "Pineapple",
@@ -275,7 +325,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850424"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pineapple.png",
+                        "chest_opened_img": "/images/items/open/pineapple.png"
                     },
                     {
                         "name": "Pink Cat",
@@ -285,7 +337,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850434"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pinkcat.png",
+                        "chest_opened_img": "/images/items/open/pinkcat.png"
                     },
                     {
                         "name": "Pink Melon",
@@ -295,7 +349,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850372"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pinkmelon.png",
+                        "chest_opened_img": "/images/items/open/pinkmelon.png"
                     },
                     {
                         "name": "Pink Turnip",
@@ -305,7 +361,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850370"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pinkturnip.png",
+                        "chest_opened_img": "/images/items/open/pinkturnip.png"
                     },
                     {
                         "name": "Pom-Pom Grass",
@@ -315,7 +373,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850471"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pom-pomgrass.png",
+                        "chest_opened_img": "/images/items/open/pom-pomgrass.png"
                     },
                     {
                         "name": "Potato",
@@ -325,7 +385,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850388"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/potato.png",
+                        "chest_opened_img": "/images/items/open/potato.png"
                     },
                     {
                         "name": "Pumpkin",
@@ -335,7 +397,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850376"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pumpkin.png",
+                        "chest_opened_img": "/images/items/open/pumpkin.png"
                     },
                     {
                         "name": "Radish",
@@ -345,7 +409,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850398"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/radish.png",
+                        "chest_opened_img": "/images/items/open/radish.png"
                     },
                     {
                         "name": "Spinach",
@@ -355,7 +421,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850394"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/spinach.png",
+                        "chest_opened_img": "/images/items/open/spinach.png"
                     },
                     {
                         "name": "Strawberry",
@@ -365,7 +433,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850422"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/strawberry.png",
+                        "chest_opened_img": "/images/items/open/strawberry.png"
                     },
                     {
                         "name": "Tomato",
@@ -375,7 +445,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850382"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/tomato.png",
+                        "chest_opened_img": "/images/items/open/tomato.png"
                     },
                     {
                         "name": "Toyherb",
@@ -385,7 +457,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850430"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/toyherb.png",
+                        "chest_opened_img": "/images/items/open/toyherb.png"
                     },
                     {
                         "name": "Yam",
@@ -395,7 +469,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850386"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/yam.png",
+                        "chest_opened_img": "/images/items/open/yam.png"
                     },
                     {
                         "name": "Boot",
@@ -405,7 +481,9 @@
                         "visibility_rules": [
                             "opt_fishsanity,$RF4Visible|1851385"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/boot.png",
+                        "chest_opened_img": "/images/items/open/boot.png"
                     },
                     {
                         "name": "Can",
@@ -415,7 +493,9 @@
                         "visibility_rules": [
                             "opt_fishsanity,$RF4Visible|1851384"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/can.png",
+                        "chest_opened_img": "/images/items/open/can.png"
                     },
                     {
                         "name": "Scrap Metal+",
@@ -425,7 +505,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1851304"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/scrapmetal+.png",
+                        "chest_opened_img": "/images/items/open/scrapmetal+.png"
                     },
                     {
                         "name": "Gldn. Doom Pumpkin",
@@ -435,7 +517,9 @@
                         "visibility_rules": [
                             "opt_goldcropsanity,$RF4Visible|1850410"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/gldn.doompumpkin.png",
+                        "chest_opened_img": "/images/items/open/gldn.doompumpkin.png"
                     },
                     {
                         "name": "Golden Pumpkin",
@@ -445,7 +529,9 @@
                         "visibility_rules": [
                             "opt_goldcropsanity,$RF4Visible|1850409"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/goldenpumpkin.png",
+                        "chest_opened_img": "/images/items/open/goldenpumpkin.png"
                     },
                     {
                         "name": "Antidote Grass",
@@ -455,7 +541,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850439"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/antidotegrass.png",
+                        "chest_opened_img": "/images/items/open/antidotegrass.png"
                     },
                     {
                         "name": "Fodder",
@@ -465,7 +553,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851180"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fodder.png",
+                        "chest_opened_img": "/images/items/open/fodder.png"
                     },
                     {
                         "name": "Medicinal Herb",
@@ -475,7 +565,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850438"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/medicinalherb.png",
+                        "chest_opened_img": "/images/items/open/medicinalherb.png"
                     },
                     {
                         "name": "Weeds",
@@ -485,7 +577,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850449"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/weeds.png",
+                        "chest_opened_img": "/images/items/open/weeds.png"
                     },
                     {
                         "name": "Withered Grass",
@@ -495,7 +589,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850450"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/witheredgrass.png",
+                        "chest_opened_img": "/images/items/open/witheredgrass.png"
                     },
                     {
                         "name": "Chocolate",
@@ -505,7 +601,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850668"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/chocolate.png",
+                        "chest_opened_img": "/images/items/open/chocolate.png"
                     },
                     {
                         "name": "Curry Powder",
@@ -515,7 +613,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850683"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/currypowder.png",
+                        "chest_opened_img": "/images/items/open/currypowder.png"
                     },
                     {
                         "name": "Elli Leaves",
@@ -525,7 +625,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850670"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ellileaves.png",
+                        "chest_opened_img": "/images/items/open/ellileaves.png"
                     },
                     {
                         "name": "Flour",
@@ -535,7 +637,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850681"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/flour.png",
+                        "chest_opened_img": "/images/items/open/flour.png"
                     },
                     {
                         "name": "Heavy Spice",
@@ -545,7 +649,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850490"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/heavyspice.png",
+                        "chest_opened_img": "/images/items/open/heavyspice.png"
                     },
                     {
                         "name": "Mixed Herbs",
@@ -555,7 +661,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850493"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/mixedherbs.png",
+                        "chest_opened_img": "/images/items/open/mixedherbs.png"
                     },
                     {
                         "name": "Oil",
@@ -565,7 +673,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850682"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/oil.png",
+                        "chest_opened_img": "/images/items/open/oil.png"
                     },
                     {
                         "name": "Rice",
@@ -575,7 +685,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850667"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/rice.png",
+                        "chest_opened_img": "/images/items/open/rice.png"
                     },
                     {
                         "name": "Rice Flour",
@@ -585,7 +697,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850684"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/riceflour.png",
+                        "chest_opened_img": "/images/items/open/riceflour.png"
                     },
                     {
                         "name": "Sour Drop",
@@ -595,7 +709,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850492"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sourdrop.png",
+                        "chest_opened_img": "/images/items/open/sourdrop.png"
                     },
                     {
                         "name": "Sweet Powder",
@@ -605,7 +721,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850491"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sweetpowder.png",
+                        "chest_opened_img": "/images/items/open/sweetpowder.png"
                     },
                     {
                         "name": "Wine",
@@ -615,7 +733,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850669"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/wine.png",
+                        "chest_opened_img": "/images/items/open/wine.png"
                     },
                     {
                         "name": "Big Autumn Grass",
@@ -625,7 +745,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850470"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bigautumngrass.png",
+                        "chest_opened_img": "/images/items/open/bigautumngrass.png"
                     },
                     {
                         "name": "Big Fireflower",
@@ -635,7 +757,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850464"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bigfireflower.png",
+                        "chest_opened_img": "/images/items/open/bigfireflower.png"
                     },
                     {
                         "name": "Boss Bok Choy",
@@ -645,7 +769,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850403"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bossbokchoy.png",
+                        "chest_opened_img": "/images/items/open/bossbokchoy.png"
                     },
                     {
                         "name": "Colossal Pink",
@@ -655,7 +781,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850371"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/colossalpink.png",
+                        "chest_opened_img": "/images/items/open/colossalpink.png"
                     },
                     {
                         "name": "Conqueror Melon",
@@ -665,7 +793,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850373"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/conquerormelon.png",
+                        "chest_opened_img": "/images/items/open/conquerormelon.png"
                     },
                     {
                         "name": "Doom Pumpkin",
@@ -675,7 +805,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850377"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/doompumpkin.png",
+                        "chest_opened_img": "/images/items/open/doompumpkin.png"
                     },
                     {
                         "name": "Emperor Eggplant",
@@ -685,7 +817,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850385"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/emperoreggplant.png",
+                        "chest_opened_img": "/images/items/open/emperoreggplant.png"
                     },
                     {
                         "name": "Giant Hot-Hot Fruit",
@@ -695,7 +829,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850405"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/gianthot-hotfruit.png",
+                        "chest_opened_img": "/images/items/open/gianthot-hotfruit.png"
                     },
                     {
                         "name": "Gigant Corn",
@@ -705,7 +841,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850381"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/gigantcorn.png",
+                        "chest_opened_img": "/images/items/open/gigantcorn.png"
                     },
                     {
                         "name": "Great 4-Leaf Clover",
@@ -715,7 +853,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850462"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/great4-leafclover.png",
+                        "chest_opened_img": "/images/items/open/great4-leafclover.png"
                     },
                     {
                         "name": "Great Charm Blue",
@@ -725,7 +865,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850437"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/greatcharmblue.png",
+                        "chest_opened_img": "/images/items/open/greatcharmblue.png"
                     },
                     {
                         "name": "Great Emery Flower",
@@ -735,7 +877,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850458"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/greatemeryflower.png",
+                        "chest_opened_img": "/images/items/open/greatemeryflower.png"
                     },
                     {
                         "name": "Green Pepper Rex",
@@ -745,7 +889,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850393"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/greenpepperrex.png",
+                        "chest_opened_img": "/images/items/open/greenpepperrex.png"
                     },
                     {
                         "name": "Kaiser Cucumber",
@@ -755,7 +901,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850379"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/kaisercucumber.png",
+                        "chest_opened_img": "/images/items/open/kaisercucumber.png"
                     },
                     {
                         "name": "Kaiser Lamp Grass",
@@ -765,7 +913,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850454"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/kaiserlampgrass.png",
+                        "chest_opened_img": "/images/items/open/kaiserlampgrass.png"
                     },
                     {
                         "name": "King Cabbage",
@@ -775,7 +925,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850369"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/kingcabbage.png",
+                        "chest_opened_img": "/images/items/open/kingcabbage.png"
                     },
                     {
                         "name": "King Cherry Grass",
@@ -785,7 +937,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850452"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/kingcherrygrass.png",
+                        "chest_opened_img": "/images/items/open/kingcherrygrass.png"
                     },
                     {
                         "name": "King Pineapple",
@@ -795,7 +949,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850425"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/kingpineapple.png",
+                        "chest_opened_img": "/images/items/open/kingpineapple.png"
                     },
                     {
                         "name": "King Pink Cat",
@@ -805,7 +961,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850435"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/kingpinkcat.png",
+                        "chest_opened_img": "/images/items/open/kingpinkcat.png"
                     },
                     {
                         "name": "King Pom-Pom Grass",
@@ -815,7 +973,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850472"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/kingpom-pomgrass.png",
+                        "chest_opened_img": "/images/items/open/kingpom-pomgrass.png"
                     },
                     {
                         "name": "Large Noel Grass",
@@ -825,7 +985,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850468"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/largenoelgrass.png",
+                        "chest_opened_img": "/images/items/open/largenoelgrass.png"
                     },
                     {
                         "name": "Lordly Yam",
@@ -835,7 +997,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850387"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/lordlyyam.png",
+                        "chest_opened_img": "/images/items/open/lordlyyam.png"
                     },
                     {
                         "name": "Noble Radish",
@@ -845,7 +1009,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850399"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/nobleradish.png",
+                        "chest_opened_img": "/images/items/open/nobleradish.png"
                     },
                     {
                         "name": "Princely Potato",
@@ -855,7 +1021,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850389"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/princelypotato.png",
+                        "chest_opened_img": "/images/items/open/princelypotato.png"
                     },
                     {
                         "name": "Royal Carrot",
@@ -865,7 +1033,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850391"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/royalcarrot.png",
+                        "chest_opened_img": "/images/items/open/royalcarrot.png"
                     },
                     {
                         "name": "Sovereign Spinach",
@@ -875,7 +1045,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850395"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sovereignspinach.png",
+                        "chest_opened_img": "/images/items/open/sovereignspinach.png"
                     },
                     {
                         "name": "Sultan Strawberry",
@@ -885,7 +1057,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850423"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sultanstrawberry.png",
+                        "chest_opened_img": "/images/items/open/sultanstrawberry.png"
                     },
                     {
                         "name": "Super Ironleaf",
@@ -895,7 +1069,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850460"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/superironleaf.png",
+                        "chest_opened_img": "/images/items/open/superironleaf.png"
                     },
                     {
                         "name": "Titan Tomato",
@@ -905,7 +1081,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850383"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/titantomato.png",
+                        "chest_opened_img": "/images/items/open/titantomato.png"
                     },
                     {
                         "name": "Tyrant Turnip",
@@ -915,7 +1093,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850397"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/tyrantturnip.png",
+                        "chest_opened_img": "/images/items/open/tyrantturnip.png"
                     },
                     {
                         "name": "Ultra Moondrop Flower",
@@ -925,7 +1105,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850433"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ultramoondropflower.png",
+                        "chest_opened_img": "/images/items/open/ultramoondropflower.png"
                     },
                     {
                         "name": "Ultra Onion",
@@ -935,7 +1117,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850375"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ultraonion.png",
+                        "chest_opened_img": "/images/items/open/ultraonion.png"
                     },
                     {
                         "name": "Ultra Toyherb",
@@ -945,7 +1129,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850431"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ultratoyherb.png",
+                        "chest_opened_img": "/images/items/open/ultratoyherb.png"
                     },
                     {
                         "name": "Bamboo Sprout",
@@ -955,7 +1141,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1850406"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bamboosprout.png",
+                        "chest_opened_img": "/images/items/open/bamboosprout.png"
                     },
                     {
                         "name": "Branch",
@@ -965,7 +1153,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851388"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/branch.png",
+                        "chest_opened_img": "/images/items/open/branch.png"
                     },
                     {
                         "name": "Lumber",
@@ -975,7 +1165,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851389"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/lumber.png",
+                        "chest_opened_img": "/images/items/open/lumber.png"
                     },
                     {
                         "name": "Material Stone",
@@ -985,7 +1177,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851390"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/materialstone.png",
+                        "chest_opened_img": "/images/items/open/materialstone.png"
                     },
                     {
                         "name": "Rock",
@@ -995,7 +1189,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851387"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/rock.png",
+                        "chest_opened_img": "/images/items/open/rock.png"
                     },
                     {
                         "name": "Antidote Potion",
@@ -1005,7 +1201,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850482"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/antidotepotion.png",
+                        "chest_opened_img": "/images/items/open/antidotepotion.png"
                     },
                     {
                         "name": "Cold Medicine",
@@ -1015,7 +1213,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850485"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/coldmedicine.png",
+                        "chest_opened_img": "/images/items/open/coldmedicine.png"
                     },
                     {
                         "name": "Formuade",
@@ -1025,7 +1225,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850486"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/formuade.png",
+                        "chest_opened_img": "/images/items/open/formuade.png"
                     },
                     {
                         "name": "Formula A",
@@ -1035,7 +1237,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1851173"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/formulaa.png",
+                        "chest_opened_img": "/images/items/open/formulaa.png"
                     },
                     {
                         "name": "Formula B",
@@ -1045,7 +1249,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1851174"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/formulab.png",
+                        "chest_opened_img": "/images/items/open/formulab.png"
                     },
                     {
                         "name": "Formula C",
@@ -1055,7 +1261,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1851175"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/formulac.png",
+                        "chest_opened_img": "/images/items/open/formulac.png"
                     },
                     {
                         "name": "Giantizer",
@@ -1065,7 +1273,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1851178"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/giantizer.png",
+                        "chest_opened_img": "/images/items/open/giantizer.png"
                     },
                     {
                         "name": "Greenifier",
@@ -1075,7 +1285,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1851171"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/greenifier.png",
+                        "chest_opened_img": "/images/items/open/greenifier.png"
                     },
                     {
                         "name": "Greenifier+",
@@ -1085,7 +1297,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1851172"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/greenifier+.png",
+                        "chest_opened_img": "/images/items/open/greenifier+.png"
                     },
                     {
                         "name": "Healing Potion",
@@ -1095,7 +1309,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850495"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/healingpotion.png",
+                        "chest_opened_img": "/images/items/open/healingpotion.png"
                     },
                     {
                         "name": "Invinciroid",
@@ -1105,7 +1321,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850488"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/invinciroid.png",
+                        "chest_opened_img": "/images/items/open/invinciroid.png"
                     },
                     {
                         "name": "Leveliser",
@@ -1115,7 +1333,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850489"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/leveliser.png",
+                        "chest_opened_img": "/images/items/open/leveliser.png"
                     },
                     {
                         "name": "Love Potion",
@@ -1125,7 +1345,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850487"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/lovepotion.png",
+                        "chest_opened_img": "/images/items/open/lovepotion.png"
                     },
                     {
                         "name": "Magical Potion",
@@ -1135,7 +1357,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850497"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/magicalpotion.png",
+                        "chest_opened_img": "/images/items/open/magicalpotion.png"
                     },
                     {
                         "name": "Minimizer",
@@ -1145,7 +1369,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1851179"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/minimizer.png",
+                        "chest_opened_img": "/images/items/open/minimizer.png"
                     },
                     {
                         "name": "Mystery Potion",
@@ -1155,7 +1381,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850496"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/mysterypotion.png",
+                        "chest_opened_img": "/images/items/open/mysterypotion.png"
                     },
                     {
                         "name": "No Rot α",
@@ -1165,7 +1393,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1851176"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/norotxcexb1.png",
+                        "chest_opened_img": "/images/items/open/norotxcexb1.png"
                     },
                     {
                         "name": "No Rot β",
@@ -1175,7 +1405,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1851177"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/norotxcexb2.png",
+                        "chest_opened_img": "/images/items/open/norotxcexb2.png"
                     },
                     {
                         "name": "Object X",
@@ -1185,7 +1417,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850498"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/objectx.png",
+                        "chest_opened_img": "/images/items/open/objectx.png"
                     },
                     {
                         "name": "Para-Gone",
@@ -1195,7 +1429,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850483"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/para-gone.png",
+                        "chest_opened_img": "/images/items/open/para-gone.png"
                     },
                     {
                         "name": "Recovery Potion",
@@ -1205,7 +1441,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850494"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/recoverypotion.png",
+                        "chest_opened_img": "/images/items/open/recoverypotion.png"
                     },
                     {
                         "name": "Roundoff",
@@ -1215,7 +1453,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850484"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/roundoff.png",
+                        "chest_opened_img": "/images/items/open/roundoff.png"
                     },
                     {
                         "name": "Wettable Powder",
@@ -1225,7 +1465,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1851170"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/wettablepowder.png",
+                        "chest_opened_img": "/images/items/open/wettablepowder.png"
                     },
                     {
                         "name": "Autumn Grass Seeds",
@@ -1235,7 +1477,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851149"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/autumngrassseeds.png",
+                        "chest_opened_img": "/images/items/open/autumngrassseeds.png"
                     },
                     {
                         "name": "Bok Choy Seeds",
@@ -1245,7 +1489,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851156"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bokchoyseeds.png",
+                        "chest_opened_img": "/images/items/open/bokchoyseeds.png"
                     },
                     {
                         "name": "Cabbage Seeds",
@@ -1255,7 +1501,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851124"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cabbageseeds.png",
+                        "chest_opened_img": "/images/items/open/cabbageseeds.png"
                     },
                     {
                         "name": "Carrot Seeds",
@@ -1265,7 +1513,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851134"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/carrotseeds.png",
+                        "chest_opened_img": "/images/items/open/carrotseeds.png"
                     },
                     {
                         "name": "Charm Blue Seeds",
@@ -1275,7 +1525,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851138"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/charmblueseeds.png",
+                        "chest_opened_img": "/images/items/open/charmblueseeds.png"
                     },
                     {
                         "name": "Cherry Grass Seeds",
@@ -1285,7 +1537,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851140"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cherrygrassseeds.png",
+                        "chest_opened_img": "/images/items/open/cherrygrassseeds.png"
                     },
                     {
                         "name": "Clover Seeds",
@@ -1295,7 +1549,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851145"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cloverseeds.png",
+                        "chest_opened_img": "/images/items/open/cloverseeds.png"
                     },
                     {
                         "name": "Corn Seeds",
@@ -1305,7 +1561,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851128"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cornseeds.png",
+                        "chest_opened_img": "/images/items/open/cornseeds.png"
                     },
                     {
                         "name": "Cucumber Seeds",
@@ -1315,7 +1573,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851122"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cucumberseeds.png",
+                        "chest_opened_img": "/images/items/open/cucumberseeds.png"
                     },
                     {
                         "name": "Eggplant Seeds",
@@ -1325,7 +1585,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851133"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/eggplantseeds.png",
+                        "chest_opened_img": "/images/items/open/eggplantseeds.png"
                     },
                     {
                         "name": "Emery Flower Seeds",
@@ -1335,7 +1597,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851143"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/emeryflowerseeds.png",
+                        "chest_opened_img": "/images/items/open/emeryflowerseeds.png"
                     },
                     {
                         "name": "Fireflower Seeds",
@@ -1345,7 +1609,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851146"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fireflowerseeds.png",
+                        "chest_opened_img": "/images/items/open/fireflowerseeds.png"
                     },
                     {
                         "name": "Fodder Seeds",
@@ -1355,7 +1621,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851139"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fodderseeds.png",
+                        "chest_opened_img": "/images/items/open/fodderseeds.png"
                     },
                     {
                         "name": "Gold Melon Seeds",
@@ -1365,7 +1633,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851161"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/goldmelonseeds.png",
+                        "chest_opened_img": "/images/items/open/goldmelonseeds.png"
                     },
                     {
                         "name": "Gold Pumpkin Seeds",
@@ -1375,7 +1645,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851158"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/goldpumpkinseeds.png",
+                        "chest_opened_img": "/images/items/open/goldpumpkinseeds.png"
                     },
                     {
                         "name": "Green Pepper Seeds",
@@ -1385,7 +1657,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851137"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/greenpepperseeds.png",
+                        "chest_opened_img": "/images/items/open/greenpepperseeds.png"
                     },
                     {
                         "name": "Hot-Hot Seeds",
@@ -1395,7 +1669,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851162"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/hot-hotseeds.png",
+                        "chest_opened_img": "/images/items/open/hot-hotseeds.png"
                     },
                     {
                         "name": "Ironleaf Seeds",
@@ -1405,7 +1681,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851144"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ironleafseeds.png",
+                        "chest_opened_img": "/images/items/open/ironleafseeds.png"
                     },
                     {
                         "name": "Lamp Grass Seeds",
@@ -1415,7 +1693,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851141"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/lampgrassseeds.png",
+                        "chest_opened_img": "/images/items/open/lampgrassseeds.png"
                     },
                     {
                         "name": "Moondrop Seeds",
@@ -1425,7 +1705,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851125"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/moondropseeds.png",
+                        "chest_opened_img": "/images/items/open/moondropseeds.png"
                     },
                     {
                         "name": "Noel Grass Seeds",
@@ -1435,7 +1717,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851148"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/noelgrassseeds.png",
+                        "chest_opened_img": "/images/items/open/noelgrassseeds.png"
                     },
                     {
                         "name": "Onion Seeds",
@@ -1445,7 +1729,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851129"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/onionseeds.png",
+                        "chest_opened_img": "/images/items/open/onionseeds.png"
                     },
                     {
                         "name": "Pineapple Seeds",
@@ -1455,7 +1741,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851131"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pineappleseeds.png",
+                        "chest_opened_img": "/images/items/open/pineappleseeds.png"
                     },
                     {
                         "name": "Pink Cat Seeds",
@@ -1465,7 +1753,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851132"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pinkcatseeds.png",
+                        "chest_opened_img": "/images/items/open/pinkcatseeds.png"
                     },
                     {
                         "name": "Pink Turnip Seeds",
@@ -1475,7 +1765,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851153"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pinkturnipseeds.png",
+                        "chest_opened_img": "/images/items/open/pinkturnipseeds.png"
                     },
                     {
                         "name": "Pom-Pom Grass Sds.",
@@ -1485,7 +1777,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851150"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pom-pomgrasssds..png",
+                        "chest_opened_img": "/images/items/open/pom-pomgrasssds..png"
                     },
                     {
                         "name": "Potato Seeds",
@@ -1495,7 +1789,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851121"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/potatoseeds.png",
+                        "chest_opened_img": "/images/items/open/potatoseeds.png"
                     },
                     {
                         "name": "Pumpkin Seeds",
@@ -1505,7 +1801,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851130"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pumpkinseeds.png",
+                        "chest_opened_img": "/images/items/open/pumpkinseeds.png"
                     },
                     {
                         "name": "Radish Seeds",
@@ -1515,7 +1813,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851154"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/radishseeds.png",
+                        "chest_opened_img": "/images/items/open/radishseeds.png"
                     },
                     {
                         "name": "Spinach Seeds",
@@ -1525,7 +1825,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851136"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/spinachseeds.png",
+                        "chest_opened_img": "/images/items/open/spinachseeds.png"
                     },
                     {
                         "name": "Strawberry Seeds",
@@ -1535,7 +1837,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851123"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/strawberryseeds.png",
+                        "chest_opened_img": "/images/items/open/strawberryseeds.png"
                     },
                     {
                         "name": "Tomato Seeds",
@@ -1545,7 +1849,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851127"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/tomatoseeds.png",
+                        "chest_opened_img": "/images/items/open/tomatoseeds.png"
                     },
                     {
                         "name": "Toyherb Seeds",
@@ -1555,7 +1861,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851126"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/toyherbseeds.png",
+                        "chest_opened_img": "/images/items/open/toyherbseeds.png"
                     },
                     {
                         "name": "Turnip Seeds",
@@ -1565,7 +1873,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851120"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/turnipseeds.png",
+                        "chest_opened_img": "/images/items/open/turnipseeds.png"
                     },
                     {
                         "name": "Yam Seeds",
@@ -1575,7 +1885,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851135"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/yamseeds.png",
+                        "chest_opened_img": "/images/items/open/yamseeds.png"
                     },
                     {
                         "name": "Fireball",
@@ -1585,7 +1897,9 @@
                         "visibility_rules": [
                             "opt_spellsanity,$RF4Visible|1851392"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fireball.png",
+                        "chest_opened_img": "/images/items/open/fireball.png"
                     },
                     {
                         "name": "Greeting Spell",
@@ -1595,7 +1909,9 @@
                         "visibility_rules": [
                             "opt_spellsanity,$RF4Visible|1851416"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/greetingspell.png",
+                        "chest_opened_img": "/images/items/open/greetingspell.png"
                     },
                     {
                         "name": "Iron Waltz",
@@ -1605,7 +1921,9 @@
                         "visibility_rules": [
                             "opt_spellsanity,$RF4Visible|1851449"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ironwaltz.png",
+                        "chest_opened_img": "/images/items/open/ironwaltz.png"
                     },
                     {
                         "name": "Rush Attack",
@@ -1615,7 +1933,9 @@
                         "visibility_rules": [
                             "opt_spellsanity,$RF4Visible|1851419"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/rushattack.png",
+                        "chest_opened_img": "/images/items/open/rushattack.png"
                     },
                     {
                         "name": "Striking March",
@@ -1625,7 +1945,9 @@
                         "visibility_rules": [
                             "opt_spellsanity,$RF4Visible|1851448"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/strikingmarch.png",
+                        "chest_opened_img": "/images/items/open/strikingmarch.png"
                     },
                     {
                         "name": "Brush",
@@ -1635,7 +1957,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851117"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/brush.png",
+                        "chest_opened_img": "/images/items/open/brush.png"
                     },
                     {
                         "name": "progression",
@@ -1645,7 +1969,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851118"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/clippers.png",
+                        "chest_opened_img": "/images/items/open/clippers.png"
                     },
                     {
                         "name": "Magnifying Glass",
@@ -1655,7 +1981,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851119"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/magnifyingglass.png",
+                        "chest_opened_img": "/images/items/open/magnifyingglass.png"
                     },
                     {
                         "name": "Heart Drink",
@@ -1665,7 +1993,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850481"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/heartdrink.png",
+                        "chest_opened_img": "/images/items/open/heartdrink.png"
                     },
                     {
                         "name": "Intelligencer",
@@ -1675,7 +2005,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850479"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/intelligencer.png",
+                        "chest_opened_img": "/images/items/open/intelligencer.png"
                     },
                     {
                         "name": "The Protein",
@@ -1685,7 +2017,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850478"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/theprotein.png",
+                        "chest_opened_img": "/images/items/open/theprotein.png"
                     },
                     {
                         "name": "Vital Gummi",
@@ -1695,7 +2029,9 @@
                         "visibility_rules": [
                             "opt_chemicsanity,$RF4Visible|1850480"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/vitalgummi.png",
+                        "chest_opened_img": "/images/items/open/vitalgummi.png"
                     }
                 ],
                 "map_locations": [
@@ -2668,8 +3004,8 @@
                 "children": [
                     {
                         "name": "Vishnal",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/vishnal.png",
+                        "chest_opened_img": "/images/npc/open/vishnal.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -2787,8 +3123,8 @@
                     },
                     {
                         "name": "Clorica",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/clorica.png",
+                        "chest_opened_img": "/images/npc/open/clorica.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -2906,8 +3242,8 @@
                     },
                     {
                         "name": "Volkanon",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/volkanon.png",
+                        "chest_opened_img": "/images/npc/open/volkanon.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -3025,8 +3361,8 @@
                     },
                     {
                         "name": "Forte",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/forte.png",
+                        "chest_opened_img": "/images/npc/open/forte.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -3144,8 +3480,8 @@
                     },
                     {
                         "name": "Kiel",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/kiel.png",
+                        "chest_opened_img": "/images/npc/open/kiel.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -3263,8 +3599,8 @@
                     },
                     {
                         "name": "Bado",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/bado.png",
+                        "chest_opened_img": "/images/npc/open/bado.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -3382,8 +3718,8 @@
                     },
                     {
                         "name": "Margaret",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/margaret.png",
+                        "chest_opened_img": "/images/npc/open/margaret.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -3501,8 +3837,8 @@
                     },
                     {
                         "name": "Dylas",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/dylas.png",
+                        "chest_opened_img": "/images/npc/open/dylas.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -3620,8 +3956,8 @@
                     },
                     {
                         "name": "Arthur",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/arthur.png",
+                        "chest_opened_img": "/images/npc/open/arthur.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -3739,8 +4075,8 @@
                     },
                     {
                         "name": "Porcoline",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/porcoline.png",
+                        "chest_opened_img": "/images/npc/open/porcoline.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -3858,8 +4194,8 @@
                     },
                     {
                         "name": "Xiao Pai",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/xiaopai.png",
+                        "chest_opened_img": "/images/npc/open/xiaopai.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -3977,8 +4313,8 @@
                     },
                     {
                         "name": "Lin Fa",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/linfa.png",
+                        "chest_opened_img": "/images/npc/open/linfa.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -4096,8 +4432,8 @@
                     },
                     {
                         "name": "Amber",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/amber.png",
+                        "chest_opened_img": "/images/npc/open/amber.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -4215,8 +4551,8 @@
                     },
                     {
                         "name": "Illuminata",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/illuminata.png",
+                        "chest_opened_img": "/images/npc/open/illuminata.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -4334,8 +4670,8 @@
                     },
                     {
                         "name": "Doug",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/doug.png",
+                        "chest_opened_img": "/images/npc/open/doug.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -4453,8 +4789,8 @@
                     },
                     {
                         "name": "Blossom",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/blossom.png",
+                        "chest_opened_img": "/images/npc/open/blossom.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -4572,8 +4908,8 @@
                     },
                     {
                         "name": "Dolce",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/dolce.png",
+                        "chest_opened_img": "/images/npc/open/dolce.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -4691,8 +5027,8 @@
                     },
                     {
                         "name": "Jones",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/jones.png",
+                        "chest_opened_img": "/images/npc/open/jones.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -4810,8 +5146,8 @@
                     },
                     {
                         "name": "Nancy",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/nancy.png",
+                        "chest_opened_img": "/images/npc/open/nancy.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -4929,8 +5265,8 @@
                     },
                     {
                         "name": "Leon",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/leon.png",
+                        "chest_opened_img": "/images/npc/open/leon.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
@@ -5048,8 +5384,8 @@
                     },
                     {
                         "name": "Ventuswill",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
+                        "chest_unopened_img": "/images/npc/ventuswill.png",
+                        "chest_opened_img": "/images/npc/open/ventuswill.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "

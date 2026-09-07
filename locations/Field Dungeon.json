@@ -25,7 +25,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852746"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/bossgreaterdemon.png",
+                        "chest_opened_img": "/images/monsters/open/bossgreaterdemon.png"
                     },
                     {
                         "name": "Boss - Grimoire",
@@ -35,7 +37,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852750"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/bossgrimoire.png",
+                        "chest_opened_img": "/images/monsters/open/bossgrimoire.png"
                     },
                     {
                         "name": "Boss - Octopirate",
@@ -45,7 +49,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852799"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/bossoctopirate.png",
+                        "chest_opened_img": "/images/monsters/open/bossoctopirate.png"
                     }
                 ],
                 "map_locations": [

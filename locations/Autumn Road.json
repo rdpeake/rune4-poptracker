@@ -25,7 +25,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851353"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/squid.png",
+                        "chest_opened_img": "/images/items/open/squid.png"
                     },
                     {
                         "name": "Palm Claw",
@@ -35,7 +37,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851284"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/palmclaw.png",
+                        "chest_opened_img": "/images/items/open/palmclaw.png"
                     },
                     {
                         "name": "Poison Powder",
@@ -45,7 +49,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851233"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/poisonpowder.png",
+                        "chest_opened_img": "/images/items/open/poisonpowder.png"
                     },
                     {
                         "name": "Quality Puffy Fur",
@@ -55,7 +61,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851306"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/qualitypuffyfur.png",
+                        "chest_opened_img": "/images/items/open/qualitypuffyfur.png"
                     },
                     {
                         "name": "Red Core",
@@ -65,7 +73,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851289"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/redcore.png",
+                        "chest_opened_img": "/images/items/open/redcore.png"
                     },
                     {
                         "name": "Vine",
@@ -75,7 +85,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851314"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/vine.png",
+                        "chest_opened_img": "/images/items/open/vine.png"
                     },
                     {
                         "name": "Glitter Snapper",
@@ -85,7 +97,9 @@
                         "visibility_rules": [
                             "opt_fishsanity,$RF4Visible|1851358"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/glittersnapper.png",
+                        "chest_opened_img": "/images/items/open/glittersnapper.png"
                     },
                     {
                         "name": "Needlefish",
@@ -95,7 +109,9 @@
                         "visibility_rules": [
                             "opt_fishsanity,$RF4Visible|1851364"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/needlefish.png",
+                        "chest_opened_img": "/images/items/open/needlefish.png"
                     },
                     {
                         "name": "Pond Smelt",
@@ -105,7 +121,9 @@
                         "visibility_rules": [
                             "opt_fishsanity,$RF4Visible|1851381"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pondsmelt.png",
+                        "chest_opened_img": "/images/items/open/pondsmelt.png"
                     },
                     {
                         "name": "Salmon",
@@ -115,7 +133,9 @@
                         "visibility_rules": [
                             "opt_fishsanity,$RF4Visible|1851362"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/salmon.png",
+                        "chest_opened_img": "/images/items/open/salmon.png"
                     },
                     {
                         "name": "Snapper",
@@ -125,7 +145,9 @@
                         "visibility_rules": [
                             "opt_fishsanity,$RF4Visible|1851368"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/snapper.png",
+                        "chest_opened_img": "/images/items/open/snapper.png"
                     },
                     {
                         "name": "Yellowtail",
@@ -135,7 +157,9 @@
                         "visibility_rules": [
                             "opt_fishsanity,$RF4Visible|1851373"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/yellowtail.png",
+                        "chest_opened_img": "/images/items/open/yellowtail.png"
                     },
                     {
                         "name": "Yellow Grass",
@@ -145,7 +169,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850443"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/yellowgrass.png",
+                        "chest_opened_img": "/images/items/open/yellowgrass.png"
                     },
                     {
                         "name": "Shade Stone",
@@ -155,7 +181,9 @@
                         "visibility_rules": [
                             "opt_mineralsanity,$RF4Visible|1851298"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/shadestone.png",
+                        "chest_opened_img": "/images/items/open/shadestone.png"
                     },
                     {
                         "name": "Silver",
@@ -165,7 +193,9 @@
                         "visibility_rules": [
                             "opt_mineralsanity,$RF4Visible|1851188"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/silver.png",
+                        "chest_opened_img": "/images/items/open/silver.png"
                     },
                     {
                         "name": "Autumn Headdress",
@@ -175,7 +205,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851068"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/autumnheaddress.png",
+                        "chest_opened_img": "/images/items/open/autumnheaddress.png"
                     },
                     {
                         "name": "Winter Headdress",
@@ -185,7 +217,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851069"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/winterheaddress.png",
+                        "chest_opened_img": "/images/items/open/winterheaddress.png"
                     },
                     {
                         "name": "Dark Ball",
@@ -195,7 +229,9 @@
                         "visibility_rules": [
                             "opt_spellsanity,$RF4Visible|1851407"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/darkball.png",
+                        "chest_opened_img": "/images/items/open/darkball.png"
                     },
                     {
                         "name": "Naive Blade",
@@ -205,7 +241,9 @@
                         "visibility_rules": [
                             "opt_spellsanity,$RF4Visible|1851429"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/naiveblade.png",
+                        "chest_opened_img": "/images/items/open/naiveblade.png"
                     },
                     {
                         "name": "Parallel Laser",
@@ -215,7 +253,9 @@
                         "visibility_rules": [
                             "opt_spellsanity,$RF4Visible|1851396"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/parallellaser.png",
+                        "chest_opened_img": "/images/items/open/parallellaser.png"
                     },
                     {
                         "name": "Screw Rock",
@@ -225,7 +265,9 @@
                         "visibility_rules": [
                             "opt_spellsanity,$RF4Visible|1851398"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/screwrock.png",
+                        "chest_opened_img": "/images/items/open/screwrock.png"
                     }
                 ],
                 "map_locations": [
@@ -607,7 +649,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852728"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/flowerlily.png",
+                        "chest_opened_img": "/images/monsters/open/flowerlily.png"
                     },
                     {
                         "name": "Furpy",
@@ -617,7 +661,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852731"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/furpy.png",
+                        "chest_opened_img": "/images/monsters/open/furpy.png"
                     },
                     {
                         "name": "Mino",
@@ -627,7 +673,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852793"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/mino.png",
+                        "chest_opened_img": "/images/monsters/open/mino.png"
                     },
                     {
                         "name": "Palm Cat",
@@ -637,7 +685,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852809"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/palmcat.png",
+                        "chest_opened_img": "/images/monsters/open/palmcat.png"
                     },
                     {
                         "name": "Red",
@@ -647,7 +697,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852816"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/red.png",
+                        "chest_opened_img": "/images/monsters/open/red.png"
                     },
                     {
                         "name": "Tricky Muck",
@@ -657,7 +709,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852845"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/trickymuck.png",
+                        "chest_opened_img": "/images/monsters/open/trickymuck.png"
                     }
                 ],
                 "map_locations": [
@@ -1466,8 +1520,8 @@
             },
             {
                 "name": "Barrier #54",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1495,8 +1549,8 @@
             },
             {
                 "name": "Box #50",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/box_closed.png",
+                "chest_opened_img": "/images/items/open/box_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1534,8 +1588,8 @@
             },
             {
                 "name": "Box #64",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/box_closed.png",
+                "chest_opened_img": "/images/items/open/box_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1563,8 +1617,8 @@
             },
             {
                 "name": "Search E6",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/search_closed.png",
+                "chest_opened_img": "/images/items/open/search_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1592,8 +1646,8 @@
             },
             {
                 "name": "Search F5",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/search_closed.png",
+                "chest_opened_img": "/images/items/open/search_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1641,8 +1695,8 @@
             },
             {
                 "name": "Search F4",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/search_closed.png",
+                "chest_opened_img": "/images/items/open/search_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1680,8 +1734,8 @@
             },
             {
                 "name": "Selphia Plains - West Box #45",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/box_closed.png",
+                "chest_opened_img": "/images/items/open/box_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "

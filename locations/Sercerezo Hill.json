@@ -25,7 +25,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850455"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bluecrystal.png",
+                        "chest_opened_img": "/images/items/open/bluecrystal.png"
                     },
                     {
                         "name": "Green Crystal",
@@ -35,7 +37,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850465"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/greencrystal.png",
+                        "chest_opened_img": "/images/items/open/greencrystal.png"
                     },
                     {
                         "name": "Red Crystal",
@@ -45,7 +49,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850473"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/redcrystal.png",
+                        "chest_opened_img": "/images/items/open/redcrystal.png"
                     },
                     {
                         "name": "White Crystal",
@@ -55,7 +61,9 @@
                         "visibility_rules": [
                             "opt_cropsanity,$RF4Visible|1850475"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/whitecrystal.png",
+                        "chest_opened_img": "/images/items/open/whitecrystal.png"
                     },
                     {
                         "name": "Ivory Tusk",
@@ -65,7 +73,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851309"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ivorytusk.png",
+                        "chest_opened_img": "/images/items/open/ivorytusk.png"
                     },
                     {
                         "name": "Root",
@@ -75,7 +85,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851231"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/root.png",
+                        "chest_opened_img": "/images/items/open/root.png"
                     },
                     {
                         "name": "Yellow Core",
@@ -85,7 +97,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851290"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/yellowcore.png",
+                        "chest_opened_img": "/images/items/open/yellowcore.png"
                     },
                     {
                         "name": "Masu Trout",
@@ -95,7 +109,9 @@
                         "visibility_rules": [
                             "opt_fishsanity,$RF4Visible|1851352"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/masutrout.png",
+                        "chest_opened_img": "/images/items/open/masutrout.png"
                     },
                     {
                         "name": "Rockfish",
@@ -105,7 +121,9 @@
                         "visibility_rules": [
                             "opt_fishsanity,$RF4Visible|1851383"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/rockfish.png",
+                        "chest_opened_img": "/images/items/open/rockfish.png"
                     },
                     {
                         "name": "Sand Flounder",
@@ -115,7 +133,9 @@
                         "visibility_rules": [
                             "opt_fishsanity,$RF4Visible|1851382"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sandflounder.png",
+                        "chest_opened_img": "/images/items/open/sandflounder.png"
                     },
                     {
                         "name": "Mealy Apple",
@@ -125,7 +145,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850429"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/mealyapple.png",
+                        "chest_opened_img": "/images/items/open/mealyapple.png"
                     },
                     {
                         "name": "Golden Cabbage",
@@ -135,7 +157,9 @@
                         "visibility_rules": [
                             "opt_goldcropsanity,$RF4Visible|1850407"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/goldencabbage.png",
+                        "chest_opened_img": "/images/items/open/goldencabbage.png"
                     },
                     {
                         "name": "Golden King Cabbage",
@@ -145,7 +169,9 @@
                         "visibility_rules": [
                             "opt_goldcropsanity,$RF4Visible|1850408"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/goldenkingcabbage.png",
+                        "chest_opened_img": "/images/items/open/goldenkingcabbage.png"
                     },
                     {
                         "name": "Orange Grass",
@@ -155,7 +181,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850441"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/orangegrass.png",
+                        "chest_opened_img": "/images/items/open/orangegrass.png"
                     },
                     {
                         "name": "Big Blue Crystal",
@@ -165,7 +193,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850456"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bigbluecrystal.png",
+                        "chest_opened_img": "/images/items/open/bigbluecrystal.png"
                     },
                     {
                         "name": "Big Green Crystal",
@@ -175,7 +205,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850466"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/biggreencrystal.png",
+                        "chest_opened_img": "/images/items/open/biggreencrystal.png"
                     },
                     {
                         "name": "Big Red Crystal",
@@ -185,7 +217,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850474"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bigredcrystal.png",
+                        "chest_opened_img": "/images/items/open/bigredcrystal.png"
                     },
                     {
                         "name": "Big White Crystal",
@@ -195,7 +229,9 @@
                         "visibility_rules": [
                             "opt_largecropsanity,$RF4Visible|1850476"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bigwhitecrystal.png",
+                        "chest_opened_img": "/images/items/open/bigwhitecrystal.png"
                     },
                     {
                         "name": "Monarch Mushroom",
@@ -205,7 +241,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850421"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/monarchmushroom.png",
+                        "chest_opened_img": "/images/items/open/monarchmushroom.png"
                     },
                     {
                         "name": "Blue Crystal Seeds",
@@ -215,7 +253,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851142"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bluecrystalseeds.png",
+                        "chest_opened_img": "/images/items/open/bluecrystalseeds.png"
                     },
                     {
                         "name": "Gold Cabbage Seeds",
@@ -225,7 +265,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851157"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/goldcabbageseeds.png",
+                        "chest_opened_img": "/images/items/open/goldcabbageseeds.png"
                     },
                     {
                         "name": "Green Crystal Seeds",
@@ -235,7 +277,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851147"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/greencrystalseeds.png",
+                        "chest_opened_img": "/images/items/open/greencrystalseeds.png"
                     },
                     {
                         "name": "Red Crystal Seeds",
@@ -245,7 +289,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851151"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/redcrystalseeds.png",
+                        "chest_opened_img": "/images/items/open/redcrystalseeds.png"
                     },
                     {
                         "name": "White Crystal Seeds",
@@ -255,7 +301,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851152"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/whitecrystalseeds.png",
+                        "chest_opened_img": "/images/items/open/whitecrystalseeds.png"
                     },
                     {
                         "name": "Spring Headdress",
@@ -265,7 +313,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851066"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/springheaddress.png",
+                        "chest_opened_img": "/images/items/open/springheaddress.png"
                     },
                     {
                         "name": "Medipoison",
@@ -275,7 +325,9 @@
                         "visibility_rules": [
                             "opt_spellsanity,$RF4Visible|1851413"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/medipoison.png",
+                        "chest_opened_img": "/images/items/open/medipoison.png"
                     },
                     {
                         "name": "Shine",
@@ -285,7 +337,9 @@
                         "visibility_rules": [
                             "opt_spellsanity,$RF4Visible|1851405"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/shine.png",
+                        "chest_opened_img": "/images/items/open/shine.png"
                     },
                     {
                         "name": "Stardust Upper",
@@ -295,7 +349,9 @@
                         "visibility_rules": [
                             "opt_spellsanity,$RF4Visible|1851436"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/stardustupper.png",
+                        "chest_opened_img": "/images/items/open/stardustupper.png"
                     },
                     {
                         "name": "Storm",
@@ -305,7 +361,9 @@
                         "visibility_rules": [
                             "opt_spellsanity,$RF4Visible|1851423"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/storm.png",
+                        "chest_opened_img": "/images/items/open/storm.png"
                     }
                 ],
                 "map_locations": [
@@ -579,7 +637,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852715"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/elefun.png",
+                        "chest_opened_img": "/images/monsters/open/elefun.png"
                     },
                     {
                         "name": "Flower Blossom",
@@ -589,7 +649,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852726"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/flowerblossom.png",
+                        "chest_opened_img": "/images/monsters/open/flowerblossom.png"
                     },
                     {
                         "name": "Typhoon",
@@ -599,7 +661,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852849"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/typhoon.png",
+                        "chest_opened_img": "/images/monsters/open/typhoon.png"
                     },
                     {
                         "name": "Yellow",
@@ -609,7 +673,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852854"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/yellow.png",
+                        "chest_opened_img": "/images/monsters/open/yellow.png"
                     }
                 ],
                 "map_locations": [
@@ -896,8 +962,8 @@
             },
             {
                 "name": "Sand Pond Box #99",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/box_closed.png",
+                "chest_opened_img": "/images/items/open/box_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -935,8 +1001,8 @@
             },
             {
                 "name": "Box #91",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/box_closed.png",
+                "chest_opened_img": "/images/items/open/box_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "

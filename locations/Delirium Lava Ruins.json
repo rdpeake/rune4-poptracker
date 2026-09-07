@@ -25,7 +25,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851278"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/rafflesiapetal.png",
+                        "chest_opened_img": "/images/items/open/rafflesiapetal.png"
                     },
                     {
                         "name": "Bull's Horn",
@@ -35,7 +37,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851227"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bullshorn.png",
+                        "chest_opened_img": "/images/items/open/bullshorn.png"
                     },
                     {
                         "name": "Fire Crystal",
@@ -45,7 +49,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851239"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/firecrystal.png",
+                        "chest_opened_img": "/images/items/open/firecrystal.png"
                     },
                     {
                         "name": "Giant's Nail",
@@ -55,7 +61,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851212"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/giantsnail.png",
+                        "chest_opened_img": "/images/items/open/giantsnail.png"
                     },
                     {
                         "name": "Quality Cloth",
@@ -65,7 +73,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851199"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/qualitycloth.png",
+                        "chest_opened_img": "/images/items/open/qualitycloth.png"
                     },
                     {
                         "name": "Scorpion Tail",
@@ -75,7 +85,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851221"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/scorpiontail.png",
+                        "chest_opened_img": "/images/items/open/scorpiontail.png"
                     },
                     {
                         "name": "Red Grass",
@@ -85,7 +97,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850442"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/redgrass.png",
+                        "chest_opened_img": "/images/items/open/redgrass.png"
                     },
                     {
                         "name": "Ruby",
@@ -95,7 +109,9 @@
                         "visibility_rules": [
                             "opt_mineralsanity,$RF4Visible|1851193"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ruby.png",
+                        "chest_opened_img": "/images/items/open/ruby.png"
                     }
                 ],
                 "map_locations": [
@@ -134,7 +150,9 @@
                                 "visibility_rules": [
                                     "opt_spellsanity,$RF4Visible|1851393"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/bigfire.png",
+                                "chest_opened_img": "/images/items/open/bigfire.png"
                             },
                             {
                                 "name": "Bonus Concerto",
@@ -144,7 +162,9 @@
                                 "visibility_rules": [
                                     "opt_spellsanity,$RF4Visible|1851447"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/bonusconcerto.png",
+                                "chest_opened_img": "/images/items/open/bonusconcerto.png"
                             },
                             {
                                 "name": "Rush Punch",
@@ -154,7 +174,9 @@
                                 "visibility_rules": [
                                     "opt_spellsanity,$RF4Visible|1851444"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/rushpunch.png",
+                                "chest_opened_img": "/images/items/open/rushpunch.png"
                             }
                         ],
                         "map_locations": [
@@ -322,7 +344,9 @@
                                 "visibility_rules": [
                                     "opt_spellsanity,$RF4Visible|1851411"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/cureall.png",
+                                "chest_opened_img": "/images/items/open/cureall.png"
                             },
                             {
                                 "name": "Light Barrier",
@@ -332,7 +356,9 @@
                                 "visibility_rules": [
                                     "opt_spellsanity,$RF4Visible|1851404"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/lightbarrier.png",
+                                "chest_opened_img": "/images/items/open/lightbarrier.png"
                             }
                         ],
                         "map_locations": [
@@ -549,7 +575,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852695"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/buffaloo.png",
+                        "chest_opened_img": "/images/monsters/open/buffaloo.png"
                     },
                     {
                         "name": "Flower Lion",
@@ -559,7 +587,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852729"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/flowerlion.png",
+                        "chest_opened_img": "/images/monsters/open/flowerlion.png"
                     },
                     {
                         "name": "Gangster Goblin",
@@ -569,7 +599,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852734"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/gangstergoblin.png",
+                        "chest_opened_img": "/images/monsters/open/gangstergoblin.png"
                     },
                     {
                         "name": "Goblin Pirate",
@@ -579,7 +611,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852743"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/goblinpirate.png",
+                        "chest_opened_img": "/images/monsters/open/goblinpirate.png"
                     },
                     {
                         "name": "Ignis",
@@ -589,7 +623,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852769"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/ignis.png",
+                        "chest_opened_img": "/images/monsters/open/ignis.png"
                     },
                     {
                         "name": "Scorpion",
@@ -599,7 +635,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852825"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/scorpion.png",
+                        "chest_opened_img": "/images/monsters/open/scorpion.png"
                     },
                     {
                         "name": "Tomato Ghost",
@@ -609,7 +647,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852843"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/tomatoghost.png",
+                        "chest_opened_img": "/images/monsters/open/tomatoghost.png"
                     },
                     {
                         "name": "Troll",
@@ -619,7 +659,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852846"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/troll.png",
+                        "chest_opened_img": "/images/monsters/open/troll.png"
                     }
                 ],
                 "map_locations": [
@@ -634,8 +676,8 @@
             },
             {
                 "name": "Barrier A1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -663,8 +705,8 @@
             },
             {
                 "name": "Barrier B1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -692,8 +734,8 @@
             },
             {
                 "name": "Barrier B3",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -721,8 +763,8 @@
             },
             {
                 "name": "Barrier B4",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -750,8 +792,8 @@
             },
             {
                 "name": "Barrier B5",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -779,8 +821,8 @@
             },
             {
                 "name": "Barrier C4",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -808,8 +850,8 @@
             },
             {
                 "name": "Barrier C5",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -837,8 +879,8 @@
             },
             {
                 "name": "Barrier C2",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -866,8 +908,8 @@
             },
             {
                 "name": "Barrier D1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -895,8 +937,8 @@
             },
             {
                 "name": "Barrier H4",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -924,8 +966,8 @@
             },
             {
                 "name": "Barrier I2",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -953,8 +995,8 @@
             },
             {
                 "name": "Barrier I1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -982,8 +1024,8 @@
             },
             {
                 "name": "Barrier H3",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1011,8 +1053,8 @@
             },
             {
                 "name": "Barrier H1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1040,8 +1082,8 @@
             },
             {
                 "name": "Barrier E2",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1069,8 +1111,8 @@
             },
             {
                 "name": "Barrier E1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1098,8 +1140,8 @@
             },
             {
                 "name": "Barrier C1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1127,8 +1169,8 @@
             },
             {
                 "name": "Barrier C3",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1162,8 +1204,8 @@
             },
             {
                 "name": "Barrier B2",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1197,8 +1239,8 @@
             },
             {
                 "name": "Box C4",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/box_closed.png",
+                "chest_opened_img": "/images/items/open/box_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1236,8 +1278,8 @@
             },
             {
                 "name": "Box J1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/box_closed.png",
+                "chest_opened_img": "/images/items/open/box_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1275,8 +1317,8 @@
             },
             {
                 "name": "Box E1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/box_closed.png",
+                "chest_opened_img": "/images/items/open/box_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1304,8 +1346,8 @@
             },
             {
                 "name": "Box D2",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/box_closed.png",
+                "chest_opened_img": "/images/items/open/box_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -1343,8 +1385,8 @@
             },
             {
                 "name": "Box D1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/box_closed.png",
+                "chest_opened_img": "/images/items/open/box_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "

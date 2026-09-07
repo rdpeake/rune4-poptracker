@@ -25,7 +25,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851270"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/curseddoll.png",
+                        "chest_opened_img": "/images/items/open/curseddoll.png"
                     },
                     {
                         "name": "Boss - Puppetry Strings",
@@ -35,7 +37,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851271"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/puppetrystrings.png",
+                        "chest_opened_img": "/images/items/open/puppetrystrings.png"
                     },
                     {
                         "name": "Dark Crystal",
@@ -45,7 +49,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851248"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/darkcrystal.png",
+                        "chest_opened_img": "/images/items/open/darkcrystal.png"
                     },
                     {
                         "name": "Ghost Hood",
@@ -55,7 +61,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851240"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ghosthood.png",
+                        "chest_opened_img": "/images/items/open/ghosthood.png"
                     },
                     {
                         "name": "Insect Jaw",
@@ -65,7 +73,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851216"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/insectjaw.png",
+                        "chest_opened_img": "/images/items/open/insectjaw.png"
                     },
                     {
                         "name": "Magic Crystal",
@@ -75,7 +85,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851210"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/magiccrystal.png",
+                        "chest_opened_img": "/images/items/open/magiccrystal.png"
                     },
                     {
                         "name": "Panther Claw",
@@ -85,7 +97,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851223"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pantherclaw.png",
+                        "chest_opened_img": "/images/items/open/pantherclaw.png"
                     },
                     {
                         "name": "Spider's Thread",
@@ -95,7 +109,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851217"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/spidersthread.png",
+                        "chest_opened_img": "/images/items/open/spidersthread.png"
                     },
                     {
                         "name": "Black Grass",
@@ -105,7 +121,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850440"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/blackgrass.png",
+                        "chest_opened_img": "/images/items/open/blackgrass.png"
                     },
                     {
                         "name": "Glitta Augite",
@@ -115,7 +133,9 @@
                         "visibility_rules": [
                             "opt_mineralsanity,$RF4Visible|1851302"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/glittaaugite.png",
+                        "chest_opened_img": "/images/items/open/glittaaugite.png"
                     },
                     {
                         "name": "Shining Seed",
@@ -125,7 +145,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1851166"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/shiningseed.png",
+                        "chest_opened_img": "/images/items/open/shiningseed.png"
                     },
                     {
                         "name": "Cure",
@@ -135,7 +157,9 @@
                         "visibility_rules": [
                             "opt_spellsanity,$RF4Visible|1851410"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cure.png",
+                        "chest_opened_img": "/images/items/open/cure.png"
                     },
                     {
                         "name": "Flash Strike",
@@ -145,7 +169,9 @@
                         "visibility_rules": [
                             "opt_spellsanity,$RF4Visible|1851428"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/flashstrike.png",
+                        "chest_opened_img": "/images/items/open/flashstrike.png"
                     }
                 ],
                 "map_locations": [
@@ -341,7 +367,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852736"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/ghost.png",
+                        "chest_opened_img": "/images/monsters/open/ghost.png"
                     },
                     {
                         "name": "Ghost Ray",
@@ -351,7 +379,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852737"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/ghostray.png",
+                        "chest_opened_img": "/images/monsters/open/ghostray.png"
                     },
                     {
                         "name": "Boss - Marionetta",
@@ -361,7 +391,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852789"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/bossmarionetta.png",
+                        "chest_opened_img": "/images/monsters/open/bossmarionetta.png"
                     },
                     {
                         "name": "Onion Ghost",
@@ -371,7 +403,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852803"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/onionghost.png",
+                        "chest_opened_img": "/images/monsters/open/onionghost.png"
                     },
                     {
                         "name": "Shadow Panther",
@@ -381,7 +415,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852829"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/shadowpanther.png",
+                        "chest_opened_img": "/images/monsters/open/shadowpanther.png"
                     },
                     {
                         "name": "Slime",
@@ -391,7 +427,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852834"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/slime.png",
+                        "chest_opened_img": "/images/monsters/open/slime.png"
                     },
                     {
                         "name": "Spider",
@@ -401,7 +439,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852836"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/spider.png",
+                        "chest_opened_img": "/images/monsters/open/spider.png"
                     },
                     {
                         "name": "Spirit",
@@ -411,7 +451,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852837"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/spirit.png",
+                        "chest_opened_img": "/images/monsters/open/spirit.png"
                     }
                 ],
                 "map_locations": [
@@ -426,8 +468,8 @@
             },
             {
                 "name": "Barrier A5",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -455,8 +497,8 @@
             },
             {
                 "name": "Barrier A7",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -484,8 +526,8 @@
             },
             {
                 "name": "Barrier A8",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -513,8 +555,8 @@
             },
             {
                 "name": "Barrier B1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -542,8 +584,8 @@
             },
             {
                 "name": "Barrier B7",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/barrier_closed.png",
+                "chest_opened_img": "/images/items/open/barrier_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -571,8 +613,8 @@
             },
             {
                 "name": "Box A4",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/box_closed.png",
+                "chest_opened_img": "/images/items/open/box_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -620,8 +662,8 @@
             },
             {
                 "name": "Box A8",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/box_closed.png",
+                "chest_opened_img": "/images/items/open/box_closed.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "

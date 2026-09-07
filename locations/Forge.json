@@ -25,7 +25,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850903"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/acutorimass.png",
+                        "chest_opened_img": "/images/items/open/acutorimass.png"
                     },
                     {
                         "name": "Aerial Blade",
@@ -35,7 +37,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850700"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/aerialblade.png",
+                        "chest_opened_img": "/images/items/open/aerialblade.png"
                     },
                     {
                         "name": "Algernon",
@@ -45,7 +49,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850870"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/algernon.png",
+                        "chest_opened_img": "/images/items/open/algernon.png"
                     },
                     {
                         "name": "Alldale",
@@ -55,7 +61,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850821"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/alldale.png",
+                        "chest_opened_img": "/images/items/open/alldale.png"
                     },
                     {
                         "name": "Amethyst Rod",
@@ -65,7 +73,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850863"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/amethystrod.png",
+                        "chest_opened_img": "/images/items/open/amethystrod.png"
                     },
                     {
                         "name": "Animal Puppets",
@@ -75,7 +85,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850919"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/animalpuppets.png",
+                        "chest_opened_img": "/images/items/open/animalpuppets.png"
                     },
                     {
                         "name": "Aqua Sword",
@@ -85,7 +97,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850698"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/aquasword.png",
+                        "chest_opened_img": "/images/items/open/aquasword.png"
                     },
                     {
                         "name": "Aquamarine Rod",
@@ -95,7 +109,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850864"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/aquamarinerod.png",
+                        "chest_opened_img": "/images/items/open/aquamarinerod.png"
                     },
                     {
                         "name": "Axe",
@@ -105,7 +121,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850834"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/axe.png",
+                        "chest_opened_img": "/images/items/open/axe.png"
                     },
                     {
                         "name": "Back Scratcher",
@@ -115,7 +133,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850719"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/backscratcher.png",
+                        "chest_opened_img": "/images/items/open/backscratcher.png"
                     },
                     {
                         "name": "Balmung",
@@ -125,7 +145,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850755"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/balmung.png",
+                        "chest_opened_img": "/images/items/open/balmung.png"
                     },
                     {
                         "name": "Basilisk Fang",
@@ -135,7 +157,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850837"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/basiliskfang.png",
+                        "chest_opened_img": "/images/items/open/basiliskfang.png"
                     },
                     {
                         "name": "Basket",
@@ -145,7 +169,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850851"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/basket.png",
+                        "chest_opened_img": "/images/items/open/basket.png"
                     },
                     {
                         "name": "Bat",
@@ -155,7 +181,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850816"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bat.png",
+                        "chest_opened_img": "/images/items/open/bat.png"
                     },
                     {
                         "name": "Battle Axe",
@@ -165,7 +193,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850819"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/battleaxe.png",
+                        "chest_opened_img": "/images/items/open/battleaxe.png"
                     },
                     {
                         "name": "Battle Hammer",
@@ -175,7 +205,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850796"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/battlehammer.png",
+                        "chest_opened_img": "/images/items/open/battlehammer.png"
                     },
                     {
                         "name": "Battle Scythe",
@@ -185,7 +217,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850836"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/battlescythe.png",
+                        "chest_opened_img": "/images/items/open/battlescythe.png"
                     },
                     {
                         "name": "Bazal Katar",
@@ -195,7 +229,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850924"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bazalkatar.png",
+                        "chest_opened_img": "/images/items/open/bazalkatar.png"
                     },
                     {
                         "name": "Bear Claws",
@@ -205,7 +241,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850909"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bearclaws.png",
+                        "chest_opened_img": "/images/items/open/bearclaws.png"
                     },
                     {
                         "name": "Beginner's Pole",
@@ -215,7 +253,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850952"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/beginnerspole.png",
+                        "chest_opened_img": "/images/items/open/beginnerspole.png"
                     },
                     {
                         "name": "Belvarose",
@@ -225,7 +265,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850781"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/belvarose.png",
+                        "chest_opened_img": "/images/items/open/belvarose.png"
                     },
                     {
                         "name": "Belzebuth",
@@ -235,7 +277,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850759"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/belzebuth.png",
+                        "chest_opened_img": "/images/items/open/belzebuth.png"
                     },
                     {
                         "name": "Big Knife",
@@ -245,7 +289,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850753"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bigknife.png",
+                        "chest_opened_img": "/images/items/open/bigknife.png"
                     },
                     {
                         "name": "Bio Smasher",
@@ -255,7 +301,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850743"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/biosmasher.png",
+                        "chest_opened_img": "/images/items/open/biosmasher.png"
                     },
                     {
                         "name": "Bjor",
@@ -265,7 +313,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850782"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bjor.png",
+                        "chest_opened_img": "/images/items/open/bjor.png"
                     },
                     {
                         "name": "Blessed Hoe",
@@ -275,7 +325,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850930"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/blessedhoe.png",
+                        "chest_opened_img": "/images/items/open/blessedhoe.png"
                     },
                     {
                         "name": "Blood Lance",
@@ -285,7 +337,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850768"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bloodlance.png",
+                        "chest_opened_img": "/images/items/open/bloodlance.png"
                     },
                     {
                         "name": "Blue-Eyed Blade",
@@ -295,7 +349,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850737"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/blue-eyedblade.png",
+                        "chest_opened_img": "/images/items/open/blue-eyedblade.png"
                     },
                     {
                         "name": "Bone Hammer",
@@ -305,7 +361,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850807"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bonehammer.png",
+                        "chest_opened_img": "/images/items/open/bonehammer.png"
                     },
                     {
                         "name": "Brass Knuckles",
@@ -315,7 +373,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850907"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/brassknuckles.png",
+                        "chest_opened_img": "/images/items/open/brassknuckles.png"
                     },
                     {
                         "name": "Braveheart",
@@ -325,7 +385,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850758"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/braveheart.png",
+                        "chest_opened_img": "/images/items/open/braveheart.png"
                     },
                     {
                         "name": "Brionac",
@@ -335,7 +397,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850779"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/brionac.png",
+                        "chest_opened_img": "/images/items/open/brionac.png"
                     },
                     {
                         "name": "Broadsword",
@@ -345,7 +409,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850695"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/broadsword.png",
+                        "chest_opened_img": "/images/items/open/broadsword.png"
                     },
                     {
                         "name": "Broken Wall",
@@ -355,7 +421,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850892"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/brokenwall.png",
+                        "chest_opened_img": "/images/items/open/brokenwall.png"
                     },
                     {
                         "name": "Bubble Staff",
@@ -365,7 +433,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850855"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bubblestaff.png",
+                        "chest_opened_img": "/images/items/open/bubblestaff.png"
                     },
                     {
                         "name": "Burning Sword",
@@ -375,7 +445,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850701"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/burningsword.png",
+                        "chest_opened_img": "/images/items/open/burningsword.png"
                     },
                     {
                         "name": "Caestus",
@@ -385,7 +457,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850923"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/caestus.png",
+                        "chest_opened_img": "/images/items/open/caestus.png"
                     },
                     {
                         "name": "Caliburn",
@@ -395,7 +469,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850761"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/caliburn.png",
+                        "chest_opened_img": "/images/items/open/caliburn.png"
                     },
                     {
                         "name": "Cat Punch",
@@ -405,7 +481,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850917"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/catpunch.png",
+                        "chest_opened_img": "/images/items/open/catpunch.png"
                     },
                     {
                         "name": "Chaos Blade",
@@ -415,7 +493,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850714"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/chaosblade.png",
+                        "chest_opened_img": "/images/items/open/chaosblade.png"
                     },
                     {
                         "name": "Chaos Edge",
@@ -425,7 +505,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850894"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/chaosedge.png",
+                        "chest_opened_img": "/images/items/open/chaosedge.png"
                     },
                     {
                         "name": "Cheap Axe",
@@ -435,7 +517,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850946"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cheapaxe.png",
+                        "chest_opened_img": "/images/items/open/cheapaxe.png"
                     },
                     {
                         "name": "Cheap Hammer",
@@ -445,7 +529,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850941"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cheaphammer.png",
+                        "chest_opened_img": "/images/items/open/cheaphammer.png"
                     },
                     {
                         "name": "Cheap Hoe",
@@ -455,7 +541,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850926"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cheaphoe.png",
+                        "chest_opened_img": "/images/items/open/cheaphoe.png"
                     },
                     {
                         "name": "Cheap Pole",
@@ -465,7 +553,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850951"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cheappole.png",
+                        "chest_opened_img": "/images/items/open/cheappole.png"
                     },
                     {
                         "name": "Cheap Sickle",
@@ -475,7 +565,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850936"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cheapsickle.png",
+                        "chest_opened_img": "/images/items/open/cheapsickle.png"
                     },
                     {
                         "name": "Cheap Waterpot",
@@ -485,7 +577,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850931"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cheapwaterpot.png",
+                        "chest_opened_img": "/images/items/open/cheapwaterpot.png"
                     },
                     {
                         "name": "Chopping Axe",
@@ -495,7 +589,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850947"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/choppingaxe.png",
+                        "chest_opened_img": "/images/items/open/choppingaxe.png"
                     },
                     {
                         "name": "Claymore",
@@ -505,7 +601,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850729"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/claymore.png",
+                        "chest_opened_img": "/images/items/open/claymore.png"
                     },
                     {
                         "name": "Corsesca",
@@ -515,7 +613,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850771"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/corsesca.png",
+                        "chest_opened_img": "/images/items/open/corsesca.png"
                     },
                     {
                         "name": "Corsesca+",
@@ -525,7 +625,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850785"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/corsesca+.png",
+                        "chest_opened_img": "/images/items/open/corsesca+.png"
                     },
                     {
                         "name": "Crescent Axe",
@@ -535,7 +637,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850824"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/crescentaxe.png",
+                        "chest_opened_img": "/images/items/open/crescentaxe.png"
                     },
                     {
                         "name": "Crescent Axe+",
@@ -545,7 +649,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850833"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/crescentaxe+.png",
+                        "chest_opened_img": "/images/items/open/crescentaxe+.png"
                     },
                     {
                         "name": "Crimson Staff",
@@ -555,7 +661,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850854"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/crimsonstaff.png",
+                        "chest_opened_img": "/images/items/open/crimsonstaff.png"
                     },
                     {
                         "name": "Crystal Hammer",
@@ -565,7 +673,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850808"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/crystalhammer.png",
+                        "chest_opened_img": "/images/items/open/crystalhammer.png"
                     },
                     {
                         "name": "Cutlass",
@@ -575,7 +685,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850718"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cutlass.png",
+                        "chest_opened_img": "/images/items/open/cutlass.png"
                     },
                     {
                         "name": "Cyclone Blade",
@@ -585,7 +697,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850732"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cycloneblade.png",
+                        "chest_opened_img": "/images/items/open/cycloneblade.png"
                     },
                     {
                         "name": "Cyclone Rod",
@@ -595,7 +709,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850858"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cyclonerod.png",
+                        "chest_opened_img": "/images/items/open/cyclonerod.png"
                     },
                     {
                         "name": "Daicone",
@@ -605,7 +721,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850760"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/daicone.png",
+                        "chest_opened_img": "/images/items/open/daicone.png"
                     },
                     {
                         "name": "Dancing Dicer",
@@ -615,7 +733,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850733"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/dancingdicer.png",
+                        "chest_opened_img": "/images/items/open/dancingdicer.png"
                     },
                     {
                         "name": "Dark Invitation",
@@ -625,7 +745,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850887"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/darkinvitation.png",
+                        "chest_opened_img": "/images/items/open/darkinvitation.png"
                     },
                     {
                         "name": "Deep Blizzard",
@@ -635,7 +757,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850886"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/deepblizzard.png",
+                        "chest_opened_img": "/images/items/open/deepblizzard.png"
                     },
                     {
                         "name": "Defender",
@@ -645,7 +769,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850699"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/defender.png",
+                        "chest_opened_img": "/images/items/open/defender.png"
                     },
                     {
                         "name": "Dekash",
@@ -655,7 +781,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850757"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/dekash.png",
+                        "chest_opened_img": "/images/items/open/dekash.png"
                     },
                     {
                         "name": "Demon Axe",
@@ -665,7 +793,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850823"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/demonaxe.png",
+                        "chest_opened_img": "/images/items/open/demonaxe.png"
                     },
                     {
                         "name": "Desert Wind",
@@ -675,7 +805,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850891"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/desertwind.png",
+                        "chest_opened_img": "/images/items/open/desertwind.png"
                     },
                     {
                         "name": "Devil Finger",
@@ -685,7 +817,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850838"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/devilfinger.png",
+                        "chest_opened_img": "/images/items/open/devilfinger.png"
                     },
                     {
                         "name": "Diamond Rod",
@@ -695,7 +829,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850865"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/diamondrod.png",
+                        "chest_opened_img": "/images/items/open/diamondrod.png"
                     },
                     {
                         "name": "Double Edge",
@@ -705,7 +841,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850830"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/doubleedge.png",
+                        "chest_opened_img": "/images/items/open/doubleedge.png"
                     },
                     {
                         "name": "Double Scratch",
@@ -715,7 +853,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850899"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/doublescratch.png",
+                        "chest_opened_img": "/images/items/open/doublescratch.png"
                     },
                     {
                         "name": "Dragon Claws",
@@ -725,7 +865,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850918"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/dragonclaws.png",
+                        "chest_opened_img": "/images/items/open/dragonclaws.png"
                     },
                     {
                         "name": "Dragon Slayer",
@@ -735,7 +877,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850709"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/dragonslayer.png",
+                        "chest_opened_img": "/images/items/open/dragonslayer.png"
                     },
                     {
                         "name": "Dragon's Fang",
@@ -745,7 +889,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850788"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/dragonsfang.png",
+                        "chest_opened_img": "/images/items/open/dragonsfang.png"
                     },
                     {
                         "name": "Dragoon Claw",
@@ -755,7 +901,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850889"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/dragoonclaw.png",
+                        "chest_opened_img": "/images/items/open/dragoonclaw.png"
                     },
                     {
                         "name": "Durendal",
@@ -765,7 +913,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850720"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/durendal.png",
+                        "chest_opened_img": "/images/items/open/durendal.png"
                     },
                     {
                         "name": "Earnest Edge",
@@ -775,7 +925,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850901"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/earnestedge.png",
+                        "chest_opened_img": "/images/items/open/earnestedge.png"
                     },
                     {
                         "name": "Earth Shade",
@@ -785,7 +937,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850742"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/earthshade.png",
+                        "chest_opened_img": "/images/items/open/earthshade.png"
                     },
                     {
                         "name": "Earth Staff",
@@ -795,7 +949,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850845"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/earthstaff.png",
+                        "chest_opened_img": "/images/items/open/earthstaff.png"
                     },
                     {
                         "name": "Efreet",
@@ -805,7 +961,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850885"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/efreet.png",
+                        "chest_opened_img": "/images/items/open/efreet.png"
                     },
                     {
                         "name": "Elvish Harp",
@@ -815,7 +973,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850873"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/elvishharp.png",
+                        "chest_opened_img": "/images/items/open/elvishharp.png"
                     },
                     {
                         "name": "Emerald Edge",
@@ -825,7 +985,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850897"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/emeraldedge.png",
+                        "chest_opened_img": "/images/items/open/emeraldedge.png"
                     },
                     {
                         "name": "Emerald Rod",
@@ -835,7 +997,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850861"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/emeraldrod.png",
+                        "chest_opened_img": "/images/items/open/emeraldrod.png"
                     },
                     {
                         "name": "Executioner",
@@ -845,7 +1009,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850825"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/executioner.png",
+                        "chest_opened_img": "/images/items/open/executioner.png"
                     },
                     {
                         "name": "Famous Pole",
@@ -855,7 +1021,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850954"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/famouspole.png",
+                        "chest_opened_img": "/images/items/open/famouspole.png"
                     },
                     {
                         "name": "Fatal Crush",
@@ -865,7 +1033,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850813"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fatalcrush.png",
+                        "chest_opened_img": "/images/items/open/fatalcrush.png"
                     },
                     {
                         "name": "Feather Lance",
@@ -875,7 +1045,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850780"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/featherlance.png",
+                        "chest_opened_img": "/images/items/open/featherlance.png"
                     },
                     {
                         "name": "Fenrir",
@@ -885,7 +1057,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850925"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fenrir.png",
+                        "chest_opened_img": "/images/items/open/fenrir.png"
                     },
                     {
                         "name": "Fists of Dark",
@@ -895,7 +1069,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850915"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fistsofdark.png",
+                        "chest_opened_img": "/images/items/open/fistsofdark.png"
                     },
                     {
                         "name": "Fists of Fire",
@@ -905,7 +1081,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850910"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fistsoffire.png",
+                        "chest_opened_img": "/images/items/open/fistsoffire.png"
                     },
                     {
                         "name": "Fists of Light",
@@ -915,7 +1093,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850914"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fistsoflight.png",
+                        "chest_opened_img": "/images/items/open/fistsoflight.png"
                     },
                     {
                         "name": "Fists of Water",
@@ -925,7 +1105,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850911"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fistsofwater.png",
+                        "chest_opened_img": "/images/items/open/fistsofwater.png"
                     },
                     {
                         "name": "Fists of Wind",
@@ -935,7 +1117,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850912"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fistsofwind.png",
+                        "chest_opened_img": "/images/items/open/fistsofwind.png"
                     },
                     {
                         "name": "Fists of the Earth",
@@ -945,7 +1129,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850913"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fistsoftheearth.png",
+                        "chest_opened_img": "/images/items/open/fistsoftheearth.png"
                     },
                     {
                         "name": "Fivestaff",
@@ -955,7 +1141,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850795"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/fivestaff.png",
+                        "chest_opened_img": "/images/items/open/fivestaff.png"
                     },
                     {
                         "name": "Flamberge",
@@ -965,7 +1153,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850740"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/flamberge.png",
+                        "chest_opened_img": "/images/items/open/flamberge.png"
                     },
                     {
                         "name": "Flamberge+",
@@ -975,7 +1165,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850751"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/flamberge+.png",
+                        "chest_opened_img": "/images/items/open/flamberge+.png"
                     },
                     {
                         "name": "Flame Hammer",
@@ -985,7 +1177,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850803"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/flamehammer.png",
+                        "chest_opened_img": "/images/items/open/flamehammer.png"
                     },
                     {
                         "name": "Flame Saber",
@@ -995,7 +1189,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850731"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/flamesaber.png",
+                        "chest_opened_img": "/images/items/open/flamesaber.png"
                     },
                     {
                         "name": "Flare Lance",
@@ -1005,7 +1201,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850773"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/flarelance.png",
+                        "chest_opened_img": "/images/items/open/flarelance.png"
                     },
                     {
                         "name": "Flare Staff",
@@ -1015,7 +1213,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850842"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/flarestaff.png",
+                        "chest_opened_img": "/images/items/open/flarestaff.png"
                     },
                     {
                         "name": "Force Divide",
@@ -1025,7 +1225,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850888"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/forcedivide.png",
+                        "chest_opened_img": "/images/items/open/forcedivide.png"
                     },
                     {
                         "name": "Force Element",
@@ -1035,7 +1237,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850749"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/forceelement.png",
+                        "chest_opened_img": "/images/items/open/forceelement.png"
                     },
                     {
                         "name": "Friendly Rod",
@@ -1045,7 +1249,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850866"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/friendlyrod.png",
+                        "chest_opened_img": "/images/items/open/friendlyrod.png"
                     },
                     {
                         "name": "Frost Axe",
@@ -1055,7 +1261,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850827"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/frostaxe.png",
+                        "chest_opened_img": "/images/items/open/frostaxe.png"
                     },
                     {
                         "name": "Frost Edge",
@@ -1065,7 +1273,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850878"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/frostedge.png",
+                        "chest_opened_img": "/images/items/open/frostedge.png"
                     },
                     {
                         "name": "Gae Bolg",
@@ -1075,7 +1285,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850789"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/gaebolg.png",
+                        "chest_opened_img": "/images/items/open/gaebolg.png"
                     },
                     {
                         "name": "Gaia Rod",
@@ -1085,7 +1297,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850856"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/gaiarod.png",
+                        "chest_opened_img": "/images/items/open/gaiarod.png"
                     },
                     {
                         "name": "Gaia Sword",
@@ -1095,7 +1309,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850712"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/gaiasword.png",
+                        "chest_opened_img": "/images/items/open/gaiasword.png"
                     },
                     {
                         "name": "Gigant Hammer",
@@ -1105,7 +1321,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850800"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/giganthammer.png",
+                        "chest_opened_img": "/images/items/open/giganthammer.png"
                     },
                     {
                         "name": "Gigant Hammer+",
@@ -1115,7 +1333,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850810"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/giganthammer+.png",
+                        "chest_opened_img": "/images/items/open/giganthammer+.png"
                     },
                     {
                         "name": "Gladius",
@@ -1125,7 +1345,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850721"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/gladius.png",
+                        "chest_opened_img": "/images/items/open/gladius.png"
                     },
                     {
                         "name": "Gloves (Weapon)",
@@ -1135,7 +1357,9 @@
                         "visibility_rules": [
                             "opt_craftsanity,$RF4Visible|1850916"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/gloves(weapon).png",
+                        "chest_opened_img": "/images/items/open/gloves(weapon).png"
                     },
                     {
                         "name": "Golden Hammer",
@@ -1145,7 +1369,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850944"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/goldenhammer.png",
+                        "chest_opened_img": "/images/items/open/goldenhammer.png"
                     },
                     {
                         "name": "Golden Turnip Staff",
@@ -1155,7 +1381,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850871"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/goldenturnipstaff.png",
+                        "chest_opened_img": "/images/items/open/goldenturnipstaff.png"
                     },
                     {
                         "name": "Golem Punch",
@@ -1165,7 +1393,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850921"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/golempunch.png",
+                        "chest_opened_img": "/images/items/open/golempunch.png"
                     },
                     {
                         "name": "Gorgeous Lx",
@@ -1175,7 +1405,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850902"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/gorgeouslx.png",
+                        "chest_opened_img": "/images/items/open/gorgeouslx.png"
                     },
                     {
                         "name": "Gorgeous Sword",
@@ -1185,7 +1417,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850722"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/gorgeoussword.png",
+                        "chest_opened_img": "/images/items/open/gorgeoussword.png"
                     },
                     {
                         "name": "Grand Smasher",
@@ -1195,7 +1429,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850736"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/grandsmasher.png",
+                        "chest_opened_img": "/images/items/open/grandsmasher.png"
                     },
                     {
                         "name": "Grantale",
@@ -1205,7 +1441,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850713"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/grantale.png",
+                        "chest_opened_img": "/images/items/open/grantale.png"
                     },
                     {
                         "name": "Graviton Hammer",
@@ -1215,7 +1453,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850806"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/gravitonhammer.png",
+                        "chest_opened_img": "/images/items/open/gravitonhammer.png"
                     },
                     {
                         "name": "Great Axe",
@@ -1225,7 +1465,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850822"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/greataxe.png",
+                        "chest_opened_img": "/images/items/open/greataxe.png"
                     },
                     {
                         "name": "Great Hammer",
@@ -1235,7 +1477,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850798"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/greathammer.png",
+                        "chest_opened_img": "/images/items/open/greathammer.png"
                     },
                     {
                         "name": "Great Sword",
@@ -1245,7 +1489,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850734"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/greatsword.png",
+                        "chest_opened_img": "/images/items/open/greatsword.png"
                     },
                     {
                         "name": "Gungnir",
@@ -1255,7 +1501,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850783"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/gungnir.png",
+                        "chest_opened_img": "/images/items/open/gungnir.png"
                     },
                     {
                         "name": "Halberd",
@@ -1265,7 +1513,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850766"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/halberd.png",
+                        "chest_opened_img": "/images/items/open/halberd.png"
                     },
                     {
                         "name": "Hammer",
@@ -1275,7 +1525,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850811"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/hammer.png",
+                        "chest_opened_img": "/images/items/open/hammer.png"
                     },
                     {
                         "name": "Hand of God",
@@ -1285,7 +1537,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850922"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/handofgod.png",
+                        "chest_opened_img": "/images/items/open/handofgod.png"
                     },
                     {
                         "name": "Heart Fire",
@@ -1295,7 +1549,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850890"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/heartfire.png",
+                        "chest_opened_img": "/images/items/open/heartfire.png"
                     },
                     {
                         "name": "Heat Axe",
@@ -1305,7 +1561,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850826"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/heataxe.png",
+                        "chest_opened_img": "/images/items/open/heataxe.png"
                     },
                     {
                         "name": "Heaven Asunder",
@@ -1315,7 +1573,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850735"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/heavenasunder.png",
+                        "chest_opened_img": "/images/items/open/heavenasunder.png"
                     },
                     {
                         "name": "Heavy Lance",
@@ -1325,7 +1585,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850774"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/heavylance.png",
+                        "chest_opened_img": "/images/items/open/heavylance.png"
                     },
                     {
                         "name": "Hell Branch",
@@ -1335,7 +1597,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850853"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/hellbranch.png",
+                        "chest_opened_img": "/images/items/open/hellbranch.png"
                     },
                     {
                         "name": "Hell Curse",
@@ -1345,7 +1609,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850869"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/hellcurse.png",
+                        "chest_opened_img": "/images/items/open/hellcurse.png"
                     },
                     {
                         "name": "Ice Hammer",
@@ -1355,7 +1621,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850804"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/icehammer.png",
+                        "chest_opened_img": "/images/items/open/icehammer.png"
                     },
                     {
                         "name": "Ice Staff",
@@ -1365,7 +1633,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850843"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/icestaff.png",
+                        "chest_opened_img": "/images/items/open/icestaff.png"
                     },
                     {
                         "name": "Iceberg",
@@ -1375,7 +1645,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850775"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/iceberg.png",
+                        "chest_opened_img": "/images/items/open/iceberg.png"
                     },
                     {
                         "name": "Icifier",
@@ -1385,7 +1657,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850706"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/icifier.png",
+                        "chest_opened_img": "/images/items/open/icifier.png"
                     },
                     {
                         "name": "Invisiblade",
@@ -1395,7 +1669,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850727"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/invisiblade.png",
+                        "chest_opened_img": "/images/items/open/invisiblade.png"
                     },
                     {
                         "name": "Iron Bat",
@@ -1405,7 +1681,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850817"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ironbat.png",
+                        "chest_opened_img": "/images/items/open/ironbat.png"
                     },
                     {
                         "name": "Iron Edge",
@@ -1415,7 +1693,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850896"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ironedge.png",
+                        "chest_opened_img": "/images/items/open/ironedge.png"
                     },
                     {
                         "name": "Iron Hammer",
@@ -1425,7 +1705,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850942"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ironhammer.png",
+                        "chest_opened_img": "/images/items/open/ironhammer.png"
                     },
                     {
                         "name": "Iron Sickle",
@@ -1435,7 +1717,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850937"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ironsickle.png",
+                        "chest_opened_img": "/images/items/open/ironsickle.png"
                     },
                     {
                         "name": "Ironleaf Fists",
@@ -1445,7 +1729,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850920"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ironleaffists.png",
+                        "chest_opened_img": "/images/items/open/ironleaffists.png"
                     },
                     {
                         "name": "Joy Waterpot",
@@ -1455,7 +1741,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850935"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/joywaterpot.png",
+                        "chest_opened_img": "/images/items/open/joywaterpot.png"
                     },
                     {
                         "name": "Katana",
@@ -1465,7 +1753,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850754"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/katana.png",
+                        "chest_opened_img": "/images/items/open/katana.png"
                     },
                     {
                         "name": "Katzbalger",
@@ -1475,7 +1765,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850752"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/katzbalger.png",
+                        "chest_opened_img": "/images/items/open/katzbalger.png"
                     },
                     {
                         "name": "Kongo",
@@ -1485,7 +1777,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850815"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/kongo.png",
+                        "chest_opened_img": "/images/items/open/kongo.png"
                     },
                     {
                         "name": "Kote",
@@ -1495,7 +1789,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850908"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/kote.png",
+                        "chest_opened_img": "/images/items/open/kote.png"
                     },
                     {
                         "name": "Lance",
@@ -1505,7 +1801,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850764"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/lance.png",
+                        "chest_opened_img": "/images/items/open/lance.png"
                     },
                     {
                         "name": "Lance+",
@@ -1515,7 +1813,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850784"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/lance+.png",
+                        "chest_opened_img": "/images/items/open/lance+.png"
                     },
                     {
                         "name": "Leather Gloves",
@@ -1525,7 +1825,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850906"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/leathergloves.png",
+                        "chest_opened_img": "/images/items/open/leathergloves.png"
                     },
                     {
                         "name": "Legendary Sickle",
@@ -1535,7 +1837,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850940"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/legendarysickle.png",
+                        "chest_opened_img": "/images/items/open/legendarysickle.png"
                     },
                     {
                         "name": "Legion",
@@ -1545,7 +1849,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850792"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/legion.png",
+                        "chest_opened_img": "/images/items/open/legion.png"
                     },
                     {
                         "name": "Lightning Wand",
@@ -1555,7 +1861,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850844"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/lightningwand.png",
+                        "chest_opened_img": "/images/items/open/lightningwand.png"
                     },
                     {
                         "name": "Lion Waterpot",
@@ -1565,7 +1873,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850933"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/lionwaterpot.png",
+                        "chest_opened_img": "/images/items/open/lionwaterpot.png"
                     },
                     {
                         "name": "Lollipop",
@@ -1575,7 +1885,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850835"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/lollipop.png",
+                        "chest_opened_img": "/images/items/open/lollipop.png"
                     },
                     {
                         "name": "Love-Love Rod",
@@ -1585,7 +1897,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850867"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/love-loverod.png",
+                        "chest_opened_img": "/images/items/open/love-loverod.png"
                     },
                     {
                         "name": "Luck Blade",
@@ -1595,7 +1909,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850703"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/luckblade.png",
+                        "chest_opened_img": "/images/items/open/luckblade.png"
                     },
                     {
                         "name": "Lumber Axe",
@@ -1605,7 +1921,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850948"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/lumberaxe.png",
+                        "chest_opened_img": "/images/items/open/lumberaxe.png"
                     },
                     {
                         "name": "Mage's Staff",
@@ -1615,7 +1933,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850847"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/magesstaff.png",
+                        "chest_opened_img": "/images/items/open/magesstaff.png"
                     },
                     {
                         "name": "Mage's Staff+",
@@ -1625,7 +1945,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850849"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/magesstaff+.png",
+                        "chest_opened_img": "/images/items/open/magesstaff+.png"
                     },
                     {
                         "name": "Magic Broom",
@@ -1635,7 +1957,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850850"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/magicbroom.png",
+                        "chest_opened_img": "/images/items/open/magicbroom.png"
                     },
                     {
                         "name": "Magic Shot",
@@ -1645,7 +1969,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850852"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/magicshot.png",
+                        "chest_opened_img": "/images/items/open/magicshot.png"
                     },
                     {
                         "name": "Magical Lance",
@@ -1655,7 +1981,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850790"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/magicallance.png",
+                        "chest_opened_img": "/images/items/open/magicallance.png"
                     },
                     {
                         "name": "Metus",
@@ -1665,7 +1993,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850776"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/metus.png",
+                        "chest_opened_img": "/images/items/open/metus.png"
                     },
                     {
                         "name": "Miracle Axe",
@@ -1675,7 +2005,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850950"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/miracleaxe.png",
+                        "chest_opened_img": "/images/items/open/miracleaxe.png"
                     },
                     {
                         "name": "Mjolnir",
@@ -1685,7 +2017,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850801"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/mjolnir.png",
+                        "chest_opened_img": "/images/items/open/mjolnir.png"
                     },
                     {
                         "name": "Monk Staff",
@@ -1695,7 +2029,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850777"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/monkstaff.png",
+                        "chest_opened_img": "/images/items/open/monkstaff.png"
                     },
                     {
                         "name": "Moon Shadow",
@@ -1705,7 +2041,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850748"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/moonshadow.png",
+                        "chest_opened_img": "/images/items/open/moonshadow.png"
                     },
                     {
                         "name": "Mountain Axe",
@@ -1715,7 +2053,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850949"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/mountainaxe.png",
+                        "chest_opened_img": "/images/items/open/mountainaxe.png"
                     },
                     {
                         "name": "Needle Spear",
@@ -1725,7 +2065,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850765"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/needlespear.png",
+                        "chest_opened_img": "/images/items/open/needlespear.png"
                     },
                     {
                         "name": "Orcus Sword",
@@ -1735,7 +2077,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850893"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/orcussword.png",
+                        "chest_opened_img": "/images/items/open/orcussword.png"
                     },
                     {
                         "name": "Orochi",
@@ -1745,7 +2089,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850762"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/orochi.png",
+                        "chest_opened_img": "/images/items/open/orochi.png"
                     },
                     {
                         "name": "Overbreak",
@@ -1755,7 +2101,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850778"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/overbreak.png",
+                        "chest_opened_img": "/images/items/open/overbreak.png"
                     },
                     {
                         "name": "Pine Club",
@@ -1765,7 +2113,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850794"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pineclub.png",
+                        "chest_opened_img": "/images/items/open/pineclub.png"
                     },
                     {
                         "name": "Pitchfork",
@@ -1775,7 +2125,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850787"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/pitchfork.png",
+                        "chest_opened_img": "/images/items/open/pitchfork.png"
                     },
                     {
                         "name": "Platinum Edge",
@@ -1785,7 +2137,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850884"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/platinumedge.png",
+                        "chest_opened_img": "/images/items/open/platinumedge.png"
                     },
                     {
                         "name": "Platinum Hammer",
@@ -1795,7 +2149,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850945"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/platinumhammer.png",
+                        "chest_opened_img": "/images/items/open/platinumhammer.png"
                     },
                     {
                         "name": "Platinum Sword",
@@ -1805,7 +2161,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850704"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/platinumsword.png",
+                        "chest_opened_img": "/images/items/open/platinumsword.png"
                     },
                     {
                         "name": "Platinum Sword+",
@@ -1815,7 +2173,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850717"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/platinumsword+.png",
+                        "chest_opened_img": "/images/items/open/platinumsword+.png"
                     },
                     {
                         "name": "Poison Blade",
@@ -1825,7 +2185,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850738"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/poisonblade.png",
+                        "chest_opened_img": "/images/items/open/poisonblade.png"
                     },
                     {
                         "name": "Poison Queen",
@@ -1835,7 +2197,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850793"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/poisonqueen.png",
+                        "chest_opened_img": "/images/items/open/poisonqueen.png"
                     },
                     {
                         "name": "Poison Spear",
@@ -1845,7 +2209,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850770"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/poisonspear.png",
+                        "chest_opened_img": "/images/items/open/poisonspear.png"
                     },
                     {
                         "name": "Pole Axe",
@@ -1855,7 +2221,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850820"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/poleaxe.png",
+                        "chest_opened_img": "/images/items/open/poleaxe.png"
                     },
                     {
                         "name": "Pole Axe+",
@@ -1865,7 +2233,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850832"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/poleaxe+.png",
+                        "chest_opened_img": "/images/items/open/poleaxe+.png"
                     },
                     {
                         "name": "Priest Saber",
@@ -1875,7 +2245,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850900"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/priestsaber.png",
+                        "chest_opened_img": "/images/items/open/priestsaber.png"
                     },
                     {
                         "name": "Psycho",
@@ -1885,7 +2257,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850756"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/psycho.png",
+                        "chest_opened_img": "/images/items/open/psycho.png"
                     },
                     {
                         "name": "Punisher",
@@ -1895,7 +2269,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850744"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/punisher.png",
+                        "chest_opened_img": "/images/items/open/punisher.png"
                     },
                     {
                         "name": "Quality Sickle",
@@ -1905,7 +2281,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850938"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/qualitysickle.png",
+                        "chest_opened_img": "/images/items/open/qualitysickle.png"
                     },
                     {
                         "name": "Rainbow Waterpot",
@@ -1915,7 +2293,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850934"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/rainbowwaterpot.png",
+                        "chest_opened_img": "/images/items/open/rainbowwaterpot.png"
                     },
                     {
                         "name": "Rampage",
@@ -1925,7 +2305,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850883"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/rampage.png",
+                        "chest_opened_img": "/images/items/open/rampage.png"
                     },
                     {
                         "name": "Raventine",
@@ -1935,7 +2317,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850705"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/raventine.png",
+                        "chest_opened_img": "/images/items/open/raventine.png"
                     },
                     {
                         "name": "Rock Axe",
@@ -1945,7 +2329,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850829"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/rockaxe.png",
+                        "chest_opened_img": "/images/items/open/rockaxe.png"
                     },
                     {
                         "name": "Rod",
@@ -1955,7 +2341,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850839"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/rod.png",
+                        "chest_opened_img": "/images/items/open/rod.png"
                     },
                     {
                         "name": "Ruby Rod",
@@ -1965,7 +2353,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850860"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/rubyrod.png",
+                        "chest_opened_img": "/images/items/open/rubyrod.png"
                     },
                     {
                         "name": "Rune Blade",
@@ -1975,7 +2365,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850715"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/runeblade.png",
+                        "chest_opened_img": "/images/items/open/runeblade.png"
                     },
                     {
                         "name": "Rune Edge",
@@ -1985,7 +2377,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850895"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/runeedge.png",
+                        "chest_opened_img": "/images/items/open/runeedge.png"
                     },
                     {
                         "name": "Rune Legend",
@@ -1995,7 +2389,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850724"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/runelegend.png",
+                        "chest_opened_img": "/images/items/open/runelegend.png"
                     },
                     {
                         "name": "Rune Staff",
@@ -2005,7 +2401,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850848"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/runestaff.png",
+                        "chest_opened_img": "/images/items/open/runestaff.png"
                     },
                     {
                         "name": "Sacred Pole",
@@ -2015,7 +2413,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850955"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sacredpole.png",
+                        "chest_opened_img": "/images/items/open/sacredpole.png"
                     },
                     {
                         "name": "Safety Lance",
@@ -2025,7 +2425,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850791"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/safetylance.png",
+                        "chest_opened_img": "/images/items/open/safetylance.png"
                     },
                     {
                         "name": "Saint Axe",
@@ -2035,7 +2437,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850831"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/saintaxe.png",
+                        "chest_opened_img": "/images/items/open/saintaxe.png"
                     },
                     {
                         "name": "Sakura",
@@ -2045,7 +2449,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850702"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sakura.png",
+                        "chest_opened_img": "/images/items/open/sakura.png"
                     },
                     {
                         "name": "Salamander",
@@ -2055,7 +2461,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850881"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/salamander.png",
+                        "chest_opened_img": "/images/items/open/salamander.png"
                     },
                     {
                         "name": "Sapphire Rod",
@@ -2065,7 +2473,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850862"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sapphirerod.png",
+                        "chest_opened_img": "/images/items/open/sapphirerod.png"
                     },
                     {
                         "name": "Schnabel",
@@ -2075,7 +2485,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850799"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/schnabel.png",
+                        "chest_opened_img": "/images/items/open/schnabel.png"
                     },
                     {
                         "name": "Sea Cutter",
@@ -2085,7 +2497,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850745"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/seacutter.png",
+                        "chest_opened_img": "/images/items/open/seacutter.png"
                     },
                     {
                         "name": "Seasoned Hoe",
@@ -2095,7 +2509,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850928"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/seasonedhoe.png",
+                        "chest_opened_img": "/images/items/open/seasonedhoe.png"
                     },
                     {
                         "name": "Shine Blade",
@@ -2105,7 +2521,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850741"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/shineblade.png",
+                        "chest_opened_img": "/images/items/open/shineblade.png"
                     },
                     {
                         "name": "Shiny Hoe",
@@ -2115,7 +2533,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850929"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/shinyhoe.png",
+                        "chest_opened_img": "/images/items/open/shinyhoe.png"
                     },
                     {
                         "name": "Shooting Star Staff",
@@ -2125,7 +2545,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850857"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/shootingstarstaff.png",
+                        "chest_opened_img": "/images/items/open/shootingstarstaff.png"
                     },
                     {
                         "name": "Short Dagger",
@@ -2135,7 +2557,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850875"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/shortdagger.png",
+                        "chest_opened_img": "/images/items/open/shortdagger.png"
                     },
                     {
                         "name": "Silent Grave",
@@ -2145,7 +2569,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850772"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/silentgrave.png",
+                        "chest_opened_img": "/images/items/open/silentgrave.png"
                     },
                     {
                         "name": "Silver Hammer",
@@ -2155,7 +2581,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850943"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/silverhammer.png",
+                        "chest_opened_img": "/images/items/open/silverhammer.png"
                     },
                     {
                         "name": "Silver Staff",
@@ -2165,7 +2593,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850841"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/silverstaff.png",
+                        "chest_opened_img": "/images/items/open/silverstaff.png"
                     },
                     {
                         "name": "Skilled Pole",
@@ -2175,7 +2605,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850953"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/skilledpole.png",
+                        "chest_opened_img": "/images/items/open/skilledpole.png"
                     },
                     {
                         "name": "Sky Hammer",
@@ -2185,7 +2617,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850805"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/skyhammer.png",
+                        "chest_opened_img": "/images/items/open/skyhammer.png"
                     },
                     {
                         "name": "Smash Blade",
@@ -2195,7 +2629,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850708"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/smashblade.png",
+                        "chest_opened_img": "/images/items/open/smashblade.png"
                     },
                     {
                         "name": "Snakesword",
@@ -2205,7 +2641,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850725"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/snakesword.png",
+                        "chest_opened_img": "/images/items/open/snakesword.png"
                     },
                     {
                         "name": "Snow Crown",
@@ -2215,7 +2653,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850747"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/snowcrown.png",
+                        "chest_opened_img": "/images/items/open/snowcrown.png"
                     },
                     {
                         "name": "Sonic Dagger",
@@ -2225,7 +2665,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850880"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sonicdagger.png",
+                        "chest_opened_img": "/images/items/open/sonicdagger.png"
                     },
                     {
                         "name": "Sorcerer's Wand",
@@ -2235,7 +2677,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850868"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sorcererswand.png",
+                        "chest_opened_img": "/images/items/open/sorcererswand.png"
                     },
                     {
                         "name": "Soul Eater",
@@ -2245,7 +2689,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850707"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/souleater.png",
+                        "chest_opened_img": "/images/items/open/souleater.png"
                     },
                     {
                         "name": "Spear",
@@ -2255,7 +2701,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850763"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/spear.png",
+                        "chest_opened_img": "/images/items/open/spear.png"
                     },
                     {
                         "name": "Spiked Hammer",
@@ -2265,7 +2713,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850802"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/spikedhammer.png",
+                        "chest_opened_img": "/images/items/open/spikedhammer.png"
                     },
                     {
                         "name": "Splash Star",
@@ -2275,7 +2725,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850818"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/splashstar.png",
+                        "chest_opened_img": "/images/items/open/splashstar.png"
                     },
                     {
                         "name": "Spoon",
@@ -2285,7 +2737,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850723"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/spoon.png",
+                        "chest_opened_img": "/images/items/open/spoon.png"
                     },
                     {
                         "name": "Staff",
@@ -2295,7 +2749,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850840"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/staff.png",
+                        "chest_opened_img": "/images/items/open/staff.png"
                     },
                     {
                         "name": "Star Saber",
@@ -2305,7 +2761,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850711"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/starsaber.png",
+                        "chest_opened_img": "/images/items/open/starsaber.png"
                     },
                     {
                         "name": "Steel Edge",
@@ -2315,7 +2773,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850876"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/steeledge.png",
+                        "chest_opened_img": "/images/items/open/steeledge.png"
                     },
                     {
                         "name": "Steel Katana",
@@ -2325,7 +2785,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850879"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/steelkatana.png",
+                        "chest_opened_img": "/images/items/open/steelkatana.png"
                     },
                     {
                         "name": "Steel Slicer",
@@ -2335,7 +2797,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850739"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/steelslicer.png",
+                        "chest_opened_img": "/images/items/open/steelslicer.png"
                     },
                     {
                         "name": "Steel Sword",
@@ -2345,7 +2809,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850696"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/steelsword.png",
+                        "chest_opened_img": "/images/items/open/steelsword.png"
                     },
                     {
                         "name": "Steel Sword+",
@@ -2355,7 +2821,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850716"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/steelsword+.png",
+                        "chest_opened_img": "/images/items/open/steelsword+.png"
                     },
                     {
                         "name": "Storm Wand",
@@ -2365,7 +2833,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850859"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/stormwand.png",
+                        "chest_opened_img": "/images/items/open/stormwand.png"
                     },
                     {
                         "name": "Strong Stone",
@@ -2375,7 +2845,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850814"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/strongstone.png",
+                        "chest_opened_img": "/images/items/open/strongstone.png"
                     },
                     {
                         "name": "Sturdy Hoe",
@@ -2385,7 +2857,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850927"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sturdyhoe.png",
+                        "chest_opened_img": "/images/items/open/sturdyhoe.png"
                     },
                     {
                         "name": "Sunspot",
@@ -2395,7 +2869,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850710"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sunspot.png",
+                        "chest_opened_img": "/images/items/open/sunspot.png"
                     },
                     {
                         "name": "Super Sickle",
@@ -2405,7 +2881,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850939"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/supersickle.png",
+                        "chest_opened_img": "/images/items/open/supersickle.png"
                     },
                     {
                         "name": "Sweet Potato Staff",
@@ -2415,7 +2893,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850872"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/sweetpotatostaff.png",
+                        "chest_opened_img": "/images/items/open/sweetpotatostaff.png"
                     },
                     {
                         "name": "Syringe",
@@ -2425,7 +2905,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850874"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/syringe.png",
+                        "chest_opened_img": "/images/items/open/syringe.png"
                     },
                     {
                         "name": "Thief Knife",
@@ -2435,7 +2917,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850898"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/thiefknife.png",
+                        "chest_opened_img": "/images/items/open/thiefknife.png"
                     },
                     {
                         "name": "Tin Waterpot",
@@ -2445,7 +2929,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850932"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/tinwaterpot.png",
+                        "chest_opened_img": "/images/items/open/tinwaterpot.png"
                     },
                     {
                         "name": "Tomahawk",
@@ -2455,7 +2941,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850828"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/tomahawk.png",
+                        "chest_opened_img": "/images/items/open/tomahawk.png"
                     },
                     {
                         "name": "Toy Hammer",
@@ -2465,7 +2953,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850812"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/toyhammer.png",
+                        "chest_opened_img": "/images/items/open/toyhammer.png"
                     },
                     {
                         "name": "Trident",
@@ -2475,7 +2965,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850786"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/trident.png",
+                        "chest_opened_img": "/images/items/open/trident.png"
                     },
                     {
                         "name": "Twin Blade",
@@ -2485,7 +2977,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850882"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/twinblade.png",
+                        "chest_opened_img": "/images/items/open/twinblade.png"
                     },
                     {
                         "name": "Twin Justice",
@@ -2495,7 +2989,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850905"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/twinjustice.png",
+                        "chest_opened_img": "/images/items/open/twinjustice.png"
                     },
                     {
                         "name": "Twin Leeks",
@@ -2505,7 +3001,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850904"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/twinleeks.png",
+                        "chest_opened_img": "/images/items/open/twinleeks.png"
                     },
                     {
                         "name": "Veggieblade",
@@ -2515,7 +3013,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850726"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/veggieblade.png",
+                        "chest_opened_img": "/images/items/open/veggieblade.png"
                     },
                     {
                         "name": "Volcanon",
@@ -2525,7 +3025,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850746"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/volcanon.png",
+                        "chest_opened_img": "/images/items/open/volcanon.png"
                     },
                     {
                         "name": "War Hammer",
@@ -2535,7 +3037,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850797"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/warhammer.png",
+                        "chest_opened_img": "/images/items/open/warhammer.png"
                     },
                     {
                         "name": "War Hammer+",
@@ -2545,7 +3049,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850809"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/warhammer+.png",
+                        "chest_opened_img": "/images/items/open/warhammer+.png"
                     },
                     {
                         "name": "Water Spear",
@@ -2555,7 +3061,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850767"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/waterspear.png",
+                        "chest_opened_img": "/images/items/open/waterspear.png"
                     },
                     {
                         "name": "Wind Edge",
@@ -2565,7 +3073,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850877"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/windedge.png",
+                        "chest_opened_img": "/images/items/open/windedge.png"
                     },
                     {
                         "name": "Wind Sword",
@@ -2575,7 +3085,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850697"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/windsword.png",
+                        "chest_opened_img": "/images/items/open/windsword.png"
                     },
                     {
                         "name": "Wizard's Staff",
@@ -2585,7 +3097,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850846"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/wizardsstaff.png",
+                        "chest_opened_img": "/images/items/open/wizardsstaff.png"
                     },
                     {
                         "name": "Wood Staff",
@@ -2595,7 +3109,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850769"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/woodstaff.png",
+                        "chest_opened_img": "/images/items/open/woodstaff.png"
                     },
                     {
                         "name": "Zweihaender",
@@ -2605,7 +3121,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850730"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/zweihaender.png",
+                        "chest_opened_img": "/images/items/open/zweihaender.png"
                     },
                     {
                         "name": "Zweihaender+",
@@ -2615,7 +3133,9 @@
                         "visibility_rules": [
                             "opt_forgesanity,$RF4Visible|1850750"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/zweihaender+.png",
+                        "chest_opened_img": "/images/items/open/zweihaender+.png"
                     }
                 ]
             }

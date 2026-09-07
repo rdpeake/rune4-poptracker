@@ -69,8 +69,6 @@ into `scripts/logic/request_events.lua`. A toggled request seeds the
 reachability sweeps directly, because a request you have handed in is somewhere
 you have already stood -- its predecessors may be unreachable by rule and it
 still got done.
-
-**Icons, still to do.** All 93 share `images/settings/opt_requestsanity.png`.
 ## The game's own tables
 
 The tools that read the game need `bundleMain.mbundle` from a Rune Factory 4
@@ -269,14 +267,67 @@ enough. They need node and one package, which is gitignored:
 the background keyed to the item's category family and a rim keyed to its
 classification. Input is a JSON list of `{slug, label, cat, cls}`.
 
-`export_grid_maps.py` (which calls `gen_grid_maps.mjs`) rebuilds
-`images/maps/grid_forge.png`, `grid_crafting.png` and `grid_cooking.png` **and**
-the pins on them in `locations/_Crafting.json`. Those two must be regenerated
-together: the same pass decides where a tile is drawn and where its pin goes, so
-editing one alone slides every pin off its tile.
+`export_grid_maps.py` (which calls `gen_grid_maps.mjs`) rebuilds all thirteen
+sheets — three crafting, five shipment and five tame — **and** checks the pins on
+them in `locations/_Crafting.json`, `_Shipments.json` and `_Tames.json`. Image and
+pins come out of the same pass, so they must be regenerated together or every pin
+slides off its tile. Run it after anything that touches `images/items/` or
+`images/monsters/`.
+
+Layout is read back from the pins already on disk — their order, their grouping
+into labelled bands, and which sheet they sit on — so a rebuild changes only the
+tiles. The pins are tied to marker positions, so the tool recomputes them and
+**refuses to write if any would move**, rather than quietly shifting them. The
+tame sheets work the same way but draw `images/monsters/` instead of
+`images/items/`.
+
+`export_section_icons.py` gives each check its own icon in the tracker instead of
+one shared crate: shipments take their item tile, tames their monster tile,
+villagers their portrait, boxes the crate texture and barriers the glow columns. PopTracker looks the image
+up on the section a `ref` points AT (`maptooltip.cpp:145`), so writing it on the
+canonical section in the region file reaches the grid-sheet pins too. Friendship
+and box checks are written on the LOCATION instead -- all ten of a villager's
+heart levels want the same portrait -- which a section with no image of its own
+inherits (`locationsection.cpp:61`). The opened icon is the closed one at 72%
+brightness, the relationship the paw, chest and shipment pairs already had.
+Map markers are drawn as coloured shapes and never use these images at all.
+
+`export_npc_icons.py` cuts the villager portraits, the box crate and the barrier
+out of the bundle. The dialogue portraits are two layers and neither is a portrait alone --
+for about half the cast the hair lives in the body layer, so a face-layer icon
+comes out bald -- so the head is cropped off the top of `NN_<NAME>_body_00`
+instead, sized from the bounding box of the figure's top quarter rather than a
+fixed fraction. Six characters are tuned by hand and Ventuswill, whose body is
+drawn faceless, has her face composited in from a written-down box.
+
+The barrier is not artwork at all. `efc_mGen_wall_red` is a **parameter
+texture**: its red channel is a flat 100% and carries no shape, while green,
+blue and alpha hold three different falloffs for the shader to blend, and the
+colour comes from the material. Read as RGB it gives a white-hot core the
+barrier never has in game, so the icon takes the alpha channel as an intensity
+mask -- green and blue carry a comb of teeth and a floor that tints the whole
+quad -- mirrors it into an arc, tints it the amber a barrier actually peaks at
+on screen, and stacks a second arc a quarter above. `MOBJ_CLEAR_WALL` sounds
+like the barrier and is empty; `MOBJ_FID_WALL_*` is the rubble blocking a
+field-dungeon room's edges.
 
 Regenerating the shipped files and diffing is the test to run before trusting a
 change: they come back byte-identical.
+
+`extract_textures.py` pulls any named texture out of the bundle. Most are BC7 at
+1 byte/pixel, but the **map art is uncompressed at 4 bytes/pixel** -- the tool
+used to silently skip all 104 of those, and now handles both. Two finds worth
+knowing about, written up here:
+
+- `bg_map_03.texture` is the **minimap container** the game draws in the corner
+  of the field screen: 482x432 of content in a 512 square, a pale yellow-green
+  body at alpha 0.80 with a dotted grid, and the green banner with the leaf
+  flourish under it. Its aspect is within 0.1% of the pack's own map canvas.
+- `mini_map_*.texture` is the **map art itself**, one 512px texture per floor.
+  RGB is flat cream-on-brown; alpha is a soft silhouette, and the gold outline is
+  just the brown ground showing through the alpha ramp. Upscaling needs the alpha
+  re-sharpened (`-channel A -level 46%,54%`) or the outline goes blobby.
+
 
 ## Verifying
 

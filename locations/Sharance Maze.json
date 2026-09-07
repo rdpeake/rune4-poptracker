@@ -34,7 +34,9 @@
                                 "visibility_rules": [
                                     "$RF4Visible|1851261"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/dragonfin.png",
+                                "chest_opened_img": "/images/items/open/dragonfin.png"
                             },
                             {
                                 "name": "Boss - Legendary Scale",
@@ -44,7 +46,9 @@
                                 "visibility_rules": [
                                     "$RF4Visible|1851260"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/legendaryscale.png",
+                                "chest_opened_img": "/images/items/open/legendaryscale.png"
                             }
                         ],
                         "map_locations": [
@@ -76,7 +80,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851266"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/earthwyrmscale.png",
+                        "chest_opened_img": "/images/items/open/earthwyrmscale.png"
                     },
                     {
                         "name": "Boss - Firewyrm Scale",
@@ -86,7 +92,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851267"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/firewyrmscale.png",
+                        "chest_opened_img": "/images/items/open/firewyrmscale.png"
                     },
                     {
                         "name": "Accessory Bread+",
@@ -96,7 +104,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850692"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/accessorybread+.png",
+                        "chest_opened_img": "/images/items/open/accessorybread+.png"
                     },
                     {
                         "name": "Cooking Bread+",
@@ -106,7 +116,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850688"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/cookingbread+.png",
+                        "chest_opened_img": "/images/items/open/cookingbread+.png"
                     },
                     {
                         "name": "Farming Bread+",
@@ -116,7 +128,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850694"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/farmingbread+.png",
+                        "chest_opened_img": "/images/items/open/farmingbread+.png"
                     },
                     {
                         "name": "Medicine Bread+",
@@ -126,7 +140,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850686"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/medicinebread+.png",
+                        "chest_opened_img": "/images/items/open/medicinebread+.png"
                     },
                     {
                         "name": "Weapon Bread+",
@@ -136,7 +152,9 @@
                         "visibility_rules": [
                             "opt_dishsanity,$RF4Visible|1850690"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/weaponbread+.png",
+                        "chest_opened_img": "/images/items/open/weaponbread+.png"
                     }
                 ],
                 "map_locations": [
@@ -175,7 +193,9 @@
                                 "visibility_rules": [
                                     "$RF4Visible|1851276"
                                 ],
-                                "item_count": 1
+                                "item_count": 1,
+                                "chest_unopened_img": "/images/items/winddragontooth.png",
+                                "chest_opened_img": "/images/items/open/winddragontooth.png"
                             }
                         ],
                         "map_locations": [
@@ -207,7 +227,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852680"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/bossaquaticus.png",
+                        "chest_opened_img": "/images/monsters/open/bossaquaticus.png"
                     }
                 ],
                 "map_locations": [
@@ -237,7 +259,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852724"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/bossfiersome.png",
+                        "chest_opened_img": "/images/monsters/open/bossfiersome.png"
                     },
                     {
                         "name": "Boss - Terrable",
@@ -247,7 +271,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852838"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/bossterrable.png",
+                        "chest_opened_img": "/images/monsters/open/bossterrable.png"
                     }
                 ],
                 "map_locations": [

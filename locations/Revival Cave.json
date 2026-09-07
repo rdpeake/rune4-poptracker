@@ -25,7 +25,9 @@
                         "visibility_rules": [
                             "$RF4Visible|1851251"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/dragonbones.png",
+                        "chest_opened_img": "/images/items/open/dragonbones.png"
                     },
                     {
                         "name": "Ayngondaia Lawn",
@@ -35,7 +37,9 @@
                         "visibility_rules": [
                             "opt_foragesanity,$RF4Visible|1850477"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/ayngondaialawn.png",
+                        "chest_opened_img": "/images/items/open/ayngondaialawn.png"
                     }
                 ],
                 "map_locations": [

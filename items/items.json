@@ -1134,9 +1134,9 @@
         "codes": "icecream"
     },
     {
-        "name": "progression",
+        "name": "Clippers",
         "type": "toggle",
-        "img": "images/items/progression.png",
+        "img": "images/items/clippers.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "progression"

@@ -1,0 +1,139 @@
+"""Export each item's category and classification into tools/generated/item_meta.json.
+
+The item tiles are colour-coded: the tile takes its family from the item's
+category and its border from the classification. Both live in the apworld's
+sheets and neither is in the pack, so they are exported once and committed --
+tools/gen_item_tiles.mjs and tools/gamedata/export_item_tiles.py both read the
+result, and neither needs the apworld to draw a tile.
+
+    category        Shipments "Type" for anything that can be shipped, and
+                    Items "Item Type" for the ones Archipelago invented
+                    (licences, bridges, "Level Up") which ship nowhere
+    classification  Items "Classification" -- progression, useful or trap.
+                    Anything absent is filler, which is most of them.
+
+Both sheets are read from the spreadsheet they are maintained in rather than
+from the apworld's exported copy, so a colour follows the sheet without waiting
+for an apworld release. The copy inside the apworld is the fallback, and
+--offline goes straight to it.
+
+Names are matched through items/items.json, so an item the pack does not carry
+is skipped rather than guessed at.
+
+    python3 tools/apworld/export_item_meta.py [--offline]
+"""
+import csv
+import io
+import json
+import os
+import sys
+import urllib.error
+import urllib.request
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+PACK = os.path.dirname(os.path.dirname(HERE)) + '/'
+sys.path.insert(0, HERE)
+from load import apworld, slug                      # noqa: E402
+
+AP = apworld()
+OUT = PACK + 'tools/generated/item_meta.json'
+
+# The workbook the apworld's own CSVs are exported from; rf4/Locations.py names
+# it, and each tab is a gid on the same csv export endpoint.
+SHEET = '1YU6grqkNfm-fRCV1gIQCDBU466W79-UGnRhtYPxam4Q'
+GID = {'Items': '1720142906', 'Shipments': '2037917468', 'Tame': '1539295810'}
+EXPORT = 'https://docs.google.com/spreadsheets/d/%s/export?format=csv&gid=%s'
+
+# Known upstream remap. Clippers carries the pack item code "progression" and
+# is in neither sheet, so nothing here would colour it; it is a progression
+# item and takes a progression item's rim.
+REMAP = {
+    'progression': {'cls': 'progression'},       # Clippers / Shears
+}
+
+
+def download(name):
+    """One tab of the workbook, as CSV text."""
+    request = urllib.request.Request(EXPORT % (SHEET, GID[name]),
+                                     headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(request, timeout=30) as response:
+        return response.read().decode('utf-8-sig')
+
+
+def sheet(name, offline=False):
+    """One sheet's rows, from the workbook if it can be reached."""
+    if not offline:
+        try:
+            return list(csv.DictReader(io.StringIO(download(name)))), 'the workbook'
+        except (urllib.error.URLError, OSError) as err:
+            print('  %s: could not reach the workbook (%s); using the apworld copy'
+                  % (name, err))
+    return (list(csv.DictReader(io.StringIO(
+        AP.csv_text('Rune Factory 4 AP - ' + name)))), 'the apworld copy')
+
+
+def main():
+    items = json.load(open(PACK + 'items/items.json', encoding='utf-8'))
+    items = items if isinstance(items, list) else items['items']
+    code_of = {i['name']: i['codes'] for i in items}
+
+    offline = '--offline' in sys.argv
+    meta = {}
+    shipments, where_s = sheet('Shipments', offline)
+    items_rows, where_i = sheet('Items', offline)
+    for row in shipments:
+        code = code_of.get((row.get('Name') or '').strip())
+        kind = (row.get('Type') or '').strip()
+        if code and kind:
+            meta.setdefault(code, {})['cat'] = kind
+    for row in items_rows:
+        code = code_of.get((row.get('Name') or '').strip())
+        if not code:
+            continue
+        kind = (row.get('Item Type') or '').strip()
+        rank = (row.get('Classification') or '').strip()
+        if kind:
+            meta.setdefault(code, {})['cat'] = kind
+        if rank:
+            meta.setdefault(code, {})['cls'] = rank
+
+    # A tame's tile is coloured by its tier rather than any category, so the
+    # tiers go out alongside; a monster with no row here is a boss.
+    tames, where_t = sheet('Tame', offline)
+    tiers = {}
+    for row in tames:
+        name = (row.get('Name') or '').strip()
+        tier = (row.get('Tier') or '').strip()
+        if name and tier.isdigit():
+            tiers[slug(name)] = int(tier)
+
+    for code, fix in REMAP.items():
+        meta.setdefault(code, {}).update(fix)
+
+    palette = json.load(open(PACK + 'tools/item_palette.json', encoding='utf-8'))
+    unknown = sorted({m['cat'] for m in meta.values()
+                      if m.get('cat') and m['cat'] not in palette['family']})
+    if unknown:
+        raise SystemExit('no palette family for: %s\n'
+                         'Add them to tools/item_palette.json.' % ', '.join(unknown))
+
+    body = {'_': 'GENERATED by tools/apworld/export_item_meta.py. '
+                 'items: pack item code -> {cat, cls}.  '
+                 'tames: monster slug -> tame tier.  '
+                 'See tools/item_palette.json for what they colour.',
+            'items': {k: meta[k] for k in sorted(meta)},
+            'tames': {k: tiers[k] for k in sorted(tiers)}}
+    with open(OUT, 'w', encoding='utf-8', newline='\n') as fh:
+        json.dump(body, fh, indent=1, ensure_ascii=False)
+        fh.write('\n')
+    ranked = sum(1 for m in meta.values() if m.get('cls'))
+    print('wrote %s' % OUT)
+    print('  Shipments from %s, Items from %s, Tame from %s'
+          % (where_s, where_i, where_t))
+    print('  tame tiers             %5d' % len(tiers))
+    print('  items with a category  %5d' % len(meta))
+    print('  of those, classified   %5d  (the rest are filler)' % ranked)
+
+
+if __name__ == '__main__':
+    main()

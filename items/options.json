@@ -82,8 +82,8 @@
     {
         "name": "Search point locations",
         "type": "toggle",
-        "img": "images/items/close.png",
-        "disabled_img": "images/items/close.png",
+        "img": "images/settings/opt_searchsanity.png",
+        "disabled_img": "images/settings/opt_searchsanity.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
         "overlay_align": "right",
@@ -192,7 +192,7 @@
     {
         "name": "Groceries locations",
         "type": "toggle",
-        "img": "images/items/bread.png",
+        "img": "images/settings/opt_grocerysanity.png",
         "disabled_img": "images/items/bread.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": true,
@@ -202,7 +202,7 @@
     {
         "name": "Outfit locations",
         "type": "toggle",
-        "img": "images/items/headdress.png",
+        "img": "images/settings/opt_outfitsanity.png",
         "disabled_img": "images/items/headdress.png",
         "disabled_img_mods": "@disabled",
         "initial_active_state": false,
@@ -212,7 +212,7 @@
     {
         "name": "Max shipment tier",
         "type": "consumable",
-        "img": "images/items/ship_closed.png",
+        "img": "images/settings/opt_maxshiptier.png",
         "min_quantity": 5,
         "max_quantity": 11,
         "initial_quantity": 9,
@@ -225,7 +225,7 @@
     {
         "name": "Max friendship level",
         "type": "consumable",
-        "img": "images/settings/opt_friendsanity.png",
+        "img": "images/settings/opt_maxfriend.png",
         "min_quantity": 1,
         "max_quantity": 10,
         "initial_quantity": 6,
@@ -238,7 +238,7 @@
     {
         "name": "Max sale value (thousands of G)",
         "type": "consumable",
-        "img": "images/items/gold.png",
+        "img": "images/settings/opt_maxsell.png",
         "min_quantity": 10,
         "max_quantity": 800,
         "initial_quantity": 500,

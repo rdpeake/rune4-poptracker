@@ -25,7 +25,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851243"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/brokenbox.png",
+                        "chest_opened_img": "/images/items/open/brokenbox.png"
                     },
                     {
                         "name": "Broken Hilt",
@@ -35,7 +37,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851242"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/brokenhilt.png",
+                        "chest_opened_img": "/images/items/open/brokenhilt.png"
                     },
                     {
                         "name": "Rune Crystal",
@@ -45,7 +49,9 @@
                         "visibility_rules": [
                             "opt_mineralsanity,$RF4Visible|1851287"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/runecrystal.png",
+                        "chest_opened_img": "/images/items/open/runecrystal.png"
                     },
                     {
                         "name": "Small Crystal",
@@ -55,7 +61,9 @@
                         "visibility_rules": [
                             "opt_mineralsanity,$RF4Visible|1851245"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/smallcrystal.png",
+                        "chest_opened_img": "/images/items/open/smallcrystal.png"
                     }
                 ],
                 "map_locations": [
@@ -85,7 +93,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852739"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/gobblebox.png",
+                        "chest_opened_img": "/images/monsters/open/gobblebox.png"
                     },
                     {
                         "name": "Monster Box",
@@ -95,7 +105,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852796"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/monsterbox.png",
+                        "chest_opened_img": "/images/monsters/open/monsterbox.png"
                     }
                 ],
                 "map_locations": [

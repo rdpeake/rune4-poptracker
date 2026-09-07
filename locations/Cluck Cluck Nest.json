@@ -25,7 +25,9 @@
                         "visibility_rules": [
                             "opt_dropsanity,$RF4Visible|1851344"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/items/bigbirdscomb.png",
+                        "chest_opened_img": "/images/items/open/bigbirdscomb.png"
                     }
                 ],
                 "map_locations": [
@@ -55,7 +57,9 @@
                         "visibility_rules": [
                             "opt_tamesanity,$RF4Visible|1852786"
                         ],
-                        "item_count": 1
+                        "item_count": 1,
+                        "chest_unopened_img": "/images/monsters/mamadoodle.png",
+                        "chest_opened_img": "/images/monsters/open/mamadoodle.png"
                     }
                 ],
                 "map_locations": [
