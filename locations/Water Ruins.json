@@ -220,8 +220,8 @@
                         "map_locations": [
                             {
                                 "map": "Water Ruins",
-                                "x": 530,
-                                "y": 385,
+                                "x": 569,
+                                "y": 328,
                                 "size": 6
                             }
                         ]
@@ -249,8 +249,8 @@
                         "map_locations": [
                             {
                                 "map": "Water Ruins",
-                                "x": 120,
-                                "y": 224,
+                                "x": 107,
+                                "y": 219,
                                 "size": 6
                             }
                         ]
@@ -278,8 +278,8 @@
                         "map_locations": [
                             {
                                 "map": "Water Ruins",
-                                "x": 612,
-                                "y": 237,
+                                "x": 627,
+                                "y": 202,
                                 "size": 6
                             }
                         ]
@@ -307,8 +307,8 @@
                         "map_locations": [
                             {
                                 "map": "Water Ruins",
-                                "x": 55,
-                                "y": 237,
+                                "x": 45,
+                                "y": 202,
                                 "size": 6
                             }
                         ]
@@ -346,8 +346,8 @@
                         "map_locations": [
                             {
                                 "map": "Water Ruins",
-                                "x": 333,
-                                "y": 175,
+                                "x": 343,
+                                "y": 60,
                                 "size": 6
                             }
                         ]
@@ -375,8 +375,8 @@
                         "map_locations": [
                             {
                                 "map": "Water Ruins",
-                                "x": 335,
-                                "y": 285,
+                                "x": 337,
+                                "y": 249,
                                 "size": 6
                             }
                         ]
@@ -497,7 +497,7 @@
                     {
                         "map": "Water Ruins",
                         "x": 450,
-                        "y": 343,
+                        "y": 334,
                         "size": 6
                     }
                 ]
@@ -525,8 +525,8 @@
                 "map_locations": [
                     {
                         "map": "Water Ruins",
-                        "x": 559,
-                        "y": 337,
+                        "x": 549,
+                        "y": 328,
                         "size": 6
                     }
                 ]
@@ -554,8 +554,8 @@
                 "map_locations": [
                     {
                         "map": "Water Ruins",
-                        "x": 617,
-                        "y": 211,
+                        "x": 607,
+                        "y": 202,
                         "size": 6
                     }
                 ]
@@ -584,7 +584,7 @@
                     {
                         "map": "Water Ruins",
                         "x": 222,
-                        "y": 162,
+                        "y": 153,
                         "size": 6
                     }
                 ]
@@ -612,8 +612,8 @@
                 "map_locations": [
                     {
                         "map": "Water Ruins",
-                        "x": 430,
-                        "y": 241,
+                        "x": 425,
+                        "y": 232,
                         "size": 6
                     }
                 ]
@@ -641,8 +641,8 @@
                 "map_locations": [
                     {
                         "map": "Water Ruins",
-                        "x": 333,
-                        "y": 69,
+                        "x": 323,
+                        "y": 60,
                         "size": 6
                     }
                 ]
@@ -671,7 +671,7 @@
                     {
                         "map": "Water Ruins",
                         "x": 333,
-                        "y": 442,
+                        "y": 433,
                         "size": 6
                     }
                 ]
@@ -710,7 +710,7 @@
                     {
                         "map": "Water Ruins",
                         "x": 333,
-                        "y": 345,
+                        "y": 336,
                         "size": 6
                     }
                 ]
@@ -749,7 +749,7 @@
                     {
                         "map": "Water Ruins",
                         "x": 559,
-                        "y": 337,
+                        "y": 328,
                         "size": 6
                     }
                 ]
@@ -778,7 +778,7 @@
                     {
                         "map": "Water Ruins",
                         "x": 107,
-                        "y": 337,
+                        "y": 328,
                         "size": 6
                     }
                 ]
@@ -807,7 +807,7 @@
                     {
                         "map": "Water Ruins",
                         "x": 557,
-                        "y": 228,
+                        "y": 219,
                         "size": 6
                     }
                 ]
@@ -856,7 +856,7 @@
                     {
                         "map": "Water Ruins",
                         "x": 617,
-                        "y": 211,
+                        "y": 202,
                         "size": 6
                     }
                 ]
@@ -894,8 +894,8 @@
                 "map_locations": [
                     {
                         "map": "Water Ruins",
-                        "x": 430,
-                        "y": 241,
+                        "x": 435,
+                        "y": 232,
                         "size": 6
                     }
                 ]
@@ -934,7 +934,7 @@
                     {
                         "map": "Water Ruins",
                         "x": 333,
-                        "y": 69,
+                        "y": 60,
                         "size": 6
                     }
                 ]
@@ -972,8 +972,8 @@
                 "map_locations": [
                     {
                         "map": "Water Ruins",
-                        "x": 332,
-                        "y": 258,
+                        "x": 327,
+                        "y": 249,
                         "size": 6
                     }
                 ]

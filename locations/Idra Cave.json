@@ -239,8 +239,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Idra Cave B2",
-                                        "x": 353,
-                                        "y": 454,
+                                        "x": 332,
+                                        "y": 466,
                                         "size": 6
                                     }
                                 ]
@@ -268,8 +268,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Idra Cave B2",
-                                        "x": 262,
-                                        "y": 454,
+                                        "x": 235,
+                                        "y": 466,
                                         "size": 6
                                     }
                                 ]
@@ -297,8 +297,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Idra Cave B2",
-                                        "x": 182,
-                                        "y": 298,
+                                        "x": 148,
+                                        "y": 300,
                                         "size": 6
                                     }
                                 ]
@@ -326,8 +326,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Idra Cave B2",
-                                        "x": 357,
-                                        "y": 296,
+                                        "x": 332,
+                                        "y": 300,
                                         "size": 6
                                     }
                                 ]
@@ -355,8 +355,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Idra Cave B2",
-                                        "x": 521,
-                                        "y": 375,
+                                        "x": 511,
+                                        "y": 383,
                                         "size": 6
                                     }
                                 ]
@@ -384,8 +384,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Idra Cave B2",
-                                        "x": 435,
-                                        "y": 375,
+                                        "x": 424,
+                                        "y": 383,
                                         "size": 6
                                     }
                                 ]
@@ -484,9 +484,15 @@
                                 ],
                                 "map_locations": [
                                     {
+                                        "map": "Idra Cave",
+                                        "x": 226,
+                                        "y": 249,
+                                        "size": 6
+                                    },
+                                    {
                                         "map": "Idra Cave B1",
-                                        "x": 69,
-                                        "y": 340,
+                                        "x": 66,
+                                        "y": 331,
                                         "size": 6
                                     }
                                 ]
@@ -513,9 +519,9 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Idra Cave B2",
-                                        "x": 357,
-                                        "y": 296,
+                                        "map": "Idra Cave",
+                                        "x": 438,
+                                        "y": 345,
                                         "size": 6
                                     }
                                 ]
@@ -543,8 +549,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Idra Cave B1",
-                                        "x": 67,
-                                        "y": 185,
+                                        "x": 64,
+                                        "y": 184,
                                         "size": 6
                                     }
                                 ]
@@ -572,8 +578,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Idra Cave B1",
-                                        "x": 607,
-                                        "y": 184,
+                                        "x": 604,
+                                        "y": 186,
                                         "size": 6
                                     }
                                 ]
@@ -602,7 +608,7 @@
                                     {
                                         "map": "Idra Cave B1",
                                         "x": 425,
-                                        "y": 258,
+                                        "y": 257,
                                         "size": 6
                                     }
                                 ]
@@ -630,8 +636,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Idra Cave B1",
-                                        "x": 600,
-                                        "y": 341,
+                                        "x": 599,
+                                        "y": 336,
                                         "size": 6
                                     }
                                 ]
@@ -774,7 +780,7 @@
                     {
                         "map": "Idra Cave",
                         "x": 332,
-                        "y": 354,
+                        "y": 345,
                         "size": 6
                     }
                 ]
@@ -802,8 +808,8 @@
                 "map_locations": [
                     {
                         "map": "Idra Cave",
-                        "x": 332,
-                        "y": 258,
+                        "x": 327,
+                        "y": 249,
                         "size": 6
                     }
                 ]
@@ -832,7 +838,7 @@
                     {
                         "map": "Idra Cave",
                         "x": 226,
-                        "y": 162,
+                        "y": 153,
                         "size": 6
                     }
                 ]
@@ -860,8 +866,8 @@
                 "map_locations": [
                     {
                         "map": "Idra Cave",
-                        "x": 332,
-                        "y": 162,
+                        "x": 327,
+                        "y": 153,
                         "size": 6
                     }
                 ]
@@ -890,7 +896,7 @@
                     {
                         "map": "Idra Cave",
                         "x": 438,
-                        "y": 162,
+                        "y": 153,
                         "size": 6
                     }
                 ]
@@ -919,7 +925,7 @@
                     {
                         "map": "Idra Cave B1",
                         "x": 150,
-                        "y": 184,
+                        "y": 175,
                         "size": 6
                     }
                 ]
@@ -948,7 +954,7 @@
                     {
                         "map": "Idra Cave B1",
                         "x": 68,
-                        "y": 268,
+                        "y": 259,
                         "size": 6
                     }
                 ]
@@ -976,8 +982,8 @@
                 "map_locations": [
                     {
                         "map": "Idra Cave B1",
-                        "x": 155,
-                        "y": 262,
+                        "x": 150,
+                        "y": 253,
                         "size": 6
                     }
                 ]
@@ -1006,7 +1012,7 @@
                     {
                         "map": "Idra Cave B1",
                         "x": 513,
-                        "y": 184,
+                        "y": 175,
                         "size": 6
                     }
                 ]
@@ -1035,7 +1041,7 @@
                     {
                         "map": "Idra Cave B1",
                         "x": 512,
-                        "y": 262,
+                        "y": 253,
                         "size": 6
                     }
                 ]
@@ -1063,8 +1069,8 @@
                 "map_locations": [
                     {
                         "map": "Idra Cave B2",
-                        "x": 240,
-                        "y": 475,
+                        "x": 245,
+                        "y": 466,
                         "size": 6
                     }
                 ]
@@ -1093,7 +1099,7 @@
                     {
                         "map": "Idra Cave B2",
                         "x": 240,
-                        "y": 392,
+                        "y": 383,
                         "size": 6
                     }
                 ]
@@ -1122,7 +1128,7 @@
                     {
                         "map": "Idra Cave B2",
                         "x": 240,
-                        "y": 309,
+                        "y": 300,
                         "size": 6
                     }
                 ]
@@ -1151,7 +1157,7 @@
                     {
                         "map": "Idra Cave B2",
                         "x": 148,
-                        "y": 225,
+                        "y": 216,
                         "size": 6
                     }
                 ]
@@ -1179,8 +1185,8 @@
                 "map_locations": [
                     {
                         "map": "Idra Cave B2",
-                        "x": 516,
-                        "y": 392,
+                        "x": 521,
+                        "y": 383,
                         "size": 6
                     }
                 ]
@@ -1209,7 +1215,7 @@
                     {
                         "map": "Idra Cave B2",
                         "x": 332,
-                        "y": 225,
+                        "y": 216,
                         "size": 6
                     }
                 ]
@@ -1237,8 +1243,8 @@
                 "map_locations": [
                     {
                         "map": "Idra Cave B2",
-                        "x": 424,
-                        "y": 225,
+                        "x": 419,
+                        "y": 216,
                         "size": 6
                     }
                 ]
@@ -1266,8 +1272,8 @@
                 "map_locations": [
                     {
                         "map": "Idra Cave B2",
-                        "x": 516,
-                        "y": 225,
+                        "x": 511,
+                        "y": 216,
                         "size": 6
                     }
                 ]
@@ -1295,8 +1301,8 @@
                 "map_locations": [
                     {
                         "map": "Idra Cave",
-                        "x": 332,
-                        "y": 258,
+                        "x": 337,
+                        "y": 249,
                         "size": 6
                     }
                 ]
@@ -1334,8 +1340,8 @@
                 "map_locations": [
                     {
                         "map": "Idra Cave",
-                        "x": 332,
-                        "y": 162,
+                        "x": 337,
+                        "y": 153,
                         "size": 6
                     }
                 ]
@@ -1364,7 +1370,7 @@
                     {
                         "map": "Idra Cave B1",
                         "x": 332,
-                        "y": 318,
+                        "y": 309,
                         "size": 6
                     }
                 ]
@@ -1392,8 +1398,8 @@
                 "map_locations": [
                     {
                         "map": "Idra Cave B1",
-                        "x": 155,
-                        "y": 262,
+                        "x": 160,
+                        "y": 253,
                         "size": 6
                     }
                 ]
@@ -1431,8 +1437,8 @@
                 "map_locations": [
                     {
                         "map": "Idra Cave B2",
-                        "x": 424,
-                        "y": 225,
+                        "x": 429,
+                        "y": 216,
                         "size": 6
                     }
                 ]
@@ -1470,8 +1476,8 @@
                 "map_locations": [
                     {
                         "map": "Idra Cave B2",
-                        "x": 516,
-                        "y": 225,
+                        "x": 521,
+                        "y": 216,
                         "size": 6
                     }
                 ]
@@ -1530,7 +1536,7 @@
                     {
                         "map": "Idra Cave B2",
                         "x": 332,
-                        "y": 142,
+                        "y": 133,
                         "size": 6
                     }
                 ]

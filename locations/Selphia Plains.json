@@ -179,8 +179,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Autumn Road",
-                                        "x": 526,
-                                        "y": 306,
+                                        "x": 571,
+                                        "y": 317,
                                         "size": 6
                                     }
                                 ]
@@ -238,8 +238,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Autumn Road",
-                                        "x": 568,
-                                        "y": 330,
+                                        "x": 618,
+                                        "y": 325,
                                         "size": 6
                                     }
                                 ]
@@ -267,8 +267,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Autumn Road",
-                                        "x": 470,
-                                        "y": 228,
+                                        "x": 502,
+                                        "y": 205,
                                         "size": 6
                                     }
                                 ]
@@ -296,8 +296,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Autumn Road",
-                                        "x": 392,
-                                        "y": 250,
+                                        "x": 394,
+                                        "y": 221,
                                         "size": 6
                                     }
                                 ]
@@ -325,8 +325,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Autumn Road",
-                                        "x": 129,
-                                        "y": 267,
+                                        "x": 60,
+                                        "y": 242,
                                         "size": 6
                                     }
                                 ]
@@ -708,8 +708,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia Plains",
-                                "x": 470,
-                                "y": 293,
+                                "x": 486,
+                                "y": 277,
                                 "size": 6
                             }
                         ]
@@ -737,8 +737,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia Plains",
-                                "x": 155,
-                                "y": 302,
+                                "x": 137,
+                                "y": 285,
                                 "size": 6
                             }
                         ]
@@ -786,8 +786,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia Plains",
-                                "x": 470,
-                                "y": 334,
+                                "x": 487,
+                                "y": 330,
                                 "size": 6
                             }
                         ]
@@ -825,8 +825,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia Plains",
-                                "x": 166,
-                                "y": 213,
+                                "x": 154,
+                                "y": 194,
                                 "size": 6
                             }
                         ]
@@ -854,8 +854,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia Plains",
-                                "x": 75,
-                                "y": 238,
+                                "x": 73,
+                                "y": 213,
                                 "size": 6
                             }
                         ]
@@ -883,8 +883,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia Plains",
-                                "x": 534,
-                                "y": 338,
+                                "x": 554,
+                                "y": 368,
                                 "size": 6
                             }
                         ]
@@ -912,8 +912,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia Plains",
-                                "x": 534,
-                                "y": 437,
+                                "x": 553,
+                                "y": 449,
                                 "size": 6
                             }
                         ]
@@ -951,8 +951,8 @@
                         "map_locations": [
                             {
                                 "map": "Selphia Plains",
-                                "x": 110,
-                                "y": 177,
+                                "x": 92,
+                                "y": 150,
                                 "size": 6
                             }
                         ]
@@ -1128,8 +1128,8 @@
                 "map_locations": [
                     {
                         "map": "Selphia Plains",
-                        "x": 222,
-                        "y": 390,
+                        "x": 215,
+                        "y": 392,
                         "size": 6
                     }
                 ]
@@ -1237,8 +1237,8 @@
                 "map_locations": [
                     {
                         "map": "Selphia Plains",
-                        "x": 530,
-                        "y": 215,
+                        "x": 555,
+                        "y": 214,
                         "size": 6
                     }
                 ]
@@ -1430,8 +1430,8 @@
                 "map_locations": [
                     {
                         "map": "Selphia Plains",
-                        "x": 415,
-                        "y": 190,
+                        "x": 429,
+                        "y": 149,
                         "size": 6
                     }
                 ]
@@ -1460,7 +1460,7 @@
                     {
                         "map": "Selphia Plains",
                         "x": 131,
-                        "y": 355,
+                        "y": 346,
                         "size": 6
                     }
                 ]
@@ -1498,8 +1498,8 @@
                 "map_locations": [
                     {
                         "map": "Selphia Plains",
-                        "x": 68,
-                        "y": 222,
+                        "x": 63,
+                        "y": 213,
                         "size": 6
                     }
                 ]
@@ -1548,7 +1548,7 @@
                     {
                         "map": "Selphia Plains",
                         "x": 338,
-                        "y": 287,
+                        "y": 278,
                         "size": 6
                     }
                 ]
@@ -1586,8 +1586,8 @@
                 "map_locations": [
                     {
                         "map": "Selphia Plains",
-                        "x": 142,
-                        "y": 294,
+                        "x": 147,
+                        "y": 285,
                         "size": 6
                     }
                 ]
@@ -1626,7 +1626,7 @@
                     {
                         "map": "Selphia Plains",
                         "x": 214,
-                        "y": 291,
+                        "y": 282,
                         "size": 6
                     }
                 ]
@@ -1725,7 +1725,7 @@
                     {
                         "map": "Selphia Plains",
                         "x": 272,
-                        "y": 297,
+                        "y": 288,
                         "size": 6
                     }
                 ]
@@ -1754,7 +1754,7 @@
                     {
                         "map": "Selphia Plains",
                         "x": 214,
-                        "y": 346,
+                        "y": 337,
                         "size": 6
                     }
                 ]
@@ -1793,7 +1793,7 @@
                     {
                         "map": "Selphia Plains",
                         "x": 272,
-                        "y": 345,
+                        "y": 336,
                         "size": 6
                     }
                 ]
@@ -1831,8 +1831,8 @@
                 "map_locations": [
                     {
                         "map": "Selphia Plains",
-                        "x": 491,
-                        "y": 286,
+                        "x": 496,
+                        "y": 277,
                         "size": 6
                     }
                 ]

@@ -1,0 +1,13 @@
+{
+ "_note": "Old room code -> current one, for locations whose names still carry a code the pack has since renamed. Yokmir Forest's rooms are numbered as the game numbers them, because the previous codes were guesses; the location names in locations/*.json come from the apworld and still use those guesses. Those guesses are not reliable for this map, so the pairing below is by position, not by meaning.",
+ "Yokmir Forest": {
+  "D1": "1",
+  "?top": "2",
+  "?drop": "3",
+  "C1": "4",
+  "D3": "5",
+  "?pond": "6",
+  "C4": "7",
+  "?cave": "8"
+ }
+}

@@ -200,8 +200,8 @@
                         "map_locations": [
                             {
                                 "map": "Obsidian Mansion",
-                                "x": 145,
-                                "y": 113,
+                                "x": 129,
+                                "y": 70,
                                 "size": 6
                             }
                         ]
@@ -229,8 +229,8 @@
                         "map_locations": [
                             {
                                 "map": "Obsidian Mansion",
-                                "x": 410,
-                                "y": 412,
+                                "x": 406,
+                                "y": 365,
                                 "size": 6
                             }
                         ]
@@ -258,8 +258,8 @@
                         "map_locations": [
                             {
                                 "map": "Obsidian Mansion",
-                                "x": 505,
-                                "y": 131,
+                                "x": 508,
+                                "y": 93,
                                 "size": 6
                             }
                         ]
@@ -287,8 +287,8 @@
                         "map_locations": [
                             {
                                 "map": "Obsidian Mansion",
-                                "x": 571,
-                                "y": 447,
+                                "x": 590,
+                                "y": 413,
                                 "size": 6
                             }
                         ]
@@ -316,8 +316,8 @@
                         "map_locations": [
                             {
                                 "map": "Obsidian Mansion",
-                                "x": 275,
-                                "y": 412,
+                                "x": 280,
+                                "y": 362,
                                 "size": 6
                             }
                         ]
@@ -448,7 +448,7 @@
                     {
                         "map": "Obsidian Mansion",
                         "x": 213,
-                        "y": 127,
+                        "y": 118,
                         "size": 6
                     }
                 ]
@@ -477,7 +477,7 @@
                     {
                         "map": "Obsidian Mansion",
                         "x": 379,
-                        "y": 129,
+                        "y": 120,
                         "size": 6
                     }
                 ]
@@ -505,8 +505,8 @@
                 "map_locations": [
                     {
                         "map": "Obsidian Mansion",
-                        "x": 427,
-                        "y": 82,
+                        "x": 422,
+                        "y": 73,
                         "size": 6
                     }
                 ]
@@ -535,7 +535,7 @@
                     {
                         "map": "Obsidian Mansion",
                         "x": 70,
-                        "y": 371,
+                        "y": 362,
                         "size": 6
                     }
                 ]
@@ -564,7 +564,7 @@
                     {
                         "map": "Obsidian Mansion",
                         "x": 486,
-                        "y": 421,
+                        "y": 412,
                         "size": 6
                     }
                 ]
@@ -613,7 +613,7 @@
                     {
                         "map": "Obsidian Mansion",
                         "x": 204,
-                        "y": 79,
+                        "y": 70,
                         "size": 6
                     }
                 ]
@@ -661,8 +661,8 @@
                 "map_locations": [
                     {
                         "map": "Obsidian Mansion",
-                        "x": 427,
-                        "y": 82,
+                        "x": 432,
+                        "y": 73,
                         "size": 6
                     }
                 ]

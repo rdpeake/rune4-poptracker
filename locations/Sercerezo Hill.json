@@ -350,8 +350,8 @@
                         "map_locations": [
                             {
                                 "map": "Sercerezo Hill",
-                                "x": 469,
-                                "y": 312,
+                                "x": 502,
+                                "y": 288,
                                 "size": 6
                             }
                         ]
@@ -379,8 +379,8 @@
                         "map_locations": [
                             {
                                 "map": "Sercerezo Hill",
-                                "x": 152,
-                                "y": 314,
+                                "x": 56,
+                                "y": 319,
                                 "size": 6
                             }
                         ]
@@ -408,8 +408,8 @@
                         "map_locations": [
                             {
                                 "map": "Sercerezo Hill",
-                                "x": 429,
-                                "y": 314,
+                                "x": 423,
+                                "y": 288,
                                 "size": 6
                             }
                         ]
@@ -437,8 +437,8 @@
                         "map_locations": [
                             {
                                 "map": "Sercerezo Hill",
-                                "x": 357,
-                                "y": 368,
+                                "x": 345,
+                                "y": 359,
                                 "size": 6
                             }
                         ]
@@ -486,8 +486,8 @@
                         "map_locations": [
                             {
                                 "map": "Sercerezo Hill",
-                                "x": 420,
-                                "y": 377,
+                                "x": 427,
+                                "y": 375,
                                 "size": 6
                             }
                         ]
@@ -525,8 +525,8 @@
                         "map_locations": [
                             {
                                 "map": "Sercerezo Hill",
-                                "x": 309,
-                                "y": 218,
+                                "x": 275,
+                                "y": 153,
                                 "size": 6
                             }
                         ]
@@ -554,8 +554,8 @@
                         "map_locations": [
                             {
                                 "map": "Sercerezo Hill",
-                                "x": 326,
-                                "y": 273,
+                                "x": 312,
+                                "y": 231,
                                 "size": 6
                             }
                         ]
@@ -752,8 +752,8 @@
                 "map_locations": [
                     {
                         "map": "Sercerezo Hill",
-                        "x": 209,
-                        "y": 294,
+                        "x": 130,
+                        "y": 285,
                         "size": 6
                     }
                 ]
@@ -795,8 +795,8 @@
                 "map_locations": [
                     {
                         "map": "Sercerezo Hill",
-                        "x": 244,
-                        "y": 341,
+                        "x": 217,
+                        "y": 346,
                         "size": 6
                     }
                 ]
@@ -835,7 +835,7 @@
                     {
                         "map": "Sercerezo Hill",
                         "x": 590,
-                        "y": 240,
+                        "y": 231,
                         "size": 6
                     }
                 ]
@@ -873,8 +873,8 @@
                 "map_locations": [
                     {
                         "map": "Sercerezo Hill",
-                        "x": 207,
-                        "y": 355,
+                        "x": 197,
+                        "y": 346,
                         "size": 6
                     }
                 ]

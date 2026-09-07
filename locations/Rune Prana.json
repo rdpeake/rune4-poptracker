@@ -99,8 +99,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Rune Prana F2",
-                                        "x": 522,
-                                        "y": 435,
+                                        "x": 513,
+                                        "y": 433,
                                         "size": 6
                                     }
                                 ]
@@ -138,8 +138,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Rune Prana F2",
-                                        "x": 406,
-                                        "y": 214,
+                                        "x": 397,
+                                        "y": 201,
                                         "size": 6
                                     }
                                 ]
@@ -167,8 +167,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Rune Prana F2",
-                                        "x": 178,
-                                        "y": 439,
+                                        "x": 166,
+                                        "y": 434,
                                         "size": 6
                                     }
                                 ]
@@ -338,8 +338,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Rune Prana F4",
-                                        "x": 438,
-                                        "y": 367,
+                                        "x": 441,
+                                        "y": 355,
                                         "size": 6
                                     }
                                 ]
@@ -367,8 +367,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Rune Prana F4",
-                                        "x": 433,
-                                        "y": 102,
+                                        "x": 431,
+                                        "y": 70,
                                         "size": 6
                                     }
                                 ]
@@ -558,8 +558,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Rune Prana F6",
-                                        "x": 568,
-                                        "y": 224,
+                                        "x": 600,
+                                        "y": 207,
                                         "size": 6
                                     }
                                 ]
@@ -587,8 +587,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Rune Prana F6",
-                                        "x": 100,
-                                        "y": 410,
+                                        "x": 67,
+                                        "y": 424,
                                         "size": 6
                                     }
                                 ]
@@ -616,8 +616,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Rune Prana F6",
-                                        "x": 295,
-                                        "y": 120,
+                                        "x": 282,
+                                        "y": 98,
                                         "size": 6
                                     }
                                 ]
@@ -847,8 +847,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Rune Prana F7",
-                                        "x": 265,
-                                        "y": 477,
+                                        "x": 264,
+                                        "y": 468,
                                         "size": 6
                                     }
                                 ]
@@ -886,8 +886,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Rune Prana F7",
-                                        "x": 524,
-                                        "y": 341,
+                                        "x": 535,
+                                        "y": 331,
                                         "size": 6
                                     }
                                 ]
@@ -925,8 +925,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Rune Prana F7",
-                                        "x": 597,
-                                        "y": 145,
+                                        "x": 602,
+                                        "y": 127,
                                         "size": 6
                                     }
                                 ]
@@ -964,8 +964,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Rune Prana F7",
-                                        "x": 133,
-                                        "y": 77,
+                                        "x": 130,
+                                        "y": 65,
                                         "size": 6
                                     }
                                 ]
@@ -993,8 +993,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Rune Prana F7",
-                                        "x": 75,
-                                        "y": 341,
+                                        "x": 61,
+                                        "y": 334,
                                         "size": 6
                                     }
                                 ]
@@ -1315,8 +1315,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Rune Prana F5",
-                                        "x": 465,
-                                        "y": 328,
+                                        "x": 459,
+                                        "y": 331,
                                         "size": 6
                                     }
                                 ]
@@ -1344,8 +1344,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Rune Prana F5",
-                                        "x": 161,
-                                        "y": 126,
+                                        "x": 98,
+                                        "y": 90,
                                         "size": 6
                                     }
                                 ]
@@ -1539,7 +1539,7 @@
                     {
                         "map": "Rune Prana F1",
                         "x": 335,
-                        "y": 327,
+                        "y": 318,
                         "size": 6
                     }
                 ]
@@ -1568,7 +1568,7 @@
                     {
                         "map": "Rune Prana F1",
                         "x": 335,
-                        "y": 215,
+                        "y": 206,
                         "size": 6
                     }
                 ]
@@ -1596,8 +1596,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F1",
-                        "x": 228,
-                        "y": 208,
+                        "x": 223,
+                        "y": 199,
                         "size": 6
                     }
                 ]
@@ -1626,7 +1626,7 @@
                     {
                         "map": "Rune Prana F1",
                         "x": 228,
-                        "y": 105,
+                        "y": 96,
                         "size": 6
                     }
                 ]
@@ -1654,8 +1654,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F1",
-                        "x": 442,
-                        "y": 208,
+                        "x": 437,
+                        "y": 199,
                         "size": 6
                     }
                 ]
@@ -1684,7 +1684,7 @@
                     {
                         "map": "Rune Prana F1",
                         "x": 442,
-                        "y": 105,
+                        "y": 96,
                         "size": 6
                     }
                 ]
@@ -1712,8 +1712,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F2",
-                        "x": 508,
-                        "y": 442,
+                        "x": 503,
+                        "y": 433,
                         "size": 6
                     }
                 ]
@@ -1741,8 +1741,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F2",
-                        "x": 392,
-                        "y": 326,
+                        "x": 387,
+                        "y": 317,
                         "size": 6
                     }
                 ]
@@ -1771,7 +1771,7 @@
                     {
                         "map": "Rune Prana F2",
                         "x": 508,
-                        "y": 326,
+                        "y": 317,
                         "size": 6
                     }
                 ]
@@ -1799,8 +1799,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F2",
-                        "x": 392,
-                        "y": 210,
+                        "x": 387,
+                        "y": 201,
                         "size": 6
                     }
                 ]
@@ -1829,7 +1829,7 @@
                     {
                         "map": "Rune Prana F2",
                         "x": 277,
-                        "y": 442,
+                        "y": 433,
                         "size": 6
                     }
                 ]
@@ -1857,8 +1857,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F3",
-                        "x": 334,
-                        "y": 405,
+                        "x": 329,
+                        "y": 396,
                         "size": 6
                     }
                 ]
@@ -1887,7 +1887,7 @@
                     {
                         "map": "Rune Prana F3",
                         "x": 83,
-                        "y": 389,
+                        "y": 380,
                         "size": 6
                     }
                 ]
@@ -1916,7 +1916,7 @@
                     {
                         "map": "Rune Prana F3",
                         "x": 585,
-                        "y": 267,
+                        "y": 258,
                         "size": 6
                     }
                 ]
@@ -1945,7 +1945,7 @@
                     {
                         "map": "Rune Prana F4",
                         "x": 334,
-                        "y": 470,
+                        "y": 461,
                         "size": 6
                     }
                 ]
@@ -1974,7 +1974,7 @@
                     {
                         "map": "Rune Prana F4",
                         "x": 334,
-                        "y": 364,
+                        "y": 355,
                         "size": 6
                     }
                 ]
@@ -2002,8 +2002,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F4",
-                        "x": 426,
-                        "y": 364,
+                        "x": 411,
+                        "y": 355,
                         "size": 6
                     }
                 ]
@@ -2032,7 +2032,7 @@
                     {
                         "map": "Rune Prana F4",
                         "x": 241,
-                        "y": 364,
+                        "y": 355,
                         "size": 6
                     }
                 ]
@@ -2060,8 +2060,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F4",
-                        "x": 149,
-                        "y": 364,
+                        "x": 144,
+                        "y": 355,
                         "size": 6
                     }
                 ]
@@ -2090,7 +2090,7 @@
                     {
                         "map": "Rune Prana F4",
                         "x": 236,
-                        "y": 269,
+                        "y": 260,
                         "size": 6
                     }
                 ]
@@ -2119,7 +2119,7 @@
                     {
                         "map": "Rune Prana F4",
                         "x": 330,
-                        "y": 174,
+                        "y": 165,
                         "size": 6
                     }
                 ]
@@ -2148,7 +2148,7 @@
                     {
                         "map": "Rune Prana F4",
                         "x": 422,
-                        "y": 174,
+                        "y": 165,
                         "size": 6
                     }
                 ]
@@ -2177,7 +2177,7 @@
                     {
                         "map": "Rune Prana F4",
                         "x": 519,
-                        "y": 174,
+                        "y": 165,
                         "size": 6
                     }
                 ]
@@ -2205,8 +2205,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F4",
-                        "x": 426,
-                        "y": 79,
+                        "x": 421,
+                        "y": 70,
                         "size": 6
                     }
                 ]
@@ -2235,7 +2235,7 @@
                     {
                         "map": "Rune Prana F5",
                         "x": 575,
-                        "y": 233,
+                        "y": 224,
                         "size": 6
                     }
                 ]
@@ -2264,7 +2264,7 @@
                     {
                         "map": "Rune Prana F5",
                         "x": 454,
-                        "y": 219,
+                        "y": 210,
                         "size": 6
                     }
                 ]
@@ -2292,8 +2292,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F5",
-                        "x": 454,
-                        "y": 340,
+                        "x": 449,
+                        "y": 331,
                         "size": 6
                     }
                 ]
@@ -2322,7 +2322,7 @@
                     {
                         "map": "Rune Prana F5",
                         "x": 213,
-                        "y": 460,
+                        "y": 451,
                         "size": 6
                     }
                 ]
@@ -2351,7 +2351,7 @@
                     {
                         "map": "Rune Prana F5",
                         "x": 454,
-                        "y": 460,
+                        "y": 451,
                         "size": 6
                     }
                 ]
@@ -2380,7 +2380,7 @@
                     {
                         "map": "Rune Prana F5",
                         "x": 93,
-                        "y": 340,
+                        "y": 331,
                         "size": 6
                     }
                 ]
@@ -2409,7 +2409,7 @@
                     {
                         "map": "Rune Prana F5",
                         "x": 90,
-                        "y": 219,
+                        "y": 210,
                         "size": 6
                     }
                 ]
@@ -2437,8 +2437,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F5",
-                        "x": 93,
-                        "y": 99,
+                        "x": 88,
+                        "y": 90,
                         "size": 6
                     }
                 ]
@@ -2467,7 +2467,7 @@
                     {
                         "map": "Rune Prana F5",
                         "x": 212,
-                        "y": 219,
+                        "y": 210,
                         "size": 6
                     }
                 ]
@@ -2495,8 +2495,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F6",
-                        "x": 389,
-                        "y": 444,
+                        "x": 379,
+                        "y": 435,
                         "size": 6
                     }
                 ]
@@ -2524,8 +2524,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F6",
-                        "x": 389,
-                        "y": 324,
+                        "x": 379,
+                        "y": 315,
                         "size": 6
                     }
                 ]
@@ -2554,7 +2554,7 @@
                     {
                         "map": "Rune Prana F6",
                         "x": 389,
-                        "y": 216,
+                        "y": 207,
                         "size": 6
                     }
                 ]
@@ -2583,7 +2583,7 @@
                     {
                         "map": "Rune Prana F6",
                         "x": 494,
-                        "y": 431,
+                        "y": 422,
                         "size": 6
                     }
                 ]
@@ -2612,7 +2612,7 @@
                     {
                         "map": "Rune Prana F6",
                         "x": 600,
-                        "y": 433,
+                        "y": 424,
                         "size": 6
                     }
                 ]
@@ -2641,7 +2641,7 @@
                     {
                         "map": "Rune Prana F6",
                         "x": 600,
-                        "y": 324,
+                        "y": 315,
                         "size": 6
                     }
                 ]
@@ -2670,7 +2670,7 @@
                     {
                         "map": "Rune Prana F6",
                         "x": 282,
-                        "y": 324,
+                        "y": 315,
                         "size": 6
                     }
                 ]
@@ -2699,7 +2699,7 @@
                     {
                         "map": "Rune Prana F6",
                         "x": 68,
-                        "y": 324,
+                        "y": 315,
                         "size": 6
                     }
                 ]
@@ -2727,8 +2727,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F6",
-                        "x": 67,
-                        "y": 216,
+                        "x": 62,
+                        "y": 207,
                         "size": 6
                     }
                 ]
@@ -2757,7 +2757,7 @@
                     {
                         "map": "Rune Prana F6",
                         "x": 68,
-                        "y": 107,
+                        "y": 98,
                         "size": 6
                     }
                 ]
@@ -2786,7 +2786,7 @@
                     {
                         "map": "Rune Prana F6",
                         "x": 175,
-                        "y": 107,
+                        "y": 98,
                         "size": 6
                     }
                 ]
@@ -2815,7 +2815,7 @@
                     {
                         "map": "Rune Prana F6",
                         "x": 282,
-                        "y": 216,
+                        "y": 207,
                         "size": 6
                     }
                 ]
@@ -2853,8 +2853,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F1",
-                        "x": 228,
-                        "y": 208,
+                        "x": 233,
+                        "y": 199,
                         "size": 6
                     }
                 ]
@@ -2892,8 +2892,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F1",
-                        "x": 442,
-                        "y": 208,
+                        "x": 447,
+                        "y": 199,
                         "size": 6
                     }
                 ]
@@ -2931,8 +2931,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F2",
-                        "x": 392,
-                        "y": 326,
+                        "x": 397,
+                        "y": 317,
                         "size": 6
                     }
                 ]
@@ -2970,8 +2970,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F2",
-                        "x": 161,
-                        "y": 443,
+                        "x": 156,
+                        "y": 434,
                         "size": 6
                     }
                 ]
@@ -3009,8 +3009,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F3",
-                        "x": 334,
-                        "y": 405,
+                        "x": 339,
+                        "y": 396,
                         "size": 6
                     }
                 ]
@@ -3048,8 +3048,14 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F3",
-                        "x": 458,
-                        "y": 267,
+                        "x": 453,
+                        "y": 258,
+                        "size": 6
+                    },
+                    {
+                        "map": "Rune Prana F4",
+                        "x": 421,
+                        "y": 355,
                         "size": 6
                     }
                 ]
@@ -3086,9 +3092,15 @@
                 ],
                 "map_locations": [
                     {
+                        "map": "Rune Prana F3",
+                        "x": 463,
+                        "y": 258,
+                        "size": 6
+                    },
+                    {
                         "map": "Rune Prana F4",
-                        "x": 426,
-                        "y": 364,
+                        "x": 431,
+                        "y": 355,
                         "size": 6
                     }
                 ]
@@ -3126,8 +3138,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F4",
-                        "x": 149,
-                        "y": 364,
+                        "x": 154,
+                        "y": 355,
                         "size": 6
                     }
                 ]
@@ -3165,8 +3177,14 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F6",
-                        "x": 389,
-                        "y": 444,
+                        "x": 399,
+                        "y": 315,
+                        "size": 6
+                    },
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 399,
+                        "y": 435,
                         "size": 6
                     }
                 ]
@@ -3205,7 +3223,13 @@
                     {
                         "map": "Rune Prana F6",
                         "x": 389,
-                        "y": 324,
+                        "y": 315,
+                        "size": 6
+                    },
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 389,
+                        "y": 435,
                         "size": 6
                     }
                 ]
@@ -3263,8 +3287,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F6",
-                        "x": 67,
-                        "y": 216,
+                        "x": 72,
+                        "y": 207,
                         "size": 6
                     }
                 ]
@@ -3293,7 +3317,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 399,
-                        "y": 407,
+                        "y": 398,
                         "size": 6
                     }
                 ]
@@ -3322,7 +3346,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 466,
-                        "y": 407,
+                        "y": 398,
                         "size": 6
                     }
                 ]
@@ -3350,8 +3374,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F7",
-                        "x": 533,
-                        "y": 407,
+                        "x": 528,
+                        "y": 398,
                         "size": 6
                     }
                 ]
@@ -3380,7 +3404,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 266,
-                        "y": 410,
+                        "y": 401,
                         "size": 6
                     }
                 ]
@@ -3408,8 +3432,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F7",
-                        "x": 200,
-                        "y": 410,
+                        "x": 195,
+                        "y": 401,
                         "size": 6
                     }
                 ]
@@ -3438,7 +3462,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 133,
-                        "y": 410,
+                        "y": 401,
                         "size": 6
                     }
                 ]
@@ -3467,7 +3491,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 133,
-                        "y": 343,
+                        "y": 334,
                         "size": 6
                     }
                 ]
@@ -3496,7 +3520,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 133,
-                        "y": 276,
+                        "y": 267,
                         "size": 6
                     }
                 ]
@@ -3525,7 +3549,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 200,
-                        "y": 276,
+                        "y": 267,
                         "size": 6
                     }
                 ]
@@ -3554,7 +3578,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 466,
-                        "y": 274,
+                        "y": 265,
                         "size": 6
                     }
                 ]
@@ -3583,7 +3607,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 533,
-                        "y": 274,
+                        "y": 265,
                         "size": 6
                     }
                 ]
@@ -3612,7 +3636,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 533,
-                        "y": 206,
+                        "y": 197,
                         "size": 6
                     }
                 ]
@@ -3641,7 +3665,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 603,
-                        "y": 206,
+                        "y": 197,
                         "size": 6
                     }
                 ]
@@ -3670,7 +3694,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 603,
-                        "y": 276,
+                        "y": 267,
                         "size": 6
                     }
                 ]
@@ -3698,8 +3722,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F7",
-                        "x": 264,
-                        "y": 208,
+                        "x": 259,
+                        "y": 199,
                         "size": 6
                     }
                 ]
@@ -3728,7 +3752,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 197,
-                        "y": 208,
+                        "y": 199,
                         "size": 6
                     }
                 ]
@@ -3757,7 +3781,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 130,
-                        "y": 208,
+                        "y": 199,
                         "size": 6
                     }
                 ]
@@ -3786,7 +3810,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 133,
-                        "y": 141,
+                        "y": 132,
                         "size": 6
                     }
                 ]
@@ -3815,7 +3839,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 64,
-                        "y": 141,
+                        "y": 132,
                         "size": 6
                     }
                 ]
@@ -3843,8 +3867,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F7",
-                        "x": 533,
-                        "y": 407,
+                        "x": 538,
+                        "y": 398,
                         "size": 6
                     }
                 ]
@@ -3883,7 +3907,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 332,
-                        "y": 343,
+                        "y": 334,
                         "size": 6
                     }
                 ]
@@ -3921,8 +3945,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F7",
-                        "x": 200,
-                        "y": 410,
+                        "x": 205,
+                        "y": 401,
                         "size": 6
                     }
                 ]
@@ -3980,8 +4004,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F7",
-                        "x": 66,
-                        "y": 343,
+                        "x": 71,
+                        "y": 334,
                         "size": 6
                     }
                 ]
@@ -4020,7 +4044,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 332,
-                        "y": 276,
+                        "y": 267,
                         "size": 6
                     }
                 ]
@@ -4048,8 +4072,8 @@
                 "map_locations": [
                     {
                         "map": "Rune Prana F7",
-                        "x": 264,
-                        "y": 208,
+                        "x": 269,
+                        "y": 199,
                         "size": 6
                     }
                 ]
@@ -4088,7 +4112,7 @@
                     {
                         "map": "Rune Prana F7",
                         "x": 332,
-                        "y": 139,
+                        "y": 130,
                         "size": 6
                     }
                 ]

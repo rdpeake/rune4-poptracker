@@ -137,11 +137,25 @@ Run order:
     python3 tools/gamedata/derive_rooms.py --write
     python3 tools/gamedata/export_transitions.py --write
     python3 tools/gamedata/render_maps.py --out images/maps
+    python3 tools/move_pins.py --write
 
 `export_transitions.py` reads every doorway in the game's map files whose two
 ends are drawn on different pack maps into `generated/transitions.json`: source
 map -> destination map -> the rooms you leave from. That is where an area is
 entered, which was being placed by eye before.
+
+`move_pins.py` puts each chest, barrier and box on the room the MAP FILES put
+it in, not the room its name gives: `generated/check_rooms.json` joins the check
+to a map id. The pin is lifted clear of the label and rooms holding several fan
+them out, both bounded by the room's own box. A check the game puts in two rooms
+gets a pin in each.
+
+An area pin -- `Autumn Road/Leon Karnak` -- is placed the same way, from
+`generated/transitions.json`, so the room an area is entered from is the game's
+answer rather than whichever room the pin happened to sit nearest.
+`tools/pin_doors.json` names the handful the map files have no doorway for --
+Revival Cave is a pit -- and the parked pins for Floating Empire, Sharance Maze
+and Field Dungeon keep the pin they have.
 
 **Adding a map**: put its image in `maps/maps.json` and a tab in
 `layouts/tabs.json`, name its texture in `map_art.json`, give its rooms labels

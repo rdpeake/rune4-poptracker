@@ -270,7 +270,7 @@
                         "map_locations": [
                             {
                                 "map": "Autumn Road",
-                                "x": 427,
+                                "x": 444,
                                 "y": 328,
                                 "size": 6
                             }
@@ -309,8 +309,8 @@
                         "map_locations": [
                             {
                                 "map": "Autumn Road",
-                                "x": 471,
-                                "y": 282,
+                                "x": 501,
+                                "y": 265,
                                 "size": 6
                             }
                         ]
@@ -338,8 +338,8 @@
                         "map_locations": [
                             {
                                 "map": "Autumn Road",
-                                "x": 434,
-                                "y": 304,
+                                "x": 459,
+                                "y": 294,
                                 "size": 6
                             }
                         ]
@@ -377,8 +377,8 @@
                         "map_locations": [
                             {
                                 "map": "Autumn Road",
-                                "x": 402,
-                                "y": 388,
+                                "x": 412,
+                                "y": 404,
                                 "size": 6
                             }
                         ]
@@ -436,8 +436,8 @@
                         "map_locations": [
                             {
                                 "map": "Autumn Road",
-                                "x": 437,
-                                "y": 397,
+                                "x": 454,
+                                "y": 409,
                                 "size": 6
                             }
                         ]
@@ -465,8 +465,8 @@
                         "map_locations": [
                             {
                                 "map": "Autumn Road",
-                                "x": 339,
-                                "y": 331,
+                                "x": 316,
+                                "y": 328,
                                 "size": 6
                             }
                         ]
@@ -494,8 +494,8 @@
                         "map_locations": [
                             {
                                 "map": "Autumn Road",
-                                "x": 303,
-                                "y": 376,
+                                "x": 287,
+                                "y": 384,
                                 "size": 6
                             }
                         ]
@@ -523,8 +523,8 @@
                         "map_locations": [
                             {
                                 "map": "Autumn Road",
-                                "x": 239,
-                                "y": 407,
+                                "x": 199,
+                                "y": 430,
                                 "size": 6
                             }
                         ]
@@ -582,8 +582,8 @@
                         "map_locations": [
                             {
                                 "map": "Autumn Road",
-                                "x": 175,
-                                "y": 320,
+                                "x": 112,
+                                "y": 307,
                                 "size": 6
                             }
                         ]
@@ -764,8 +764,8 @@
                 "map_locations": [
                     {
                         "map": "Autumn Road",
-                        "x": 475,
-                        "y": 215,
+                        "x": 492,
+                        "y": 205,
                         "size": 6
                     }
                 ]
@@ -897,8 +897,8 @@
                 "map_locations": [
                     {
                         "map": "Autumn Road",
-                        "x": 226,
-                        "y": 376,
+                        "x": 195,
+                        "y": 384,
                         "size": 6
                     }
                 ]
@@ -1009,8 +1009,8 @@
                 "map_locations": [
                     {
                         "map": "Autumn Road",
-                        "x": 385,
-                        "y": 264,
+                        "x": 409,
+                        "y": 254,
                         "size": 6
                     }
                 ]
@@ -1034,8 +1034,8 @@
                 "map_locations": [
                     {
                         "map": "Autumn Road",
-                        "x": 254,
-                        "y": 269,
+                        "x": 170,
+                        "y": 265,
                         "size": 6
                     }
                 ]
@@ -1152,8 +1152,8 @@
                 "map_locations": [
                     {
                         "map": "Autumn Road",
-                        "x": 355,
-                        "y": 183,
+                        "x": 354,
+                        "y": 117,
                         "size": 6
                     }
                 ]
@@ -1181,8 +1181,8 @@
                 "map_locations": [
                     {
                         "map": "Autumn Road",
-                        "x": 407,
-                        "y": 413,
+                        "x": 402,
+                        "y": 404,
                         "size": 6
                     }
                 ]
@@ -1220,8 +1220,8 @@
                 "map_locations": [
                     {
                         "map": "Autumn Road",
-                        "x": 404,
-                        "y": 263,
+                        "x": 399,
+                        "y": 254,
                         "size": 6
                     }
                 ]
@@ -1249,8 +1249,8 @@
                 "map_locations": [
                     {
                         "map": "Autumn Road",
-                        "x": 282,
-                        "y": 393,
+                        "x": 277,
+                        "y": 384,
                         "size": 6
                     }
                 ]
@@ -1279,7 +1279,7 @@
                     {
                         "map": "Autumn Road",
                         "x": 470,
-                        "y": 266,
+                        "y": 257,
                         "size": 6
                     }
                 ]
@@ -1328,7 +1328,7 @@
                     {
                         "map": "Autumn Road",
                         "x": 340,
-                        "y": 296,
+                        "y": 287,
                         "size": 6
                     }
                 ]
@@ -1367,7 +1367,7 @@
                     {
                         "map": "Autumn Road",
                         "x": 281,
-                        "y": 300,
+                        "y": 291,
                         "size": 6
                     }
                 ]
@@ -1416,7 +1416,7 @@
                     {
                         "map": "Autumn Road",
                         "x": 528,
-                        "y": 272,
+                        "y": 263,
                         "size": 6
                     }
                 ]

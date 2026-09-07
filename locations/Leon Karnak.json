@@ -230,8 +230,8 @@
                         "map_locations": [
                             {
                                 "map": "Leon Karnak",
-                                "x": 381,
-                                "y": 350,
+                                "x": 364,
+                                "y": 355,
                                 "size": 6
                             }
                         ]
@@ -260,7 +260,7 @@
                             {
                                 "map": "Leon Karnak",
                                 "x": 299,
-                                "y": 392,
+                                "y": 403,
                                 "size": 6
                             }
                         ]
@@ -288,8 +288,8 @@
                         "map_locations": [
                             {
                                 "map": "Leon Karnak",
-                                "x": 330,
-                                "y": 317,
+                                "x": 286,
+                                "y": 318,
                                 "size": 6
                             }
                         ]
@@ -317,7 +317,7 @@
                         "map_locations": [
                             {
                                 "map": "Leon Karnak",
-                                "x": 333,
+                                "x": 375,
                                 "y": 225,
                                 "size": 6
                             }
@@ -346,8 +346,8 @@
                         "map_locations": [
                             {
                                 "map": "Leon Karnak",
-                                "x": 232,
-                                "y": 126,
+                                "x": 215,
+                                "y": 109,
                                 "size": 6
                             }
                         ]
@@ -375,8 +375,8 @@
                         "map_locations": [
                             {
                                 "map": "Leon Karnak",
-                                "x": 349,
-                                "y": 122,
+                                "x": 332,
+                                "y": 69,
                                 "size": 6
                             }
                         ]
@@ -404,8 +404,8 @@
                         "map_locations": [
                             {
                                 "map": "Leon Karnak",
-                                "x": 366,
-                                "y": 153,
+                                "x": 302,
+                                "y": 146,
                                 "size": 6
                             }
                         ]
@@ -778,8 +778,8 @@
                 "map_locations": [
                     {
                         "map": "Leon Karnak",
-                        "x": 332,
-                        "y": 425,
+                        "x": 329,
+                        "y": 462,
                         "size": 6
                     }
                 ]
@@ -877,8 +877,8 @@
                 "map_locations": [
                     {
                         "map": "Leon Karnak",
-                        "x": 289,
-                        "y": 412,
+                        "x": 279,
+                        "y": 403,
                         "size": 6
                     }
                 ]
@@ -907,7 +907,7 @@
                     {
                         "map": "Leon Karnak",
                         "x": 302,
-                        "y": 364,
+                        "y": 355,
                         "size": 6
                     }
                 ]
@@ -935,8 +935,8 @@
                 "map_locations": [
                     {
                         "map": "Leon Karnak",
-                        "x": 359,
-                        "y": 364,
+                        "x": 354,
+                        "y": 355,
                         "size": 6
                     }
                 ]
@@ -965,7 +965,7 @@
                     {
                         "map": "Leon Karnak",
                         "x": 208,
-                        "y": 408,
+                        "y": 399,
                         "size": 6
                     }
                 ]
@@ -994,7 +994,7 @@
                     {
                         "map": "Leon Karnak",
                         "x": 373,
-                        "y": 327,
+                        "y": 318,
                         "size": 6
                     }
                 ]
@@ -1022,8 +1022,8 @@
                 "map_locations": [
                     {
                         "map": "Leon Karnak",
-                        "x": 451,
-                        "y": 324,
+                        "x": 446,
+                        "y": 315,
                         "size": 6
                     }
                 ]
@@ -1052,7 +1052,7 @@
                     {
                         "map": "Leon Karnak",
                         "x": 214,
-                        "y": 227,
+                        "y": 218,
                         "size": 6
                     }
                 ]
@@ -1080,8 +1080,8 @@
                 "map_locations": [
                     {
                         "map": "Leon Karnak",
-                        "x": 210,
-                        "y": 118,
+                        "x": 205,
+                        "y": 109,
                         "size": 6
                     }
                 ]
@@ -1109,8 +1109,8 @@
                 "map_locations": [
                     {
                         "map": "Leon Karnak",
-                        "x": 292,
-                        "y": 155,
+                        "x": 282,
+                        "y": 146,
                         "size": 6
                     }
                 ]
@@ -1139,7 +1139,7 @@
                     {
                         "map": "Leon Karnak",
                         "x": 359,
-                        "y": 195,
+                        "y": 186,
                         "size": 6
                     }
                 ]
@@ -1167,8 +1167,8 @@
                 "map_locations": [
                     {
                         "map": "Leon Karnak",
-                        "x": 208,
-                        "y": 339,
+                        "x": 203,
+                        "y": 330,
                         "size": 6
                     }
                 ]
@@ -1196,8 +1196,8 @@
                 "map_locations": [
                     {
                         "map": "Leon Karnak",
-                        "x": 451,
-                        "y": 273,
+                        "x": 446,
+                        "y": 264,
                         "size": 6
                     }
                 ]
@@ -1226,7 +1226,7 @@
                     {
                         "map": "Leon Karnak",
                         "x": 372,
-                        "y": 155,
+                        "y": 146,
                         "size": 6
                     }
                 ]
@@ -1265,7 +1265,7 @@
                     {
                         "map": "Leon Karnak",
                         "x": 289,
-                        "y": 412,
+                        "y": 403,
                         "size": 6
                     }
                 ]
@@ -1293,8 +1293,8 @@
                 "map_locations": [
                     {
                         "map": "Leon Karnak",
-                        "x": 451,
-                        "y": 324,
+                        "x": 456,
+                        "y": 315,
                         "size": 6
                     }
                 ]
@@ -1322,8 +1322,8 @@
                 "map_locations": [
                     {
                         "map": "Leon Karnak",
-                        "x": 370,
-                        "y": 234,
+                        "x": 365,
+                        "y": 225,
                         "size": 6
                     }
                 ]
@@ -1352,7 +1352,7 @@
                     {
                         "map": "Leon Karnak",
                         "x": 290,
-                        "y": 234,
+                        "y": 225,
                         "size": 6
                     }
                 ]
@@ -1391,7 +1391,7 @@
                     {
                         "map": "Leon Karnak",
                         "x": 292,
-                        "y": 155,
+                        "y": 146,
                         "size": 6
                     }
                 ]
@@ -1430,7 +1430,7 @@
                     {
                         "map": "Leon Karnak",
                         "x": 375,
-                        "y": 412,
+                        "y": 403,
                         "size": 6
                     }
                 ]
@@ -1478,8 +1478,8 @@
                 "map_locations": [
                     {
                         "map": "Leon Karnak",
-                        "x": 208,
-                        "y": 339,
+                        "x": 213,
+                        "y": 330,
                         "size": 6
                     }
                 ]
@@ -1517,8 +1517,8 @@
                 "map_locations": [
                     {
                         "map": "Leon Karnak",
-                        "x": 451,
-                        "y": 273,
+                        "x": 456,
+                        "y": 264,
                         "size": 6
                     }
                 ]
@@ -1547,7 +1547,7 @@
                     {
                         "map": "Leon Karnak",
                         "x": 214,
-                        "y": 170,
+                        "y": 161,
                         "size": 6
                     }
                 ]

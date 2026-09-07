@@ -1,0 +1,6 @@
+{
+    "_": "Ways in that the game's map files carry no doorway for, so export_transitions.py cannot find them. Same shape as generated/transitions.json: source map -> destination map -> the rooms you leave from.",
+    "Autumn Road": {
+        "Revival Cave": ["E2"]
+    }
+}

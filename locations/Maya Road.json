@@ -240,8 +240,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Maya Road F2",
-                                        "x": 458,
-                                        "y": 222,
+                                        "x": 444,
+                                        "y": 213,
                                         "size": 6
                                     }
                                 ]
@@ -269,8 +269,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Maya Road F2",
-                                        "x": 583,
-                                        "y": 267,
+                                        "x": 571,
+                                        "y": 261,
                                         "size": 6
                                     }
                                 ]
@@ -298,8 +298,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Maya Road F2",
-                                        "x": 250,
-                                        "y": 222,
+                                        "x": 231,
+                                        "y": 213,
                                         "size": 6
                                     }
                                 ]
@@ -327,8 +327,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Maya Road F2",
-                                        "x": 207,
-                                        "y": 311,
+                                        "x": 188,
+                                        "y": 309,
                                         "size": 6
                                     }
                                 ]
@@ -409,7 +409,7 @@
                                     {
                                         "map": "Maya Road F1",
                                         "x": 363,
-                                        "y": 268,
+                                        "y": 230,
                                         "size": 6
                                     }
                                 ]
@@ -437,8 +437,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Maya Road F1",
-                                        "x": 196,
-                                        "y": 206,
+                                        "x": 183,
+                                        "y": 175,
                                         "size": 6
                                     }
                                 ]
@@ -538,8 +538,8 @@
                                 "map_locations": [
                                     {
                                         "map": "Maya Road Cave",
-                                        "x": 394,
-                                        "y": 90,
+                                        "x": 413,
+                                        "y": 179,
                                         "size": 6
                                     }
                                 ]
@@ -566,9 +566,9 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Maya Road Cave",
-                                        "x": 508,
-                                        "y": 464,
+                                        "map": "Maya Road Cave via F2",
+                                        "x": 579,
+                                        "y": 254,
                                         "size": 6
                                     }
                                 ]
@@ -605,9 +605,9 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Maya Road Cave",
-                                        "x": 153,
-                                        "y": 464,
+                                        "map": "Maya Road Cave via F2",
+                                        "x": 75,
+                                        "y": 254,
                                         "size": 6
                                     }
                                 ]
@@ -696,9 +696,9 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Maya Road Cave",
-                                        "x": 70,
-                                        "y": 414,
+                                        "map": "Maya Road Underground",
+                                        "x": 581,
+                                        "y": 362,
                                         "size": 6
                                     }
                                 ]
@@ -725,9 +725,9 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Maya Road Cave",
-                                        "x": 70,
-                                        "y": 378,
+                                        "map": "Maya Road Underground",
+                                        "x": 75,
+                                        "y": 362,
                                         "size": 6
                                     }
                                 ]
@@ -1032,8 +1032,8 @@
                 "map_locations": [
                     {
                         "map": "Maya Road F1",
-                        "x": 48,
-                        "y": 208,
+                        "x": 57,
+                        "y": 175,
                         "size": 6
                     }
                 ]
@@ -1062,7 +1062,7 @@
                     {
                         "map": "Maya Road F1",
                         "x": 544,
-                        "y": 239,
+                        "y": 230,
                         "size": 6
                     }
                 ]
@@ -1091,7 +1091,7 @@
                     {
                         "map": "Maya Road Underground",
                         "x": 456,
-                        "y": 261,
+                        "y": 252,
                         "size": 6
                     }
                 ]
@@ -1120,7 +1120,7 @@
                     {
                         "map": "Maya Road Underground",
                         "x": 205,
-                        "y": 261,
+                        "y": 252,
                         "size": 6
                     }
                 ]
@@ -1149,7 +1149,7 @@
                     {
                         "map": "Maya Road Underground",
                         "x": 205,
-                        "y": 371,
+                        "y": 362,
                         "size": 6
                     }
                 ]
@@ -1177,8 +1177,8 @@
                 "map_locations": [
                     {
                         "map": "Maya Road Underground",
-                        "x": 80,
-                        "y": 371,
+                        "x": 85,
+                        "y": 362,
                         "size": 6
                     }
                 ]
@@ -1207,7 +1207,7 @@
                     {
                         "map": "Maya Road Cave",
                         "x": 413,
-                        "y": 331,
+                        "y": 322,
                         "size": 6
                     }
                 ]
@@ -1236,7 +1236,7 @@
                     {
                         "map": "Maya Road Cave",
                         "x": 254,
-                        "y": 331,
+                        "y": 322,
                         "size": 6
                     }
                 ]
@@ -1265,7 +1265,7 @@
                     {
                         "map": "Maya Road F2",
                         "x": 529,
-                        "y": 222,
+                        "y": 213,
                         "size": 6
                     }
                 ]
@@ -1294,7 +1294,7 @@
                     {
                         "map": "Maya Road F2",
                         "x": 359,
-                        "y": 222,
+                        "y": 213,
                         "size": 6
                     }
                 ]
@@ -1323,7 +1323,7 @@
                     {
                         "map": "Maya Road F2",
                         "x": 359,
-                        "y": 318,
+                        "y": 309,
                         "size": 6
                     }
                 ]
@@ -1352,7 +1352,7 @@
                     {
                         "map": "Maya Road F2",
                         "x": 274,
-                        "y": 222,
+                        "y": 213,
                         "size": 6
                     }
                 ]
@@ -1381,7 +1381,7 @@
                     {
                         "map": "Maya Road F2",
                         "x": 231,
-                        "y": 318,
+                        "y": 309,
                         "size": 6
                     }
                 ]
@@ -1410,7 +1410,7 @@
                     {
                         "map": "Maya Road F2",
                         "x": 146,
-                        "y": 270,
+                        "y": 261,
                         "size": 6
                     }
                 ]
@@ -1439,7 +1439,7 @@
                     {
                         "map": "Maya Road F2",
                         "x": 146,
-                        "y": 222,
+                        "y": 213,
                         "size": 6
                     }
                 ]
@@ -1477,8 +1477,14 @@
                 "map_locations": [
                     {
                         "map": "Maya Road F1",
-                        "x": 423,
-                        "y": 184,
+                        "x": 308,
+                        "y": 175,
+                        "size": 6
+                    },
+                    {
+                        "map": "Maya Road F1",
+                        "x": 428,
+                        "y": 175,
                         "size": 6
                     }
                 ]
@@ -1536,8 +1542,14 @@
                 "map_locations": [
                     {
                         "map": "Maya Road F1",
-                        "x": 303,
-                        "y": 184,
+                        "x": 298,
+                        "y": 175,
+                        "size": 6
+                    },
+                    {
+                        "map": "Maya Road F1",
+                        "x": 418,
+                        "y": 175,
                         "size": 6
                     }
                 ]
@@ -1576,7 +1588,7 @@
                     {
                         "map": "Maya Road Cave",
                         "x": 95,
-                        "y": 246,
+                        "y": 237,
                         "size": 6
                     }
                 ]
@@ -1615,7 +1627,7 @@
                     {
                         "map": "Maya Road F2",
                         "x": 444,
-                        "y": 270,
+                        "y": 261,
                         "size": 6
                     }
                 ]
@@ -1653,8 +1665,8 @@
                 "map_locations": [
                     {
                         "map": "Maya Road Cave via F2",
-                        "x": 80,
-                        "y": 263,
+                        "x": 85,
+                        "y": 254,
                         "size": 6
                     }
                 ]
@@ -1693,7 +1705,7 @@
                     {
                         "map": "Maya Road F2",
                         "x": 316,
-                        "y": 270,
+                        "y": 261,
                         "size": 6
                     }
                 ]

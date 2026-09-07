@@ -630,8 +630,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 185,
-                        "y": 226,
+                        "x": 190,
+                        "y": 221,
                         "size": 6
                     }
                 ]
@@ -1468,8 +1468,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 473,
-                        "y": 191,
+                        "x": 497,
+                        "y": 138,
                         "size": 6
                     }
                 ]
@@ -1766,8 +1766,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 411,
-                        "y": 379,
+                        "x": 406,
+                        "y": 404,
                         "size": 6
                     }
                 ]
