@@ -1435,6 +1435,407 @@
                         "size": 6
                     }
                 ]
+            },
+            {
+                "name": "Keeno Lake Search E1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm81",
+                        "access_rules": [
+                            "^$RF4Access|1853468"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853468"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia Plains",
+                        "x": 131,
+                        "y": 355,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box #19",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm19.1",
+                        "access_rules": [
+                            "^$RF4Access|1853387"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853387"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm19.2",
+                        "access_rules": [
+                            "^$RF4Access|1853388"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853388"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia Plains",
+                        "x": 68,
+                        "y": 222,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Search D4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm8.1",
+                        "access_rules": [
+                            "^$RF4Access|1853444"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853444"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm8.2",
+                        "access_rules": [
+                            "^$RF4Access|1853445"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853445"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm8.3",
+                        "access_rules": [
+                            "^$RF4Access|1853446"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853446"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia Plains",
+                        "x": 338,
+                        "y": 287,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Search D1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm14.1",
+                        "access_rules": [
+                            "^$RF4Access|1853447"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853447"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm14.2",
+                        "access_rules": [
+                            "^$RF4Access|1853448"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853448"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia Plains",
+                        "x": 142,
+                        "y": 294,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Search D2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm15.1",
+                        "access_rules": [
+                            "^$RF4Access|1853449"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853449"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm15.2",
+                        "access_rules": [
+                            "^$RF4Access|1853450"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853450"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia Plains",
+                        "x": 214,
+                        "y": 291,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Search D3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm16.1",
+                        "access_rules": [
+                            "^$RF4Access|1853451"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853451"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm16.2",
+                        "access_rules": [
+                            "^$RF4Access|1853452"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853452"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm16.3",
+                        "access_rules": [
+                            "^$RF4Access|1853453"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853453"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm16.4",
+                        "access_rules": [
+                            "^$RF4Access|1853454"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853454"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm16.5",
+                        "access_rules": [
+                            "^$RF4Access|1853455"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853455"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm16.6",
+                        "access_rules": [
+                            "^$RF4Access|1853456"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853456"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm16.7",
+                        "access_rules": [
+                            "^$RF4Access|1853457"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853457"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm16.8",
+                        "access_rules": [
+                            "^$RF4Access|1853458"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853458"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia Plains",
+                        "x": 272,
+                        "y": 297,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Search E2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm17",
+                        "access_rules": [
+                            "^$RF4Access|1853459"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853459"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia Plains",
+                        "x": 214,
+                        "y": 346,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Search E3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm23.1",
+                        "access_rules": [
+                            "^$RF4Access|1853460"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853460"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm23.2",
+                        "access_rules": [
+                            "^$RF4Access|1853461"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853461"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia Plains",
+                        "x": 272,
+                        "y": 345,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Selphia Plains - East Box D6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm10.1",
+                        "access_rules": [
+                            "^$RF4Access|1853385"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853385"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm10.2",
+                        "access_rules": [
+                            "^$RF4Access|1853386"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853386"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia Plains",
+                        "x": 491,
+                        "y": 286,
+                        "size": 6
+                    }
+                ]
             }
         ]
     }

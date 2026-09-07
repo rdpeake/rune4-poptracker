@@ -783,6 +783,774 @@
                         "size": 6
                     }
                 ]
+            },
+            {
+                "name": "Forest Of Beginnings Barrier",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm2",
+                        "access_rules": [
+                            "^$RF4Access|1853011"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853011"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm3",
+                        "access_rules": [
+                            "^$RF4Access|1853012"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853012"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm4",
+                        "access_rules": [
+                            "^$RF4Access|1853013"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853013"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm5",
+                        "access_rules": [
+                            "^$RF4Access|1853014"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853014"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm6",
+                        "access_rules": [
+                            "^$RF4Access|1853015"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853015"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 34,
+                        "y": 78,
+                        "size": 6,
+                        "shape": "trapezoid"
+                    }
+                ]
+            },
+            {
+                "name": "Barrier G2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm3",
+                        "access_rules": [
+                            "^$RF4Access|1852943"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852943"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 289,
+                        "y": 412,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm5",
+                        "access_rules": [
+                            "^$RF4Access|1852944"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852944"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 302,
+                        "y": 364,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm6",
+                        "access_rules": [
+                            "^$RF4Access|1852945"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852945"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 359,
+                        "y": 364,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier G1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm7",
+                        "access_rules": [
+                            "^$RF4Access|1852946"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852946"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 208,
+                        "y": 408,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm9",
+                        "access_rules": [
+                            "^$RF4Access|1852947"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852947"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 373,
+                        "y": 327,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm10",
+                        "access_rules": [
+                            "^$RF4Access|1852948"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852948"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 451,
+                        "y": 324,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier D1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm14",
+                        "access_rules": [
+                            "^$RF4Access|1852949"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852949"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 214,
+                        "y": 227,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm15",
+                        "access_rules": [
+                            "^$RF4Access|1852950"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852950"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 210,
+                        "y": 118,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm16",
+                        "access_rules": [
+                            "^$RF4Access|1852951"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852951"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 292,
+                        "y": 155,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm17",
+                        "access_rules": [
+                            "^$RF4Access|1852952"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852952"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 359,
+                        "y": 195,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm20",
+                        "access_rules": [
+                            "^$RF4Access|1852953"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852953"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 208,
+                        "y": 339,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier E1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm21",
+                        "access_rules": [
+                            "^$RF4Access|1852954"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852954"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 451,
+                        "y": 273,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm23",
+                        "access_rules": [
+                            "^$RF4Access|1852955"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852955"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 372,
+                        "y": 155,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box G2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm3.1",
+                        "access_rules": [
+                            "^$RF4Access|1853212"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853212"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm3.2",
+                        "access_rules": [
+                            "^$RF4Access|1853213"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853213"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 289,
+                        "y": 412,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box F4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm10",
+                        "access_rules": [
+                            "^$RF4Access|1853214"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853214"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 451,
+                        "y": 324,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box D3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm12",
+                        "access_rules": [
+                            "^$RF4Access|1853215"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853215"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 370,
+                        "y": 234,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box D2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm13",
+                        "access_rules": [
+                            "^$RF4Access|1853216"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853216"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 290,
+                        "y": 234,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm16.1",
+                        "access_rules": [
+                            "^$RF4Access|1853217"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853217"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm16.2",
+                        "access_rules": [
+                            "^$RF4Access|1853218"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853218"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 292,
+                        "y": 155,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box G3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm19.1",
+                        "access_rules": [
+                            "^$RF4Access|1853219"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853219"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm19.2",
+                        "access_rules": [
+                            "^$RF4Access|1853220"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853220"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 375,
+                        "y": 412,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box F1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm20.1",
+                        "access_rules": [
+                            "^$RF4Access|1853221"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853221"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm20.2",
+                        "access_rules": [
+                            "^$RF4Access|1853222"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853222"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm20.3",
+                        "access_rules": [
+                            "^$RF4Access|1853223"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853223"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 208,
+                        "y": 339,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box E1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm21.1",
+                        "access_rules": [
+                            "^$RF4Access|1853224"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853224"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm21.2",
+                        "access_rules": [
+                            "^$RF4Access|1853225"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853225"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 451,
+                        "y": 273,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm22",
+                        "access_rules": [
+                            "^$RF4Access|1853226"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853226"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Leon Karnak",
+                        "x": 214,
+                        "y": 170,
+                        "size": 6
+                    }
+                ]
             }
         ]
     }

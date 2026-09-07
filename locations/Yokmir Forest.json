@@ -1145,6 +1145,714 @@
                         "size": 6
                     }
                 ]
+            },
+            {
+                "name": "Yokmir Cave Barrier C",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm4",
+                        "access_rules": [
+                            "^$RF4Access|1852981"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852981"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Cave F1",
+                        "x": 410,
+                        "y": 333,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Cave Barrier D",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm5",
+                        "access_rules": [
+                            "^$RF4Access|1852982"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852982"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Cave F1",
+                        "x": 410,
+                        "y": 200,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Cave Barrier B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm9",
+                        "access_rules": [
+                            "^$RF4Access|1852983"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852983"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Cave F2",
+                        "x": 410,
+                        "y": 203,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Cave Barrier F2:D3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm12",
+                        "access_rules": [
+                            "^$RF4Access|1852984"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852984"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Cave F2",
+                        "x": 410,
+                        "y": 459,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Cave Barrier F2:D1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm15",
+                        "access_rules": [
+                            "^$RF4Access|1852985"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852985"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Cave F2",
+                        "x": 108,
+                        "y": 459,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Cave Barrier F3:D1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm19",
+                        "access_rules": [
+                            "^$RF4Access|1852986"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852986"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Cave F3",
+                        "x": 184,
+                        "y": 309,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Cave Barrier E2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm22",
+                        "access_rules": [
+                            "^$RF4Access|1852987"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852987"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Cave F3",
+                        "x": 282,
+                        "y": 392,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Cave Barrier F3:D3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm23",
+                        "access_rules": [
+                            "^$RF4Access|1852988"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852988"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Cave F3",
+                        "x": 380,
+                        "y": 309,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Cave Barrier E3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm25",
+                        "access_rules": [
+                            "^$RF4Access|1852989"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852989"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Cave F3",
+                        "x": 380,
+                        "y": 392,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Cave Barrier A1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm30",
+                        "access_rules": [
+                            "^$RF4Access|1852990"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852990"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Cave F3",
+                        "x": 184,
+                        "y": 59,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Cave Barrier A3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm31",
+                        "access_rules": [
+                            "^$RF4Access|1852991"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852991"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Cave F3",
+                        "x": 380,
+                        "y": 59,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Cave Box B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm9.1",
+                        "access_rules": [
+                            "^$RF4Access|1853281"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853281"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm9.2",
+                        "access_rules": [
+                            "^$RF4Access|1853282"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853282"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Cave F2",
+                        "x": 410,
+                        "y": 203,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Cave Box F2:C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm16.1",
+                        "access_rules": [
+                            "^$RF4Access|1853283"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853283"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm16.2",
+                        "access_rules": [
+                            "^$RF4Access|1853284"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853284"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Cave F2",
+                        "x": 108,
+                        "y": 331,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Cave Box F3:C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm20.1",
+                        "access_rules": [
+                            "^$RF4Access|1853285"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853285"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm20.2",
+                        "access_rules": [
+                            "^$RF4Access|1853286"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853286"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Cave F3",
+                        "x": 147,
+                        "y": 226,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yokmir Cave Box A3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm31",
+                        "access_rules": [
+                            "^$RF4Access|1853287"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853287"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Cave F3",
+                        "x": 380,
+                        "y": 59,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm1",
+                        "access_rules": [
+                            "^$RF4Access|1852929"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852929"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Forest",
+                        "x": 128,
+                        "y": 460,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm4",
+                        "access_rules": [
+                            "^$RF4Access|1852930"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852930"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Forest",
+                        "x": 283,
+                        "y": 349,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier 8",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm8",
+                        "access_rules": [
+                            "^$RF4Access|1852931"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852931"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Forest",
+                        "x": 524,
+                        "y": 170,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm3.1",
+                        "access_rules": [
+                            "^$RF4Access|1853185"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853185"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm3.2",
+                        "access_rules": [
+                            "^$RF4Access|1853186"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853186"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Forest",
+                        "x": 156,
+                        "y": 354,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm5",
+                        "access_rules": [
+                            "^$RF4Access|1853187"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853187"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Forest",
+                        "x": 413,
+                        "y": 351,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm6.1",
+                        "access_rules": [
+                            "^$RF4Access|1853188"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853188"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm6.2",
+                        "access_rules": [
+                            "^$RF4Access|1853189"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853189"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Forest",
+                        "x": 414,
+                        "y": 436,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Search 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm4.1",
+                        "access_rules": [
+                            "^$RF4Access|1853441"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853441"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm4.2",
+                        "access_rules": [
+                            "^$RF4Access|1853442"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853442"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm4.3",
+                        "access_rules": [
+                            "^$RF4Access|1853443"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853443"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Yokmir Forest",
+                        "x": 283,
+                        "y": 349,
+                        "size": 6
+                    }
+                ]
             }
         ]
     }

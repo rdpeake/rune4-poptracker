@@ -1125,6 +1125,658 @@
                         "shape": "trapezoid"
                     }
                 ]
+            },
+            {
+                "name": "Barrier E5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm12",
+                        "access_rules": [
+                            "^$RF4Access|1853048"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853048"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 1",
+                        "x": 571,
+                        "y": 274,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier D5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm15",
+                        "access_rules": [
+                            "^$RF4Access|1853049"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853049"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 1",
+                        "x": 431,
+                        "y": 277,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm17",
+                        "access_rules": [
+                            "^$RF4Access|1853050"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853050"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 1",
+                        "x": 506,
+                        "y": 160,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm29",
+                        "access_rules": [
+                            "^$RF4Access|1853051"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853051"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 1",
+                        "x": 190,
+                        "y": 166,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier E1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm35",
+                        "access_rules": [
+                            "^$RF4Access|1853052"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853052"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 1",
+                        "x": 194,
+                        "y": 279,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier E3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm51",
+                        "access_rules": [
+                            "^$RF4Access|1853053"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853053"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 2",
+                        "x": 581,
+                        "y": 347,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm56.1",
+                        "access_rules": [
+                            "^$RF4Access|1853054"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853054"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm56.2",
+                        "access_rules": [
+                            "^$RF4Access|1853055"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853055"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 2",
+                        "x": 495,
+                        "y": 205,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm60",
+                        "access_rules": [
+                            "^$RF4Access|1853056"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853056"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 2",
+                        "x": 310,
+                        "y": 250,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm61",
+                        "access_rules": [
+                            "^$RF4Access|1853057"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853057"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 2",
+                        "x": 249,
+                        "y": 253,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box G2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm6.1",
+                        "access_rules": [
+                            "^$RF4Access|1853326"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853326"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm6.2",
+                        "access_rules": [
+                            "^$RF4Access|1853327"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853327"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 1",
+                        "x": 393,
+                        "y": 375,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box F6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm7.1",
+                        "access_rules": [
+                            "^$RF4Access|1853328"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853328"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm7.2",
+                        "access_rules": [
+                            "^$RF4Access|1853329"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853329"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 1",
+                        "x": 446,
+                        "y": 331,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box D4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm14.1",
+                        "access_rules": [
+                            "^$RF4Access|1853330"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853330"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm14.2",
+                        "access_rules": [
+                            "^$RF4Access|1853331"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853331"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm14.3",
+                        "access_rules": [
+                            "^$RF4Access|1853332"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853332"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm14.4",
+                        "access_rules": [
+                            "^$RF4Access|1853333"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853333"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 1",
+                        "x": 468,
+                        "y": 221,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box 1:B5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm22",
+                        "access_rules": [
+                            "^$RF4Access|1853334"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853334"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 1",
+                        "x": 435,
+                        "y": 98,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box D2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm31.1",
+                        "access_rules": [
+                            "^$RF4Access|1853335"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853335"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm31.2",
+                        "access_rules": [
+                            "^$RF4Access|1853336"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853336"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 1",
+                        "x": 260,
+                        "y": 232,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box G1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm36.1",
+                        "access_rules": [
+                            "^$RF4Access|1853337"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853337"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm36.2",
+                        "access_rules": [
+                            "^$RF4Access|1853338"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853338"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 1",
+                        "x": 265,
+                        "y": 388,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm45.1",
+                        "access_rules": [
+                            "^$RF4Access|1853339"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853339"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm45.2",
+                        "access_rules": [
+                            "^$RF4Access|1853340"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853340"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory Cave",
+                        "x": 187,
+                        "y": 309,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box D3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm55.1",
+                        "access_rules": [
+                            "^$RF4Access|1853341"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853341"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm55.2",
+                        "access_rules": [
+                            "^$RF4Access|1853342"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853342"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm55.3",
+                        "access_rules": [
+                            "^$RF4Access|1853343"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853343"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm55.4",
+                        "access_rules": [
+                            "^$RF4Access|1853344"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853344"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 2",
+                        "x": 496,
+                        "y": 293,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box 2:B5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm67.1",
+                        "access_rules": [
+                            "^$RF4Access|1853345"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853345"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm67.2",
+                        "access_rules": [
+                            "^$RF4Access|1853346"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853346"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sechs Territory 2",
+                        "x": 369,
+                        "y": 184,
+                        "size": 6
+                    }
+                ]
             }
         ]
     }

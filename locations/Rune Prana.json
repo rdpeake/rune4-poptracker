@@ -1514,6 +1514,2584 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Barrier F1:C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm4",
+                        "access_rules": [
+                            "^$RF4Access|1853058"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853058"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F1",
+                        "x": 335,
+                        "y": 327,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F1:B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm5",
+                        "access_rules": [
+                            "^$RF4Access|1853059"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853059"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F1",
+                        "x": 335,
+                        "y": 215,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F1:B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm6",
+                        "access_rules": [
+                            "^$RF4Access|1853060"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853060"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F1",
+                        "x": 228,
+                        "y": 208,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier A3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm7",
+                        "access_rules": [
+                            "^$RF4Access|1853061"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853061"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F1",
+                        "x": 228,
+                        "y": 105,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F1:B3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm8",
+                        "access_rules": [
+                            "^$RF4Access|1853062"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853062"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F1",
+                        "x": 442,
+                        "y": 208,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F1:A1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm9",
+                        "access_rules": [
+                            "^$RF4Access|1853063"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853063"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F1",
+                        "x": 442,
+                        "y": 105,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F2:D4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm13",
+                        "access_rules": [
+                            "^$RF4Access|1853064"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853064"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F2",
+                        "x": 508,
+                        "y": 442,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F2:C3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm14",
+                        "access_rules": [
+                            "^$RF4Access|1853065"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853065"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F2",
+                        "x": 392,
+                        "y": 326,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F2:C4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm15",
+                        "access_rules": [
+                            "^$RF4Access|1853066"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853066"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F2",
+                        "x": 508,
+                        "y": 326,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F2:B3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm17",
+                        "access_rules": [
+                            "^$RF4Access|1853067"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853067"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F2",
+                        "x": 392,
+                        "y": 210,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F2:D2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm18",
+                        "access_rules": [
+                            "^$RF4Access|1853068"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853068"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F2",
+                        "x": 277,
+                        "y": 442,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm26",
+                        "access_rules": [
+                            "^$RF4Access|1853069"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853069"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F3",
+                        "x": 334,
+                        "y": 405,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F3:C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm30",
+                        "access_rules": [
+                            "^$RF4Access|1853070"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853070"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F3",
+                        "x": 83,
+                        "y": 389,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F3:B5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm32",
+                        "access_rules": [
+                            "^$RF4Access|1853071"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853071"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F3",
+                        "x": 585,
+                        "y": 267,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier E1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm36",
+                        "access_rules": [
+                            "^$RF4Access|1853072"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853072"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F4",
+                        "x": 334,
+                        "y": 470,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F4:D3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm37",
+                        "access_rules": [
+                            "^$RF4Access|1853073"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853073"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F4",
+                        "x": 334,
+                        "y": 364,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F4:D4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm38",
+                        "access_rules": [
+                            "^$RF4Access|1853074"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853074"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F4",
+                        "x": 426,
+                        "y": 364,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F4:D2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm39",
+                        "access_rules": [
+                            "^$RF4Access|1853075"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853075"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F4",
+                        "x": 241,
+                        "y": 364,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F4:C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm40",
+                        "access_rules": [
+                            "^$RF4Access|1853076"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853076"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F4",
+                        "x": 149,
+                        "y": 364,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F4:D1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm41",
+                        "access_rules": [
+                            "^$RF4Access|1853077"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853077"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F4",
+                        "x": 236,
+                        "y": 269,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F4:B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm43",
+                        "access_rules": [
+                            "^$RF4Access|1853078"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853078"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F4",
+                        "x": 330,
+                        "y": 174,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F4:B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm44",
+                        "access_rules": [
+                            "^$RF4Access|1853079"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853079"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F4",
+                        "x": 422,
+                        "y": 174,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F4:A2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm45",
+                        "access_rules": [
+                            "^$RF4Access|1853080"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853080"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F4",
+                        "x": 519,
+                        "y": 174,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F4:B3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm46",
+                        "access_rules": [
+                            "^$RF4Access|1853081"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853081"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F4",
+                        "x": 426,
+                        "y": 79,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F5:B5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm49",
+                        "access_rules": [
+                            "^$RF4Access|1853082"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853082"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F5",
+                        "x": 575,
+                        "y": 233,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm50",
+                        "access_rules": [
+                            "^$RF4Access|1853083"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853083"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F5",
+                        "x": 454,
+                        "y": 219,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F5:C4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm51",
+                        "access_rules": [
+                            "^$RF4Access|1853084"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853084"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F5",
+                        "x": 454,
+                        "y": 340,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F5:D1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm54",
+                        "access_rules": [
+                            "^$RF4Access|1853085"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853085"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F5",
+                        "x": 213,
+                        "y": 460,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F5:D3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm56",
+                        "access_rules": [
+                            "^$RF4Access|1853086"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853086"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F5",
+                        "x": 454,
+                        "y": 460,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F5:C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm57",
+                        "access_rules": [
+                            "^$RF4Access|1853087"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853087"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F5",
+                        "x": 93,
+                        "y": 340,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F5:B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm58",
+                        "access_rules": [
+                            "^$RF4Access|1853088"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853088"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F5",
+                        "x": 90,
+                        "y": 219,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F5:A1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm59",
+                        "access_rules": [
+                            "^$RF4Access|1853089"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853089"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F5",
+                        "x": 93,
+                        "y": 99,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F5:B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm60",
+                        "access_rules": [
+                            "^$RF4Access|1853090"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853090"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F5",
+                        "x": 212,
+                        "y": 219,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F6:D2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm65",
+                        "access_rules": [
+                            "^$RF4Access|1853091"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853091"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 389,
+                        "y": 444,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F6:C4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm66",
+                        "access_rules": [
+                            "^$RF4Access|1853092"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853092"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 389,
+                        "y": 324,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F6:B3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm67",
+                        "access_rules": [
+                            "^$RF4Access|1853093"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853093"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 389,
+                        "y": 216,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F6:D3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm68",
+                        "access_rules": [
+                            "^$RF4Access|1853094"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853094"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 494,
+                        "y": 431,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F6:D4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm69",
+                        "access_rules": [
+                            "^$RF4Access|1853095"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853095"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 600,
+                        "y": 433,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm70",
+                        "access_rules": [
+                            "^$RF4Access|1853096"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853096"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 600,
+                        "y": 324,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F6:C3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm73",
+                        "access_rules": [
+                            "^$RF4Access|1853097"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853097"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 282,
+                        "y": 324,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F6:C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm75",
+                        "access_rules": [
+                            "^$RF4Access|1853098"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853098"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 68,
+                        "y": 324,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F6:B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm77",
+                        "access_rules": [
+                            "^$RF4Access|1853099"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853099"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 67,
+                        "y": 216,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F6:A1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm78",
+                        "access_rules": [
+                            "^$RF4Access|1853100"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853100"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 68,
+                        "y": 107,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F6:A2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm79",
+                        "access_rules": [
+                            "^$RF4Access|1853101"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853101"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 175,
+                        "y": 107,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F6:B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm81",
+                        "access_rules": [
+                            "^$RF4Access|1853102"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853102"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 282,
+                        "y": 216,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box F1:B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm6.1",
+                        "access_rules": [
+                            "^$RF4Access|1853347"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853347"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm6.2",
+                        "access_rules": [
+                            "^$RF4Access|1853348"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853348"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F1",
+                        "x": 228,
+                        "y": 208,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box B3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm8.1",
+                        "access_rules": [
+                            "^$RF4Access|1853349"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853349"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm8.2",
+                        "access_rules": [
+                            "^$RF4Access|1853350"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853350"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F1",
+                        "x": 442,
+                        "y": 208,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box C3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm14.1",
+                        "access_rules": [
+                            "^$RF4Access|1853351"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853351"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm14.2",
+                        "access_rules": [
+                            "^$RF4Access|1853352"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853352"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F2",
+                        "x": 392,
+                        "y": 326,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box D1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm19.1",
+                        "access_rules": [
+                            "^$RF4Access|1853353"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853353"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm19.2",
+                        "access_rules": [
+                            "^$RF4Access|1853354"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853354"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F2",
+                        "x": 161,
+                        "y": 443,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box C2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm26.1",
+                        "access_rules": [
+                            "^$RF4Access|1853355"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853355"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm26.2",
+                        "access_rules": [
+                            "^$RF4Access|1853356"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853356"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F3",
+                        "x": 334,
+                        "y": 405,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box B4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm31.1",
+                        "access_rules": [
+                            "^$RF4Access|1853357"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853357"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm31.2",
+                        "access_rules": [
+                            "^$RF4Access|1853358"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853358"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F3",
+                        "x": 458,
+                        "y": 267,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box D4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm38.1",
+                        "access_rules": [
+                            "^$RF4Access|1853359"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853359"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm38.2",
+                        "access_rules": [
+                            "^$RF4Access|1853360"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853360"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F4",
+                        "x": 426,
+                        "y": 364,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm40.1",
+                        "access_rules": [
+                            "^$RF4Access|1853361"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853361"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm40.2",
+                        "access_rules": [
+                            "^$RF4Access|1853362"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853362"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F4",
+                        "x": 149,
+                        "y": 364,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box D2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm65.1",
+                        "access_rules": [
+                            "^$RF4Access|1853363"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853363"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm65.2",
+                        "access_rules": [
+                            "^$RF4Access|1853364"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853364"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 389,
+                        "y": 444,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box C4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm66.1",
+                        "access_rules": [
+                            "^$RF4Access|1853365"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853365"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm66.2",
+                        "access_rules": [
+                            "^$RF4Access|1853366"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853366"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 389,
+                        "y": 324,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box F6:B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm77.1",
+                        "access_rules": [
+                            "^$RF4Access|1853367"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853367"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm77.2",
+                        "access_rules": [
+                            "^$RF4Access|1853368"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853368"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm77.3",
+                        "access_rules": [
+                            "^$RF4Access|1853369"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853369"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm77.4",
+                        "access_rules": [
+                            "^$RF4Access|1853370"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853370"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F6",
+                        "x": 67,
+                        "y": 216,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier F5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm2",
+                        "access_rules": [
+                            "^$RF4Access|1853103"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853103"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 399,
+                        "y": 407,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier F6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm3",
+                        "access_rules": [
+                            "^$RF4Access|1853104"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853104"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 466,
+                        "y": 407,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier F7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm4",
+                        "access_rules": [
+                            "^$RF4Access|1853105"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853105"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 533,
+                        "y": 407,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier F3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm9",
+                        "access_rules": [
+                            "^$RF4Access|1853106"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853106"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 266,
+                        "y": 410,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier F2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm12",
+                        "access_rules": [
+                            "^$RF4Access|1853107"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853107"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 200,
+                        "y": 410,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier F1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm13",
+                        "access_rules": [
+                            "^$RF4Access|1853108"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853108"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 133,
+                        "y": 410,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier E2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm14",
+                        "access_rules": [
+                            "^$RF4Access|1853109"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853109"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 133,
+                        "y": 343,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier D1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm16",
+                        "access_rules": [
+                            "^$RF4Access|1853110"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853110"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 133,
+                        "y": 276,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier D2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm17",
+                        "access_rules": [
+                            "^$RF4Access|1853111"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853111"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 200,
+                        "y": 276,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier D5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm20",
+                        "access_rules": [
+                            "^$RF4Access|1853112"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853112"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 466,
+                        "y": 274,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier D6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm21",
+                        "access_rules": [
+                            "^$RF4Access|1853113"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853113"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 533,
+                        "y": 274,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier C7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm22",
+                        "access_rules": [
+                            "^$RF4Access|1853114"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853114"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 533,
+                        "y": 206,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier C8",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm23",
+                        "access_rules": [
+                            "^$RF4Access|1853115"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853115"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 603,
+                        "y": 206,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier B6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm24",
+                        "access_rules": [
+                            "^$RF4Access|1853116"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853116"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 603,
+                        "y": 276,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier C3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm29",
+                        "access_rules": [
+                            "^$RF4Access|1853117"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853117"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 264,
+                        "y": 208,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier C2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm30",
+                        "access_rules": [
+                            "^$RF4Access|1853118"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853118"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 197,
+                        "y": 208,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm31",
+                        "access_rules": [
+                            "^$RF4Access|1853119"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853119"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 130,
+                        "y": 208,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm32",
+                        "access_rules": [
+                            "^$RF4Access|1853120"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853120"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 133,
+                        "y": 141,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Barrier A1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm33",
+                        "access_rules": [
+                            "^$RF4Access|1853121"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853121"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 64,
+                        "y": 141,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Box F7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm4",
+                        "access_rules": [
+                            "^$RF4Access|1853371"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853371"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 533,
+                        "y": 407,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Box E4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm8.1",
+                        "access_rules": [
+                            "^$RF4Access|1853372"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853372"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm8.2",
+                        "access_rules": [
+                            "^$RF4Access|1853373"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853373"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 332,
+                        "y": 343,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Box F2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm12.1",
+                        "access_rules": [
+                            "^$RF4Access|1853374"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853374"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm12.2",
+                        "access_rules": [
+                            "^$RF4Access|1853375"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853375"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 200,
+                        "y": 410,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Box E1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm15.1",
+                        "access_rules": [
+                            "^$RF4Access|1853376"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853376"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm15.2",
+                        "access_rules": [
+                            "^$RF4Access|1853377"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853377"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm15.3",
+                        "access_rules": [
+                            "^$RF4Access|1853378"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853378"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm15.4",
+                        "access_rules": [
+                            "^$RF4Access|1853379"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853379"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 66,
+                        "y": 343,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Box D3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm18.1",
+                        "access_rules": [
+                            "^$RF4Access|1853380"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853380"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm18.2",
+                        "access_rules": [
+                            "^$RF4Access|1853381"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853381"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 332,
+                        "y": 276,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Box C3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm29",
+                        "access_rules": [
+                            "^$RF4Access|1853382"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853382"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 264,
+                        "y": 208,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rune Prana F7 Box B5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm37.1",
+                        "access_rules": [
+                            "^$RF4Access|1853383"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853383"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm37.2",
+                        "access_rules": [
+                            "^$RF4Access|1853384"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853384"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Rune Prana F7",
+                        "x": 332,
+                        "y": 139,
+                        "size": 6
+                    }
+                ]
             }
         ]
     }

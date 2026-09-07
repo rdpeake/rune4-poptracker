@@ -52,6 +52,12 @@ Every script finds the pack root from its own path, so they run from anywhere.
    apworld's own `loc_type`. Which kinds are an object placed in a room is
    discovered rather than listed -- such a kind has a data table whose entries
    carry a field flag -- so a kind the apworld adds is picked up on its own.
+5. `apworld/export_barriers.py` -> `locations/*.json` and `location_mapping.lua`
+   The barrier, box and search checks: each is one object in one room, so they
+   group per region and per room the way chests do. `generated/room_pins.json`
+   says where that room is drawn, so the two join on the map id. A room the
+   game never draws gets a section on the region's aggregate pin instead, and
+   is promoted by `rooms.json` gaining that map id.
 
 `scripts/logic/rf4_rules.lua` evaluates the clauses at runtime and is hand-written.
 

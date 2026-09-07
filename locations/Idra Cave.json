@@ -749,6 +749,791 @@
                         "shape": "trapezoid"
                     }
                 ]
+            },
+            {
+                "name": "Barrier Idra Cave:D2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm2",
+                        "access_rules": [
+                            "^$RF4Access|1853016"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853016"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave",
+                        "x": 332,
+                        "y": 354,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm5",
+                        "access_rules": [
+                            "^$RF4Access|1853017"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853017"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave",
+                        "x": 332,
+                        "y": 258,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier Idra Cave:B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm7",
+                        "access_rules": [
+                            "^$RF4Access|1853018"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853018"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave",
+                        "x": 226,
+                        "y": 162,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier Idra Cave:B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm8",
+                        "access_rules": [
+                            "^$RF4Access|1853019"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853019"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave",
+                        "x": 332,
+                        "y": 162,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm9",
+                        "access_rules": [
+                            "^$RF4Access|1853020"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853020"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave",
+                        "x": 438,
+                        "y": 162,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier A2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm15",
+                        "access_rules": [
+                            "^$RF4Access|1853021"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853021"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B1",
+                        "x": 150,
+                        "y": 184,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B1:B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm17",
+                        "access_rules": [
+                            "^$RF4Access|1853022"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853022"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B1",
+                        "x": 68,
+                        "y": 268,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B1:B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm18",
+                        "access_rules": [
+                            "^$RF4Access|1853023"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853023"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B1",
+                        "x": 155,
+                        "y": 262,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier A6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm24",
+                        "access_rules": [
+                            "^$RF4Access|1853024"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853024"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B1",
+                        "x": 513,
+                        "y": 184,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm27",
+                        "access_rules": [
+                            "^$RF4Access|1853025"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853025"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B1",
+                        "x": 512,
+                        "y": 262,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm33",
+                        "access_rules": [
+                            "^$RF4Access|1853026"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853026"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B2",
+                        "x": 240,
+                        "y": 475,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier E2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm37",
+                        "access_rules": [
+                            "^$RF4Access|1853027"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853027"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B2",
+                        "x": 240,
+                        "y": 392,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B2:D2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm40",
+                        "access_rules": [
+                            "^$RF4Access|1853028"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853028"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B2",
+                        "x": 240,
+                        "y": 309,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm41",
+                        "access_rules": [
+                            "^$RF4Access|1853029"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853029"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B2",
+                        "x": 148,
+                        "y": 225,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier E5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm45",
+                        "access_rules": [
+                            "^$RF4Access|1853030"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853030"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B2",
+                        "x": 516,
+                        "y": 392,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm50",
+                        "access_rules": [
+                            "^$RF4Access|1853031"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853031"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B2",
+                        "x": 332,
+                        "y": 225,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm51",
+                        "access_rules": [
+                            "^$RF4Access|1853032"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853032"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B2",
+                        "x": 424,
+                        "y": 225,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm52",
+                        "access_rules": [
+                            "^$RF4Access|1853033"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853033"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B2",
+                        "x": 516,
+                        "y": 225,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box C2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm5",
+                        "access_rules": [
+                            "^$RF4Access|1853299"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853299"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave",
+                        "x": 332,
+                        "y": 258,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box Idra Cave:B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm8.1",
+                        "access_rules": [
+                            "^$RF4Access|1853300"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853300"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm8.2",
+                        "access_rules": [
+                            "^$RF4Access|1853301"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853301"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave",
+                        "x": 332,
+                        "y": 162,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box B4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm12",
+                        "access_rules": [
+                            "^$RF4Access|1853302"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853302"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B1",
+                        "x": 332,
+                        "y": 318,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box B1:B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm18",
+                        "access_rules": [
+                            "^$RF4Access|1853303"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853303"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B1",
+                        "x": 155,
+                        "y": 262,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box C4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm51.1",
+                        "access_rules": [
+                            "^$RF4Access|1853304"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853304"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm51.2",
+                        "access_rules": [
+                            "^$RF4Access|1853305"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853305"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B2",
+                        "x": 424,
+                        "y": 225,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box C5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm52.1",
+                        "access_rules": [
+                            "^$RF4Access|1853306"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853306"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm52.2",
+                        "access_rules": [
+                            "^$RF4Access|1853307"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853307"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B2",
+                        "x": 516,
+                        "y": 225,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box B2:B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm53.1",
+                        "access_rules": [
+                            "^$RF4Access|1853308"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853308"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm53.2",
+                        "access_rules": [
+                            "^$RF4Access|1853309"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853309"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm53.3",
+                        "access_rules": [
+                            "^$RF4Access|1853310"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853310"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm53.4",
+                        "access_rules": [
+                            "^$RF4Access|1853311"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853311"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Idra Cave B2",
+                        "x": 332,
+                        "y": 142,
+                        "size": 6
+                    }
+                ]
             }
         ]
     }

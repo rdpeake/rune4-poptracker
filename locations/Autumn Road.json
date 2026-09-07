@@ -1157,6 +1157,269 @@
                         "size": 6
                     }
                 ]
+            },
+            {
+                "name": "Barrier #54",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm54",
+                        "access_rules": [
+                            "^$RF4Access|1853122"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853122"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Autumn Road",
+                        "x": 407,
+                        "y": 413,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box #50",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm50.1",
+                        "access_rules": [
+                            "^$RF4Access|1853392"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853392"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm50.2",
+                        "access_rules": [
+                            "^$RF4Access|1853393"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853393"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Autumn Road",
+                        "x": 404,
+                        "y": 263,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box #64",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm64",
+                        "access_rules": [
+                            "^$RF4Access|1853394"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853394"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Autumn Road",
+                        "x": 282,
+                        "y": 393,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Search E6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm47",
+                        "access_rules": [
+                            "^$RF4Access|1853462"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853462"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Autumn Road",
+                        "x": 470,
+                        "y": 266,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Search F5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm56.1",
+                        "access_rules": [
+                            "^$RF4Access|1853463"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853463"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm56.2",
+                        "access_rules": [
+                            "^$RF4Access|1853464"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853464"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm56.3",
+                        "access_rules": [
+                            "^$RF4Access|1853465"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853465"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Autumn Road",
+                        "x": 340,
+                        "y": 296,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Search F4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm59.1",
+                        "access_rules": [
+                            "^$RF4Access|1853466"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853466"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm59.2",
+                        "access_rules": [
+                            "^$RF4Access|1853467"
+                        ],
+                        "visibility_rules": [
+                            "opt_searchsanity,$RF4Visible|1853467"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Autumn Road",
+                        "x": 281,
+                        "y": 300,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Selphia Plains - West Box #45",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm45.1",
+                        "access_rules": [
+                            "^$RF4Access|1853389"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853389"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm45.2",
+                        "access_rules": [
+                            "^$RF4Access|1853390"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853390"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm45.3",
+                        "access_rules": [
+                            "^$RF4Access|1853391"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853391"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Autumn Road",
+                        "x": 528,
+                        "y": 272,
+                        "size": 6
+                    }
+                ]
             }
         ]
     }

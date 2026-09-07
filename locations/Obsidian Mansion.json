@@ -423,6 +423,249 @@
                         "shape": "trapezoid"
                     }
                 ]
+            },
+            {
+                "name": "Barrier A5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm7",
+                        "access_rules": [
+                            "^$RF4Access|1852938"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852938"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Obsidian Mansion",
+                        "x": 213,
+                        "y": 127,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier A7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm9",
+                        "access_rules": [
+                            "^$RF4Access|1852939"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852939"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Obsidian Mansion",
+                        "x": 379,
+                        "y": 129,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier A8",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm10",
+                        "access_rules": [
+                            "^$RF4Access|1852940"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852940"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Obsidian Mansion",
+                        "x": 427,
+                        "y": 82,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm13",
+                        "access_rules": [
+                            "^$RF4Access|1852941"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852941"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Obsidian Mansion",
+                        "x": 70,
+                        "y": 371,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm19",
+                        "access_rules": [
+                            "^$RF4Access|1852942"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852942"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Obsidian Mansion",
+                        "x": 486,
+                        "y": 421,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box A4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm6.1",
+                        "access_rules": [
+                            "^$RF4Access|1853206"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853206"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm6.2",
+                        "access_rules": [
+                            "^$RF4Access|1853207"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853207"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm6.3",
+                        "access_rules": [
+                            "^$RF4Access|1853208"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853208"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Obsidian Mansion",
+                        "x": 204,
+                        "y": 79,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box A8",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm10.1",
+                        "access_rules": [
+                            "^$RF4Access|1853209"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853209"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm10.2",
+                        "access_rules": [
+                            "^$RF4Access|1853210"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853210"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm10.3",
+                        "access_rules": [
+                            "^$RF4Access|1853211"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853211"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Obsidian Mansion",
+                        "x": 427,
+                        "y": 82,
+                        "size": 6
+                    }
+                ]
             }
         ]
     }

@@ -800,6 +800,84 @@
                         "size": 6
                     }
                 ]
+            },
+            {
+                "name": "Sand Pond Box #99",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm99.1",
+                        "access_rules": [
+                            "^$RF4Access|1853397"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853397"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm99.2",
+                        "access_rules": [
+                            "^$RF4Access|1853398"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853398"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sercerezo Hill",
+                        "x": 590,
+                        "y": 240,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box #91",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm91.1",
+                        "access_rules": [
+                            "^$RF4Access|1853395"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853395"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm91.2",
+                        "access_rules": [
+                            "^$RF4Access|1853396"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853396"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sercerezo Hill",
+                        "x": 207,
+                        "y": 355,
+                        "size": 6
+                    }
+                ]
             }
         ]
     }

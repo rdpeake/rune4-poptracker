@@ -631,6 +631,762 @@
                         "shape": "trapezoid"
                     }
                 ]
+            },
+            {
+                "name": "Barrier A1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm5",
+                        "access_rules": [
+                            "^$RF4Access|1852992"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852992"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F1",
+                        "x": 108,
+                        "y": 142,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm6",
+                        "access_rules": [
+                            "^$RF4Access|1852993"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852993"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F1",
+                        "x": 188,
+                        "y": 320,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm8",
+                        "access_rules": [
+                            "^$RF4Access|1852994"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852994"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F1",
+                        "x": 411,
+                        "y": 339,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm9",
+                        "access_rules": [
+                            "^$RF4Access|1852995"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852995"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F1",
+                        "x": 405,
+                        "y": 259,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm10",
+                        "access_rules": [
+                            "^$RF4Access|1852996"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852996"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F1",
+                        "x": 485,
+                        "y": 257,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm11",
+                        "access_rules": [
+                            "^$RF4Access|1852997"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852997"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F1",
+                        "x": 562,
+                        "y": 251,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm12",
+                        "access_rules": [
+                            "^$RF4Access|1852998"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852998"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F1",
+                        "x": 559,
+                        "y": 345,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm15",
+                        "access_rules": [
+                            "^$RF4Access|1852999"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852999"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F1",
+                        "x": 559,
+                        "y": 119,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier D1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm16",
+                        "access_rules": [
+                            "^$RF4Access|1853000"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853000"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F1",
+                        "x": 408,
+                        "y": 119,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier H4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm20",
+                        "access_rules": [
+                            "^$RF4Access|1853001"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853001"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F2",
+                        "x": 547,
+                        "y": 403,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier I2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm23",
+                        "access_rules": [
+                            "^$RF4Access|1853002"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853002"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F2",
+                        "x": 472,
+                        "y": 448,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier I1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm24",
+                        "access_rules": [
+                            "^$RF4Access|1853003"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853003"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F2",
+                        "x": 390,
+                        "y": 440,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier H3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm25",
+                        "access_rules": [
+                            "^$RF4Access|1853004"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853004"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F2",
+                        "x": 396,
+                        "y": 390,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier H1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm27",
+                        "access_rules": [
+                            "^$RF4Access|1853005"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853005"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F2",
+                        "x": 231,
+                        "y": 391,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier E2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm30",
+                        "access_rules": [
+                            "^$RF4Access|1853006"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853006"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F2",
+                        "x": 234,
+                        "y": 235,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier E1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm32",
+                        "access_rules": [
+                            "^$RF4Access|1853007"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853007"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F2",
+                        "x": 173,
+                        "y": 237,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm36",
+                        "access_rules": [
+                            "^$RF4Access|1853008"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853008"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F2",
+                        "x": 235,
+                        "y": 140,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm38",
+                        "access_rules": [
+                            "^$RF4Access|1853009"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853009"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F2",
+                        "x": 401,
+                        "y": 155,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm39",
+                        "access_rules": [
+                            "^$RF4Access|1853010"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853010"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F2",
+                        "x": 401,
+                        "y": 101,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box C4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm11.1",
+                        "access_rules": [
+                            "^$RF4Access|1853288"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853288"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm11.2",
+                        "access_rules": [
+                            "^$RF4Access|1853289"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853289"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F1",
+                        "x": 562,
+                        "y": 251,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box J1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm18.1",
+                        "access_rules": [
+                            "^$RF4Access|1853290"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853290"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm18.2",
+                        "access_rules": [
+                            "^$RF4Access|1853291"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853291"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F2",
+                        "x": 532,
+                        "y": 488,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box E1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm32",
+                        "access_rules": [
+                            "^$RF4Access|1853292"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853292"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F2",
+                        "x": 173,
+                        "y": 237,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box D2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm33.1",
+                        "access_rules": [
+                            "^$RF4Access|1853293"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853293"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm33.2",
+                        "access_rules": [
+                            "^$RF4Access|1853294"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853294"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F2",
+                        "x": 177,
+                        "y": 189,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box D1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm34.1",
+                        "access_rules": [
+                            "^$RF4Access|1853295"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853295"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm34.2",
+                        "access_rules": [
+                            "^$RF4Access|1853296"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853296"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm34.3",
+                        "access_rules": [
+                            "^$RF4Access|1853297"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853297"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm34.4",
+                        "access_rules": [
+                            "^$RF4Access|1853298"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853298"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Delirium Lava Ruins F2",
+                        "x": 92,
+                        "y": 190,
+                        "size": 6
+                    }
+                ]
             }
         ]
     }

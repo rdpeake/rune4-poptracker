@@ -1037,6 +1037,666 @@
                         "size": 6
                     }
                 ]
+            },
+            {
+                "name": "Barrier B5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm4",
+                        "access_rules": [
+                            "^$RF4Access|1853034"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853034"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road F1",
+                        "x": 544,
+                        "y": 239,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier A7-3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm9",
+                        "access_rules": [
+                            "^$RF4Access|1853035"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853035"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road Underground",
+                        "x": 456,
+                        "y": 261,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier A5-2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm19",
+                        "access_rules": [
+                            "^$RF4Access|1853036"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853036"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road Underground",
+                        "x": 205,
+                        "y": 261,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier A5-3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm20",
+                        "access_rules": [
+                            "^$RF4Access|1853037"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853037"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road Underground",
+                        "x": 205,
+                        "y": 371,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier A5-4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm21",
+                        "access_rules": [
+                            "^$RF4Access|1853038"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853038"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road Underground",
+                        "x": 80,
+                        "y": 371,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier Cave:A6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm29",
+                        "access_rules": [
+                            "^$RF4Access|1853039"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853039"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road Cave",
+                        "x": 413,
+                        "y": 331,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier Cave:A5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm30",
+                        "access_rules": [
+                            "^$RF4Access|1853040"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853040"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road Cave",
+                        "x": 254,
+                        "y": 331,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier A9",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm38",
+                        "access_rules": [
+                            "^$RF4Access|1853041"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853041"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road F2",
+                        "x": 529,
+                        "y": 222,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F2:A6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm49",
+                        "access_rules": [
+                            "^$RF4Access|1853042"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853042"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road F2",
+                        "x": 359,
+                        "y": 222,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm50",
+                        "access_rules": [
+                            "^$RF4Access|1853043"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853043"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road F2",
+                        "x": 359,
+                        "y": 318,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F2:A5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm53",
+                        "access_rules": [
+                            "^$RF4Access|1853044"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853044"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road F2",
+                        "x": 274,
+                        "y": 222,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm56",
+                        "access_rules": [
+                            "^$RF4Access|1853045"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853045"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road F2",
+                        "x": 231,
+                        "y": 318,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm59",
+                        "access_rules": [
+                            "^$RF4Access|1853046"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853046"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road F2",
+                        "x": 146,
+                        "y": 270,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier A3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm60",
+                        "access_rules": [
+                            "^$RF4Access|1853047"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1853047"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road F2",
+                        "x": 146,
+                        "y": 222,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box A7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm7.1",
+                        "access_rules": [
+                            "^$RF4Access|1853312"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853312"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm7.2",
+                        "access_rules": [
+                            "^$RF4Access|1853313"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853313"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road F1",
+                        "x": 423,
+                        "y": 184,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box A5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm18.1",
+                        "access_rules": [
+                            "^$RF4Access|1853314"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853314"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm18.2",
+                        "access_rules": [
+                            "^$RF4Access|1853315"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853315"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm18.3",
+                        "access_rules": [
+                            "^$RF4Access|1853316"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853316"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm18.4",
+                        "access_rules": [
+                            "^$RF4Access|1853317"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853317"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road F1",
+                        "x": 303,
+                        "y": 184,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box A1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm32.1",
+                        "access_rules": [
+                            "^$RF4Access|1853318"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853318"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm32.2",
+                        "access_rules": [
+                            "^$RF4Access|1853319"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853319"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road Cave",
+                        "x": 95,
+                        "y": 246,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box B8",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm41.1",
+                        "access_rules": [
+                            "^$RF4Access|1853320"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853320"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm41.2",
+                        "access_rules": [
+                            "^$RF4Access|1853321"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853321"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road F2",
+                        "x": 444,
+                        "y": 270,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm46.1",
+                        "access_rules": [
+                            "^$RF4Access|1853322"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853322"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm46.2",
+                        "access_rules": [
+                            "^$RF4Access|1853323"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853323"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road Cave via F2",
+                        "x": 80,
+                        "y": 263,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box B5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm51.1",
+                        "access_rules": [
+                            "^$RF4Access|1853324"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853324"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm51.2",
+                        "access_rules": [
+                            "^$RF4Access|1853325"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853325"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Maya Road F2",
+                        "x": 316,
+                        "y": 270,
+                        "size": 6
+                    }
+                ]
             }
         ]
     }

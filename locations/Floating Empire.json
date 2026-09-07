@@ -1195,6 +1195,1841 @@
                         "shape": "trapezoid"
                     }
                 ]
+            },
+            {
+                "name": "Barrier B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm8",
+                        "access_rules": [
+                            "^$RF4Access|1852956"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852956"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 271,
+                        "y": 125,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier South:B3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm10",
+                        "access_rules": [
+                            "^$RF4Access|1852957"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852957"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 402,
+                        "y": 125,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier A3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm11",
+                        "access_rules": [
+                            "^$RF4Access|1852958"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852958"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 402,
+                        "y": 65,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier South:C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm12",
+                        "access_rules": [
+                            "^$RF4Access|1852959"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852959"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 271,
+                        "y": 185,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier South:E2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm15",
+                        "access_rules": [
+                            "^$RF4Access|1852960"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852960"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 206,
+                        "y": 304,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier D3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm20",
+                        "access_rules": [
+                            "^$RF4Access|1852961"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852961"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 402,
+                        "y": 245,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier E7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm23",
+                        "access_rules": [
+                            "^$RF4Access|1852962"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852962"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 532,
+                        "y": 304,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier E4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm25",
+                        "access_rules": [
+                            "^$RF4Access|1852963"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852963"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 336,
+                        "y": 304,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier D8",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm32",
+                        "access_rules": [
+                            "^$RF4Access|1852964"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852964"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 530,
+                        "y": 269,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier West:B3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm34",
+                        "access_rules": [
+                            "^$RF4Access|1852965"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852965"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 329,
+                        "y": 147,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm37",
+                        "access_rules": [
+                            "^$RF4Access|1852966"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852966"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 329,
+                        "y": 391,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier D5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm41",
+                        "access_rules": [
+                            "^$RF4Access|1852967"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852967"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 329,
+                        "y": 269,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier A2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm45",
+                        "access_rules": [
+                            "^$RF4Access|1852968"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852968"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 263,
+                        "y": 55,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier E3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm48",
+                        "access_rules": [
+                            "^$RF4Access|1852969"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852969"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 263,
+                        "y": 330,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier D4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm49",
+                        "access_rules": [
+                            "^$RF4Access|1852970"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852970"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 263,
+                        "y": 269,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier West:E2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm59",
+                        "access_rules": [
+                            "^$RF4Access|1852971"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852971"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 196,
+                        "y": 330,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier West:C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm62",
+                        "access_rules": [
+                            "^$RF4Access|1852972"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852972"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 196,
+                        "y": 208,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier E1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm71",
+                        "access_rules": [
+                            "^$RF4Access|1852973"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852973"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 140,
+                        "y": 331,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier F4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm79",
+                        "access_rules": [
+                            "^$RF4Access|1852974"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852974"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 411,
+                        "y": 393,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm82",
+                        "access_rules": [
+                            "^$RF4Access|1852975"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852975"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 207,
+                        "y": 206,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm83",
+                        "access_rules": [
+                            "^$RF4Access|1852976"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852976"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 343,
+                        "y": 206,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm84",
+                        "access_rules": [
+                            "^$RF4Access|1852977"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852977"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 411,
+                        "y": 206,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier C5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm85",
+                        "access_rules": [
+                            "^$RF4Access|1852978"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852978"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 478,
+                        "y": 206,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier B4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm89",
+                        "access_rules": [
+                            "^$RF4Access|1852979"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852979"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 411,
+                        "y": 144,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Barrier A1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm90",
+                        "access_rules": [
+                            "^$RF4Access|1852980"
+                        ],
+                        "visibility_rules": [
+                            "opt_barriersanity,$RF4Visible|1852980"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 411,
+                        "y": 82,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm4.1",
+                        "access_rules": [
+                            "^$RF4Access|1853227"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853227"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm4.2",
+                        "access_rules": [
+                            "^$RF4Access|1853228"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853228"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm4.3",
+                        "access_rules": [
+                            "^$RF4Access|1853229"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853229"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm4.4",
+                        "access_rules": [
+                            "^$RF4Access|1853230"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853230"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire Main",
+                        "x": 289,
+                        "y": 434,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box South:A2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm6",
+                        "access_rules": [
+                            "^$RF4Access|1853231"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853231"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 336,
+                        "y": 65,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box South:B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm8.1",
+                        "access_rules": [
+                            "^$RF4Access|1853232"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853232"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm8.2",
+                        "access_rules": [
+                            "^$RF4Access|1853233"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853233"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 271,
+                        "y": 125,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm12.1",
+                        "access_rules": [
+                            "^$RF4Access|1853234"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853234"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm12.2",
+                        "access_rules": [
+                            "^$RF4Access|1853235"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853235"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 271,
+                        "y": 185,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box D1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm14.1",
+                        "access_rules": [
+                            "^$RF4Access|1853236"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853236"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm14.2",
+                        "access_rules": [
+                            "^$RF4Access|1853237"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853237"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 206,
+                        "y": 245,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box C2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm18",
+                        "access_rules": [
+                            "^$RF4Access|1853238"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853238"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 336,
+                        "y": 185,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box South:D4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm21.1",
+                        "access_rules": [
+                            "^$RF4Access|1853239"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853239"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm21.2",
+                        "access_rules": [
+                            "^$RF4Access|1853240"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853240"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 467,
+                        "y": 245,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box E6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm22.1",
+                        "access_rules": [
+                            "^$RF4Access|1853241"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853241"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm22.2",
+                        "access_rules": [
+                            "^$RF4Access|1853242"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853242"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 467,
+                        "y": 304,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box E5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm24",
+                        "access_rules": [
+                            "^$RF4Access|1853243"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853243"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 402,
+                        "y": 304,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box F2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm26",
+                        "access_rules": [
+                            "^$RF4Access|1853244"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853244"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 336,
+                        "y": 364,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box South:F1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm27.1",
+                        "access_rules": [
+                            "^$RF4Access|1853245"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853245"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm27.2",
+                        "access_rules": [
+                            "^$RF4Access|1853246"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853246"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 271,
+                        "y": 364,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box F3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm28.1",
+                        "access_rules": [
+                            "^$RF4Access|1853247"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853247"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm28.2",
+                        "access_rules": [
+                            "^$RF4Access|1853248"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853248"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm28.3",
+                        "access_rules": [
+                            "^$RF4Access|1853249"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853249"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm28.4",
+                        "access_rules": [
+                            "^$RF4Access|1853250"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853250"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire South",
+                        "x": 402,
+                        "y": 364,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box D9",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm31.1",
+                        "access_rules": [
+                            "^$RF4Access|1853251"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853251"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm31.2",
+                        "access_rules": [
+                            "^$RF4Access|1853252"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853252"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 596,
+                        "y": 269,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box D7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm33",
+                        "access_rules": [
+                            "^$RF4Access|1853253"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853253"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 463,
+                        "y": 269,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box C3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm35",
+                        "access_rules": [
+                            "^$RF4Access|1853254"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853254"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 329,
+                        "y": 208,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box B4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm36.1",
+                        "access_rules": [
+                            "^$RF4Access|1853255"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853255"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm36.2",
+                        "access_rules": [
+                            "^$RF4Access|1853256"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853256"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 396,
+                        "y": 147,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box E4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm38",
+                        "access_rules": [
+                            "^$RF4Access|1853257"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853257"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 329,
+                        "y": 330,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box G2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm42.1",
+                        "access_rules": [
+                            "^$RF4Access|1853258"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853258"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm42.2",
+                        "access_rules": [
+                            "^$RF4Access|1853259"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853259"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 263,
+                        "y": 483,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box West:A2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm45.1",
+                        "access_rules": [
+                            "^$RF4Access|1853260"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853260"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm45.2",
+                        "access_rules": [
+                            "^$RF4Access|1853261"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853261"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 263,
+                        "y": 55,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box A1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm47.1",
+                        "access_rules": [
+                            "^$RF4Access|1853262"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853262"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm47.2",
+                        "access_rules": [
+                            "^$RF4Access|1853263"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853263"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 196,
+                        "y": 55,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box G3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm56.1",
+                        "access_rules": [
+                            "^$RF4Access|1853264"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853264"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm56.2",
+                        "access_rules": [
+                            "^$RF4Access|1853265"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853265"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire West",
+                        "x": 396,
+                        "y": 453,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box D2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm64.1",
+                        "access_rules": [
+                            "^$RF4Access|1853266"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853266"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm64.2",
+                        "access_rules": [
+                            "^$RF4Access|1853267"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853267"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 140,
+                        "y": 268,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box East:D4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm66",
+                        "access_rules": [
+                            "^$RF4Access|1853268"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853268"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 275,
+                        "y": 268,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box E1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm71",
+                        "access_rules": [
+                            "^$RF4Access|1853269"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853269"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 140,
+                        "y": 331,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box East:F1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm76",
+                        "access_rules": [
+                            "^$RF4Access|1853270"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853270"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 207,
+                        "y": 393,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box C4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm84",
+                        "access_rules": [
+                            "^$RF4Access|1853271"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853271"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 411,
+                        "y": 206,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box C5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm85.1",
+                        "access_rules": [
+                            "^$RF4Access|1853272"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853272"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm85.2",
+                        "access_rules": [
+                            "^$RF4Access|1853273"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853273"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm85.3",
+                        "access_rules": [
+                            "^$RF4Access|1853274"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853274"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 478,
+                        "y": 206,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box East:B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm86.1",
+                        "access_rules": [
+                            "^$RF4Access|1853275"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853275"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm86.2",
+                        "access_rules": [
+                            "^$RF4Access|1853276"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853276"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 207,
+                        "y": 144,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm87.1",
+                        "access_rules": [
+                            "^$RF4Access|1853277"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853277"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm87.2",
+                        "access_rules": [
+                            "^$RF4Access|1853278"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853278"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 275,
+                        "y": 144,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Box B3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rm88.1",
+                        "access_rules": [
+                            "^$RF4Access|1853279"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853279"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rm88.2",
+                        "access_rules": [
+                            "^$RF4Access|1853280"
+                        ],
+                        "visibility_rules": [
+                            "opt_boxsanity,$RF4Visible|1853280"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Floating Empire East",
+                        "x": 343,
+                        "y": 144,
+                        "size": 6
+                    }
+                ]
             }
         ]
     }
