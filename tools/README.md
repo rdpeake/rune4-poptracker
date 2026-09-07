@@ -135,7 +135,13 @@ Run order:
 
     python3 tools/gamedata/map_art.py --write   # only if a placement should change
     python3 tools/gamedata/derive_rooms.py --write
+    python3 tools/gamedata/export_transitions.py --write
     python3 tools/gamedata/render_maps.py --out images/maps
+
+`export_transitions.py` reads every doorway in the game's map files whose two
+ends are drawn on different pack maps into `generated/transitions.json`: source
+map -> destination map -> the rooms you leave from. That is where an area is
+entered, which was being placed by eye before.
 
 **Adding a map**: put its image in `maps/maps.json` and a tab in
 `layouts/tabs.json`, name its texture in `map_art.json`, give its rooms labels

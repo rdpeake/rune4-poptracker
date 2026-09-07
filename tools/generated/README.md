@@ -19,6 +19,8 @@ that tool is used.
                           tools/gamedata/export_map_objects.py
     check_rooms.json      ap id -> the map ids its object is in, joined on the
                           field flag.  tools/apworld/export_check_rooms.py
+    transitions.json      source map -> destination map -> the rooms you
+                          leave from.  tools/gamedata/export_transitions.py
 
 They are committed so the rest of the tools run without a copy of the game or
 the apworld. To change what is in them, change what they are derived from:
