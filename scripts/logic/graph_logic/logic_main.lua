@@ -302,6 +302,9 @@ Entry_Point = rune_factory_4_location.new("Entry_Point")
 ---helper function that is used to force a graph update on every state change within poptracker.
 ---@param code string? the changed item's codes, from the "*" watch
 function StateChanged(code)
+    -- The auto-navigate badge carries the current room id and no rule reads it,
+    -- so recomputing here would sweep every location per room walked into.
+    if code == AUTO_TAB_CODE then return end
     stale = true
     -- Invalidation is cheap and must be immediate; the summary sweep is not,
     -- so it is deferred to a frame of its own.

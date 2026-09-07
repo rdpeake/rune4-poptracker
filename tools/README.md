@@ -69,6 +69,15 @@ into `scripts/logic/request_events.lua`. A toggled request seeds the
 reachability sweeps directly, because a request you have handed in is somewhere
 you have already stood -- its predecessors may be unreachable by rule and it
 still got done.
+## Following the player
+
+`tools/gamedata/export_room_tabs.py` -> `scripts/autotracking/tab_mapping.lua`:
+room id -> the path of tab names that opens the map it is drawn on. Nothing
+writes that down, so it falls out of the game's minimap table, `map_art.json`,
+`maps/maps.json` and the map widgets in `layouts/*.json` in turn. 726 of the
+game's 875 rooms get one; a room on a sheet no pack image draws is an interior
+and holds whatever map was showing.
+
 ## The game's own tables
 
 The tools that read the game need `bundleMain.mbundle` from a Rune Factory 4

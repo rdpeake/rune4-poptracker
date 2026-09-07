@@ -292,6 +292,12 @@ function OnClear(slot_data)
     TEAM_NUMBER = Archipelago.TeamNumber or 0
     SLOT_DATA = slot_data
     if RF4_SetOptions then RF4_SetOptions(slot_data) end
+    -- auto-navigation: forget the previous session's room, then take a
+    -- starting room from slot_data if it carries one. Movement after this
+    -- arrives on the bounce handler; see scripts/auto_tab.lua.
+    if RF4_ResetMap then RF4_ResetMap() end
+    if RF4_ReportAutoTabState then RF4_ReportAutoTabState() end
+    if RF4_MapFromSlotData then RF4_MapFromSlotData(slot_data) end
     -- if Tracker:FindObjectForCode("autofill_settings").Active == true then
     --     AutoFill(slot_data)
     -- end

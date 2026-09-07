@@ -248,5 +248,17 @@
         "overlay_align": "right",
         "overlay_font_size": 9,
         "codes": "opt_maxsell"
+    },
+    {
+        "name": "Auto-navigate maps",
+        "type": "toggle",
+        "img": "images/maps/Overworld.png",
+        "disabled_img": "images/maps/Overworld.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "overlay_background": "#000000",
+        "overlay_font_size": 9,
+        "codes": "opt_autotab"
     }
 ]
