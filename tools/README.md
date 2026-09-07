@@ -5,6 +5,18 @@ hand-written, so it can be regenerated when the apworld changes.
 
 Source: <https://github.com/Happyhappyism/Rune-Factory-4-Archipelago>
 
+## Changing a room
+
+A label, an anchor or a `show` flag in `tools/rooms.json` moves the label on the
+map, the room's pin, and the name of every barrier and box check in that room.
+Those live in different files, so:
+
+    python3 tools/rebuild_rooms.py
+
+runs the eight steps in order and reports any it had to skip. Then:
+
+    python3 tools/verify/check_maps.py
+
 ## Regenerating
 
 Nothing that is not ours to redistribute is committed, so the tools are grouped
