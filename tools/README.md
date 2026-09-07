@@ -49,6 +49,17 @@ Every script finds the pack root from its own path, so they run from anywhere.
 
 `scripts/logic/rf4_rules.lua` evaluates the clauses at runtime and is hand-written.
 
+## Request events
+
+`tools/apworld/export_requests.py` emits one toggle per request into `items/events.json`,
+the `Requests` tab grid into `layouts/events.json`, and the region-to-code table
+into `scripts/logic/request_events.lua`. A toggled request seeds the
+reachability sweeps directly, because a request you have handed in is somewhere
+you have already stood -- its predecessors may be unreachable by rule and it
+still got done.
+
+**Icons, still to do.** All 93 share `images/settings/opt_requestsanity.png`.
+
 ## Upstream data bugs the export matches
 
 `parse_csv` keys its rows by `Name`, so where a sheet holds two rows with the

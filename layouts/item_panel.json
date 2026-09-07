@@ -1,0 +1,89 @@
+{
+    "item_panel_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "canvas",
+                "width": 408,
+                "height": 748,
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "group",
+                        "dock": "top",
+                        "content": {
+                            "type": "layout",
+                            "key": "shared_item_grid_vertical"
+                        },
+                        "header": "Items"
+                    }
+                ],
+                "dock": "top"
+            },
+            {
+                "type": "group",
+                "header": "Location Options / Logic",
+                "dock": "top",
+                "content": {
+                    "type": "layout",
+                    "key": "setting_grid"
+                }
+            },
+            {
+                "type": "group",
+                "header": "Pinned Locations",
+                "content": {
+                    "style": "wrap",
+                    "type": "recentpins",
+                    "orientation": "vertical",
+                    "compact": true
+                }
+            }
+        ]
+    },
+    "item_panel_horizontal": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "canvas",
+                "width": 1020,
+                "height": 306,
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "group",
+                        "dock": "left",
+                        "margin": "0,0,3,0",
+                        "content": {
+                            "type": "layout",
+                            "key": "shared_item_grid_horizontal"
+                        },
+                        "header": "Items"
+                    }
+                ],
+                "dock": "left"
+            },
+            {
+                "type": "group",
+                "header": "Location Options / Logic",
+                "dock": "left",
+                "content": {
+                    "type": "layout",
+                    "key": "setting_grid"
+                }
+            },
+            {
+                "type": "group",
+                "header": "Pinned Locations",
+                "content": {
+                    "style": "wrap",
+                    "type": "recentpins",
+                    "orientation": "horizontal",
+                    "compact": true
+                }
+            }
+        ]
+    }
+}

@@ -16,6 +16,7 @@ local HELD = {}
 Tracker = { ProviderCountForCode = function(_, code) return HELD[code] or 0 end }
 
 require("tests.rf4_logic_cases")
+require("scripts.logic.request_events")
 require("scripts.logic.rf4_rules")
 
 ---same 32-bit rolling hash the generator used, over a sorted name list
@@ -127,6 +128,85 @@ for _, ci in ipairs({1, 2, 3, #RF4_TEST_CASES // 2}) do
     print(string.format("  case %2d  red %5d  yellow %5d  green %5d",
           ci, n[AccessibilityLevel.None], n[AccessibilityLevel.SequenceBreak],
           n[AccessibilityLevel.Normal]))
+end
+
+-- LOOSE_BACKTRACK, the one place the pack deliberately diverges: upstream
+-- models every exit one way, outward from Selphia, while in game you can walk
+-- back. What is pinned here is that it only ever paints yellow.
+do
+    local hill = {}
+    for apid, clauses in pairs(RF4_LOC) do
+        for _, c in ipairs(clauses) do
+            if c[1] == "R" and c[2] == "Sercerezo Hill" then hill[#hill+1] = apid break end
+        end
+    end
+    local function levels(held)
+        HELD = held
+        RF4_Invalidate()
+        local n = { [AccessibilityLevel.None] = 0, [AccessibilityLevel.SequenceBreak] = 0,
+                    [AccessibilityLevel.Normal] = 0 }
+        for _, apid in ipairs(hill) do
+            local l = RF4Access(tostring(apid))
+            n[l] = (n[l] or 0) + 1
+        end
+        return n
+    end
+    local code = RF4_ITEM_CODE
+    local none = levels({})
+    check(0, "walled off with nothing held", #hill, none[AccessibilityLevel.None])
+
+    -- the back route: no Volkanon Axe anywhere in this state
+    local back = levels({ [code["Obsidian Bridge"]] = 1, [code["Cerezo Bridge"]] = 1 })
+    check(0, "back route reaches the hill", 0, back[AccessibilityLevel.None])
+    check(0, "back route is out of logic", #hill, back[AccessibilityLevel.SequenceBreak])
+    check(0, "back route is never in logic", 0, back[AccessibilityLevel.Normal])
+
+    -- and the axe alone still is not enough to stand there
+    local axe = levels({ [code["Volkanon Axe"]] = 1 })
+    check(0, "the axe alone does not open the hill", #hill, axe[AccessibilityLevel.None])
+end
+
+-- Requests are a linear chain of one-request regions, and with requestsanity
+-- off they are not checks at all, so nothing reports them. The toggles in
+-- items/events.json say so directly: marking one done must open its region
+-- without any item being held, and must not open anything else.
+do
+    -- Deterministically: sorted, and the first request that is genuinely shut
+    -- with nothing held. next() on a hash table gives an arbitrary key, and
+    -- the early requests are reachable for free, so picking one at random made
+    -- this pass or fail depending on iteration order.
+    local names = {}
+    for n in pairs(RF4_REQUEST_EVENT) do names[#names + 1] = n end
+    table.sort(names)
+    HELD = {}
+    RF4_Invalidate()
+    local name, code
+    for _, n in ipairs(names) do
+        if not RF4.reachable(n) then name, code = n, RF4_REQUEST_EVENT[n] break end
+    end
+    check(0, "req/table", true, #names > 0)
+    check(0, "req/found a shut one", true, name ~= nil)
+    if name then
+        local before = RF4.reachable(name)
+        HELD = { [code] = 1 }
+        RF4_Invalidate()
+        check(0, "req/opens", true, RF4.reachable(name))
+        check(0, "req/was shut", false, before)
+        -- and it must not hand out anything else for free
+        local leaked = 0
+        for _, r in ipairs(RF4_TEST_REGIONS) do
+            if r ~= name and RF4.reachable(r) then
+                HELD = {}
+                RF4_Invalidate()
+                if not RF4.reachable(r) then leaked = leaked + 1 end
+                HELD = { [code] = 1 }
+                RF4_Invalidate()
+            end
+        end
+        check(0, "req/no leak", 0, leaked)
+    end
+    HELD = {}
+    RF4_Invalidate()
 end
 
 -- RF4Why must describe every check consistently with the level it reports:
