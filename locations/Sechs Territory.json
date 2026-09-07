@@ -435,7 +435,7 @@
                                 ],
                                 "sections": [
                                     {
-                                        "name": "Mystery Potion x x3 + Levelizer",
+                                        "name": "Mystery Potion x3 + Levelizer",
                                         "access_rules": [
                                             "^$RF4Access|1851575"
                                         ],

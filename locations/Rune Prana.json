@@ -826,10 +826,10 @@
                                     {
                                         "name": "Art of Attack Recipe + Art of Defense Recipe + Art of Magic Recipe",
                                         "access_rules": [
-                                            "^$RF4Access|1851636"
+                                            "^$RF4Access|1851638"
                                         ],
                                         "visibility_rules": [
-                                            "$RF4Visible|1851636"
+                                            "$RF4Visible|1851638"
                                         ],
                                         "item_count": 1
                                     },
@@ -865,20 +865,20 @@
                                     {
                                         "name": "Knight Boots Recipe",
                                         "access_rules": [
-                                            "^$RF4Access|1851637"
+                                            "^$RF4Access|1851636"
                                         ],
                                         "visibility_rules": [
-                                            "$RF4Visible|1851637"
+                                            "$RF4Visible|1851636"
                                         ],
                                         "item_count": 1
                                     },
                                     {
                                         "name": "Dragon Slayer Recipe + Balmung Recipe",
                                         "access_rules": [
-                                            "^$RF4Access|1851638"
+                                            "^$RF4Access|1851637"
                                         ],
                                         "visibility_rules": [
-                                            "$RF4Visible|1851638"
+                                            "$RF4Visible|1851637"
                                         ],
                                         "item_count": 1
                                     }
