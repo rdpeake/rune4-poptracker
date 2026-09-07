@@ -1,0 +1,25 @@
+{
+  "_": [
+    "Extra rooms to pin a check in, on top of the one the game puts it in.",
+    "",
+    "generated/check_rooms.json says where each chest, barrier and box object",
+    "really is. That is the pin. This file is the hand-placed exception: a check",
+    "listed here keeps that pin AND gains one in each room named, because the",
+    "room the game uses is somewhere a player would not think to look, or is not",
+    "drawn at all.",
+    "",
+    "Keyed by AP location id in decimal, the same as check_rooms.json. Values",
+    "are map ids; tools/rooms.json says which of them the pack draws.",
+    "A check whose sections already land in several rooms needs no entry -- it",
+    "gets a pin in each of them on its own."
+  ],
+
+  "1851491": {
+    "rooms": ["MAP_FIELD_10"],
+    "why": "Selphia Plains D6 Chest - Shirt. The game puts it in MAP_ROOM_15, the inside of the house, which the pack draws no map for; pin it on the plains square the house stands on."
+  },
+  "1851515": {
+    "rooms": ["MAP_DUNG_C02"],
+    "why": "Obsidian Mansion B8 Chest - Cure Lv.1. The game puts it in MAP_CITY_04, Selphia town, since the mansion's B8 opens onto it; keep a pin in the mansion where the check is named."
+  }
+}

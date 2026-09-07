@@ -143,14 +143,21 @@ def csv_rows(name, strip_slashes=False, by_name=False):
     was generated. parse_shipment also strips "/" out of Name before keying,
     which is what `strip_slashes` is for.
     """
-    out = {}
+    out, seen = {}, 0
     for row in csv.DictReader(io.StringIO(csv_text('Rune Factory 4 AP - ' + name))):
+        seen += 1
         key = row.get('Name')
         if not key:
             continue
         if strip_slashes:
             key = key.replace('/', '')
         out[key] = row                  # last wins, as upstream
+    if seen and not out:
+        # Chests, for one, is keyed by APID and has no Name column at all.
+        # Say so, rather than handing back an empty table that reads as
+        # "the sheet is empty".
+        raise SystemExit('the %s sheet has no Name column; read it directly'
+                         % name)
     return out if by_name else list(out.values())
 
 

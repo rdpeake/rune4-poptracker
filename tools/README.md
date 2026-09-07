@@ -141,6 +141,84 @@ Run order:
 `layouts/tabs.json`, name its texture in `map_art.json`, give its rooms labels
 in `rooms.json`, then run the tools above.
 
+## Chests the map files place somewhere else
+
+Every chest is an object in a room of the map files and
+`generated/check_rooms.json` joins it to that room, so a pin no longer depends on
+the `Room Code` in the sheet. 147 of the 181 agree outright. The rest are recorded
+here because the AP location NAME still carries the sheet's code, so a node
+called `A3` can sit on `A2`.
+
+**Two chests the apworld does not list at all.** Both are ordinary chest objects
+in rooms the pack draws, and neither flag is claimed by the barrier or box
+tables:
+
+    flag 290   byte 224 mask 04   MAP_DUNG_K12   Maya Road Underground A7-5
+    flag 528   byte 242 mask 01   MAP_DUNG_M62   Rune Prana F5 A2
+
+Each sits immediately after an AP chest in the same area -- 289 is Maya
+Underground C3, 527 is Rune Prana F5 C4 -- while the AP ids run straight past
+them, so no id was reserved and skipped. Nothing is wrong the other way: all 181
+rows resolve to a real chest object.
+
+**20 the game puts in another room of the same map.** The pin follows the game;
+the name still says the left column. `Selphia Plains - West` draws on the Autumn
+Road map, which is why those four look like they change area and do not.
+
+    Autumn Road G11            ->  G10   Screw Rock Lv.1
+    Autumn Road G8             ->  G7    Dark Ball Lv.2
+    Leon Karnak B3             ->  B2    Sunspot
+    Leon Karnak D2             ->  D3    Darkness Lv.5
+    Rune Prana F4 A2           ->  B3    Pineapple Juice Recipe + Magical Potion x2 + Orichalcum + Leveliser
+    Rune Prana F7 A1           ->  B1    Executioner Recipe + Rune Edge Recipe
+    Rune Prana F7 A1           ->  B1    Royal Garter Recipe
+    Rune Prana F7 B6           ->  D7    Crown Recipe
+    Rune Prana F7 B6           ->  D7    Magic Broom Recipe + Hand of God Recipe
+    Sechs Territory F1 D5      ->  E3    Water Crystal x4 + Big Crystal
+    Sechs Territory F1 E3      ->  D5    Throwing Ring
+    Sechs Territory F2 D1      ->  C5    Mystery Potion x4
+    Selphia Plains - West G12  ->  G11   Boiled Gyoza Recipe
+    Selphia Plains - West G12  ->  G11   Leveliser
+    Selphia Plains - West G12  ->  G11   Relax Tea
+    Selphia Plains - West G12  ->  G11   Sacred Pole Recipe
+    Water Ruins A3             ->  A2    Battle Axe
+    Water Ruins A3             ->  A2    Para-Gone + Roundoff
+    Water Ruins D6             ->  D5    Blue Ribbon
+    Yokmir Cave F3 F2          ->  E2    Bronze Bracelet + Staff
+
+Sechs Territory F1's D5 and E3 hold each other's chest, which reads as one
+transposition rather than two mistakes. Water Ruins A3 is not really wrong -- the
+A row is a single room spanning three cells and the map prints its label in the
+middle one.
+
+**1 the game puts in another area.** The chest is outdoors on Sercerezo Hill,
+not inside the den.
+
+    Demon's Den A1  ->  Sercerezo Hill #91   Healing Potion x4
+
+**2 whose room the pack draws no map for.** `tools/pin_remap.json` keeps a pin
+where the check is named; the Selphia Plains one is inside a house and the
+Obsidian Mansion one is in the town its B8 door opens onto.
+
+    Obsidian Mansion B8  ->  MAP_CITY_04   Cure Lv.1
+    Selphia Plains D6    ->  MAP_ROOM_15   Shirt
+
+**11 that differ only in what the pack calls the room**, which are not upstream
+errors: the pack numbers rooms the wiki never lettered and prefixes Maya Road's
+and Sechs Territory's, so no letter code could match.
+
+    Autumn Road I3           ->  #64    7200G
+    Autumn Road I4           ->  #54    18600G
+    Autumn Road I4           ->  #54    Parallel Laser Lv.2
+    Maya Underground (1) C1  ->  A5-4   Delta Strike Lv.1
+    Maya Underground (1) C3  ->  A7-7   Mediseal Lv.1
+    Sechs Territory F1 I2    ->  W-1    Mystery Potion x3 + Levelizer
+    Selphia Plains C1        ->  #19    Reaper Slash Lv.1
+    Yokmir Forest C1         ->  3      Potion x3
+    Yokmir Forest C4         ->  7      Turnip Seed x4
+    Yokmir Forest D1         ->  1      Small Shield
+    Yokmir Forest D3         ->  6      Leather boot
+
 ## Upstream data bugs the export matches
 
 `parse_csv` keys its rows by `Name`, so where a sheet holds two rows with the

@@ -14,6 +14,12 @@ that tool is used.
                           tools/gamedata/map_art.py, fitted from the
                           arrangement in tools/map_art.json
 
+    map_objects.json      map id -> the chests, barriers, boxes and search
+                          points the game puts in that room
+                          tools/gamedata/export_map_objects.py
+    check_rooms.json      ap id -> the map ids its object is in, joined on the
+                          field flag.  tools/apworld/export_check_rooms.py
+
 They are committed so the rest of the tools run without a copy of the game or
 the apworld. To change what is in them, change what they are derived from:
 `tools/rooms.json` for the rooms, `tools/map_art.json` for the map
