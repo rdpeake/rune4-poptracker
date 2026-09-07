@@ -7729,12 +7729,20 @@
         "codes": "currypowder"
     },
     {
-        "name": "Gloves",
+        "name": "Gloves (Weapon)",
         "type": "toggle",
-        "img": "images/items/gloves.png",
+        "img": "images/items/gloves(weapon).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "gloves"
+        "codes": "gloves(weapon)"
+    },
+    {
+        "name": "Gloves (Accessory)",
+        "type": "toggle",
+        "img": "images/items/gloves(accessory).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gloves(accessory)"
     },
     {
         "name": "Golden Cabbage",

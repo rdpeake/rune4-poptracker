@@ -4521,6 +4521,30 @@
                 ]
             },
             {
+                "name": "Forge › Shipment › Gloves (Weapon)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Forge/Shipment/Gloves (Weapon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Forge",
+                        "x": 1209,
+                        "y": 506,
+                        "size": 16,
+                        "shape": "rect",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
                 "name": "Forge › Shipment › Golem Punch",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -4536,7 +4560,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1209,
+                        "x": 1259,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4560,7 +4584,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1259,
+                        "x": 1309,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4584,7 +4608,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1309,
+                        "x": 1359,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4608,8 +4632,8 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1359,
-                        "y": 506,
+                        "x": 209,
+                        "y": 575,
                         "size": 16,
                         "shape": "rect",
                         "border_thickness": 2
@@ -4632,7 +4656,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 209,
+                        "x": 259,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4656,7 +4680,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 259,
+                        "x": 309,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4680,7 +4704,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 309,
+                        "x": 359,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4704,7 +4728,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 359,
+                        "x": 409,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4728,7 +4752,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 409,
+                        "x": 459,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4752,7 +4776,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 459,
+                        "x": 509,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4776,7 +4800,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 509,
+                        "x": 559,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4800,7 +4824,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 559,
+                        "x": 609,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4824,7 +4848,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 609,
+                        "x": 659,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4848,7 +4872,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 659,
+                        "x": 709,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4872,7 +4896,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 709,
+                        "x": 759,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4896,7 +4920,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 759,
+                        "x": 809,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4920,7 +4944,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 809,
+                        "x": 859,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4944,7 +4968,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 859,
+                        "x": 909,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4968,7 +4992,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 909,
+                        "x": 959,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4992,7 +5016,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 959,
+                        "x": 1009,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5016,7 +5040,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1009,
+                        "x": 1059,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5040,7 +5064,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1059,
+                        "x": 1109,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5064,7 +5088,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1109,
+                        "x": 1159,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5088,7 +5112,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1159,
+                        "x": 1209,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5112,7 +5136,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1209,
+                        "x": 1259,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5136,7 +5160,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1259,
+                        "x": 1309,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5160,7 +5184,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1309,
+                        "x": 1359,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5184,8 +5208,8 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1359,
-                        "y": 575,
+                        "x": 209,
+                        "y": 644,
                         "size": 16,
                         "shape": "rect",
                         "border_thickness": 2
@@ -5208,7 +5232,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 209,
+                        "x": 259,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5232,7 +5256,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 259,
+                        "x": 309,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5256,7 +5280,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 309,
+                        "x": 359,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5280,7 +5304,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 359,
+                        "x": 409,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5304,7 +5328,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 409,
+                        "x": 459,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5328,7 +5352,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 459,
+                        "x": 509,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5352,7 +5376,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 509,
+                        "x": 559,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5376,7 +5400,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 559,
+                        "x": 609,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5400,7 +5424,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 609,
+                        "x": 659,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5424,7 +5448,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 659,
+                        "x": 709,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5448,7 +5472,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 709,
+                        "x": 759,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5472,7 +5496,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 759,
+                        "x": 809,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5496,7 +5520,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 809,
+                        "x": 859,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5520,7 +5544,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 859,
+                        "x": 909,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5544,7 +5568,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 909,
+                        "x": 959,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5568,7 +5592,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 959,
+                        "x": 1009,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5592,7 +5616,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1009,
+                        "x": 1059,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5616,7 +5640,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1059,
+                        "x": 1109,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5640,7 +5664,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1109,
+                        "x": 1159,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5664,7 +5688,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1159,
+                        "x": 1209,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5688,7 +5712,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1209,
+                        "x": 1259,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5712,7 +5736,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1259,
+                        "x": 1309,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5736,7 +5760,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1309,
+                        "x": 1359,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5760,8 +5784,8 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1359,
-                        "y": 644,
+                        "x": 209,
+                        "y": 713,
                         "size": 16,
                         "shape": "rect",
                         "border_thickness": 2
@@ -5784,7 +5808,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 209,
+                        "x": 259,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -5808,7 +5832,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 259,
+                        "x": 309,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -5832,7 +5856,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 309,
+                        "x": 359,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -5856,7 +5880,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 359,
+                        "x": 409,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -5880,7 +5904,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 409,
+                        "x": 459,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -5904,7 +5928,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 459,
+                        "x": 509,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -5928,7 +5952,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 509,
+                        "x": 559,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -5952,7 +5976,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 559,
+                        "x": 609,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -5976,7 +6000,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 609,
+                        "x": 659,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6000,7 +6024,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 659,
+                        "x": 709,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6024,7 +6048,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 709,
+                        "x": 759,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6048,7 +6072,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 759,
+                        "x": 809,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6072,7 +6096,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 809,
+                        "x": 859,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6096,7 +6120,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 859,
+                        "x": 909,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6120,7 +6144,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 909,
+                        "x": 959,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6144,7 +6168,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 959,
+                        "x": 1009,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6168,7 +6192,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1009,
+                        "x": 1059,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6192,7 +6216,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1059,
+                        "x": 1109,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6211,30 +6235,6 @@
                 "sections": [
                     {
                         "ref": "Forge/Shipment/Tin Waterpot"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Forge",
-                        "x": 1109,
-                        "y": 713,
-                        "size": 16,
-                        "shape": "rect",
-                        "border_thickness": 2
-                    }
-                ]
-            },
-            {
-                "name": "Forge › Shipment › Gloves",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "ref": "Forge/Shipment/Gloves"
                     }
                 ],
                 "map_locations": [
@@ -9009,6 +9009,30 @@
                 ]
             },
             {
+                "name": "Crafting › Shipment › Gloves (Accessory)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "ref": "Crafting/Shipment/Gloves (Accessory)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Crafting",
+                        "x": 1159,
+                        "y": 299,
+                        "size": 16,
+                        "shape": "rect",
+                        "border_thickness": 2
+                    }
+                ]
+            },
+            {
                 "name": "Crafting › Shipment › Gold Bracelet",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -9024,7 +9048,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1159,
+                        "x": 1209,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -9048,7 +9072,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1209,
+                        "x": 1259,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -9072,7 +9096,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1259,
+                        "x": 1309,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -9096,7 +9120,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1309,
+                        "x": 1359,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -9120,8 +9144,8 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1359,
-                        "y": 299,
+                        "x": 209,
+                        "y": 368,
                         "size": 16,
                         "shape": "rect",
                         "border_thickness": 2
@@ -9144,7 +9168,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 209,
+                        "x": 259,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9168,7 +9192,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 259,
+                        "x": 309,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9192,7 +9216,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 309,
+                        "x": 359,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9216,7 +9240,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 359,
+                        "x": 409,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9240,7 +9264,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 409,
+                        "x": 459,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9264,7 +9288,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 459,
+                        "x": 509,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9288,7 +9312,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 509,
+                        "x": 559,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9312,7 +9336,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 559,
+                        "x": 609,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9336,7 +9360,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 609,
+                        "x": 659,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9360,7 +9384,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 659,
+                        "x": 709,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9384,7 +9408,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 709,
+                        "x": 759,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9408,7 +9432,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 759,
+                        "x": 809,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9432,7 +9456,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 809,
+                        "x": 859,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9456,7 +9480,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 859,
+                        "x": 909,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9480,7 +9504,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 909,
+                        "x": 959,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9504,7 +9528,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 959,
+                        "x": 1009,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9528,7 +9552,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1009,
+                        "x": 1059,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9552,7 +9576,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1059,
+                        "x": 1109,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9576,7 +9600,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1109,
+                        "x": 1159,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9600,7 +9624,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1159,
+                        "x": 1209,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9624,7 +9648,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1209,
+                        "x": 1259,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9648,7 +9672,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1259,
+                        "x": 1309,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9672,7 +9696,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1309,
+                        "x": 1359,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9696,8 +9720,8 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1359,
-                        "y": 368,
+                        "x": 209,
+                        "y": 437,
                         "size": 16,
                         "shape": "rect",
                         "border_thickness": 2
@@ -9720,7 +9744,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 209,
+                        "x": 259,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9744,7 +9768,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 259,
+                        "x": 309,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9768,7 +9792,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 309,
+                        "x": 359,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9792,7 +9816,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 359,
+                        "x": 409,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9816,7 +9840,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 409,
+                        "x": 459,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9840,7 +9864,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 459,
+                        "x": 509,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9864,7 +9888,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 509,
+                        "x": 559,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9888,7 +9912,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 559,
+                        "x": 609,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9912,7 +9936,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 609,
+                        "x": 659,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9936,7 +9960,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 659,
+                        "x": 709,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",

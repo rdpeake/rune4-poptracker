@@ -82,7 +82,7 @@
                 }
             },
             {
-                "title": "Weapons",
+                "title": "Weapons I",
                 "content": {
                     "type": "itemgrid",
                     "item_margin": "1,1",
@@ -241,10 +241,22 @@
                             "spear",
                             "trident",
                             "waterspear",
-                            "woodstaff",
-                            "alldale"
-                        ],
+                            "woodstaff"
+                        ]
+                    ]
+                }
+            },
+            {
+                "title": "Weapons II",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "1,1",
+                    "item_size": "32,32",
+                    "h_alignment": "left",
+                    "v_alignment": "top",
+                    "rows": [
                         [
+                            "alldale",
                             "axe",
                             "basiliskfang",
                             "bat",
@@ -255,10 +267,10 @@
                             "crescentaxe",
                             "crescentaxe+",
                             "crystalhammer",
-                            "demonaxe",
-                            "devilfinger"
+                            "demonaxe"
                         ],
                         [
+                            "devilfinger",
                             "doubleedge",
                             "executioner",
                             "fatalcrush",
@@ -269,10 +281,10 @@
                             "gravitonhammer",
                             "greataxe",
                             "greathammer",
-                            "hammer",
-                            "heataxe"
+                            "hammer"
                         ],
                         [
+                            "heataxe",
                             "icehammer",
                             "ironbat",
                             "kongo",
@@ -283,10 +295,10 @@
                             "rockaxe",
                             "saintaxe",
                             "schnabel",
-                            "skyhammer",
-                            "spikedhammer"
+                            "skyhammer"
                         ],
                         [
+                            "spikedhammer",
                             "splashstar",
                             "strongstone",
                             "tomahawk",
@@ -297,10 +309,10 @@
                             "bazalkatar",
                             "bearclaws",
                             "brassknuckles",
-                            "caestus",
-                            "catpunch"
+                            "caestus"
                         ],
                         [
+                            "catpunch",
                             "dragonclaws",
                             "fenrir",
                             "fistsofdark",
@@ -309,12 +321,13 @@
                             "fistsoftheearth",
                             "fistsofwater",
                             "fistsofwind",
+                            "gloves(weapon)",
                             "golempunch",
-                            "handofgod",
-                            "ironleaffists",
-                            "kote"
+                            "handofgod"
                         ],
                         [
+                            "ironleaffists",
+                            "kote",
                             "leathergloves",
                             "algernon",
                             "amethystrod",
@@ -324,11 +337,11 @@
                             "crimsonstaff",
                             "cyclonerod",
                             "diamondrod",
-                            "earthstaff",
-                            "elvishharp",
-                            "emeraldrod"
+                            "earthstaff"
                         ],
                         [
+                            "elvishharp",
+                            "emeraldrod",
                             "flarestaff",
                             "friendlyrod",
                             "gaiarod",
@@ -338,11 +351,11 @@
                             "icestaff",
                             "lightningwand",
                             "love-loverod",
-                            "magesstaff",
-                            "magesstaff+",
-                            "magicbroom"
+                            "magesstaff"
                         ],
                         [
+                            "magesstaff+",
+                            "magicbroom",
                             "magicshot",
                             "rod",
                             "rubyrod",
@@ -352,11 +365,11 @@
                             "silverstaff",
                             "sorcererswand",
                             "staff",
-                            "stormwand",
-                            "sweetpotatostaff",
-                            "syringe"
+                            "stormwand"
                         ],
                         [
+                            "sweetpotatostaff",
+                            "syringe",
                             "wizardsstaff",
                             "beginnerspole",
                             "blessedhoe",
@@ -366,11 +379,11 @@
                             "cheappole",
                             "cheapsickle",
                             "cheapwaterpot",
-                            "choppingaxe",
-                            "famouspole",
-                            "goldenhammer"
+                            "choppingaxe"
                         ],
                         [
+                            "famouspole",
+                            "goldenhammer",
                             "ironhammer",
                             "ironsickle",
                             "joywaterpot",
@@ -380,11 +393,11 @@
                             "miracleaxe",
                             "mountainaxe",
                             "platinumhammer",
-                            "qualitysickle",
-                            "rainbowwaterpot",
-                            "sacredpole"
+                            "qualitysickle"
                         ],
                         [
+                            "rainbowwaterpot",
+                            "sacredpole",
                             "seasonedhoe",
                             "shinyhoe",
                             "silverhammer",
@@ -540,7 +553,7 @@
                             "fieldpendant",
                             "firering",
                             "fluffyscarf",
-                            "gloves",
+                            "gloves(accessory)",
                             "goldbracelet",
                             "goldring",
                             "hand-knitscarf",
@@ -1534,7 +1547,7 @@
                 }
             },
             {
-                "title": "Weapons",
+                "title": "Weapons I",
                 "content": {
                     "type": "itemgrid",
                     "item_margin": "1,1",
@@ -1681,7 +1694,21 @@
                             "spear",
                             "trident",
                             "waterspear",
-                            "woodstaff",
+                            "woodstaff"
+                        ]
+                    ]
+                }
+            },
+            {
+                "title": "Weapons II",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "1,1",
+                    "item_size": "32,32",
+                    "h_alignment": "left",
+                    "v_alignment": "top",
+                    "rows": [
+                        [
                             "alldale",
                             "axe",
                             "basiliskfang",
@@ -1700,9 +1727,7 @@
                             "fatalcrush",
                             "flamehammer",
                             "frostaxe",
-                            "giganthammer"
-                        ],
-                        [
+                            "giganthammer",
                             "giganthammer+",
                             "gravitonhammer",
                             "greataxe",
@@ -1713,7 +1738,9 @@
                             "ironbat",
                             "kongo",
                             "lollipop",
-                            "mjolnir",
+                            "mjolnir"
+                        ],
+                        [
                             "poleaxe",
                             "poleaxe+",
                             "rockaxe",
@@ -1732,9 +1759,7 @@
                             "bearclaws",
                             "brassknuckles",
                             "caestus",
-                            "catpunch"
-                        ],
-                        [
+                            "catpunch",
                             "dragonclaws",
                             "fenrir",
                             "fistsofdark",
@@ -1743,8 +1768,11 @@
                             "fistsoftheearth",
                             "fistsofwater",
                             "fistsofwind",
+                            "gloves(weapon)",
                             "golempunch",
-                            "handofgod",
+                            "handofgod"
+                        ],
+                        [
                             "ironleaffists",
                             "kote",
                             "leathergloves",
@@ -1764,9 +1792,7 @@
                             "gaiarod",
                             "goldenturnipstaff",
                             "hellbranch",
-                            "hellcurse"
-                        ],
-                        [
+                            "hellcurse",
                             "icestaff",
                             "lightningwand",
                             "love-loverod",
@@ -1776,7 +1802,9 @@
                             "magicshot",
                             "rod",
                             "rubyrod",
-                            "runestaff",
+                            "runestaff"
+                        ],
+                        [
                             "sapphirerod",
                             "shootingstarstaff",
                             "silverstaff",
@@ -1796,9 +1824,7 @@
                             "cheapwaterpot",
                             "choppingaxe",
                             "famouspole",
-                            "goldenhammer"
-                        ],
-                        [
+                            "goldenhammer",
                             "ironhammer",
                             "ironsickle",
                             "joywaterpot",
@@ -1808,7 +1834,9 @@
                             "miracleaxe",
                             "mountainaxe",
                             "platinumhammer",
-                            "qualitysickle",
+                            "qualitysickle"
+                        ],
+                        [
                             "rainbowwaterpot",
                             "sacredpole",
                             "seasonedhoe",
@@ -1954,7 +1982,7 @@
                             "fieldpendant",
                             "firering",
                             "fluffyscarf",
-                            "gloves",
+                            "gloves(accessory)",
                             "goldbracelet",
                             "goldring",
                             "hand-knitscarf",
@@ -2817,6 +2845,7 @@
                 "cerezobridge",
                 "chipsqueekguide",
                 "etherlink",
+                "gloves(weapon)",
                 "mayabridge",
                 "obsidianbridge",
                 "obsidianladder",
@@ -2845,10 +2874,10 @@
                 "luckycharm",
                 "pandorasmandate",
                 "piassecretspring",
-                "popularity",
-                "tabithasfodderbin"
+                "popularity"
             ],
             [
+                "tabithasfodderbin",
                 "terrablefertilizer",
                 "ventuswillswind",
                 "heartdrink",
@@ -2881,10 +2910,10 @@
                 "cutlass",
                 "defender",
                 "dragonslayer",
-                "durendal",
-                "gaiasword"
+                "durendal"
             ],
             [
+                "gaiasword",
                 "gladius",
                 "gorgeoussword",
                 "grantale",
@@ -2917,10 +2946,10 @@
                 "claymore",
                 "cycloneblade",
                 "daicone",
-                "dancingdicer",
-                "dekash"
+                "dancingdicer"
             ],
             [
+                "dekash",
                 "earthshade",
                 "flamberge",
                 "flamberge+",
@@ -2953,10 +2982,10 @@
                 "dragoonclaw",
                 "earnestedge",
                 "efreet",
-                "emeraldedge",
-                "forcedivide"
+                "emeraldedge"
             ],
             [
+                "forcedivide",
                 "frostedge",
                 "gorgeouslx",
                 "heartfire",
@@ -2989,10 +3018,10 @@
                 "gaebolg",
                 "gungnir",
                 "halberd",
-                "heavylance",
-                "iceberg"
+                "heavylance"
             ],
             [
+                "iceberg",
                 "lance",
                 "lance+",
                 "legion",
@@ -3025,10 +3054,10 @@
                 "demonaxe",
                 "devilfinger",
                 "doubleedge",
-                "executioner",
-                "fatalcrush"
+                "executioner"
             ],
             [
+                "fatalcrush",
                 "flamehammer",
                 "frostaxe",
                 "giganthammer",
@@ -3061,10 +3090,10 @@
                 "bearclaws",
                 "brassknuckles",
                 "caestus",
-                "catpunch",
-                "dragonclaws"
+                "catpunch"
             ],
             [
+                "dragonclaws",
                 "fenrir",
                 "fistsofdark",
                 "fistsoffire",
@@ -3097,10 +3126,10 @@
                 "icestaff",
                 "lightningwand",
                 "love-loverod",
-                "magesstaff",
-                "magesstaff+"
+                "magesstaff"
             ],
             [
+                "magesstaff+",
                 "magicbroom",
                 "magicshot",
                 "rod",
@@ -3133,10 +3162,10 @@
                 "lionwaterpot",
                 "lumberaxe",
                 "miracleaxe",
-                "mountainaxe",
-                "platinumhammer"
+                "mountainaxe"
             ],
             [
+                "platinumhammer",
                 "qualitysickle",
                 "rainbowwaterpot",
                 "sacredpole",
@@ -3169,10 +3198,10 @@
                 "woolyshirt",
                 "boneshield",
                 "chaosshield",
-                "elementshield",
-                "heavyshield"
+                "elementshield"
             ],
             [
+                "heavyshield",
                 "ironshield",
                 "kiteshield",
                 "knightshield",
@@ -3205,10 +3234,10 @@
                 "lolitaheaddress",
                 "orangeribbon",
                 "pumpkinheadgear",
-                "purpleribbon",
-                "redribbon"
+                "purpleribbon"
             ],
             [
+                "redribbon",
                 "silkhat",
                 "silverhairpin",
                 "spectacles",
@@ -3241,10 +3270,10 @@
                 "amethystbrooch",
                 "amethystring",
                 "anettesnecklace",
-                "aquamarinebrooch",
-                "aquamarinering"
+                "aquamarinebrooch"
             ],
             [
+                "aquamarinering",
                 "artofattack",
                 "artofdefense",
                 "artofmagic",
@@ -3269,7 +3298,7 @@
                 "fieldpendant",
                 "firering",
                 "fluffyscarf",
-                "gloves",
+                "gloves(accessory)",
                 "goldbracelet",
                 "goldring",
                 "hand-knitscarf",
@@ -3277,10 +3306,10 @@
                 "heartpendant",
                 "herosproof",
                 "holyamulet",
-                "leatherbelt",
-                "luckystrike"
+                "leatherbelt"
             ],
             [
+                "luckystrike",
                 "magiccharm",
                 "magicearrings",
                 "magicring",
@@ -3313,10 +3342,10 @@
                 "yarn",
                 "blowfishsashimi",
                 "charsashimi",
-                "cherrysashimi",
-                "fallsashimi"
+                "cherrysashimi"
             ],
             [
+                "fallsashimi",
                 "floundersashimi",
                 "girellasashimi",
                 "glittersashimi",
@@ -3349,10 +3378,10 @@
                 "frenchfries",
                 "frenchtoast",
                 "friedeggs",
-                "friedrice",
-                "friedudon"
+                "friedrice"
             ],
             [
+                "friedudon",
                 "friedveggies",
                 "grilledblowfish",
                 "grilledc.carp",
@@ -3385,10 +3414,10 @@
                 "saltedchar",
                 "saltedchub",
                 "saltedmasutrout",
-                "saltedpike",
-                "saltedpondsmelt"
+                "saltedpike"
             ],
             [
+                "saltedpondsmelt",
                 "saltedr.trout",
                 "saltedsalmon",
                 "saltedtaimen",
@@ -3421,10 +3450,10 @@
                 "tempuraudon",
                 "udon",
                 "ultimatecurry",
-                "unionstew",
-                "yogurt"
+                "unionstew"
             ],
             [
+                "yogurt",
                 "applepie",
                 "bakedonigiri",
                 "bread",
@@ -3457,10 +3486,10 @@
                 "pumpkinflan",
                 "steamedbread",
                 "steamedgyoza",
-                "applejuice",
-                "butter"
+                "applejuice"
             ],
             [
+                "butter",
                 "fruitjuice",
                 "fruitsmoothie",
                 "goldjuice",
@@ -3493,10 +3522,10 @@
                 "accessorybread",
                 "accessorybread+",
                 "cookingbread",
-                "cookingbread+",
-                "farmingbread"
+                "cookingbread+"
             ],
             [
+                "farmingbread",
                 "farmingbread+",
                 "medicinebread",
                 "medicinebread+",
@@ -3529,10 +3558,10 @@
                 "avengerrock",
                 "axeldisaster",
                 "bigfire",
-                "blitz",
-                "bonusconcerto"
+                "blitz"
             ],
             [
+                "bonusconcerto",
                 "cure",
                 "cureall",
                 "cyclone",
@@ -3565,10 +3594,10 @@
                 "nekodamashi",
                 "parallellaser",
                 "penetratesonic",
-                "powerwave",
-                "prism"
+                "powerwave"
             ],
             [
+                "prism",
                 "railstrike",
                 "rapidmove",
                 "reaperslash",
@@ -3601,10 +3630,10 @@
                 "cabbageseeds",
                 "carrotseeds",
                 "charmblueseeds",
-                "cherrygrassseeds",
-                "cloverseeds"
+                "cherrygrassseeds"
             ],
             [
+                "cloverseeds",
                 "cornseeds",
                 "cucumberseeds",
                 "dungeonseed",
@@ -3637,10 +3666,10 @@
                 "radishseeds",
                 "redcrystalseeds",
                 "shieldseed",
-                "shiningseed",
-                "spinachseeds"
+                "shiningseed"
             ],
             [
+                "spinachseeds",
                 "strawberryseeds",
                 "swordseed",
                 "tomatoseeds",
@@ -3673,10 +3702,10 @@
                 "onion",
                 "pineapple",
                 "pinkcat",
-                "pinkmelon",
-                "pinkturnip"
+                "pinkmelon"
             ],
             [
+                "pinkturnip",
                 "plantsword",
                 "pom-pomgrass",
                 "potato",
@@ -3709,10 +3738,10 @@
                 "kaisercucumber",
                 "kaiserlampgrass",
                 "kingcabbage",
-                "kingcherrygrass",
-                "kingpineapple"
+                "kingcherrygrass"
             ],
             [
+                "kingpineapple",
                 "kingpinkcat",
                 "kingpom-pomgrass",
                 "largenoelgrass",
@@ -3745,10 +3774,10 @@
                 "greengrass",
                 "indigograss",
                 "medicinalherb",
-                "orangegrass",
-                "purplegrass"
+                "orangegrass"
             ],
             [
+                "purplegrass",
                 "redgrass",
                 "weeds",
                 "whitegrass",
@@ -3781,10 +3810,10 @@
                 "lobster",
                 "mackerel",
                 "masutrout",
-                "needlefish",
-                "pike"
+                "needlefish"
             ],
             [
+                "pike",
                 "pondsmelt",
                 "rainbowtrout",
                 "rarecan",
@@ -3817,10 +3846,10 @@
                 "bluescale",
                 "brokenbox",
                 "brokenhilt",
-                "bullshorn",
-                "cheapcloth"
+                "bullshorn"
             ],
             [
+                "cheapcloth",
                 "cheappropeller",
                 "crimsonscale",
                 "dangerousscissors",
@@ -3853,10 +3882,10 @@
                 "insecthorn",
                 "insectjaw",
                 "ivorytusk",
-                "lightcrystal",
-                "lovecrystal"
+                "lightcrystal"
             ],
             [
+                "lovecrystal",
                 "lovescale",
                 "magic",
                 "magicclaw",
@@ -3889,10 +3918,10 @@
                 "scorpionpincer",
                 "scorpiontail",
                 "shinyscrew",
-                "shoulderpiece",
-                "silkcloth"
+                "shoulderpiece"
             ],
             [
+                "silkcloth",
                 "skull",
                 "spidersthread",
                 "spore",
@@ -3925,10 +3954,10 @@
                 "curseddoll",
                 "dragonbones",
                 "dragonfin",
-                "earthdragonash",
-                "earthwyrmscale"
+                "earthdragonash"
             ],
             [
+                "earthwyrmscale",
                 "electrocrystal",
                 "firedragonash",
                 "firewyrmscale",
@@ -3961,10 +3990,10 @@
                 "emerald",
                 "glittaaugite",
                 "gold",
-                "invisiblestone",
-                "iron"
+                "invisiblestone"
             ],
             [
+                "iron",
                 "lightore",
                 "orichalcum",
                 "platinum",
@@ -3997,10 +4026,10 @@
                 "magicalpotion",
                 "mysterypotion",
                 "para-gone",
-                "recoverypotion",
-                "roundoff"
+                "recoverypotion"
             ],
             [
+                "roundoff",
                 "formulaa",
                 "formulab",
                 "formulac",
