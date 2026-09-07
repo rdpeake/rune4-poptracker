@@ -340,7 +340,16 @@ knowing about, written up here:
 
 ## Verifying
 
-    lua tests/*_test.lua
+    lua tests/*_test.lua                     the logic port and the Lua scripts
+    python3 tools/verify/check_maps.py       the maps and where the pins sit
+
+`check_maps.py` answers two questions. Does re-rendering still produce the
+images that are committed? It copies the pack's maps into `_baseline/`, renders
+them fresh and compares. And is every pin and room label on drawn road? It walks
+them against the art and separates four cases: aggregates parked off-map at
+x=34, points off the road on purpose, points that were already off the road in
+the captures the game art replaced (put those in `_original/`), and regressions.
+`--mark` writes out any map that still has one, with the offending point ringed.
 
 The expectations in `tests/rf4_logic_cases.lua` come from executing the apworld's
 *own* `Rules.py` functions over the same item states, so the test compares the
