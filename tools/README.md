@@ -90,6 +90,11 @@ Only `walk` may be used to reason about what is next door: a warp says nothing
 about adjacency. The file docstring explains the container and the .rf4m chunk
 format.
 
+`read_minipos.py` reads `rf3MapMiniPos.bin`, the game's own table of which
+rooms are drawn on which minimap and where. A room's drawn area is its
+fog-of-war reveal box, not the record's origin: the two differ on 611 of the
+651 maps that have one.
+
 ## Upstream data bugs the export matches
 
 `parse_csv` keys its rows by `Name`, so where a sheet holds two rows with the
