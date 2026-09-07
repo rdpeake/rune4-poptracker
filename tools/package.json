@@ -1,0 +1,9 @@
+{
+  "name": "rune4-poptracker-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Renderers for the pack artwork; see tools/README.md.",
+  "dependencies": {
+    "@napi-rs/canvas": "^1.0.8"
+  }
+}

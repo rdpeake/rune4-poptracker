@@ -1,0 +1,105 @@
+{
+ "_": "GENERATED-ADJACENT: the one place the item tile colours live. tools/gen_item_tiles.mjs draws the text tiles from it and tools/gamedata/export_item_tiles.py draws the game-art ones, so both agree. family: shipment/item category -> palette family. palette: family -> [tile colour, text colour]. rim: item classification -> border colour. tame_tier: a tame's tile colour, indexed by its Tame-sheet Tier modulo 6 -- the sheet runs to tier 10 and there are six colours, so tier 0 and 6 share, 1 and 7, and so on. tame_boss is the colour for a monster with no tame row, and rim.boss the gold edge those carry. All are pre-lift, like palette.",
+ "family": {
+  "Forge": "steel",
+  "Physical": "steel",
+  "Tool": "steel",
+  "Craft": "violet",
+  "Crafting Level": "violet",
+  "Dish": "amber",
+  "Bread": "amber",
+  "Ingredient": "amber",
+  "Grocery": "amber",
+  "Product": "amber",
+  "Drop": "rust",
+  "Boss Drop": "rust",
+  "Spell": "magenta",
+  "Seed": "green",
+  "Crop": "green",
+  "Large Crop": "green",
+  "Gold Crop": "green",
+  "Grass": "green",
+  "Fruit": "green",
+  "Mushroom": "green",
+  "Fish": "teal",
+  "Mineral": "slate",
+  "Potion": "rose",
+  "Vitamin": "rose",
+  "Powerup": "rose",
+  "Area Key": "gold",
+  "Goal Key": "gold",
+  "License": "gold",
+  "Trap": "trap",
+  "Shop": "slate",
+  "Other": "neutral",
+  "Special": "gold",
+  "Farm Expansion": "green",
+  "Category": "neutral"
+ },
+ "palette": {
+  "steel": [
+   "#31465e",
+   "#cfe2f5"
+  ],
+  "violet": [
+   "#453860",
+   "#ded0f7"
+  ],
+  "amber": [
+   "#63451f",
+   "#ffdfa8"
+  ],
+  "rust": [
+   "#5b2f2b",
+   "#f7c9be"
+  ],
+  "magenta": [
+   "#542a4c",
+   "#f3c3e7"
+  ],
+  "green": [
+   "#2c4d31",
+   "#c7edc9"
+  ],
+  "teal": [
+   "#1f4a4d",
+   "#bdeaec"
+  ],
+  "slate": [
+   "#3a3f4a",
+   "#d7dbe3"
+  ],
+  "rose": [
+   "#5c2b40",
+   "#f8c8da"
+  ],
+  "gold": [
+   "#5e4a17",
+   "#ffe9a3"
+  ],
+  "trap": [
+   "#4a1f1f",
+   "#ffb3b3"
+  ],
+  "neutral": [
+   "#3a3a3a",
+   "#dcdcdc"
+  ]
+ },
+ "rim": {
+  "progression": "#ffd34d",
+  "useful": "#8fd0ff",
+  "trap": "#ff6b6b",
+  "filler": "rgba(255,255,255,0.22)",
+  "boss": "#ffcf5a"
+ },
+ "tame_tier": [
+  "#2f3b46",
+  "#2c4636",
+  "#3d3f5c",
+  "#4d3a2a",
+  "#4a2f3f",
+  "#3a4530"
+ ],
+ "tame_boss": "#5a2320"
+}

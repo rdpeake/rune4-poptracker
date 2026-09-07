@@ -10,6 +10,9 @@ tools/*/_input/
 tools/__pycache__/
 tools/*/__pycache__/
 
+# @napi-rs/canvas, needed only to re-render the item tiles and grid maps
+tools/node_modules/
+
 # the room adjacency graph, written by extract_map_graph.py when something
 # needs it
 tools/generated/map_graph.json

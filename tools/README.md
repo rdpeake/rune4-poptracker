@@ -257,6 +257,27 @@ is both a Craft worth 170 (line 125) and a Forge worth 380 (line 693), and
 generated from the collapsed table; reading both rows would put 1078 sell
 values in the pack against the 1077 generation used.
 
+## Artwork
+
+The item icons and the three crafting grid maps are generated, not drawn, and
+both generators are committed because recovering them from a transcript once was
+enough. They need node and one package, which is gitignored:
+
+    npm install --prefix tools @napi-rs/canvas
+
+`gen_item_tiles.mjs` draws `images/items/*.png`: a 64px rounded tile per item,
+the background keyed to the item's category family and a rim keyed to its
+classification. Input is a JSON list of `{slug, label, cat, cls}`.
+
+`export_grid_maps.py` (which calls `gen_grid_maps.mjs`) rebuilds
+`images/maps/grid_forge.png`, `grid_crafting.png` and `grid_cooking.png` **and**
+the pins on them in `locations/_Crafting.json`. Those two must be regenerated
+together: the same pass decides where a tile is drawn and where its pin goes, so
+editing one alone slides every pin off its tile.
+
+Regenerating the shipped files and diffing is the test to run before trusting a
+change: they come back byte-identical.
+
 ## Verifying
 
     lua tests/*_test.lua
