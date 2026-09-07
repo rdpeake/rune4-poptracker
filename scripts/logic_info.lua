@@ -13,10 +13,10 @@ LOGIC_INFO_CODE = "rf4_logic_info"
 
 local item = nil
 local last_badge, last_name
+local dirty = false
 
 ---push the current summary onto the item. Guarded on equality: assigning
----BadgeText/Name emits onChange, which is what StateChanged watches, so an
----unconditional write here would feed itself.
+---BadgeText/Name emits onChange, so an unconditional write would feed itself.
 function RF4_UpdateLogicInfo()
     if not item then return end
     local yellow = RF4LogicSummary()
@@ -30,6 +30,21 @@ function RF4_UpdateLogicInfo()
         last_name = name
         item.Name = name
     end
+end
+
+---Ask for a recomputation on the next frame rather than doing it now.
+---
+---PopTracker charges a nested callback to the exec budget of the Lua call on
+---the stack (scripthost.cpp:525), so one sweep per frame keeps it to one charge.
+function RF4_MarkLogicInfoStale()
+    dirty = true
+end
+
+---frame handler: recompute at most once per frame, and only if asked
+function RF4_LogicInfoFrame()
+    if not dirty then return end
+    dirty = false
+    RF4_UpdateLogicInfo()
 end
 
 ---dump every out-of-logic check and why, to the log
@@ -63,6 +78,8 @@ function CreateLogicInfoItem()
     self.ProvidesCodeFunc = function(_, code) return code == LOGIC_INFO_CODE and 1 or 0 end
     self.OnLeftClickFunc = DumpLogicReasons
     item = self
+    ScriptHost:AddOnFrameHandler("logic info handler", RF4_LogicInfoFrame)
+    -- the first paint is a single sweep and nothing else is on the stack yet
     RF4_UpdateLogicInfo()
     return self
 end

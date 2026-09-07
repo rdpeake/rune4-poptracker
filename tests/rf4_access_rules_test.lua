@@ -66,10 +66,8 @@ check(string.format("%d RF4Visible rules, none ^-prefixed", vis), 0, vis_caret)
 check("every access rule has a matching visibility rule", total, vis)
 
 -- RF4Visible has to be AND-ed INTO each element, not appended as its own.
--- doc/PACKS.md: the elements of a rules array are OR-ed and commas within one
--- element are AND-ed, so ["opt_dropsanity", "$RF4Visible|1"] reads
--- "dropsanity OR visible" -- which ignores RF4Visible while the toggle is on,
--- and worse, resurrects the section when the toggle is off.
+-- doc/PACKS.md: elements are OR-ed, commas within one are AND-ed, so
+-- ["opt_dropsanity", "$RF4Visible|1"] reads "dropsanity OR visible".
 local blocks, ored = 0, 0
 for _, path in ipairs(files) do
     local f = io.open(path, "r")

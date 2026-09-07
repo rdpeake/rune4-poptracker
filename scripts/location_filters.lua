@@ -7,16 +7,11 @@
 --   max_sell_value  shipments with sell value >= it
 --   max_friendship  friendship levels above it
 --
--- Each is a pack setting the player can set by hand for planning offline. On
--- connect the room itself is the authority, and it is exact where inference is
--- not: ALL_LOCATIONS is every id in the slot, so RF4Visible can simply ask
--- whether an id is in it. That covers all five at once, plus the category
--- toggles and the locations the apworld drops outright.
+-- Each is a pack setting for planning offline. On connect ALL_LOCATIONS is
+-- every id in the slot, so RF4Visible simply asks whether an id is in it.
 --
--- Inference only exists to fill the SETTINGS PANEL back in, so the numbers the
--- room chose are visible rather than merely obeyed. Where a value cannot be
--- recovered the setting is greyed and badged "?" instead of showing a guess --
--- see InferFromRoom for which of them that is and why.
+-- Inference exists only to fill the settings panel back in. Where a value
+-- cannot be recovered the setting is greyed and badged "?" -- see InferFromRoom.
 
 require("scripts.autotracking.location_meta")
 
@@ -50,8 +45,7 @@ local function value(code)
 end
 
 ---PopTracker visibility rule: "$RF4Visible|<ap location id>"
----Note: no "^" prefix. Visibility is a boolean, and resolveRules is called for
----visibility rules with the count branch, which is what 0/1 wants.
+---No "^" prefix -- visibility resolves through the count branch, which wants 0/1.
 ---@param apid string|number
 ---@return integer
 function RF4Visible(apid)
@@ -81,9 +75,8 @@ function RF4Visible(apid)
 end
 
 ---Lowest cut-off consistent with which of `meta`'s locations survived.
----Returns the boundary and whether it is trustworthy: a cap is only believable
----if every level at or above it is entirely gone AND every level below it kept
----something. A level that is merely thinned was cut by a different option.
+---A cap is believable only if every level at or above it is gone and every
+---level below it kept something; a thinned level was cut by another option.
 ---@param meta table<integer, integer>  location id -> level
 ---@param inclusive boolean  true when the apworld drops level >= cap
 ---@return integer|nil cap, boolean confident
@@ -135,13 +128,10 @@ function InferFromRoom()
             note = "friendsanity is not set to locations" }
     end
 
-    -- max_sell_value is continuous: 380 distinct values over a 10k..800k range,
-    -- and only 2 shipments are cut at the default. The room bounds it rather
-    -- than fixing it, so this one is always reported as undetermined.
-    -- A shipment can be missing because of the tier cap rather than its price,
-    -- and counting those makes the bound meaningless (the cheapest tier-10 item
-    -- would "prove" the cap is 1). Skip anything the tier cap already explains,
-    -- and only report a bound that is actually coherent.
+    -- max_sell_value is continuous, and the room bounds it rather than fixing
+    -- it, so it is always reported as undetermined. Shipments the tier cap
+    -- already explains are skipped: counting them would make the bound
+    -- meaningless.
     local tier_cap = (out.opt_maxshiptier.confident and out.opt_maxshiptier.value) or nil
     local hi_kept, lo_cut = nil, nil
     for id, sell in pairs(RF4_SHIP_SELL) do
@@ -171,9 +161,8 @@ end
 -- Applying the room ----------------------------------------------------------
 
 ---Build the slot's id set from ALL_LOCATIONS.
----Refuses when the ids do not look like this game's. SLOT_LOCATIONS drives
----RF4Visible, so accepting a foreign or stale list would blank the tracker
----entirely -- the same reasoning as OptionsFromRoom's "leaving options alone".
+---Refuses ids that do not look like this game's: SLOT_LOCATIONS drives
+---RF4Visible, so a foreign or stale list would blank the tracker entirely.
 ---@return boolean built
 function BuildSlotLocations()
     if ALL_LOCATIONS == nil or #ALL_LOCATIONS == 0 then
@@ -210,10 +199,8 @@ local function anyPresent(meta)
 end
 
 ---Push what the room chose onto the settings panel.
----A value the room fixed is set and locked. One the room only bounds is
----blanked to zero -- PopTracker greys a consumable at zero -- badged "?" and
----locked, so the panel reads "the room decided this and I cannot recover it"
----rather than showing a stale default that looks authoritative.
+---A value the room fixed is set and locked. One the room only bounds is blanked
+---to zero -- PopTracker greys a consumable at zero -- badged "?" and locked.
 ---@return integer applied, integer undetermined
 function ApplyRoomToPanel()
     local applied, undetermined = 0, 0

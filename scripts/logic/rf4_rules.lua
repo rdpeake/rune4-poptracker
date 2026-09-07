@@ -34,6 +34,14 @@ local loose_cache   = nil   -- region name -> true, physically standable
 local item_cache    = {}    -- can_get_item memo
 local recipe_cache  = {}    -- can_make_recipe memo
 local busy          = {}    -- recursion guard for cyclic ingredient chains
+-- Memoised: 1722 recomputes per state change blew Tracker::DEFAULT_EXEC_LIMIT.
+-- Anything downstream of `reachable` is dropped on every fixpoint pass, not
+-- only on invalidation; see compute_reach.
+local area_item_total  = nil
+local has_both_permits = nil
+local tool_recipe      = {}   -- .top and .mid
+local shipped_percent  = nil
+local summary          = nil  -- {yellow, by} from RF4LogicSummary
 
 ---drop every cached result; called whenever tracked items change
 function RF4_Invalidate()
@@ -42,6 +50,11 @@ function RF4_Invalidate()
     item_cache   = {}
     recipe_cache = {}
     busy         = {}
+    area_item_total  = nil
+    has_both_permits = nil
+    tool_recipe      = {}
+    shipped_percent  = nil
+    summary          = nil
 end
 
 local function count(name)
@@ -52,10 +65,12 @@ end
 
 ---state.has_from_list(area_items, player, n)
 local function tier_count()
+    if area_item_total ~= nil then return area_item_total end
     local n = 0
     for _, name in ipairs(RF4_AREA_ITEMS) do
         n = n + count(name)
     end
+    area_item_total = n
     return n
 end
 
@@ -104,27 +119,41 @@ function can_get_item(name)
     return ok
 end
 
----fraction of shipment regions reachable, as the apworld computes it
+---fraction of shipment regions reachable, as the apworld computes it. The
+---fraction does not depend on `pct`, so only the comparison is per clause.
 local function ship_percent(pct)
-    local n = 0
-    for _, d in pairs(RF4_SHIPMENTS) do
-        if reachable(d[2]) then n = n + 1 end
+    if shipped_percent == nil then
+        local n = 0
+        for _, d in pairs(RF4_SHIPMENTS) do
+            if reachable(d[2]) then n = n + 1 end
+        end
+        shipped_percent = (n / RF4_TOTAL_SHIPMENTS) * 100
     end
-    return (n / RF4_TOTAL_SHIPMENTS) * 100 >= pct
+    return shipped_percent >= pct
 end
 
 local function has_licenses()
-    return count("Forging License") >= 1 and count("Crafting License") >= 1
+    if has_both_permits == nil then
+        has_both_permits = count("Forging License") >= 1
+            and count("Crafting License") >= 1
+    end
+    return has_both_permits
 end
 
 local function can_make_top_tool()
-    return count("Forging License") >= 1 and count("Forging Level Up") >= 19
-        and can_get_item("Platinum")
+    if tool_recipe.top == nil then
+        tool_recipe.top = count("Forging License") >= 1
+            and count("Forging Level Up") >= 19 and can_get_item("Platinum")
+    end
+    return tool_recipe.top
 end
 
 local function can_make_mid_tool()
-    return count("Forging License") >= 1 and count("Forging Level Up") >= 6
-        and can_get_item("Silver")
+    if tool_recipe.mid == nil then
+        tool_recipe.mid = count("Forging License") >= 1
+            and count("Forging Level Up") >= 6 and can_get_item("Silver")
+    end
+    return tool_recipe.mid
 end
 
 ---@return boolean
@@ -162,35 +191,54 @@ end
 ---Entrance clause kinds that gate physical access rather than logic.
 ---
 ---"H" is an unlock item by construction -- the apworld puts the region behind
----holding it (the bridges, Etherlink, Volkanon Axe, the licences that ARE the
----Forge/Crafting/Chemistry rooms, Magic Shop, Clothing Shop). That is a wider
----set than RF4_AREA_ITEMS, which is only the list can_reach_tier counts, so
----membership of that list is the wrong test. "S" is Rune Spheres, the story
----items that open the Floating Empire, Rune Prana and the Sharance Maze.
+---holding it -- and "S" is a Rune Sphere. Not RF4_AREA_ITEMS, which is only
+---what can_reach_tier counts.
 ---
----Everything else on an entrance is a logic gate, not a wall:
----  "G"              can you obtain this
----  "T"              are you carrying enough area items yet
----  "P"/"TT"/"MT"    shipment rate, top/mid tool
----  "L"              has_licenses. You do not need a forging licence to cross
----                   a bridge; the apworld hangs it on four entrances as a
----                   proxy for "gear up before you go in", and each of those
----                   four also names a real unlock item, so relaxing it keeps
----                   the wall and drops only the crafting requirement.
+---Everything else on an entrance is a logic gate, not a wall: "G", "T",
+---"P"/"TT"/"MT", and "L", which the apworld hangs on four entrances as a proxy
+---for "gear up first" -- each of those four also names a real unlock item, so
+---relaxing it keeps the wall.
 local ENTRANCE_ACCESS = { H = true, S = true }
 
+---Regions the player has marked done. A handed-in request seeds the sweep
+---rather than being gated on its predecessor, which may be unreachable by rule.
+---@param r table the reachable set being built
+local function seed_requests(r)
+    for region, code in pairs(RF4_REQUEST_EVENT or {}) do
+        if Tracker:ProviderCountForCode(code) > 0 then r[region] = true end
+    end
+end
+
 ---Physical reachability: the region graph with only the access clauses on each
----entrance required. This answers "could I stand here?" rather than "does the
----seed expect me to be here?", and is what separates a red check from a yellow
----one. Access clauses are plain item counts -- no entrance rule contains an "R"
----clause -- so unlike compute_reach this recurses into nothing and needs no
----memo sweep.
+---entrance required -- "could I stand here?", not "does the seed expect me
+---here?". No entrance rule contains an "R" clause, so this needs no memo sweep.
+---
+---These are edges the game has and the apworld's one-way graph does not. LOOSE
+---graph only, so they can turn a check yellow but never green.
+local LOOSE_BACKTRACK = {
+    ["Selphia Plains - West"] = { "Selphia Plains" },
+    ["Selphia Plains - East"] = { "Selphia Plains" },
+    ["Autumn Road"]           = { "Selphia Plains - West" },
+    ["Sercerezo Hill"]        = { "Selphia Plains - East" },
+}
+
 local function compute_loose()
     local r = { ["Menu"] = true }
+    seed_requests(r)
     loose_cache = r
     local changed = true
     while changed do
         changed = false
+        for from, exits in pairs(LOOSE_BACKTRACK) do
+            if r[from] then
+                for _, to in ipairs(exits) do
+                    if not r[to] then
+                        r[to] = true
+                        changed = true
+                    end
+                end
+            end
+        end
         for from, exits in pairs(RF4_EXITS) do
             if r[from] then
                 for _, to in ipairs(exits) do
@@ -224,17 +272,18 @@ local function loosely_reachable(region)
 end
 
 ---Region reachability.
----Entrance rules can themselves ask whether a region is reachable (a request
----that needs a shippable item, say), so this is a monotone fixpoint: sweep the
----graph until a pass adds nothing. The memo caches are cleared each sweep
----because their results depend on the reachable set as it stood.
+---Entrance rules can ask whether a region is reachable, so this is a monotone
+---fixpoint: sweep until a pass adds nothing. The memo caches clear each sweep,
+---since their results depend on the reachable set.
 local function compute_reach()
     local r = { ["Menu"] = true }
+    seed_requests(r)
     reach_cache = r
     local changed = true
     while changed do
         changed = false
         item_cache, recipe_cache, busy = {}, {}, {}
+        tool_recipe, shipped_percent = {}, nil
         for from, exits in pairs(RF4_EXITS) do
             if r[from] then
                 for _, to in ipairs(exits) do
@@ -269,17 +318,15 @@ end
 
 ---PopTracker access rule: "$RF4Access|<ap location id>"
 ---
----Three states rather than two. A location's clauses divide into the {"R"}
----region clauses, which say whether you can physically stand in front of the
----check, and everything else, which says whether the seed considers it in
----logic -- the crafting chains, the area-item count, the key items.
+---The {"R"} clauses say whether you can stand in front of the check; the rest
+---say whether the seed considers it in logic.
 ---
 ---  region unreachable        -> None           red
 ---  reachable, out of logic   -> SequenceBreak  yellow
 ---  reachable and in logic    -> Normal         green
 ---
----Yellow is PopTracker's "glitches required" state; it survives the
----"hide unreachable locations" filter, so these stay on the map.
+---Yellow survives the "hide unreachable locations" filter, so these stay on
+---the map.
 ---@param apid string
 ---@return accessibilityLevel
 function RF4Access(apid)
@@ -339,9 +386,7 @@ local function clause_text(c)
 end
 
 ---What is holding `region` out of logic, given you can already stand in it?
----A region can have several ways in; this names the first blocked entrance
----whose source side is already standable, which is the one a player is most
----likely looking at.
+---Names the first blocked entrance whose source side is already standable.
 ---@param region string
 ---@return string|nil
 local function region_block(region)
@@ -404,6 +449,9 @@ local CATEGORY_ORDER = { "area items", "regions", "crafting", "gathering",
 ---what. A check blocked on two things is counted under both.
 ---@return integer, table<string, integer>
 function RF4LogicSummary()
+    -- One sweep is ~300000 Lua instructions, half of PopTracker's per-call
+    -- budget, and RF4LogicSummaryText asks for the same numbers again.
+    if summary ~= nil then return summary[1], summary[2] end
     local yellow, by = 0, {}
     for apid, clauses in pairs(RF4_LOC) do
         if RF4Access(tostring(apid)) == AccessibilityLevel.SequenceBreak then
@@ -420,6 +468,7 @@ function RF4LogicSummary()
             end
         end
     end
+    summary = { yellow, by }
     return yellow, by
 end
 

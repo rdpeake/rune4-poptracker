@@ -20,7 +20,10 @@ local writes = 0
 -- NB: the fields must live in a backing store, not on the proxy itself.
 -- __newindex only fires while the key is ABSENT, so a rawset stub would count
 -- the first write to each field and silently miss every one after it.
+local FRAME_HANDLERS = {}
 ScriptHost = {
+    AddOnFrameHandler = function(_, name, fn) FRAME_HANDLERS[name] = fn end,
+    RemoveOnFrameHandler = function(_, name) FRAME_HANDLERS[name] = nil end,
     CreateLuaItem = function()
         local store = {}
         return setmetatable({}, {
@@ -78,6 +81,88 @@ HELD = ALL
 RF4_Invalidate()
 RF4_UpdateLogicInfo()
 print("     with all 12 area items: " .. item.Name)
+
+-- PopTracker aborts a Lua call longer than Tracker::DEFAULT_EXEC_LIMIT =
+-- 600000 instructions (tracker.h), and this runs inside the "*" watch, so
+-- blowing it kills the update with `Execution aborted. Limit reached.` and the
+-- badge silently stops.
+local EXEC_LIMIT = 600000
+
+---@return integer approximate VM instructions executed by fn
+local function instructions(fn)
+    local n = 0
+    debug.sethook(function() n = n + 1000 end, "", 1000)
+    fn()
+    debug.sethook()
+    return n
+end
+
+local worst, worst_at = 0, "nothing held"
+local granted = {}
+for i = 0, #RF4_AREA_ITEMS do
+    if i > 0 then granted[RF4_ITEM_CODE[RF4_AREA_ITEMS[i]]] = 1 end
+    HELD = granted
+    RF4_Invalidate()
+    local n = instructions(RF4_UpdateLogicInfo)
+    if n > worst then
+        worst, worst_at = n, i == 0 and "nothing held"
+            or string.format("%d area item(s)", i)
+    end
+end
+check(string.format("one update stays inside PopTracker's %d instruction budget",
+                    EXEC_LIMIT),
+      worst < EXEC_LIMIT,
+      string.format("worst was ~%d with %s -- PopTracker would abort StateChanged",
+                    worst, worst_at))
+print(string.format("     worst update ~%d instructions (%d%% of the budget, with %s)",
+                    worst, math.floor(worst * 100 / EXEC_LIMIT), worst_at))
+
+-- Nested watch callbacks accrue against the budget of the call on the stack:
+-- ScheduleLocationOptions writes one item per option, and a synchronous sweep
+-- per write would spend that handler's single budget several times over.
+HELD = ALL
+RF4_Invalidate()
+RF4_UpdateLogicInfo()
+local one_sweep = instructions(function()
+    RF4_Invalidate()
+    RF4_MarkLogicInfoStale()
+    RF4_LogicInfoFrame()
+end)
+
+local burst = instructions(function()
+    -- ten item changes in one frame handler, as a bulk option apply does
+    for _ = 1, 10 do
+        RF4_Invalidate()
+        RF4_MarkLogicInfoStale()
+    end
+    RF4_LogicInfoFrame()
+end)
+check("ten item changes in one call cost one sweep, not ten",
+      burst < one_sweep * 2,
+      string.format("burst ~%d vs one sweep ~%d", burst, one_sweep))
+check("and the burst stays inside the budget", burst < EXEC_LIMIT,
+      string.format("~%d of %d", burst, EXEC_LIMIT))
+print(string.format("     10 changes + 1 frame ~%d instructions (one sweep ~%d)",
+                    burst, one_sweep))
+
+check("a frame with nothing marked does no work",
+      instructions(RF4_LogicInfoFrame) < 1000)
+
+-- The deferral only helps if StateChanged actually uses it. Calling
+-- RF4_UpdateLogicInfo from there again would restore the pile-up silently,
+-- since one sweep on its own still fits the budget.
+local function file_contains(path, needle)
+    local f = io.open(path, "r")
+    if not f then return false end
+    local body = f:read("a")
+    f:close()
+    return body:find(needle, 1, true) ~= nil
+end
+local STATE_CHANGED = "scripts/logic/graph_logic/logic_main.lua"
+check("StateChanged marks the summary stale",
+      file_contains(STATE_CHANGED, "RF4_MarkLogicInfoStale"))
+check("and does not sweep synchronously",
+      not file_contains(STATE_CHANGED, "RF4_UpdateLogicInfo"))
 
 print()
 print(fails == 0 and string.format("ALL PASS  (0 failures)") or

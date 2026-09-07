@@ -72,12 +72,9 @@ function ApplyLocationOptions(slot_data)
             setOption("opt_tamesanity", slot_data["Tamesanity"] ~= 0)
         end
     end
-    -- The five options that never reach slot_data are handled separately: the
-    -- room's own id list drives RF4Visible directly, and the settings panel is
-    -- filled back in from it where that can be done honestly.
-    -- See scripts/location_filters.lua.
-    -- guarded the way logic_main.lua guards RF4_Invalidate: this module is
-    -- loaded on its own by tests/location_options_test.lua
+    -- The five options that never reach slot_data are handled separately; see
+    -- scripts/location_filters.lua. Guarded because this module is loaded on
+    -- its own by tests/location_options_test.lua.
     local built, fixed, unknown = false, 0, 0
     if BuildSlotLocations then
         built = BuildSlotLocations()

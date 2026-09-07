@@ -69,18 +69,12 @@ for apid, paths in mapping.items():
         # "5 >= 1" and paints green. doc/PACKS.md, "Rules starting with ^".
         # Needs PopTracker >= 0.25.6.
         node['access_rules'] = ["^$RF4Access|%d" % apid]
-        # Visibility ANDs the pack's own option toggle (already on the node, if
-        # any) with RF4Visible, which answers from the room's actual location
-        # list when connected and from the pack's settings when not. No "^"
-        # here: visibility rules resolve through the count branch, and
-        # RF4Visible returns 0 or 1.
+        # Visibility ANDs the node's own option toggle with RF4Visible. No "^":
+        # visibility rules resolve through the count branch and return 0 or 1.
         #
-        # The AND has to go INSIDE each element. doc/PACKS.md: the elements of
-        # a rules array are OR-ed and commas within one element are AND-ed, so
-        # ["opt_dropsanity", "$RF4Visible|1"] reads "dropsanity OR visible",
-        # which both ignores RF4Visible while the toggle is on and resurrects
-        # the section when it is off. Stripping the term first, rather than the
-        # whole element, keeps this idempotent without losing the toggle.
+        # The AND goes INSIDE each element -- doc/PACKS.md: elements are OR-ed,
+        # commas within one are AND-ed -- and stripping the term rather than the
+        # whole element keeps this idempotent without losing the toggle.
         def without_visible(rule):
             terms = [t for t in rule.split(',')
                      if not t.strip().startswith('$RF4Visible')]

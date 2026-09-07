@@ -300,11 +300,13 @@ end
 Entry_Point = rune_factory_4_location.new("Entry_Point")
 
 ---helper function that is used to force a graph update on every state change within poptracker.
-function StateChanged()
+---@param code string? the changed item's codes, from the "*" watch
+function StateChanged(code)
     stale = true
-    -- tracked items changed, so the ported apworld logic must recompute
+    -- Invalidation is cheap and must be immediate; the summary sweep is not,
+    -- so it is deferred to a frame of its own.
     if RF4_Invalidate then RF4_Invalidate() end
-    if RF4_UpdateLogicInfo then RF4_UpdateLogicInfo() end
+    if RF4_MarkLogicInfoStale then RF4_MarkLogicInfoStale() end
     -- Entry_Point:discover(AccessibilityLevel.Normal, 0)
 end
 
