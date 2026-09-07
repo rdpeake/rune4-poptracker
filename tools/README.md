@@ -137,6 +137,7 @@ Run order:
     python3 tools/gamedata/derive_rooms.py --write
     python3 tools/gamedata/export_transitions.py --write
     python3 tools/gamedata/render_maps.py --out images/maps
+    python3 tools/export_area_refs.py --write
     python3 tools/move_pins.py --write
 
 `export_transitions.py` reads every doorway in the game's map files whose two
@@ -156,6 +157,13 @@ answer rather than whichever room the pin happened to sit nearest.
 `tools/pin_doors.json` names the handful the map files have no doorway for --
 Revival Cave is a pit -- and the parked pins for Floating Empire, Sharance Maze
 and Field Dungeon keep the pin they have.
+
+`export_area_refs.py` rebuilds what those area pins cover. Each is a node whose
+sections are all `ref`s into the area it leads to, so it shows how much of the
+place behind the door is left; the lists were hand-written and went stale when
+the barrier and box checks arrived. Rebuilding them from the tree puts every
+floor and sub-room on the pin that leads to it -- the Rune Prana pin covered 81
+of its 183 sections before.
 
 **Adding a map**: put its image in `maps/maps.json` and a tab in
 `layouts/tabs.json`, name its texture in `map_art.json`, give its rooms labels

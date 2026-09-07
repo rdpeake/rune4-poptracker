@@ -5522,6 +5522,243 @@
                     },
                     {
                         "ref": "Floating Empire/West Tame/Dark Slime"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier B1/Rm8"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier South:B3/Rm10"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier A3/Rm11"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier South:C1/Rm12"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier South:E2/Rm15"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier D3/Rm20"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier E7/Rm23"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier E4/Rm25"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier D8/Rm32"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier West:B3/Rm34"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier F3/Rm37"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier D5/Rm41"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier A2/Rm45"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier E3/Rm48"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier D4/Rm49"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier West:E2/Rm59"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier West:C1/Rm62"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier E1/Rm71"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier F4/Rm79"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier C2/Rm82"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier C3/Rm83"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier C4/Rm84"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier C5/Rm85"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier B4/Rm89"
+                    },
+                    {
+                        "ref": "Floating Empire/Barrier A1/Rm90"
+                    },
+                    {
+                        "ref": "Floating Empire/Box 4/Rm4.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box 4/Rm4.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box 4/Rm4.3"
+                    },
+                    {
+                        "ref": "Floating Empire/Box 4/Rm4.4"
+                    },
+                    {
+                        "ref": "Floating Empire/Box South:A2/Rm6"
+                    },
+                    {
+                        "ref": "Floating Empire/Box South:B1/Rm8.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box South:B1/Rm8.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box C1/Rm12.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box C1/Rm12.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box D1/Rm14.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box D1/Rm14.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box C2/Rm18"
+                    },
+                    {
+                        "ref": "Floating Empire/Box South:D4/Rm21.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box South:D4/Rm21.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box E6/Rm22.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box E6/Rm22.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box E5/Rm24"
+                    },
+                    {
+                        "ref": "Floating Empire/Box F2/Rm26"
+                    },
+                    {
+                        "ref": "Floating Empire/Box South:F1/Rm27.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box South:F1/Rm27.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box F3/Rm28.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box F3/Rm28.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box F3/Rm28.3"
+                    },
+                    {
+                        "ref": "Floating Empire/Box F3/Rm28.4"
+                    },
+                    {
+                        "ref": "Floating Empire/Box D9/Rm31.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box D9/Rm31.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box D7/Rm33"
+                    },
+                    {
+                        "ref": "Floating Empire/Box C3/Rm35"
+                    },
+                    {
+                        "ref": "Floating Empire/Box B4/Rm36.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box B4/Rm36.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box E4/Rm38"
+                    },
+                    {
+                        "ref": "Floating Empire/Box G2/Rm42.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box G2/Rm42.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box West:A2/Rm45.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box West:A2/Rm45.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box A1/Rm47.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box A1/Rm47.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box G3/Rm56.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box G3/Rm56.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box D2/Rm64.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box D2/Rm64.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box East:D4/Rm66"
+                    },
+                    {
+                        "ref": "Floating Empire/Box E1/Rm71"
+                    },
+                    {
+                        "ref": "Floating Empire/Box East:F1/Rm76"
+                    },
+                    {
+                        "ref": "Floating Empire/Box C4/Rm84"
+                    },
+                    {
+                        "ref": "Floating Empire/Box C5/Rm85.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box C5/Rm85.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box C5/Rm85.3"
+                    },
+                    {
+                        "ref": "Floating Empire/Box East:B1/Rm86.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box East:B1/Rm86.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box B2/Rm87.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box B2/Rm87.2"
+                    },
+                    {
+                        "ref": "Floating Empire/Box B3/Rm88.1"
+                    },
+                    {
+                        "ref": "Floating Empire/Box B3/Rm88.2"
                     }
                 ],
                 "map_locations": [

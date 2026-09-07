@@ -773,6 +773,312 @@
                     },
                     {
                         "ref": "Rune Prana/F3/Tame/Turnip Ghost"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F1:C1/Rm4"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F1:B2/Rm5"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F1:B1/Rm6"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier A3/Rm7"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F1:B3/Rm8"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F1:A1/Rm9"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F2:D4/Rm13"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F2:C3/Rm14"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F2:C4/Rm15"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F2:B3/Rm17"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F2:D2/Rm18"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier C2/Rm26"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F3:C1/Rm30"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F3:B5/Rm32"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier E1/Rm36"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F4:D3/Rm37"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F4:D4/Rm38"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F4:D2/Rm39"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F4:C1/Rm40"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F4:D1/Rm41"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F4:B1/Rm43"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F4:B2/Rm44"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F4:A2/Rm45"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F4:B3/Rm46"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F5:B5/Rm49"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier B4/Rm50"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F5:C4/Rm51"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F5:D1/Rm54"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F5:D3/Rm56"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F5:C1/Rm57"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F5:B1/Rm58"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F5:A1/Rm59"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F5:B2/Rm60"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F6:D2/Rm65"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F6:C4/Rm66"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F6:B3/Rm67"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F6:D3/Rm68"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F6:D4/Rm69"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier C6/Rm70"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F6:C3/Rm73"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F6:C1/Rm75"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F6:B1/Rm77"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F6:A1/Rm78"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F6:A2/Rm79"
+                    },
+                    {
+                        "ref": "Rune Prana/Barrier F6:B2/Rm81"
+                    },
+                    {
+                        "ref": "Rune Prana/Box F1:B1/Rm6.1"
+                    },
+                    {
+                        "ref": "Rune Prana/Box F1:B1/Rm6.2"
+                    },
+                    {
+                        "ref": "Rune Prana/Box B3/Rm8.1"
+                    },
+                    {
+                        "ref": "Rune Prana/Box B3/Rm8.2"
+                    },
+                    {
+                        "ref": "Rune Prana/Box C3/Rm14.1"
+                    },
+                    {
+                        "ref": "Rune Prana/Box C3/Rm14.2"
+                    },
+                    {
+                        "ref": "Rune Prana/Box D1/Rm19.1"
+                    },
+                    {
+                        "ref": "Rune Prana/Box D1/Rm19.2"
+                    },
+                    {
+                        "ref": "Rune Prana/Box C2/Rm26.1"
+                    },
+                    {
+                        "ref": "Rune Prana/Box C2/Rm26.2"
+                    },
+                    {
+                        "ref": "Rune Prana/Box B4/Rm31.1"
+                    },
+                    {
+                        "ref": "Rune Prana/Box B4/Rm31.2"
+                    },
+                    {
+                        "ref": "Rune Prana/Box D4/Rm38.1"
+                    },
+                    {
+                        "ref": "Rune Prana/Box D4/Rm38.2"
+                    },
+                    {
+                        "ref": "Rune Prana/Box C1/Rm40.1"
+                    },
+                    {
+                        "ref": "Rune Prana/Box C1/Rm40.2"
+                    },
+                    {
+                        "ref": "Rune Prana/Box D2/Rm65.1"
+                    },
+                    {
+                        "ref": "Rune Prana/Box D2/Rm65.2"
+                    },
+                    {
+                        "ref": "Rune Prana/Box C4/Rm66.1"
+                    },
+                    {
+                        "ref": "Rune Prana/Box C4/Rm66.2"
+                    },
+                    {
+                        "ref": "Rune Prana/Box F6:B1/Rm77.1"
+                    },
+                    {
+                        "ref": "Rune Prana/Box F6:B1/Rm77.2"
+                    },
+                    {
+                        "ref": "Rune Prana/Box F6:B1/Rm77.3"
+                    },
+                    {
+                        "ref": "Rune Prana/Box F6:B1/Rm77.4"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier F5/Rm2"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier F6/Rm3"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier F7/Rm4"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier F3/Rm9"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier F2/Rm12"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier F1/Rm13"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier E2/Rm14"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier D1/Rm16"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier D2/Rm17"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier D5/Rm20"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier D6/Rm21"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier C7/Rm22"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier C8/Rm23"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier B6/Rm24"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier C3/Rm29"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier C2/Rm30"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier C1/Rm31"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier B2/Rm32"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Barrier A1/Rm33"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Box F7/Rm4"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Box E4/Rm8.1"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Box E4/Rm8.2"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Box F2/Rm12.1"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Box F2/Rm12.2"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Box E1/Rm15.1"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Box E1/Rm15.2"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Box E1/Rm15.3"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Box E1/Rm15.4"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Box D3/Rm18.1"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Box D3/Rm18.2"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Box C3/Rm29"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Box B5/Rm37.1"
+                    },
+                    {
+                        "ref": "Rune Prana/Rune Prana F7 Box B5/Rm37.2"
                     }
                 ],
                 "map_locations": [

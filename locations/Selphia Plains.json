@@ -1232,6 +1232,72 @@
                     },
                     {
                         "ref": "Water Ruins/Tame/Weagle"
+                    },
+                    {
+                        "ref": "Water Ruins/Barrier D4/Rm4"
+                    },
+                    {
+                        "ref": "Water Ruins/Barrier D5/Rm6"
+                    },
+                    {
+                        "ref": "Water Ruins/Barrier C7/Rm10"
+                    },
+                    {
+                        "ref": "Water Ruins/Barrier B1/Rm13"
+                    },
+                    {
+                        "ref": "Water Ruins/Barrier C5/Rm14"
+                    },
+                    {
+                        "ref": "Water Ruins/Barrier A2/Rm16"
+                    },
+                    {
+                        "ref": "Water Ruins/Box E1/Rm1"
+                    },
+                    {
+                        "ref": "Water Ruins/Box D3/Rm3.1"
+                    },
+                    {
+                        "ref": "Water Ruins/Box D3/Rm3.2"
+                    },
+                    {
+                        "ref": "Water Ruins/Box D5/Rm6.1"
+                    },
+                    {
+                        "ref": "Water Ruins/Box D5/Rm6.2"
+                    },
+                    {
+                        "ref": "Water Ruins/Box D1/Rm7"
+                    },
+                    {
+                        "ref": "Water Ruins/Box C6/Rm8"
+                    },
+                    {
+                        "ref": "Water Ruins/Box C7/Rm10.1"
+                    },
+                    {
+                        "ref": "Water Ruins/Box C7/Rm10.2"
+                    },
+                    {
+                        "ref": "Water Ruins/Box C7/Rm10.3"
+                    },
+                    {
+                        "ref": "Water Ruins/Box C5/Rm14.1"
+                    },
+                    {
+                        "ref": "Water Ruins/Box C5/Rm14.2"
+                    },
+                    {
+                        "ref": "Water Ruins/Box A2/Rm16.1"
+                    },
+                    {
+                        "ref": "Water Ruins/Box A2/Rm16.2"
+                    },
+                    {
+                        "ref": "Water Ruins/Box C4/Rm17.1"
+                    },
+                    {
+                        "ref": "Water Ruins/Box C4/Rm17.2"
                     }
                 ],
                 "map_locations": [
@@ -1425,6 +1491,93 @@
                     },
                     {
                         "ref": "Yokmir Forest/Tame/Orc Archer"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Barrier C/Rm4"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Barrier D/Rm5"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Barrier B1/Rm9"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Barrier F2:D3/Rm12"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Barrier F2:D1/Rm15"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Barrier F3:D1/Rm19"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Barrier E2/Rm22"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Barrier F3:D3/Rm23"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Barrier E3/Rm25"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Barrier A1/Rm30"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Barrier A3/Rm31"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Box B1/Rm9.1"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Box B1/Rm9.2"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Box F2:C1/Rm16.1"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Box F2:C1/Rm16.2"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Box F3:C1/Rm20.1"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Box F3:C1/Rm20.2"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Yokmir Cave Box A3/Rm31"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Barrier 1/Rm1"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Barrier 4/Rm4"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Barrier 8/Rm8"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Box 3/Rm3.1"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Box 3/Rm3.2"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Box 5/Rm5"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Box 6/Rm6.1"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Box 6/Rm6.2"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Search 4/Rm4.1"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Search 4/Rm4.2"
+                    },
+                    {
+                        "ref": "Yokmir Forest/Search 4/Rm4.3"
                     }
                 ],
                 "map_locations": [

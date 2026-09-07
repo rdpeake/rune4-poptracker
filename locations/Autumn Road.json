@@ -759,6 +759,39 @@
                     },
                     {
                         "ref": "Obsidian Mansion/Tame/Spirit"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Barrier A5/Rm7"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Barrier A7/Rm9"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Barrier A8/Rm10"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Barrier B1/Rm13"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Barrier B7/Rm19"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Box A4/Rm6.1"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Box A4/Rm6.2"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Box A4/Rm6.3"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Box A8/Rm10.1"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Box A8/Rm10.2"
+                    },
+                    {
+                        "ref": "Obsidian Mansion/Box A8/Rm10.3"
                     }
                 ],
                 "map_locations": [
@@ -892,6 +925,90 @@
                     },
                     {
                         "ref": "Maya Road/Tame/Planchoa"
+                    },
+                    {
+                        "ref": "Maya Road/Barrier B5/Rm4"
+                    },
+                    {
+                        "ref": "Maya Road/Barrier A7-3/Rm9"
+                    },
+                    {
+                        "ref": "Maya Road/Barrier A5-2/Rm19"
+                    },
+                    {
+                        "ref": "Maya Road/Barrier A5-3/Rm20"
+                    },
+                    {
+                        "ref": "Maya Road/Barrier A5-4/Rm21"
+                    },
+                    {
+                        "ref": "Maya Road/Barrier Cave:A6/Rm29"
+                    },
+                    {
+                        "ref": "Maya Road/Barrier Cave:A5/Rm30"
+                    },
+                    {
+                        "ref": "Maya Road/Barrier A9/Rm38"
+                    },
+                    {
+                        "ref": "Maya Road/Barrier F2:A6/Rm49"
+                    },
+                    {
+                        "ref": "Maya Road/Barrier C3/Rm50"
+                    },
+                    {
+                        "ref": "Maya Road/Barrier F2:A5/Rm53"
+                    },
+                    {
+                        "ref": "Maya Road/Barrier C2/Rm56"
+                    },
+                    {
+                        "ref": "Maya Road/Barrier B1/Rm59"
+                    },
+                    {
+                        "ref": "Maya Road/Barrier A3/Rm60"
+                    },
+                    {
+                        "ref": "Maya Road/Box A7/Rm7.1"
+                    },
+                    {
+                        "ref": "Maya Road/Box A7/Rm7.2"
+                    },
+                    {
+                        "ref": "Maya Road/Box A5/Rm18.1"
+                    },
+                    {
+                        "ref": "Maya Road/Box A5/Rm18.2"
+                    },
+                    {
+                        "ref": "Maya Road/Box A5/Rm18.3"
+                    },
+                    {
+                        "ref": "Maya Road/Box A5/Rm18.4"
+                    },
+                    {
+                        "ref": "Maya Road/Box A1/Rm32.1"
+                    },
+                    {
+                        "ref": "Maya Road/Box A1/Rm32.2"
+                    },
+                    {
+                        "ref": "Maya Road/Box B8/Rm41.1"
+                    },
+                    {
+                        "ref": "Maya Road/Box B8/Rm41.2"
+                    },
+                    {
+                        "ref": "Maya Road/Box B1/Rm46.1"
+                    },
+                    {
+                        "ref": "Maya Road/Box B1/Rm46.2"
+                    },
+                    {
+                        "ref": "Maya Road/Box B5/Rm51.1"
+                    },
+                    {
+                        "ref": "Maya Road/Box B5/Rm51.2"
                     }
                 ],
                 "map_locations": [
@@ -1004,6 +1121,96 @@
                     },
                     {
                         "ref": "Delirium Lava Ruins/Tame/Troll"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier A1/Rm5"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier B1/Rm6"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier B3/Rm8"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier B4/Rm9"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier B5/Rm10"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier C4/Rm11"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier C5/Rm12"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier C2/Rm15"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier D1/Rm16"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier H4/Rm20"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier I2/Rm23"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier I1/Rm24"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier H3/Rm25"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier H1/Rm27"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier E2/Rm30"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier E1/Rm32"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier C1/Rm36"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier C3/Rm38"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Barrier B2/Rm39"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Box C4/Rm11.1"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Box C4/Rm11.2"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Box J1/Rm18.1"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Box J1/Rm18.2"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Box E1/Rm32"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Box D2/Rm33.1"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Box D2/Rm33.2"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Box D1/Rm34.1"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Box D1/Rm34.2"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Box D1/Rm34.3"
+                    },
+                    {
+                        "ref": "Delirium Lava Ruins/Box D1/Rm34.4"
                     }
                 ],
                 "map_locations": [
@@ -1147,6 +1354,105 @@
                     },
                     {
                         "ref": "Leon Karnak/Tame/Boss - Sarcophagus"
+                    },
+                    {
+                        "ref": "Leon Karnak/Forest Of Beginnings Barrier/Rm2"
+                    },
+                    {
+                        "ref": "Leon Karnak/Forest Of Beginnings Barrier/Rm3"
+                    },
+                    {
+                        "ref": "Leon Karnak/Forest Of Beginnings Barrier/Rm4"
+                    },
+                    {
+                        "ref": "Leon Karnak/Forest Of Beginnings Barrier/Rm5"
+                    },
+                    {
+                        "ref": "Leon Karnak/Forest Of Beginnings Barrier/Rm6"
+                    },
+                    {
+                        "ref": "Leon Karnak/Barrier G2/Rm3"
+                    },
+                    {
+                        "ref": "Leon Karnak/Barrier F5/Rm5"
+                    },
+                    {
+                        "ref": "Leon Karnak/Barrier F6/Rm6"
+                    },
+                    {
+                        "ref": "Leon Karnak/Barrier G1/Rm7"
+                    },
+                    {
+                        "ref": "Leon Karnak/Barrier F3/Rm9"
+                    },
+                    {
+                        "ref": "Leon Karnak/Barrier F4/Rm10"
+                    },
+                    {
+                        "ref": "Leon Karnak/Barrier D1/Rm14"
+                    },
+                    {
+                        "ref": "Leon Karnak/Barrier B1/Rm15"
+                    },
+                    {
+                        "ref": "Leon Karnak/Barrier B2/Rm16"
+                    },
+                    {
+                        "ref": "Leon Karnak/Barrier C2/Rm17"
+                    },
+                    {
+                        "ref": "Leon Karnak/Barrier F1/Rm20"
+                    },
+                    {
+                        "ref": "Leon Karnak/Barrier E1/Rm21"
+                    },
+                    {
+                        "ref": "Leon Karnak/Barrier B3/Rm23"
+                    },
+                    {
+                        "ref": "Leon Karnak/Box G2/Rm3.1"
+                    },
+                    {
+                        "ref": "Leon Karnak/Box G2/Rm3.2"
+                    },
+                    {
+                        "ref": "Leon Karnak/Box F4/Rm10"
+                    },
+                    {
+                        "ref": "Leon Karnak/Box D3/Rm12"
+                    },
+                    {
+                        "ref": "Leon Karnak/Box D2/Rm13"
+                    },
+                    {
+                        "ref": "Leon Karnak/Box B2/Rm16.1"
+                    },
+                    {
+                        "ref": "Leon Karnak/Box B2/Rm16.2"
+                    },
+                    {
+                        "ref": "Leon Karnak/Box G3/Rm19.1"
+                    },
+                    {
+                        "ref": "Leon Karnak/Box G3/Rm19.2"
+                    },
+                    {
+                        "ref": "Leon Karnak/Box F1/Rm20.1"
+                    },
+                    {
+                        "ref": "Leon Karnak/Box F1/Rm20.2"
+                    },
+                    {
+                        "ref": "Leon Karnak/Box F1/Rm20.3"
+                    },
+                    {
+                        "ref": "Leon Karnak/Box E1/Rm21.1"
+                    },
+                    {
+                        "ref": "Leon Karnak/Box E1/Rm21.2"
+                    },
+                    {
+                        "ref": "Leon Karnak/Box C1/Rm22"
                     }
                 ],
                 "map_locations": [
