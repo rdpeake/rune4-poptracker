@@ -1,0 +1,603 @@
+{
+ "Autumn Road.png": {
+  "art": [
+   {
+    "h": 372,
+    "tex": "mini_map_72_field_1",
+    "w": 607,
+    "x": 31,
+    "y": 83
+   }
+  ]
+ },
+ "Blank.png": {
+  "art": []
+ },
+ "Cluck_cluck_nest.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_dung_o01",
+    "w": 575,
+    "x": 47,
+    "y": 31
+   }
+  ]
+ },
+ "Delirium_lava_ruins_1.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_08_dung_h_0",
+    "w": 513,
+    "x": 78,
+    "y": 31
+   }
+  ]
+ },
+ "Delirium_lava_ruins_2.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_08_dung_h_1",
+    "w": 582,
+    "x": 44,
+    "y": 31
+   }
+  ]
+ },
+ "Demons Den.png": {
+  "art": [
+   {
+    "h": 168,
+    "tex": "mini_map_dung_q01",
+    "w": 92,
+    "x": 31,
+    "y": 77
+   },
+   {
+    "h": 68,
+    "tex": "mini_map_dung_q02",
+    "w": 208,
+    "x": 161,
+    "y": 126
+   },
+   {
+    "h": 69,
+    "tex": "mini_map_dung_q03",
+    "w": 211,
+    "x": 181,
+    "y": 342
+   },
+   {
+    "h": 170,
+    "tex": "mini_map_dung_q04",
+    "w": 210,
+    "x": 429,
+    "y": 290
+   }
+  ]
+ },
+ "Floating Empire_east.png": {
+  "art": [
+   {
+    "h": 421,
+    "tex": "mini_map_05_dung_e_3",
+    "w": 607,
+    "x": 31,
+    "y": 58
+   }
+  ]
+ },
+ "Floating Empire_main.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_05_dung_e_0",
+    "w": 276,
+    "x": 197,
+    "y": 31
+   }
+  ]
+ },
+ "Floating Empire_south.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_05_dung_e_1",
+    "w": 440,
+    "x": 115,
+    "y": 31
+   }
+  ]
+ },
+ "Floating Empire_west.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_05_dung_e_2",
+    "w": 598,
+    "x": 36,
+    "y": 31
+   }
+  ]
+ },
+ "Forest of Begginings.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_11_dung_i",
+    "w": 476,
+    "x": 97,
+    "y": 31
+   }
+  ]
+ },
+ "Idra_Cave_1.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_09_dung_j_0",
+    "w": 303,
+    "x": 183,
+    "y": 31
+   }
+  ]
+ },
+ "Idra_Cave_2.png": {
+  "art": [
+   {
+    "h": 213,
+    "tex": "mini_map_09_dung_j_1",
+    "w": 607,
+    "x": 31,
+    "y": 162
+   }
+  ]
+ },
+ "Idra_Cave_3.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_09_dung_j_2",
+    "w": 447,
+    "x": 111,
+    "y": 31
+   }
+  ]
+ },
+ "Leon Karnak.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_04_dung_d_0",
+    "w": 312,
+    "x": 179,
+    "y": 31
+   }
+  ]
+ },
+ "Maya_road_cave.png": {
+  "art": [
+   {
+    "h": 237,
+    "tex": "mini_map_10_dung_k_2",
+    "w": 607,
+    "x": 31,
+    "y": 150
+   }
+  ]
+ },
+ "Maya_road_cave_f2.png": {
+  "art": [
+   {
+    "h": 79,
+    "tex": "mini_map_10_dung_k_4",
+    "w": 607,
+    "x": 31,
+    "y": 229
+   }
+  ]
+ },
+ "Maya_road_floor_1.png": {
+  "art": [
+   {
+    "h": 205,
+    "tex": "mini_map_10_dung_k_0",
+    "w": 607,
+    "x": 31,
+    "y": 166
+   }
+  ]
+ },
+ "Maya_road_floor_2.png": {
+  "art": [
+   {
+    "h": 126,
+    "tex": "mini_map_10_dung_k_3",
+    "w": 607,
+    "x": 31,
+    "y": 206
+   }
+  ]
+ },
+ "Maya_road_underground.png": {
+  "art": [
+   {
+    "h": 298,
+    "tex": "mini_map_10_dung_k_1",
+    "w": 607,
+    "x": 31,
+    "y": 120
+   }
+  ]
+ },
+ "Obsidian_mansion.png": {
+  "art": [
+   {
+    "h": 162,
+    "tex": "mini_map_03_dung_c_0",
+    "w": 591,
+    "x": 35,
+    "y": 68
+   },
+   {
+    "h": 163,
+    "tex": "mini_map_03_dung_c_1",
+    "w": 607,
+    "x": 31,
+    "y": 307
+   }
+  ]
+ },
+ "Overworld.png": {
+  "art": [
+   {
+    "h": 213,
+    "tex": "mini_map_70_field_3",
+    "w": 308,
+    "x": 330,
+    "y": 91
+   },
+   {
+    "h": 157,
+    "tex": "mini_map_71_field",
+    "w": 316,
+    "x": 281,
+    "y": 290
+   },
+   {
+    "h": 191,
+    "tex": "mini_map_72_field",
+    "w": 312,
+    "x": 31,
+    "y": 117
+   }
+  ]
+ },
+ "Revival Cave.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_dung_p01",
+    "w": 591,
+    "x": 39,
+    "y": 31
+   }
+  ]
+ },
+ "Rune_Prana_1.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_dung_m01",
+    "w": 310,
+    "x": 180,
+    "y": 31
+   }
+  ]
+ },
+ "Rune_Prana_2.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_dung_m02",
+    "w": 445,
+    "x": 112,
+    "y": 31
+   }
+  ]
+ },
+ "Rune_Prana_3.png": {
+  "art": [
+   {
+    "h": 389,
+    "tex": "mini_map_dung_m03",
+    "w": 607,
+    "x": 31,
+    "y": 74
+   }
+  ]
+ },
+ "Rune_Prana_4.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_dung_m04",
+    "w": 451,
+    "x": 109,
+    "y": 31
+   }
+  ]
+ },
+ "Rune_Prana_5.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_dung_m05",
+    "w": 583,
+    "x": 43,
+    "y": 31
+   }
+  ]
+ },
+ "Rune_Prana_6.png": {
+  "art": [
+   {
+    "h": 445,
+    "tex": "mini_map_dung_m06",
+    "w": 607,
+    "x": 31,
+    "y": 46
+   }
+  ]
+ },
+ "Rune_Prana_7.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_dung_n01",
+    "w": 598,
+    "x": 36,
+    "y": 31
+   }
+  ]
+ },
+ "Sechs_territory_cave.png": {
+  "art": [
+   {
+    "h": 318,
+    "tex": "mini_map_11_dung_l_1",
+    "w": 607,
+    "x": 31,
+    "y": 110
+   }
+  ]
+ },
+ "Sechs_territory_field_1.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_11_dung_l_0",
+    "w": 553,
+    "x": 58,
+    "y": 31
+   }
+  ]
+ },
+ "Sechs_territory_field_2.png": {
+  "art": [
+   {
+    "h": 308,
+    "tex": "mini_map_11_dung_l_2",
+    "w": 607,
+    "x": 31,
+    "y": 115
+   }
+  ]
+ },
+ "Selphia.png": {
+  "art": [
+   {
+    "h": 444,
+    "tex": "mini_map_00_city_2",
+    "w": 607,
+    "x": 31,
+    "y": 47
+   }
+  ]
+ },
+ "Selphia_plains.png": {
+  "art": [
+   {
+    "h": 419,
+    "tex": "mini_map_70_field_3",
+    "w": 607,
+    "x": 31,
+    "y": 59
+   }
+  ]
+ },
+ "Sercerezo Hill.png": {
+  "art": [
+   {
+    "h": 302,
+    "tex": "mini_map_71_field",
+    "w": 607,
+    "x": 31,
+    "y": 118
+   }
+  ]
+ },
+ "Sharance Maze.png": {
+  "art": [
+   {
+    "h": 111,
+    "tex": "mini_map_rnd_00",
+    "w": 112,
+    "x": 96,
+    "y": 31
+   },
+   {
+    "h": 111,
+    "tex": "mini_map_rnd_40",
+    "w": 112,
+    "x": 217,
+    "y": 31
+   },
+   {
+    "h": 111,
+    "tex": "mini_map_rnd_10",
+    "w": 112,
+    "x": 339,
+    "y": 31
+   },
+   {
+    "h": 111,
+    "tex": "mini_map_rnd_11",
+    "w": 112,
+    "x": 461,
+    "y": 31
+   },
+   {
+    "h": 111,
+    "tex": "mini_map_rnd_12",
+    "w": 112,
+    "x": 96,
+    "y": 153
+   },
+   {
+    "h": 111,
+    "tex": "mini_map_rnd_13",
+    "w": 112,
+    "x": 217,
+    "y": 153
+   },
+   {
+    "h": 111,
+    "tex": "mini_map_rnd_20",
+    "w": 112,
+    "x": 339,
+    "y": 153
+   },
+   {
+    "h": 111,
+    "tex": "mini_map_rnd_21",
+    "w": 112,
+    "x": 461,
+    "y": 153
+   },
+   {
+    "h": 111,
+    "tex": "mini_map_rnd_22",
+    "w": 112,
+    "x": 96,
+    "y": 275
+   },
+   {
+    "h": 111,
+    "tex": "mini_map_rnd_23",
+    "w": 112,
+    "x": 217,
+    "y": 275
+   },
+   {
+    "h": 111,
+    "tex": "mini_map_rnd_24",
+    "w": 112,
+    "x": 339,
+    "y": 275
+   },
+   {
+    "h": 111,
+    "tex": "mini_map_rnd_25",
+    "w": 112,
+    "x": 461,
+    "y": 275
+   },
+   {
+    "h": 111,
+    "tex": "mini_map_rnd_30",
+    "w": 112,
+    "x": 96,
+    "y": 396
+   },
+   {
+    "h": 111,
+    "tex": "mini_map_rnd_31",
+    "w": 112,
+    "x": 217,
+    "y": 396
+   },
+   {
+    "h": 111,
+    "tex": "mini_map_rnd_32",
+    "w": 112,
+    "x": 339,
+    "y": 396
+   },
+   {
+    "h": 111,
+    "tex": "mini_map_rnd_33",
+    "w": 112,
+    "x": 461,
+    "y": 396
+   }
+  ]
+ },
+ "Water_ruins.png": {
+  "art": [
+   {
+    "h": 421,
+    "tex": "mini_map_02_dung_b_1",
+    "w": 607,
+    "x": 31,
+    "y": 58
+   }
+  ]
+ },
+ "YokmirForest.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_01_dung_a",
+    "w": 465,
+    "x": 102,
+    "y": 31
+   }
+  ]
+ },
+ "Yokmir_cave_1.png": {
+  "art": [
+   {
+    "h": 228,
+    "tex": "mini_map_07_dung_g_0",
+    "w": 607,
+    "x": 31,
+    "y": 155
+   }
+  ]
+ },
+ "Yokmir_cave_2.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_07_dung_g_1",
+    "w": 581,
+    "x": 44,
+    "y": 31
+   }
+  ]
+ },
+ "Yokmir_cave_3.png": {
+  "art": [
+   {
+    "h": 476,
+    "tex": "mini_map_07_dung_g_2",
+    "w": 386,
+    "x": 142,
+    "y": 31
+   }
+  ]
+ }
+}

@@ -110,7 +110,7 @@
                                         }
                                     },
                                     {
-                                        "title": "Cave",
+                                        "title": "Yokmir Cave",
                                         "content": {
                                             "type": "tabbed",
                                             "tabs": [
@@ -266,6 +266,15 @@
                                                 }
                                             ]
                                         }
+                                    },
+                                    {
+                                        "title": "Forest of Beginnings",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Forest of Beginnings"
+                                            ]
+                                        }
                                     }
                                 ]
                             }
@@ -338,11 +347,29 @@
                                         }
                                     },
                                     {
-                                        "title": "Cave",
+                                        "title": "Maya Cave",
                                         "content": {
                                             "type": "map",
                                             "maps": [
                                                 "Maya Road Cave"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Maya Cave (F2)",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Maya Road Cave via F2"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Underground",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Maya Road Underground"
                                             ]
                                         }
                                     },
@@ -370,7 +397,7 @@
                                                     }
                                                 },
                                                 {
-                                                    "title": "Cave",
+                                                    "title": "Sechs Cave",
                                                     "content": {
                                                         "type": "map",
                                                         "maps": [
@@ -719,7 +746,7 @@
                                         }
                                     },
                                     {
-                                        "title": "Cave",
+                                        "title": "Yokmir Cave",
                                         "content": {
                                             "type": "tabbed",
                                             "tabs": [
@@ -947,11 +974,29 @@
                                         }
                                     },
                                     {
-                                        "title": "Cave",
+                                        "title": "Maya Cave",
                                         "content": {
                                             "type": "map",
                                             "maps": [
                                                 "Maya Road Cave"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Maya Cave (F2)",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Maya Road Cave via F2"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Underground",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Maya Road Underground"
                                             ]
                                         }
                                     },
@@ -979,7 +1024,7 @@
                                                     }
                                                 },
                                                 {
-                                                    "title": "Cave",
+                                                    "title": "Sechs Cave",
                                                     "content": {
                                                         "type": "map",
                                                         "maps": [

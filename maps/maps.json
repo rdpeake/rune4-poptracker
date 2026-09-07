@@ -84,10 +84,22 @@
         "img": "images/maps/Leon Karnak.png"
     },
     {
+        "name": "Forest of Beginnings",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Forest of Begginings.png"
+    },
+    {
         "name": "Maya Road F1",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Maya_road_floor_1.png"
+    },
+    {
+        "name": "Maya Road Underground",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Maya_road_underground.png"
     },
     {
         "name": "Maya Road F2",
@@ -99,7 +111,13 @@
         "name": "Maya Road Cave",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Maya_road_cave_1_2.png"
+        "img": "images/maps/Maya_road_cave.png"
+    },
+    {
+        "name": "Maya Road Cave via F2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Maya_road_cave_f2.png"
     },
     {
         "name": "Obsidian Mansion",

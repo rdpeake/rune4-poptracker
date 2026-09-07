@@ -1,0 +1,3908 @@
+{
+ "MAP_CITY_05": {
+  "label": "A2",
+  "map": "Selphia Plains",
+  "x": 280,
+  "y": 91
+ },
+ "MAP_DUNG_A01": {
+  "label": "1",
+  "map": "Yokmir Forest",
+  "x": 128,
+  "y": 460
+ },
+ "MAP_DUNG_A02": {
+  "label": "2",
+  "map": "Yokmir Forest",
+  "x": 527,
+  "y": 58
+ },
+ "MAP_DUNG_A03": {
+  "label": "3",
+  "map": "Yokmir Forest",
+  "x": 156,
+  "y": 354
+ },
+ "MAP_DUNG_A04": {
+  "label": "4",
+  "map": "Yokmir Forest",
+  "x": 283,
+  "y": 349
+ },
+ "MAP_DUNG_A05": {
+  "label": "5",
+  "map": "Yokmir Forest",
+  "x": 413,
+  "y": 351
+ },
+ "MAP_DUNG_A06": {
+  "label": "6",
+  "map": "Yokmir Forest",
+  "x": 414,
+  "y": 436
+ },
+ "MAP_DUNG_A07": {
+  "label": "7",
+  "map": "Yokmir Forest",
+  "x": 527,
+  "y": 312
+ },
+ "MAP_DUNG_A08": {
+  "label": "8",
+  "map": "Yokmir Forest",
+  "x": 524,
+  "y": 170
+ },
+ "MAP_DUNG_B01": {
+  "label": "E1",
+  "map": "Water Ruins",
+  "x": 333,
+  "y": 442
+ },
+ "MAP_DUNG_B02": {
+  "label": "B2",
+  "map": "Water Ruins",
+  "x": 331,
+  "y": 176
+ },
+ "MAP_DUNG_B03": {
+  "label": "D3",
+  "map": "Water Ruins",
+  "x": 333,
+  "y": 345
+ },
+ "MAP_DUNG_B04": {
+  "label": "D4",
+  "map": "Water Ruins",
+  "x": 450,
+  "y": 343
+ },
+ "MAP_DUNG_B05": {
+  "label": "D2",
+  "map": "Water Ruins",
+  "x": 219,
+  "y": 343
+ },
+ "MAP_DUNG_B06": {
+  "label": "D5",
+  "map": "Water Ruins",
+  "x": 559,
+  "y": 337
+ },
+ "MAP_DUNG_B07": {
+  "label": "D1",
+  "map": "Water Ruins",
+  "x": 107,
+  "y": 337
+ },
+ "MAP_DUNG_B08": {
+  "label": "C6",
+  "map": "Water Ruins",
+  "x": 557,
+  "y": 228
+ },
+ "MAP_DUNG_B09": {
+  "label": "C2",
+  "map": "Water Ruins",
+  "x": 107,
+  "y": 228
+ },
+ "MAP_DUNG_B10": {
+  "label": "C7",
+  "map": "Water Ruins",
+  "x": 617,
+  "y": 211
+ },
+ "MAP_DUNG_B11": {
+  "label": "C1",
+  "map": "Water Ruins",
+  "x": 45,
+  "y": 211
+ },
+ "MAP_DUNG_B12": {
+  "label": "B3",
+  "map": "Water Ruins",
+  "x": 445,
+  "y": 162
+ },
+ "MAP_DUNG_B13": {
+  "label": "B1",
+  "map": "Water Ruins",
+  "x": 222,
+  "y": 162
+ },
+ "MAP_DUNG_B14": {
+  "label": "C5",
+  "map": "Water Ruins",
+  "x": 430,
+  "y": 241
+ },
+ "MAP_DUNG_B15": {
+  "label": "C3",
+  "map": "Water Ruins",
+  "x": 233,
+  "y": 241
+ },
+ "MAP_DUNG_B16": {
+  "label": "A2",
+  "map": "Water Ruins",
+  "x": 333,
+  "y": 69
+ },
+ "MAP_DUNG_B17": {
+  "label": "C4",
+  "map": "Water Ruins",
+  "x": 332,
+  "y": 258
+ },
+ "MAP_DUNG_C01": {
+  "label": "C5",
+  "map": "Autumn Road",
+  "x": 497,
+  "y": 214
+ },
+ "MAP_DUNG_C02": {
+  "label": "B8",
+  "map": "Obsidian Mansion",
+  "x": 590,
+  "y": 422
+ },
+ "MAP_DUNG_C03": {
+  "label": "A1",
+  "map": "Obsidian Mansion",
+  "x": 82,
+  "y": 190
+ },
+ "MAP_DUNG_C04": {
+  "label": "A2",
+  "map": "Obsidian Mansion",
+  "x": 115,
+  "y": 124
+ },
+ "MAP_DUNG_C05": {
+  "label": "A3",
+  "map": "Obsidian Mansion",
+  "x": 129,
+  "y": 79
+ },
+ "MAP_DUNG_C06": {
+  "label": "A4",
+  "map": "Obsidian Mansion",
+  "x": 204,
+  "y": 79
+ },
+ "MAP_DUNG_C07": {
+  "label": "A5",
+  "map": "Obsidian Mansion",
+  "x": 213,
+  "y": 127
+ },
+ "MAP_DUNG_C08": {
+  "label": "A6",
+  "map": "Obsidian Mansion",
+  "x": 297,
+  "y": 131
+ },
+ "MAP_DUNG_C09": {
+  "label": "A7",
+  "map": "Obsidian Mansion",
+  "x": 379,
+  "y": 129
+ },
+ "MAP_DUNG_C10": {
+  "label": "A8",
+  "map": "Obsidian Mansion",
+  "x": 427,
+  "y": 82
+ },
+ "MAP_DUNG_C11": {
+  "label": "A9",
+  "map": "Obsidian Mansion",
+  "x": 508,
+  "y": 102
+ },
+ "MAP_DUNG_C12": {
+  "label": "A10",
+  "map": "Obsidian Mansion",
+  "x": 590,
+  "y": 83
+ },
+ "MAP_DUNG_C13": {
+  "label": "B1",
+  "map": "Obsidian Mansion",
+  "x": 70,
+  "y": 371
+ },
+ "MAP_DUNG_C14": {
+  "label": "B2",
+  "map": "Obsidian Mansion",
+  "x": 170,
+  "y": 375
+ },
+ "MAP_DUNG_C15": {
+  "label": "B3",
+  "map": "Obsidian Mansion",
+  "x": 280,
+  "y": 371
+ },
+ "MAP_DUNG_C16": {
+  "label": "B4",
+  "map": "Obsidian Mansion",
+  "x": 290,
+  "y": 324
+ },
+ "MAP_DUNG_C17": {
+  "label": "B5",
+  "map": "Obsidian Mansion",
+  "x": 383,
+  "y": 323
+ },
+ "MAP_DUNG_C18": {
+  "label": "B6",
+  "map": "Obsidian Mansion",
+  "x": 406,
+  "y": 374
+ },
+ "MAP_DUNG_C19": {
+  "label": "B7",
+  "map": "Obsidian Mansion",
+  "x": 486,
+  "y": 421
+ },
+ "MAP_DUNG_D01": {
+  "label": "H1",
+  "map": "Leon Karnak",
+  "x": 329,
+  "y": 471
+ },
+ "MAP_DUNG_D02": {
+  "label": "A2",
+  "map": "Leon Karnak",
+  "x": 332,
+  "y": 78
+ },
+ "MAP_DUNG_D03": {
+  "label": "G2",
+  "map": "Leon Karnak",
+  "x": 289,
+  "y": 412
+ },
+ "MAP_DUNG_D04": {
+  "label": "G4",
+  "map": "Leon Karnak",
+  "x": 446,
+  "y": 429
+ },
+ "MAP_DUNG_D05": {
+  "label": "F5",
+  "map": "Leon Karnak",
+  "x": 302,
+  "y": 364
+ },
+ "MAP_DUNG_D06": {
+  "label": "F6",
+  "map": "Leon Karnak",
+  "x": 359,
+  "y": 364
+ },
+ "MAP_DUNG_D07": {
+  "label": "G1",
+  "map": "Leon Karnak",
+  "x": 208,
+  "y": 408
+ },
+ "MAP_DUNG_D08": {
+  "label": "F2",
+  "map": "Leon Karnak",
+  "x": 286,
+  "y": 327
+ },
+ "MAP_DUNG_D09": {
+  "label": "F3",
+  "map": "Leon Karnak",
+  "x": 373,
+  "y": 327
+ },
+ "MAP_DUNG_D10": {
+  "label": "F4",
+  "map": "Leon Karnak",
+  "x": 451,
+  "y": 324
+ },
+ "MAP_DUNG_D11": {
+  "label": "D4",
+  "map": "Leon Karnak",
+  "x": 439,
+  "y": 228
+ },
+ "MAP_DUNG_D12": {
+  "label": "D3",
+  "map": "Leon Karnak",
+  "x": 370,
+  "y": 234
+ },
+ "MAP_DUNG_D13": {
+  "label": "D2",
+  "map": "Leon Karnak",
+  "x": 290,
+  "y": 234
+ },
+ "MAP_DUNG_D14": {
+  "label": "D1",
+  "map": "Leon Karnak",
+  "x": 214,
+  "y": 227
+ },
+ "MAP_DUNG_D15": {
+  "label": "B1",
+  "map": "Leon Karnak",
+  "x": 210,
+  "y": 118
+ },
+ "MAP_DUNG_D16": {
+  "label": "B2",
+  "map": "Leon Karnak",
+  "x": 292,
+  "y": 155
+ },
+ "MAP_DUNG_D17": {
+  "label": "C2",
+  "map": "Leon Karnak",
+  "x": 359,
+  "y": 195
+ },
+ "MAP_DUNG_D18": {
+  "label": "A1",
+  "map": "Leon Karnak",
+  "x": 460,
+  "y": 76
+ },
+ "MAP_DUNG_D19": {
+  "label": "G3",
+  "map": "Leon Karnak",
+  "x": 375,
+  "y": 412
+ },
+ "MAP_DUNG_D20": {
+  "label": "F1",
+  "map": "Leon Karnak",
+  "x": 208,
+  "y": 339
+ },
+ "MAP_DUNG_D21": {
+  "label": "E1",
+  "map": "Leon Karnak",
+  "x": 451,
+  "y": 273
+ },
+ "MAP_DUNG_D22": {
+  "label": "C1",
+  "map": "Leon Karnak",
+  "x": 214,
+  "y": 170
+ },
+ "MAP_DUNG_D23": {
+  "label": "B3",
+  "map": "Leon Karnak",
+  "x": 372,
+  "y": 155
+ },
+ "MAP_DUNG_E01": {
+  "label": "1",
+  "map": "Floating Empire Main",
+  "x": 288,
+  "y": 110
+ },
+ "MAP_DUNG_E03": {
+  "label": "3",
+  "map": "Floating Empire Main",
+  "x": 426,
+  "y": 420
+ },
+ "MAP_DUNG_E04": {
+  "label": "4",
+  "map": "Floating Empire Main",
+  "x": 289,
+  "y": 434
+ },
+ "MAP_DUNG_E05": {
+  "label": "2",
+  "map": "Floating Empire Main",
+  "x": 288,
+  "y": 280
+ },
+ "MAP_DUNG_E06": {
+  "label": "A2",
+  "map": "Floating Empire South",
+  "x": 336,
+  "y": 65
+ },
+ "MAP_DUNG_E07": {
+  "label": "B2",
+  "map": "Floating Empire South",
+  "x": 336,
+  "y": 125
+ },
+ "MAP_DUNG_E08": {
+  "label": "B1",
+  "map": "Floating Empire South",
+  "x": 271,
+  "y": 125
+ },
+ "MAP_DUNG_E09": {
+  "label": "A1",
+  "map": "Floating Empire South",
+  "x": 271,
+  "y": 65
+ },
+ "MAP_DUNG_E10": {
+  "label": "B3",
+  "map": "Floating Empire South",
+  "x": 402,
+  "y": 125
+ },
+ "MAP_DUNG_E11": {
+  "label": "A3",
+  "map": "Floating Empire South",
+  "x": 402,
+  "y": 65
+ },
+ "MAP_DUNG_E12": {
+  "label": "C1",
+  "map": "Floating Empire South",
+  "x": 271,
+  "y": 185
+ },
+ "MAP_DUNG_E13": {
+  "label": "D2",
+  "map": "Floating Empire South",
+  "x": 271,
+  "y": 245
+ },
+ "MAP_DUNG_E14": {
+  "label": "D1",
+  "map": "Floating Empire South",
+  "x": 206,
+  "y": 245
+ },
+ "MAP_DUNG_E15": {
+  "label": "E2",
+  "map": "Floating Empire South",
+  "x": 206,
+  "y": 304
+ },
+ "MAP_DUNG_E16": {
+  "label": "E1",
+  "map": "Floating Empire South",
+  "x": 141,
+  "y": 304
+ },
+ "MAP_DUNG_E17": {
+  "label": "E3",
+  "map": "Floating Empire South",
+  "x": 271,
+  "y": 304
+ },
+ "MAP_DUNG_E18": {
+  "label": "C2",
+  "map": "Floating Empire South",
+  "x": 336,
+  "y": 185
+ },
+ "MAP_DUNG_E19": {
+  "label": "C3",
+  "map": "Floating Empire South",
+  "x": 402,
+  "y": 185
+ },
+ "MAP_DUNG_E20": {
+  "label": "D3",
+  "map": "Floating Empire South",
+  "x": 402,
+  "y": 245
+ },
+ "MAP_DUNG_E21": {
+  "label": "D4",
+  "map": "Floating Empire South",
+  "x": 467,
+  "y": 245
+ },
+ "MAP_DUNG_E22": {
+  "label": "E6",
+  "map": "Floating Empire South",
+  "x": 467,
+  "y": 304
+ },
+ "MAP_DUNG_E23": {
+  "label": "E7",
+  "map": "Floating Empire South",
+  "x": 532,
+  "y": 304
+ },
+ "MAP_DUNG_E24": {
+  "label": "E5",
+  "map": "Floating Empire South",
+  "x": 402,
+  "y": 304
+ },
+ "MAP_DUNG_E25": {
+  "label": "E4",
+  "map": "Floating Empire South",
+  "x": 336,
+  "y": 304
+ },
+ "MAP_DUNG_E26": {
+  "label": "F2",
+  "map": "Floating Empire South",
+  "x": 336,
+  "y": 364
+ },
+ "MAP_DUNG_E27": {
+  "label": "F1",
+  "map": "Floating Empire South",
+  "x": 271,
+  "y": 364
+ },
+ "MAP_DUNG_E28": {
+  "label": "F3",
+  "map": "Floating Empire South",
+  "x": 402,
+  "y": 364
+ },
+ "MAP_DUNG_E29": {
+  "label": "G1",
+  "map": "Floating Empire South",
+  "x": 336,
+  "y": 424
+ },
+ "MAP_DUNG_E30": {
+  "label": "H2",
+  "map": "Floating Empire South",
+  "x": 336,
+  "y": 484
+ },
+ "MAP_DUNG_E31": {
+  "label": "D9",
+  "map": "Floating Empire West",
+  "x": 596,
+  "y": 269
+ },
+ "MAP_DUNG_E32": {
+  "label": "D8",
+  "map": "Floating Empire West",
+  "x": 530,
+  "y": 269
+ },
+ "MAP_DUNG_E33": {
+  "label": "D7",
+  "map": "Floating Empire West",
+  "x": 463,
+  "y": 269
+ },
+ "MAP_DUNG_E34": {
+  "label": "B3",
+  "map": "Floating Empire West",
+  "x": 329,
+  "y": 147
+ },
+ "MAP_DUNG_E35": {
+  "label": "C3",
+  "map": "Floating Empire West",
+  "x": 329,
+  "y": 208
+ },
+ "MAP_DUNG_E36": {
+  "label": "B4",
+  "map": "Floating Empire West",
+  "x": 396,
+  "y": 147
+ },
+ "MAP_DUNG_E37": {
+  "label": "F3",
+  "map": "Floating Empire West",
+  "x": 329,
+  "y": 391
+ },
+ "MAP_DUNG_E38": {
+  "label": "E4",
+  "map": "Floating Empire West",
+  "x": 329,
+  "y": 330
+ },
+ "MAP_DUNG_E39": {
+  "label": "F4",
+  "map": "Floating Empire West",
+  "x": 396,
+  "y": 391
+ },
+ "MAP_DUNG_E40": {
+  "label": "D6",
+  "map": "Floating Empire West",
+  "x": 396,
+  "y": 269
+ },
+ "MAP_DUNG_E41": {
+  "label": "D5",
+  "map": "Floating Empire West",
+  "x": 329,
+  "y": 269
+ },
+ "MAP_DUNG_E42": {
+  "label": "G2",
+  "map": "Floating Empire West",
+  "x": 263,
+  "y": 483
+ },
+ "MAP_DUNG_E43": {
+  "label": "G1",
+  "map": "Floating Empire West",
+  "x": 196,
+  "y": 483
+ },
+ "MAP_DUNG_E44": {
+  "label": "F2",
+  "map": "Floating Empire West",
+  "x": 263,
+  "y": 422
+ },
+ "MAP_DUNG_E45": {
+  "label": "A2",
+  "map": "Floating Empire West",
+  "x": 263,
+  "y": 55
+ },
+ "MAP_DUNG_E46": {
+  "label": "B2",
+  "map": "Floating Empire West",
+  "x": 263,
+  "y": 116
+ },
+ "MAP_DUNG_E47": {
+  "label": "A1",
+  "map": "Floating Empire West",
+  "x": 196,
+  "y": 55
+ },
+ "MAP_DUNG_E48": {
+  "label": "E3",
+  "map": "Floating Empire West",
+  "x": 263,
+  "y": 330
+ },
+ "MAP_DUNG_E49": {
+  "label": "D4",
+  "map": "Floating Empire West",
+  "x": 263,
+  "y": 269
+ },
+ "MAP_DUNG_E50": {
+  "label": "C2",
+  "map": "Floating Empire West",
+  "x": 263,
+  "y": 208
+ },
+ "MAP_DUNG_E51": {
+  "label": "D3",
+  "map": "Floating Empire West",
+  "x": 196,
+  "y": 269
+ },
+ "MAP_DUNG_E52": {
+  "label": "D2",
+  "map": "Floating Empire West",
+  "x": 129,
+  "y": 269
+ },
+ "MAP_DUNG_E53": {
+  "label": "D1",
+  "map": "Floating Empire West",
+  "x": 62,
+  "y": 269
+ },
+ "MAP_DUNG_E54": {
+  "label": "E1",
+  "map": "Floating Empire West",
+  "x": 62,
+  "y": 330
+ },
+ "MAP_DUNG_E55": {
+  "label": "G4",
+  "map": "Floating Empire West",
+  "x": 463,
+  "y": 453
+ },
+ "MAP_DUNG_E56": {
+  "label": "G3",
+  "map": "Floating Empire West",
+  "x": 396,
+  "y": 453
+ },
+ "MAP_DUNG_E57": {
+  "label": "A4",
+  "map": "Floating Empire West",
+  "x": 463,
+  "y": 85
+ },
+ "MAP_DUNG_E58": {
+  "label": "A3",
+  "map": "Floating Empire West",
+  "x": 396,
+  "y": 85
+ },
+ "MAP_DUNG_E59": {
+  "label": "E2",
+  "map": "Floating Empire West",
+  "x": 196,
+  "y": 330
+ },
+ "MAP_DUNG_E60": {
+  "label": "F1",
+  "map": "Floating Empire West",
+  "x": 196,
+  "y": 391
+ },
+ "MAP_DUNG_E61": {
+  "label": "B1",
+  "map": "Floating Empire West",
+  "x": 196,
+  "y": 147
+ },
+ "MAP_DUNG_E62": {
+  "label": "C1",
+  "map": "Floating Empire West",
+  "x": 196,
+  "y": 208
+ },
+ "MAP_DUNG_E63": {
+  "label": "D1",
+  "map": "Floating Empire East",
+  "x": 72,
+  "y": 268
+ },
+ "MAP_DUNG_E64": {
+  "label": "D2",
+  "map": "Floating Empire East",
+  "x": 140,
+  "y": 268
+ },
+ "MAP_DUNG_E65": {
+  "label": "D3",
+  "map": "Floating Empire East",
+  "x": 207,
+  "y": 268
+ },
+ "MAP_DUNG_E66": {
+  "label": "D4",
+  "map": "Floating Empire East",
+  "x": 275,
+  "y": 268
+ },
+ "MAP_DUNG_E67": {
+  "label": "D5",
+  "map": "Floating Empire East",
+  "x": 343,
+  "y": 268
+ },
+ "MAP_DUNG_E68": {
+  "label": "D6",
+  "map": "Floating Empire East",
+  "x": 411,
+  "y": 268
+ },
+ "MAP_DUNG_E69": {
+  "label": "D7",
+  "map": "Floating Empire East",
+  "x": 478,
+  "y": 268
+ },
+ "MAP_DUNG_E70": {
+  "label": "D8",
+  "map": "Floating Empire East",
+  "x": 546,
+  "y": 268
+ },
+ "MAP_DUNG_E71": {
+  "label": "E1",
+  "map": "Floating Empire East",
+  "x": 140,
+  "y": 331
+ },
+ "MAP_DUNG_E72": {
+  "label": "E2",
+  "map": "Floating Empire East",
+  "x": 207,
+  "y": 331
+ },
+ "MAP_DUNG_E73": {
+  "label": "E3",
+  "map": "Floating Empire East",
+  "x": 275,
+  "y": 331
+ },
+ "MAP_DUNG_E74": {
+  "label": "E4",
+  "map": "Floating Empire East",
+  "x": 411,
+  "y": 331
+ },
+ "MAP_DUNG_E75": {
+  "label": "E5",
+  "map": "Floating Empire East",
+  "x": 478,
+  "y": 331
+ },
+ "MAP_DUNG_E76": {
+  "label": "F1",
+  "map": "Floating Empire East",
+  "x": 207,
+  "y": 393
+ },
+ "MAP_DUNG_E77": {
+  "label": "F2",
+  "map": "Floating Empire East",
+  "x": 275,
+  "y": 393
+ },
+ "MAP_DUNG_E78": {
+  "label": "F3",
+  "map": "Floating Empire East",
+  "x": 343,
+  "y": 393
+ },
+ "MAP_DUNG_E79": {
+  "label": "F4",
+  "map": "Floating Empire East",
+  "x": 411,
+  "y": 393
+ },
+ "MAP_DUNG_E80": {
+  "label": "G1",
+  "map": "Floating Empire East",
+  "x": 411,
+  "y": 455
+ },
+ "MAP_DUNG_E81": {
+  "label": "C1",
+  "map": "Floating Empire East",
+  "x": 140,
+  "y": 206
+ },
+ "MAP_DUNG_E82": {
+  "label": "C2",
+  "map": "Floating Empire East",
+  "x": 207,
+  "y": 206
+ },
+ "MAP_DUNG_E83": {
+  "label": "C3",
+  "map": "Floating Empire East",
+  "x": 343,
+  "y": 206
+ },
+ "MAP_DUNG_E84": {
+  "label": "C4",
+  "map": "Floating Empire East",
+  "x": 411,
+  "y": 206
+ },
+ "MAP_DUNG_E85": {
+  "label": "C5",
+  "map": "Floating Empire East",
+  "x": 478,
+  "y": 206
+ },
+ "MAP_DUNG_E86": {
+  "label": "B1",
+  "map": "Floating Empire East",
+  "x": 207,
+  "y": 144
+ },
+ "MAP_DUNG_E87": {
+  "label": "B2",
+  "map": "Floating Empire East",
+  "x": 275,
+  "y": 144
+ },
+ "MAP_DUNG_E88": {
+  "label": "B3",
+  "map": "Floating Empire East",
+  "x": 343,
+  "y": 144
+ },
+ "MAP_DUNG_E89": {
+  "label": "B4",
+  "map": "Floating Empire East",
+  "x": 411,
+  "y": 144
+ },
+ "MAP_DUNG_E90": {
+  "label": "A1",
+  "map": "Floating Empire East",
+  "x": 411,
+  "y": 82
+ },
+ "MAP_DUNG_E91": {
+  "label": "D9",
+  "map": "Floating Empire East",
+  "x": 614,
+  "y": 268
+ },
+ "MAP_DUNG_E92": {
+  "label": "C6",
+  "map": "Floating Empire East",
+  "x": 614,
+  "y": 206
+ },
+ "MAP_DUNG_E93": {
+  "label": "H1",
+  "map": "Floating Empire South",
+  "x": 271,
+  "y": 484
+ },
+ "MAP_DUNG_G01": {
+  "label": "A",
+  "map": "Yokmir Cave F1",
+  "x": 97,
+  "y": 333
+ },
+ "MAP_DUNG_G02": {
+  "label": "F",
+  "map": "Yokmir Cave F1",
+  "x": 97,
+  "y": 148
+ },
+ "MAP_DUNG_G03": {
+  "label": "B",
+  "map": "Yokmir Cave F1",
+  "x": 254,
+  "y": 333
+ },
+ "MAP_DUNG_G04": {
+  "label": "C",
+  "map": "Yokmir Cave F1",
+  "x": 410,
+  "y": 333
+ },
+ "MAP_DUNG_G05": {
+  "label": "D",
+  "map": "Yokmir Cave F1",
+  "x": 410,
+  "y": 200
+ },
+ "MAP_DUNG_G06": {
+  "label": "E",
+  "map": "Yokmir Cave F1",
+  "x": 567,
+  "y": 148
+ },
+ "MAP_DUNG_G07": {
+  "label": "A2",
+  "map": "Yokmir Cave F2",
+  "x": 561,
+  "y": 74
+ },
+ "MAP_DUNG_G08": {
+  "label": "B2",
+  "map": "Yokmir Cave F2",
+  "x": 561,
+  "y": 203
+ },
+ "MAP_DUNG_G09": {
+  "label": "B1",
+  "map": "Yokmir Cave F2",
+  "x": 410,
+  "y": 203
+ },
+ "MAP_DUNG_G10": {
+  "label": "C3",
+  "map": "Yokmir Cave F2",
+  "x": 410,
+  "y": 331
+ },
+ "MAP_DUNG_G11": {
+  "label": "C2",
+  "map": "Yokmir Cave F2",
+  "x": 259,
+  "y": 331
+ },
+ "MAP_DUNG_G12": {
+  "label": "D3",
+  "map": "Yokmir Cave F2",
+  "x": 410,
+  "y": 459
+ },
+ "MAP_DUNG_G13": {
+  "label": "D4",
+  "map": "Yokmir Cave F2",
+  "x": 561,
+  "y": 459
+ },
+ "MAP_DUNG_G14": {
+  "label": "D2",
+  "map": "Yokmir Cave F2",
+  "x": 259,
+  "y": 459
+ },
+ "MAP_DUNG_G15": {
+  "label": "D1",
+  "map": "Yokmir Cave F2",
+  "x": 108,
+  "y": 459
+ },
+ "MAP_DUNG_G16": {
+  "label": "C1",
+  "map": "Yokmir Cave F2",
+  "x": 108,
+  "y": 331
+ },
+ "MAP_DUNG_G17": {
+  "label": "A1",
+  "map": "Yokmir Cave F2",
+  "x": 108,
+  "y": 74
+ },
+ "MAP_DUNG_G18": {
+  "label": "E1",
+  "map": "Yokmir Cave F3",
+  "x": 147,
+  "y": 392
+ },
+ "MAP_DUNG_G19": {
+  "label": "D1",
+  "map": "Yokmir Cave F3",
+  "x": 184,
+  "y": 309
+ },
+ "MAP_DUNG_G20": {
+  "label": "C1",
+  "map": "Yokmir Cave F3",
+  "x": 147,
+  "y": 226
+ },
+ "MAP_DUNG_G21": {
+  "label": "D2",
+  "map": "Yokmir Cave F3",
+  "x": 282,
+  "y": 309
+ },
+ "MAP_DUNG_G22": {
+  "label": "E2",
+  "map": "Yokmir Cave F3",
+  "x": 282,
+  "y": 392
+ },
+ "MAP_DUNG_G23": {
+  "label": "D3",
+  "map": "Yokmir Cave F3",
+  "x": 380,
+  "y": 309
+ },
+ "MAP_DUNG_G24": {
+  "label": "D4",
+  "map": "Yokmir Cave F3",
+  "x": 478,
+  "y": 309
+ },
+ "MAP_DUNG_G25": {
+  "label": "E3",
+  "map": "Yokmir Cave F3",
+  "x": 380,
+  "y": 392
+ },
+ "MAP_DUNG_G26": {
+  "label": "F1",
+  "map": "Yokmir Cave F3",
+  "x": 380,
+  "y": 476
+ },
+ "MAP_DUNG_G27": {
+  "label": "C2",
+  "map": "Yokmir Cave F3",
+  "x": 282,
+  "y": 226
+ },
+ "MAP_DUNG_G28": {
+  "label": "B1",
+  "map": "Yokmir Cave F3",
+  "x": 282,
+  "y": 143
+ },
+ "MAP_DUNG_G29": {
+  "label": "A2",
+  "map": "Yokmir Cave F3",
+  "x": 282,
+  "y": 59
+ },
+ "MAP_DUNG_G30": {
+  "label": "A1",
+  "map": "Yokmir Cave F3",
+  "x": 184,
+  "y": 59
+ },
+ "MAP_DUNG_G31": {
+  "label": "A3",
+  "map": "Yokmir Cave F3",
+  "x": 380,
+  "y": 59
+ },
+ "MAP_DUNG_G32": {
+  "label": "A4",
+  "map": "Yokmir Cave F3",
+  "x": 488,
+  "y": 59
+ },
+ "MAP_DUNG_H01": {
+  "label": "A5",
+  "map": "Delirium Lava Ruins F1",
+  "x": 108,
+  "y": 477
+ },
+ "MAP_DUNG_H02": {
+  "label": "A4",
+  "map": "Delirium Lava Ruins F1",
+  "x": 108,
+  "y": 397
+ },
+ "MAP_DUNG_H03": {
+  "label": "A3",
+  "map": "Delirium Lava Ruins F1",
+  "x": 108,
+  "y": 317
+ },
+ "MAP_DUNG_H04": {
+  "label": "A2",
+  "map": "Delirium Lava Ruins F1",
+  "x": 108,
+  "y": 224
+ },
+ "MAP_DUNG_H05": {
+  "label": "A1",
+  "map": "Delirium Lava Ruins F1",
+  "x": 108,
+  "y": 142
+ },
+ "MAP_DUNG_H06": {
+  "label": "B1",
+  "map": "Delirium Lava Ruins F1",
+  "x": 188,
+  "y": 320
+ },
+ "MAP_DUNG_H07": {
+  "label": "B2",
+  "map": "Delirium Lava Ruins F1",
+  "x": 301,
+  "y": 331
+ },
+ "MAP_DUNG_H08": {
+  "label": "B3",
+  "map": "Delirium Lava Ruins F1",
+  "x": 411,
+  "y": 339
+ },
+ "MAP_DUNG_H09": {
+  "label": "B4",
+  "map": "Delirium Lava Ruins F1",
+  "x": 405,
+  "y": 259
+ },
+ "MAP_DUNG_H10": {
+  "label": "B5",
+  "map": "Delirium Lava Ruins F1",
+  "x": 485,
+  "y": 257
+ },
+ "MAP_DUNG_H11": {
+  "label": "C4",
+  "map": "Delirium Lava Ruins F1",
+  "x": 562,
+  "y": 251
+ },
+ "MAP_DUNG_H12": {
+  "label": "C5",
+  "map": "Delirium Lava Ruins F1",
+  "x": 559,
+  "y": 345
+ },
+ "MAP_DUNG_H13": {
+  "label": "C6",
+  "map": "Delirium Lava Ruins F1",
+  "x": 559,
+  "y": 441
+ },
+ "MAP_DUNG_H14": {
+  "label": "C3",
+  "map": "Delirium Lava Ruins F1",
+  "x": 559,
+  "y": 185
+ },
+ "MAP_DUNG_H15": {
+  "label": "C2",
+  "map": "Delirium Lava Ruins F1",
+  "x": 559,
+  "y": 119
+ },
+ "MAP_DUNG_H16": {
+  "label": "D1",
+  "map": "Delirium Lava Ruins F1",
+  "x": 408,
+  "y": 119
+ },
+ "MAP_DUNG_H17": {
+  "label": "C1",
+  "map": "Delirium Lava Ruins F1",
+  "x": 559,
+  "y": 24
+ },
+ "MAP_DUNG_H18": {
+  "label": "J1",
+  "map": "Delirium Lava Ruins F2",
+  "x": 532,
+  "y": 488
+ },
+ "MAP_DUNG_H19": {
+  "label": "I3",
+  "map": "Delirium Lava Ruins F2",
+  "x": 553,
+  "y": 445
+ },
+ "MAP_DUNG_H20": {
+  "label": "H4",
+  "map": "Delirium Lava Ruins F2",
+  "x": 547,
+  "y": 403
+ },
+ "MAP_DUNG_H21": {
+  "label": "G2",
+  "map": "Delirium Lava Ruins F2",
+  "x": 549,
+  "y": 357
+ },
+ "MAP_DUNG_H22": {
+  "label": "H5",
+  "map": "Delirium Lava Ruins F2",
+  "x": 604,
+  "y": 402
+ },
+ "MAP_DUNG_H23": {
+  "label": "I2",
+  "map": "Delirium Lava Ruins F2",
+  "x": 472,
+  "y": 448
+ },
+ "MAP_DUNG_H24": {
+  "label": "I1",
+  "map": "Delirium Lava Ruins F2",
+  "x": 390,
+  "y": 440
+ },
+ "MAP_DUNG_H25": {
+  "label": "H3",
+  "map": "Delirium Lava Ruins F2",
+  "x": 396,
+  "y": 390
+ },
+ "MAP_DUNG_H26": {
+  "label": "H2",
+  "map": "Delirium Lava Ruins F2",
+  "x": 317,
+  "y": 394
+ },
+ "MAP_DUNG_H27": {
+  "label": "H1",
+  "map": "Delirium Lava Ruins F2",
+  "x": 231,
+  "y": 391
+ },
+ "MAP_DUNG_H28": {
+  "label": "G1",
+  "map": "Delirium Lava Ruins F2",
+  "x": 234,
+  "y": 340
+ },
+ "MAP_DUNG_H29": {
+  "label": "F1",
+  "map": "Delirium Lava Ruins F2",
+  "x": 234,
+  "y": 285
+ },
+ "MAP_DUNG_H30": {
+  "label": "E2",
+  "map": "Delirium Lava Ruins F2",
+  "x": 234,
+  "y": 235
+ },
+ "MAP_DUNG_H31": {
+  "label": "E3",
+  "map": "Delirium Lava Ruins F2",
+  "x": 292,
+  "y": 235
+ },
+ "MAP_DUNG_H32": {
+  "label": "E1",
+  "map": "Delirium Lava Ruins F2",
+  "x": 173,
+  "y": 237
+ },
+ "MAP_DUNG_H33": {
+  "label": "D2",
+  "map": "Delirium Lava Ruins F2",
+  "x": 177,
+  "y": 189
+ },
+ "MAP_DUNG_H34": {
+  "label": "D1",
+  "map": "Delirium Lava Ruins F2",
+  "x": 92,
+  "y": 190
+ },
+ "MAP_DUNG_H35": {
+  "label": "D3",
+  "map": "Delirium Lava Ruins F2",
+  "x": 239,
+  "y": 189
+ },
+ "MAP_DUNG_H36": {
+  "label": "C1",
+  "map": "Delirium Lava Ruins F2",
+  "x": 235,
+  "y": 140
+ },
+ "MAP_DUNG_H37": {
+  "label": "C2",
+  "map": "Delirium Lava Ruins F2",
+  "x": 317,
+  "y": 154
+ },
+ "MAP_DUNG_H38": {
+  "label": "C3",
+  "map": "Delirium Lava Ruins F2",
+  "x": 401,
+  "y": 155
+ },
+ "MAP_DUNG_H39": {
+  "label": "B2",
+  "map": "Delirium Lava Ruins F2",
+  "x": 401,
+  "y": 101
+ },
+ "MAP_DUNG_H40": {
+  "label": "B1",
+  "map": "Delirium Lava Ruins F2",
+  "x": 339,
+  "y": 100
+ },
+ "MAP_DUNG_H41": {
+  "label": "A1",
+  "map": "Delirium Lava Ruins F2",
+  "x": 342,
+  "y": 50
+ },
+ "MAP_DUNG_J01": {
+  "label": "E1",
+  "map": "Idra Cave",
+  "x": 332,
+  "y": 454
+ },
+ "MAP_DUNG_J02": {
+  "label": "D2",
+  "map": "Idra Cave",
+  "x": 332,
+  "y": 354
+ },
+ "MAP_DUNG_J03": {
+  "label": "D1",
+  "map": "Idra Cave",
+  "x": 226,
+  "y": 354
+ },
+ "MAP_DUNG_J04": {
+  "label": "C1",
+  "map": "Idra Cave",
+  "x": 226,
+  "y": 258
+ },
+ "MAP_DUNG_J05": {
+  "label": "C2",
+  "map": "Idra Cave",
+  "x": 332,
+  "y": 258
+ },
+ "MAP_DUNG_J06": {
+  "label": "C3",
+  "map": "Idra Cave",
+  "x": 438,
+  "y": 258
+ },
+ "MAP_DUNG_J07": {
+  "label": "B1",
+  "map": "Idra Cave",
+  "x": 226,
+  "y": 162
+ },
+ "MAP_DUNG_J08": {
+  "label": "B2",
+  "map": "Idra Cave",
+  "x": 332,
+  "y": 162
+ },
+ "MAP_DUNG_J09": {
+  "label": "B3",
+  "map": "Idra Cave",
+  "x": 438,
+  "y": 162
+ },
+ "MAP_DUNG_J10": {
+  "label": "A1",
+  "map": "Idra Cave",
+  "x": 332,
+  "y": 66
+ },
+ "MAP_DUNG_J11": {
+  "label": "D3",
+  "map": "Idra Cave",
+  "x": 438,
+  "y": 354
+ },
+ "MAP_DUNG_J12": {
+  "label": "B4",
+  "map": "Idra Cave B1",
+  "x": 332,
+  "y": 318
+ },
+ "MAP_DUNG_J13": {
+  "label": "A4",
+  "map": "Idra Cave B1",
+  "x": 332,
+  "y": 239
+ },
+ "MAP_DUNG_J14": {
+  "label": "A1",
+  "map": "Idra Cave B1",
+  "x": 64,
+  "y": 193
+ },
+ "MAP_DUNG_J15": {
+  "label": "A2",
+  "map": "Idra Cave B1",
+  "x": 150,
+  "y": 184
+ },
+ "MAP_DUNG_J16": {
+  "label": "A3",
+  "map": "Idra Cave B1",
+  "x": 240,
+  "y": 188
+ },
+ "MAP_DUNG_J17": {
+  "label": "B1",
+  "map": "Idra Cave B1",
+  "x": 68,
+  "y": 268
+ },
+ "MAP_DUNG_J18": {
+  "label": "B2",
+  "map": "Idra Cave B1",
+  "x": 155,
+  "y": 262
+ },
+ "MAP_DUNG_J19": {
+  "label": "B3",
+  "map": "Idra Cave B1",
+  "x": 240,
+  "y": 266
+ },
+ "MAP_DUNG_J20": {
+  "label": "C1",
+  "map": "Idra Cave B1",
+  "x": 66,
+  "y": 340
+ },
+ "MAP_DUNG_J21": {
+  "label": "C2",
+  "map": "Idra Cave B1",
+  "x": 153,
+  "y": 345
+ },
+ "MAP_DUNG_J22": {
+  "label": "C3",
+  "map": "Idra Cave B1",
+  "x": 240,
+  "y": 345
+ },
+ "MAP_DUNG_J23": {
+  "label": "A5",
+  "map": "Idra Cave B1",
+  "x": 425,
+  "y": 188
+ },
+ "MAP_DUNG_J24": {
+  "label": "A6",
+  "map": "Idra Cave B1",
+  "x": 513,
+  "y": 184
+ },
+ "MAP_DUNG_J25": {
+  "label": "A7",
+  "map": "Idra Cave B1",
+  "x": 604,
+  "y": 195
+ },
+ "MAP_DUNG_J26": {
+  "label": "B5",
+  "map": "Idra Cave B1",
+  "x": 425,
+  "y": 266
+ },
+ "MAP_DUNG_J27": {
+  "label": "B6",
+  "map": "Idra Cave B1",
+  "x": 512,
+  "y": 262
+ },
+ "MAP_DUNG_J28": {
+  "label": "B7",
+  "map": "Idra Cave B1",
+  "x": 599,
+  "y": 273
+ },
+ "MAP_DUNG_J29": {
+  "label": "C4",
+  "map": "Idra Cave B1",
+  "x": 425,
+  "y": 345
+ },
+ "MAP_DUNG_J30": {
+  "label": "C5",
+  "map": "Idra Cave B1",
+  "x": 512,
+  "y": 345
+ },
+ "MAP_DUNG_J31": {
+  "label": "C6",
+  "map": "Idra Cave B1",
+  "x": 599,
+  "y": 345
+ },
+ "MAP_DUNG_J32": {
+  "label": "F1",
+  "map": "Idra Cave B2",
+  "x": 148,
+  "y": 475
+ },
+ "MAP_DUNG_J33": {
+  "label": "F2",
+  "map": "Idra Cave B2",
+  "x": 240,
+  "y": 475
+ },
+ "MAP_DUNG_J34": {
+  "label": "F3",
+  "map": "Idra Cave B2",
+  "x": 332,
+  "y": 475
+ },
+ "MAP_DUNG_J35": {
+  "label": "F4",
+  "map": "Idra Cave B2",
+  "x": 424,
+  "y": 475
+ },
+ "MAP_DUNG_J36": {
+  "label": "E1",
+  "map": "Idra Cave B2",
+  "x": 148,
+  "y": 392
+ },
+ "MAP_DUNG_J37": {
+  "label": "E2",
+  "map": "Idra Cave B2",
+  "x": 240,
+  "y": 392
+ },
+ "MAP_DUNG_J38": {
+  "label": "E3",
+  "map": "Idra Cave B2",
+  "x": 332,
+  "y": 392
+ },
+ "MAP_DUNG_J39": {
+  "label": "D1",
+  "map": "Idra Cave B2",
+  "x": 148,
+  "y": 309
+ },
+ "MAP_DUNG_J40": {
+  "label": "D2",
+  "map": "Idra Cave B2",
+  "x": 240,
+  "y": 309
+ },
+ "MAP_DUNG_J41": {
+  "label": "C1",
+  "map": "Idra Cave B2",
+  "x": 148,
+  "y": 225
+ },
+ "MAP_DUNG_J42": {
+  "label": "C2",
+  "map": "Idra Cave B2",
+  "x": 240,
+  "y": 225
+ },
+ "MAP_DUNG_J43": {
+  "label": "B1",
+  "map": "Idra Cave B2",
+  "x": 148,
+  "y": 142
+ },
+ "MAP_DUNG_J44": {
+  "label": "F5",
+  "map": "Idra Cave B2",
+  "x": 516,
+  "y": 475
+ },
+ "MAP_DUNG_J45": {
+  "label": "E5",
+  "map": "Idra Cave B2",
+  "x": 516,
+  "y": 392
+ },
+ "MAP_DUNG_J46": {
+  "label": "E4",
+  "map": "Idra Cave B2",
+  "x": 424,
+  "y": 392
+ },
+ "MAP_DUNG_J47": {
+  "label": "D3",
+  "map": "Idra Cave B2",
+  "x": 332,
+  "y": 309
+ },
+ "MAP_DUNG_J48": {
+  "label": "D4",
+  "map": "Idra Cave B2",
+  "x": 424,
+  "y": 309
+ },
+ "MAP_DUNG_J49": {
+  "label": "D5",
+  "map": "Idra Cave B2",
+  "x": 516,
+  "y": 309
+ },
+ "MAP_DUNG_J50": {
+  "label": "C3",
+  "map": "Idra Cave B2",
+  "x": 332,
+  "y": 225
+ },
+ "MAP_DUNG_J51": {
+  "label": "C4",
+  "map": "Idra Cave B2",
+  "x": 424,
+  "y": 225
+ },
+ "MAP_DUNG_J52": {
+  "label": "C5",
+  "map": "Idra Cave B2",
+  "x": 516,
+  "y": 225
+ },
+ "MAP_DUNG_J53": {
+  "label": "B2",
+  "map": "Idra Cave B2",
+  "x": 332,
+  "y": 142
+ },
+ "MAP_DUNG_J54": {
+  "label": "A1",
+  "map": "Idra Cave B2",
+  "x": 332,
+  "y": 58
+ },
+ "MAP_DUNG_K01": {
+  "label": "D2",
+  "map": "Maya Road F1",
+  "x": 609,
+  "y": 349
+ },
+ "MAP_DUNG_K02": {
+  "label": "D1",
+  "map": "Maya Road F1",
+  "x": 544,
+  "y": 349
+ },
+ "MAP_DUNG_K03": {
+  "label": "C1",
+  "map": "Maya Road F1",
+  "x": 544,
+  "y": 294
+ },
+ "MAP_DUNG_K04": {
+  "label": "B5",
+  "map": "Maya Road F1",
+  "x": 544,
+  "y": 239
+ },
+ "MAP_DUNG_K05": {
+  "label": "B4",
+  "map": "Maya Road F1",
+  "x": 484,
+  "y": 239
+ },
+ "MAP_DUNG_K06": {
+  "label": "B3",
+  "map": "Maya Road F1",
+  "x": 423,
+  "y": 239
+ },
+ "MAP_DUNG_K07": {
+  "label": "A7",
+  "map": "Maya Road F1",
+  "x": 423,
+  "y": 184
+ },
+ "MAP_DUNG_K08": {
+  "label": "A7-4",
+  "map": "Maya Road Underground",
+  "x": 456,
+  "y": 151
+ },
+ "MAP_DUNG_K09": {
+  "label": "A7-3",
+  "map": "Maya Road Underground",
+  "x": 456,
+  "y": 261
+ },
+ "MAP_DUNG_K10": {
+  "label": "A7-6",
+  "map": "Maya Road Underground",
+  "x": 581,
+  "y": 261
+ },
+ "MAP_DUNG_K11": {
+  "label": "A7-7",
+  "map": "Maya Road Underground",
+  "x": 581,
+  "y": 371
+ },
+ "MAP_DUNG_K12": {
+  "label": "A7-5",
+  "map": "Maya Road Underground",
+  "x": 456,
+  "y": 371
+ },
+ "MAP_DUNG_K13": {
+  "label": "A7-2",
+  "map": "Maya Road Underground",
+  "x": 331,
+  "y": 261
+ },
+ "MAP_DUNG_K14": {
+  "label": "A7-1",
+  "map": "Maya Road Underground",
+  "x": 331,
+  "y": 151
+ },
+ "MAP_DUNG_K15": {
+  "label": "A6",
+  "map": "Maya Road F1",
+  "x": 363,
+  "y": 184
+ },
+ "MAP_DUNG_K16": {
+  "label": "B2",
+  "map": "Maya Road F1",
+  "x": 363,
+  "y": 239
+ },
+ "MAP_DUNG_K17": {
+  "label": "B1",
+  "map": "Maya Road F1",
+  "x": 303,
+  "y": 239
+ },
+ "MAP_DUNG_K18": {
+  "label": "A5",
+  "map": "Maya Road F1",
+  "x": 303,
+  "y": 184
+ },
+ "MAP_DUNG_K19": {
+  "label": "A5-2",
+  "map": "Maya Road Underground",
+  "x": 205,
+  "y": 261
+ },
+ "MAP_DUNG_K20": {
+  "label": "A5-3",
+  "map": "Maya Road Underground",
+  "x": 205,
+  "y": 371
+ },
+ "MAP_DUNG_K21": {
+  "label": "A5-4",
+  "map": "Maya Road Underground",
+  "x": 80,
+  "y": 371
+ },
+ "MAP_DUNG_K22": {
+  "label": "A5-1",
+  "map": "Maya Road Underground",
+  "x": 80,
+  "y": 261
+ },
+ "MAP_DUNG_K23": {
+  "label": "A4",
+  "map": "Maya Road F1",
+  "x": 243,
+  "y": 184
+ },
+ "MAP_DUNG_K24": {
+  "label": "A3",
+  "map": "Maya Road F1",
+  "x": 183,
+  "y": 184
+ },
+ "MAP_DUNG_K25": {
+  "label": "A2",
+  "map": "Maya Road F1",
+  "x": 123,
+  "y": 184
+ },
+ "MAP_DUNG_K26": {
+  "label": "A1",
+  "map": "Maya Road F1",
+  "x": 57,
+  "y": 184
+ },
+ "MAP_DUNG_K27": {
+  "label": "A4",
+  "map": "Maya Road Cave",
+  "x": 572,
+  "y": 246
+ },
+ "MAP_DUNG_K28": {
+  "label": "A3",
+  "map": "Maya Road Cave",
+  "x": 413,
+  "y": 188
+ },
+ "MAP_DUNG_K29": {
+  "label": "A6",
+  "map": "Maya Road Cave",
+  "x": 413,
+  "y": 331
+ },
+ "MAP_DUNG_K30": {
+  "label": "A5",
+  "map": "Maya Road Cave",
+  "x": 254,
+  "y": 331
+ },
+ "MAP_DUNG_K31": {
+  "label": "A2",
+  "map": "Maya Road Cave",
+  "x": 254,
+  "y": 188
+ },
+ "MAP_DUNG_K32": {
+  "label": "A1",
+  "map": "Maya Road Cave",
+  "x": 95,
+  "y": 246
+ },
+ "MAP_DUNG_K33": {
+  "label": "B11",
+  "map": "Maya Road F2",
+  "x": 622,
+  "y": 270
+ },
+ "MAP_DUNG_K34": {
+  "label": "B10",
+  "map": "Maya Road F2",
+  "x": 571,
+  "y": 270
+ },
+ "MAP_DUNG_K35": {
+  "label": "B9",
+  "map": "Maya Road F2",
+  "x": 529,
+  "y": 270
+ },
+ "MAP_DUNG_K36": {
+  "label": "A11",
+  "map": "Maya Road F2",
+  "x": 614,
+  "y": 222
+ },
+ "MAP_DUNG_K37": {
+  "label": "A10",
+  "map": "Maya Road F2",
+  "x": 571,
+  "y": 222
+ },
+ "MAP_DUNG_K38": {
+  "label": "A9",
+  "map": "Maya Road F2",
+  "x": 529,
+  "y": 222
+ },
+ "MAP_DUNG_K39": {
+  "label": "A8",
+  "map": "Maya Road F2",
+  "x": 486,
+  "y": 222
+ },
+ "MAP_DUNG_K40": {
+  "label": "A7",
+  "map": "Maya Road F2",
+  "x": 444,
+  "y": 222
+ },
+ "MAP_DUNG_K41": {
+  "label": "B8",
+  "map": "Maya Road F2",
+  "x": 444,
+  "y": 270
+ },
+ "MAP_DUNG_K42": {
+  "label": "B5",
+  "map": "Maya Road Cave via F2",
+  "x": 579,
+  "y": 263
+ },
+ "MAP_DUNG_K43": {
+  "label": "B4",
+  "map": "Maya Road Cave via F2",
+  "x": 453,
+  "y": 263
+ },
+ "MAP_DUNG_K44": {
+  "label": "B3",
+  "map": "Maya Road Cave via F2",
+  "x": 332,
+  "y": 223
+ },
+ "MAP_DUNG_K45": {
+  "label": "B2",
+  "map": "Maya Road Cave via F2",
+  "x": 206,
+  "y": 263
+ },
+ "MAP_DUNG_K46": {
+  "label": "B1",
+  "map": "Maya Road Cave via F2",
+  "x": 80,
+  "y": 263
+ },
+ "MAP_DUNG_K47": {
+  "label": "B7",
+  "map": "Maya Road F2",
+  "x": 401,
+  "y": 270
+ },
+ "MAP_DUNG_K48": {
+  "label": "B6",
+  "map": "Maya Road F2",
+  "x": 359,
+  "y": 270
+ },
+ "MAP_DUNG_K49": {
+  "label": "A6",
+  "map": "Maya Road F2",
+  "x": 359,
+  "y": 222
+ },
+ "MAP_DUNG_K50": {
+  "label": "C3",
+  "map": "Maya Road F2",
+  "x": 359,
+  "y": 318
+ },
+ "MAP_DUNG_K51": {
+  "label": "B5",
+  "map": "Maya Road F2",
+  "x": 316,
+  "y": 270
+ },
+ "MAP_DUNG_K52": {
+  "label": "B4",
+  "map": "Maya Road F2",
+  "x": 274,
+  "y": 270
+ },
+ "MAP_DUNG_K53": {
+  "label": "A5",
+  "map": "Maya Road F2",
+  "x": 274,
+  "y": 222
+ },
+ "MAP_DUNG_K54": {
+  "label": "A4",
+  "map": "Maya Road F2",
+  "x": 231,
+  "y": 222
+ },
+ "MAP_DUNG_K55": {
+  "label": "B3",
+  "map": "Maya Road F2",
+  "x": 231,
+  "y": 270
+ },
+ "MAP_DUNG_K56": {
+  "label": "C2",
+  "map": "Maya Road F2",
+  "x": 231,
+  "y": 318
+ },
+ "MAP_DUNG_K57": {
+  "label": "C1",
+  "map": "Maya Road F2",
+  "x": 188,
+  "y": 318
+ },
+ "MAP_DUNG_K58": {
+  "label": "B2",
+  "map": "Maya Road F2",
+  "x": 188,
+  "y": 270
+ },
+ "MAP_DUNG_K59": {
+  "label": "B1",
+  "map": "Maya Road F2",
+  "x": 146,
+  "y": 270
+ },
+ "MAP_DUNG_K60": {
+  "label": "A3",
+  "map": "Maya Road F2",
+  "x": 146,
+  "y": 222
+ },
+ "MAP_DUNG_K61": {
+  "label": "A2",
+  "map": "Maya Road F2",
+  "x": 103,
+  "y": 222
+ },
+ "MAP_DUNG_K62": {
+  "label": "A1",
+  "map": "Maya Road F2",
+  "x": 47,
+  "y": 222
+ },
+ "MAP_DUNG_K63": {
+  "label": "W-1",
+  "map": "Sechs Territory 1",
+  "x": 424,
+  "y": 482
+ },
+ "MAP_DUNG_L01": {
+  "label": "I2",
+  "map": "Sechs Territory 1",
+  "x": 328,
+  "y": 485
+ },
+ "MAP_DUNG_L02": {
+  "label": "H1",
+  "map": "Sechs Territory 1",
+  "x": 335,
+  "y": 435
+ },
+ "MAP_DUNG_L03": {
+  "label": "F4",
+  "map": "Sechs Territory 1",
+  "x": 332,
+  "y": 354
+ },
+ "MAP_DUNG_L04": {
+  "label": "E2",
+  "map": "Sechs Territory 1",
+  "x": 334,
+  "y": 277
+ },
+ "MAP_DUNG_L05": {
+  "label": "F5",
+  "map": "Sechs Territory 1",
+  "x": 393,
+  "y": 325
+ },
+ "MAP_DUNG_L06": {
+  "label": "G2",
+  "map": "Sechs Territory 1",
+  "x": 393,
+  "y": 375
+ },
+ "MAP_DUNG_L07": {
+  "label": "F6",
+  "map": "Sechs Territory 1",
+  "x": 446,
+  "y": 331
+ },
+ "MAP_DUNG_L08": {
+  "label": "F7",
+  "map": "Sechs Territory 1",
+  "x": 506,
+  "y": 329
+ },
+ "MAP_DUNG_L09": {
+  "label": "G3",
+  "map": "Sechs Territory 1",
+  "x": 503,
+  "y": 385
+ },
+ "MAP_DUNG_L10": {
+  "label": "G4",
+  "map": "Sechs Territory 1",
+  "x": 569,
+  "y": 385
+ },
+ "MAP_DUNG_L11": {
+  "label": "F8",
+  "map": "Sechs Territory 1",
+  "x": 572,
+  "y": 329
+ },
+ "MAP_DUNG_L12": {
+  "label": "E5",
+  "map": "Sechs Territory 1",
+  "x": 571,
+  "y": 274
+ },
+ "MAP_DUNG_L13": {
+  "label": "E4",
+  "map": "Sechs Territory 1",
+  "x": 504,
+  "y": 275
+ },
+ "MAP_DUNG_L14": {
+  "label": "D4",
+  "map": "Sechs Territory 1",
+  "x": 468,
+  "y": 221
+ },
+ "MAP_DUNG_L15": {
+  "label": "D5",
+  "map": "Sechs Territory 1",
+  "x": 431,
+  "y": 277
+ },
+ "MAP_DUNG_L16": {
+  "label": "E3",
+  "map": "Sechs Territory 1",
+  "x": 585,
+  "y": 218
+ },
+ "MAP_DUNG_L17": {
+  "label": "C4",
+  "map": "Sechs Territory 1",
+  "x": 506,
+  "y": 160
+ },
+ "MAP_DUNG_L18": {
+  "label": "B6",
+  "map": "Sechs Territory 1",
+  "x": 503,
+  "y": 99
+ },
+ "MAP_DUNG_L19": {
+  "label": "B7",
+  "map": "Sechs Territory 1",
+  "x": 571,
+  "y": 100
+ },
+ "MAP_DUNG_L20": {
+  "label": "A2",
+  "map": "Sechs Territory 1",
+  "x": 518,
+  "y": 43
+ },
+ "MAP_DUNG_L21": {
+  "label": "A1",
+  "map": "Sechs Territory 1",
+  "x": 446,
+  "y": 46
+ },
+ "MAP_DUNG_L22": {
+  "label": "B5",
+  "map": "Sechs Territory 1",
+  "x": 435,
+  "y": 98
+ },
+ "MAP_DUNG_L23": {
+  "label": "C3",
+  "map": "Sechs Territory 1",
+  "x": 435,
+  "y": 160
+ },
+ "MAP_DUNG_L24": {
+  "label": "B4",
+  "map": "Sechs Territory 1",
+  "x": 371,
+  "y": 102
+ },
+ "MAP_DUNG_L25": {
+  "label": "B3",
+  "map": "Sechs Territory 1",
+  "x": 313,
+  "y": 107
+ },
+ "MAP_DUNG_L26": {
+  "label": "B2",
+  "map": "Sechs Territory 1",
+  "x": 253,
+  "y": 109
+ },
+ "MAP_DUNG_L27": {
+  "label": "B1",
+  "map": "Sechs Territory 1",
+  "x": 188,
+  "y": 111
+ },
+ "MAP_DUNG_L28": {
+  "label": "C2",
+  "map": "Sechs Territory 1",
+  "x": 255,
+  "y": 166
+ },
+ "MAP_DUNG_L29": {
+  "label": "C1",
+  "map": "Sechs Territory 1",
+  "x": 190,
+  "y": 166
+ },
+ "MAP_DUNG_L30": {
+  "label": "D1",
+  "map": "Sechs Territory 1",
+  "x": 194,
+  "y": 223
+ },
+ "MAP_DUNG_L31": {
+  "label": "D2",
+  "map": "Sechs Territory 1",
+  "x": 260,
+  "y": 232
+ },
+ "MAP_DUNG_L32": {
+  "label": "F3",
+  "map": "Sechs Territory 1",
+  "x": 263,
+  "y": 315
+ },
+ "MAP_DUNG_L33": {
+  "label": "F2",
+  "map": "Sechs Territory 1",
+  "x": 172,
+  "y": 332
+ },
+ "MAP_DUNG_L34": {
+  "label": "F1",
+  "map": "Sechs Territory 1",
+  "x": 75,
+  "y": 329
+ },
+ "MAP_DUNG_L35": {
+  "label": "E1",
+  "map": "Sechs Territory 1",
+  "x": 194,
+  "y": 279
+ },
+ "MAP_DUNG_L36": {
+  "label": "G1",
+  "map": "Sechs Territory 1",
+  "x": 265,
+  "y": 388
+ },
+ "MAP_DUNG_L37": {
+  "label": "D3",
+  "map": "Sechs Territory 1",
+  "x": 338,
+  "y": 218
+ },
+ "MAP_DUNG_L38": {
+  "label": "A1",
+  "map": "Sechs Territory Cave",
+  "x": 336,
+  "y": 146
+ },
+ "MAP_DUNG_L39": {
+  "label": "C1",
+  "map": "Sechs Territory Cave",
+  "x": 387,
+  "y": 312
+ },
+ "MAP_DUNG_L40": {
+  "label": "C2",
+  "map": "Sechs Territory Cave",
+  "x": 486,
+  "y": 312
+ },
+ "MAP_DUNG_L41": {
+  "label": "C3",
+  "map": "Sechs Territory Cave",
+  "x": 486,
+  "y": 225
+ },
+ "MAP_DUNG_L42": {
+  "label": "C4",
+  "map": "Sechs Territory Cave",
+  "x": 485,
+  "y": 139
+ },
+ "MAP_DUNG_L43": {
+  "label": "C5",
+  "map": "Sechs Territory Cave",
+  "x": 589,
+  "y": 139
+ },
+ "MAP_DUNG_L44": {
+  "label": "B1",
+  "map": "Sechs Territory Cave",
+  "x": 287,
+  "y": 312
+ },
+ "MAP_DUNG_L45": {
+  "label": "B2",
+  "map": "Sechs Territory Cave",
+  "x": 187,
+  "y": 309
+ },
+ "MAP_DUNG_L46": {
+  "label": "B3",
+  "map": "Sechs Territory Cave",
+  "x": 183,
+  "y": 231
+ },
+ "MAP_DUNG_L47": {
+  "label": "B4",
+  "map": "Sechs Territory Cave",
+  "x": 76,
+  "y": 225
+ },
+ "MAP_DUNG_L48": {
+  "label": "D1",
+  "map": "Sechs Territory Cave",
+  "x": 183,
+  "y": 140
+ },
+ "MAP_DUNG_L49": {
+  "label": "D2",
+  "map": "Sechs Territory Cave",
+  "x": 183,
+  "y": 394
+ },
+ "MAP_DUNG_L50": {
+  "label": "F1",
+  "map": "Sechs Territory 2",
+  "x": 609,
+  "y": 402
+ },
+ "MAP_DUNG_L51": {
+  "label": "E3",
+  "map": "Sechs Territory 2",
+  "x": 581,
+  "y": 347
+ },
+ "MAP_DUNG_L52": {
+  "label": "E2",
+  "map": "Sechs Territory 2",
+  "x": 490,
+  "y": 353
+ },
+ "MAP_DUNG_L53": {
+  "label": "E1",
+  "map": "Sechs Territory 2",
+  "x": 419,
+  "y": 353
+ },
+ "MAP_DUNG_L54": {
+  "label": "D2",
+  "map": "Sechs Territory 2",
+  "x": 424,
+  "y": 303
+ },
+ "MAP_DUNG_L55": {
+  "label": "D3",
+  "map": "Sechs Territory 2",
+  "x": 496,
+  "y": 293
+ },
+ "MAP_DUNG_L56": {
+  "label": "C6",
+  "map": "Sechs Territory 2",
+  "x": 495,
+  "y": 205
+ },
+ "MAP_DUNG_L57": {
+  "label": "D1",
+  "map": "Sechs Territory 2",
+  "x": 427,
+  "y": 249
+ },
+ "MAP_DUNG_L58": {
+  "label": "C4",
+  "map": "Sechs Territory 2",
+  "x": 369,
+  "y": 245
+ },
+ "MAP_DUNG_L59": {
+  "label": "C5",
+  "map": "Sechs Territory 2",
+  "x": 365,
+  "y": 303
+ },
+ "MAP_DUNG_L60": {
+  "label": "C3",
+  "map": "Sechs Territory 2",
+  "x": 310,
+  "y": 250
+ },
+ "MAP_DUNG_L61": {
+  "label": "C2",
+  "map": "Sechs Territory 2",
+  "x": 249,
+  "y": 253
+ },
+ "MAP_DUNG_L62": {
+  "label": "B4",
+  "map": "Sechs Territory 2",
+  "x": 252,
+  "y": 194
+ },
+ "MAP_DUNG_L63": {
+  "label": "B3",
+  "map": "Sechs Territory 2",
+  "x": 191,
+  "y": 199
+ },
+ "MAP_DUNG_L64": {
+  "label": "C1",
+  "map": "Sechs Territory 2",
+  "x": 186,
+  "y": 253
+ },
+ "MAP_DUNG_L65": {
+  "label": "B2",
+  "map": "Sechs Territory 2",
+  "x": 128,
+  "y": 198
+ },
+ "MAP_DUNG_L66": {
+  "label": "B1",
+  "map": "Sechs Territory 2",
+  "x": 46,
+  "y": 198
+ },
+ "MAP_DUNG_L67": {
+  "label": "B5",
+  "map": "Sechs Territory 2",
+  "x": 369,
+  "y": 184
+ },
+ "MAP_DUNG_L68": {
+  "label": "A1",
+  "map": "Sechs Territory 2",
+  "x": 370,
+  "y": 126
+ },
+ "MAP_DUNG_M01": {
+  "label": "D1",
+  "map": "Rune Prana F1",
+  "x": 335,
+  "y": 449
+ },
+ "MAP_DUNG_M04": {
+  "label": "C1",
+  "map": "Rune Prana F1",
+  "x": 335,
+  "y": 327
+ },
+ "MAP_DUNG_M05": {
+  "label": "B2",
+  "map": "Rune Prana F1",
+  "x": 335,
+  "y": 215
+ },
+ "MAP_DUNG_M06": {
+  "label": "B1",
+  "map": "Rune Prana F1",
+  "x": 228,
+  "y": 208
+ },
+ "MAP_DUNG_M07": {
+  "label": "A3",
+  "map": "Rune Prana F1",
+  "x": 228,
+  "y": 105
+ },
+ "MAP_DUNG_M08": {
+  "label": "B3",
+  "map": "Rune Prana F1",
+  "x": 442,
+  "y": 208
+ },
+ "MAP_DUNG_M09": {
+  "label": "A1",
+  "map": "Rune Prana F1",
+  "x": 442,
+  "y": 105
+ },
+ "MAP_DUNG_M10": {
+  "label": "A2",
+  "map": "Rune Prana F1",
+  "x": 335,
+  "y": 88
+ },
+ "MAP_DUNG_M12": {
+  "label": "D3",
+  "map": "Rune Prana F2",
+  "x": 392,
+  "y": 450
+ },
+ "MAP_DUNG_M13": {
+  "label": "D4",
+  "map": "Rune Prana F2",
+  "x": 508,
+  "y": 442
+ },
+ "MAP_DUNG_M14": {
+  "label": "C3",
+  "map": "Rune Prana F2",
+  "x": 392,
+  "y": 326
+ },
+ "MAP_DUNG_M15": {
+  "label": "C4",
+  "map": "Rune Prana F2",
+  "x": 508,
+  "y": 326
+ },
+ "MAP_DUNG_M16": {
+  "label": "B4",
+  "map": "Rune Prana F2",
+  "x": 508,
+  "y": 210
+ },
+ "MAP_DUNG_M17": {
+  "label": "B3",
+  "map": "Rune Prana F2",
+  "x": 392,
+  "y": 210
+ },
+ "MAP_DUNG_M18": {
+  "label": "D2",
+  "map": "Rune Prana F2",
+  "x": 277,
+  "y": 442
+ },
+ "MAP_DUNG_M19": {
+  "label": "D1",
+  "map": "Rune Prana F2",
+  "x": 161,
+  "y": 443
+ },
+ "MAP_DUNG_M20": {
+  "label": "C2",
+  "map": "Rune Prana F2",
+  "x": 276,
+  "y": 326
+ },
+ "MAP_DUNG_M21": {
+  "label": "C1",
+  "map": "Rune Prana F2",
+  "x": 160,
+  "y": 326
+ },
+ "MAP_DUNG_M22": {
+  "label": "B1",
+  "map": "Rune Prana F2",
+  "x": 160,
+  "y": 210
+ },
+ "MAP_DUNG_M23": {
+  "label": "B2",
+  "map": "Rune Prana F2",
+  "x": 276,
+  "y": 210
+ },
+ "MAP_DUNG_M24": {
+  "label": "A1",
+  "map": "Rune Prana F2",
+  "x": 276,
+  "y": 88
+ },
+ "MAP_DUNG_M26": {
+  "label": "C2",
+  "map": "Rune Prana F3",
+  "x": 334,
+  "y": 405
+ },
+ "MAP_DUNG_M27": {
+  "label": "B3",
+  "map": "Rune Prana F3",
+  "x": 334,
+  "y": 267
+ },
+ "MAP_DUNG_M28": {
+  "label": "B2",
+  "map": "Rune Prana F3",
+  "x": 211,
+  "y": 267
+ },
+ "MAP_DUNG_M29": {
+  "label": "B1",
+  "map": "Rune Prana F3",
+  "x": 84,
+  "y": 264
+ },
+ "MAP_DUNG_M30": {
+  "label": "C1",
+  "map": "Rune Prana F3",
+  "x": 83,
+  "y": 389
+ },
+ "MAP_DUNG_M31": {
+  "label": "B4",
+  "map": "Rune Prana F3",
+  "x": 458,
+  "y": 267
+ },
+ "MAP_DUNG_M32": {
+  "label": "B5",
+  "map": "Rune Prana F3",
+  "x": 585,
+  "y": 267
+ },
+ "MAP_DUNG_M33": {
+  "label": "A2",
+  "map": "Rune Prana F3",
+  "x": 585,
+  "y": 141
+ },
+ "MAP_DUNG_M34": {
+  "label": "A1",
+  "map": "Rune Prana F3",
+  "x": 334,
+  "y": 129
+ },
+ "MAP_DUNG_M36": {
+  "label": "E1",
+  "map": "Rune Prana F4",
+  "x": 334,
+  "y": 470
+ },
+ "MAP_DUNG_M37": {
+  "label": "D3",
+  "map": "Rune Prana F4",
+  "x": 334,
+  "y": 364
+ },
+ "MAP_DUNG_M38": {
+  "label": "D4",
+  "map": "Rune Prana F4",
+  "x": 426,
+  "y": 364
+ },
+ "MAP_DUNG_M39": {
+  "label": "D2",
+  "map": "Rune Prana F4",
+  "x": 241,
+  "y": 364
+ },
+ "MAP_DUNG_M40": {
+  "label": "C1",
+  "map": "Rune Prana F4",
+  "x": 149,
+  "y": 364
+ },
+ "MAP_DUNG_M41": {
+  "label": "D1",
+  "map": "Rune Prana F4",
+  "x": 236,
+  "y": 269
+ },
+ "MAP_DUNG_M42": {
+  "label": "C2",
+  "map": "Rune Prana F4",
+  "x": 334,
+  "y": 269
+ },
+ "MAP_DUNG_M43": {
+  "label": "B1",
+  "map": "Rune Prana F4",
+  "x": 330,
+  "y": 174
+ },
+ "MAP_DUNG_M44": {
+  "label": "B2",
+  "map": "Rune Prana F4",
+  "x": 422,
+  "y": 174
+ },
+ "MAP_DUNG_M45": {
+  "label": "A2",
+  "map": "Rune Prana F4",
+  "x": 519,
+  "y": 174
+ },
+ "MAP_DUNG_M46": {
+  "label": "B3",
+  "map": "Rune Prana F4",
+  "x": 426,
+  "y": 79
+ },
+ "MAP_DUNG_M47": {
+  "label": "A1",
+  "map": "Rune Prana F4",
+  "x": 334,
+  "y": 68
+ },
+ "MAP_DUNG_M49": {
+  "label": "B5",
+  "map": "Rune Prana F5",
+  "x": 575,
+  "y": 233
+ },
+ "MAP_DUNG_M50": {
+  "label": "B4",
+  "map": "Rune Prana F5",
+  "x": 454,
+  "y": 219
+ },
+ "MAP_DUNG_M51": {
+  "label": "C4",
+  "map": "Rune Prana F5",
+  "x": 454,
+  "y": 340
+ },
+ "MAP_DUNG_M52": {
+  "label": "C3",
+  "map": "Rune Prana F5",
+  "x": 334,
+  "y": 340
+ },
+ "MAP_DUNG_M53": {
+  "label": "C2",
+  "map": "Rune Prana F5",
+  "x": 213,
+  "y": 340
+ },
+ "MAP_DUNG_M54": {
+  "label": "D1",
+  "map": "Rune Prana F5",
+  "x": 213,
+  "y": 460
+ },
+ "MAP_DUNG_M55": {
+  "label": "D2",
+  "map": "Rune Prana F5",
+  "x": 334,
+  "y": 457
+ },
+ "MAP_DUNG_M56": {
+  "label": "D3",
+  "map": "Rune Prana F5",
+  "x": 454,
+  "y": 460
+ },
+ "MAP_DUNG_M57": {
+  "label": "C1",
+  "map": "Rune Prana F5",
+  "x": 93,
+  "y": 340
+ },
+ "MAP_DUNG_M58": {
+  "label": "B1",
+  "map": "Rune Prana F5",
+  "x": 90,
+  "y": 219
+ },
+ "MAP_DUNG_M59": {
+  "label": "A1",
+  "map": "Rune Prana F5",
+  "x": 93,
+  "y": 99
+ },
+ "MAP_DUNG_M60": {
+  "label": "B2",
+  "map": "Rune Prana F5",
+  "x": 212,
+  "y": 219
+ },
+ "MAP_DUNG_M61": {
+  "label": "B3",
+  "map": "Rune Prana F5",
+  "x": 334,
+  "y": 224
+ },
+ "MAP_DUNG_M62": {
+  "label": "A2",
+  "map": "Rune Prana F5",
+  "x": 334,
+  "y": 102
+ },
+ "MAP_DUNG_M63": {
+  "label": "A3",
+  "map": "Rune Prana F5",
+  "x": 454,
+  "y": 87
+ },
+ "MAP_DUNG_M65": {
+  "label": "D2",
+  "map": "Rune Prana F6",
+  "x": 389,
+  "y": 444
+ },
+ "MAP_DUNG_M66": {
+  "label": "C4",
+  "map": "Rune Prana F6",
+  "x": 389,
+  "y": 324
+ },
+ "MAP_DUNG_M67": {
+  "label": "B3",
+  "map": "Rune Prana F6",
+  "x": 389,
+  "y": 216
+ },
+ "MAP_DUNG_M68": {
+  "label": "D3",
+  "map": "Rune Prana F6",
+  "x": 494,
+  "y": 431
+ },
+ "MAP_DUNG_M69": {
+  "label": "D4",
+  "map": "Rune Prana F6",
+  "x": 600,
+  "y": 433
+ },
+ "MAP_DUNG_M70": {
+  "label": "C6",
+  "map": "Rune Prana F6",
+  "x": 600,
+  "y": 324
+ },
+ "MAP_DUNG_M71": {
+  "label": "B4",
+  "map": "Rune Prana F6",
+  "x": 600,
+  "y": 216
+ },
+ "MAP_DUNG_M72": {
+  "label": "C5",
+  "map": "Rune Prana F6",
+  "x": 494,
+  "y": 324
+ },
+ "MAP_DUNG_M73": {
+  "label": "C3",
+  "map": "Rune Prana F6",
+  "x": 282,
+  "y": 324
+ },
+ "MAP_DUNG_M74": {
+  "label": "C2",
+  "map": "Rune Prana F6",
+  "x": 175,
+  "y": 324
+ },
+ "MAP_DUNG_M75": {
+  "label": "C1",
+  "map": "Rune Prana F6",
+  "x": 68,
+  "y": 324
+ },
+ "MAP_DUNG_M76": {
+  "label": "D1",
+  "map": "Rune Prana F6",
+  "x": 67,
+  "y": 433
+ },
+ "MAP_DUNG_M77": {
+  "label": "B1",
+  "map": "Rune Prana F6",
+  "x": 67,
+  "y": 216
+ },
+ "MAP_DUNG_M78": {
+  "label": "A1",
+  "map": "Rune Prana F6",
+  "x": 68,
+  "y": 107
+ },
+ "MAP_DUNG_M79": {
+  "label": "A2",
+  "map": "Rune Prana F6",
+  "x": 175,
+  "y": 107
+ },
+ "MAP_DUNG_M80": {
+  "label": "A3",
+  "map": "Rune Prana F6",
+  "x": 282,
+  "y": 107
+ },
+ "MAP_DUNG_M81": {
+  "label": "B2",
+  "map": "Rune Prana F6",
+  "x": 282,
+  "y": 216
+ },
+ "MAP_DUNG_M82": {
+  "label": "A4",
+  "map": "Rune Prana F6",
+  "x": 390,
+  "y": 100
+ },
+ "MAP_DUNG_N01": {
+  "label": "F4",
+  "map": "Rune Prana F7",
+  "x": 332,
+  "y": 421
+ },
+ "MAP_DUNG_N02": {
+  "label": "F5",
+  "map": "Rune Prana F7",
+  "x": 399,
+  "y": 407
+ },
+ "MAP_DUNG_N03": {
+  "label": "F6",
+  "map": "Rune Prana F7",
+  "x": 466,
+  "y": 407
+ },
+ "MAP_DUNG_N04": {
+  "label": "F7",
+  "map": "Rune Prana F7",
+  "x": 533,
+  "y": 407
+ },
+ "MAP_DUNG_N05": {
+  "label": "E6",
+  "map": "Rune Prana F7",
+  "x": 466,
+  "y": 340
+ },
+ "MAP_DUNG_N06": {
+  "label": "E7",
+  "map": "Rune Prana F7",
+  "x": 535,
+  "y": 340
+ },
+ "MAP_DUNG_N07": {
+  "label": "E5",
+  "map": "Rune Prana F7",
+  "x": 399,
+  "y": 343
+ },
+ "MAP_DUNG_N08": {
+  "label": "E4",
+  "map": "Rune Prana F7",
+  "x": 332,
+  "y": 343
+ },
+ "MAP_DUNG_N09": {
+  "label": "F3",
+  "map": "Rune Prana F7",
+  "x": 266,
+  "y": 410
+ },
+ "MAP_DUNG_N10": {
+  "label": "E3",
+  "map": "Rune Prana F7",
+  "x": 264,
+  "y": 343
+ },
+ "MAP_DUNG_N11": {
+  "label": "G1",
+  "map": "Rune Prana F7",
+  "x": 264,
+  "y": 477
+ },
+ "MAP_DUNG_N12": {
+  "label": "F2",
+  "map": "Rune Prana F7",
+  "x": 200,
+  "y": 410
+ },
+ "MAP_DUNG_N13": {
+  "label": "F1",
+  "map": "Rune Prana F7",
+  "x": 133,
+  "y": 410
+ },
+ "MAP_DUNG_N14": {
+  "label": "E2",
+  "map": "Rune Prana F7",
+  "x": 133,
+  "y": 343
+ },
+ "MAP_DUNG_N15": {
+  "label": "E1",
+  "map": "Rune Prana F7",
+  "x": 66,
+  "y": 343
+ },
+ "MAP_DUNG_N16": {
+  "label": "D1",
+  "map": "Rune Prana F7",
+  "x": 133,
+  "y": 276
+ },
+ "MAP_DUNG_N17": {
+  "label": "D2",
+  "map": "Rune Prana F7",
+  "x": 200,
+  "y": 276
+ },
+ "MAP_DUNG_N18": {
+  "label": "D3",
+  "map": "Rune Prana F7",
+  "x": 332,
+  "y": 276
+ },
+ "MAP_DUNG_N19": {
+  "label": "D4",
+  "map": "Rune Prana F7",
+  "x": 399,
+  "y": 274
+ },
+ "MAP_DUNG_N20": {
+  "label": "D5",
+  "map": "Rune Prana F7",
+  "x": 466,
+  "y": 274
+ },
+ "MAP_DUNG_N21": {
+  "label": "D6",
+  "map": "Rune Prana F7",
+  "x": 533,
+  "y": 274
+ },
+ "MAP_DUNG_N22": {
+  "label": "C7",
+  "map": "Rune Prana F7",
+  "x": 533,
+  "y": 206
+ },
+ "MAP_DUNG_N23": {
+  "label": "C8",
+  "map": "Rune Prana F7",
+  "x": 603,
+  "y": 206
+ },
+ "MAP_DUNG_N24": {
+  "label": "B6",
+  "map": "Rune Prana F7",
+  "x": 603,
+  "y": 276
+ },
+ "MAP_DUNG_N25": {
+  "label": "D7",
+  "map": "Rune Prana F7",
+  "x": 602,
+  "y": 136
+ },
+ "MAP_DUNG_N26": {
+  "label": "C6",
+  "map": "Rune Prana F7",
+  "x": 466,
+  "y": 206
+ },
+ "MAP_DUNG_N27": {
+  "label": "C5",
+  "map": "Rune Prana F7",
+  "x": 399,
+  "y": 206
+ },
+ "MAP_DUNG_N28": {
+  "label": "C4",
+  "map": "Rune Prana F7",
+  "x": 332,
+  "y": 207
+ },
+ "MAP_DUNG_N29": {
+  "label": "C3",
+  "map": "Rune Prana F7",
+  "x": 264,
+  "y": 208
+ },
+ "MAP_DUNG_N30": {
+  "label": "C2",
+  "map": "Rune Prana F7",
+  "x": 197,
+  "y": 208
+ },
+ "MAP_DUNG_N31": {
+  "label": "C1",
+  "map": "Rune Prana F7",
+  "x": 130,
+  "y": 208
+ },
+ "MAP_DUNG_N32": {
+  "label": "B2",
+  "map": "Rune Prana F7",
+  "x": 133,
+  "y": 141
+ },
+ "MAP_DUNG_N33": {
+  "label": "A1",
+  "map": "Rune Prana F7",
+  "x": 64,
+  "y": 141
+ },
+ "MAP_DUNG_N34": {
+  "label": "B1",
+  "map": "Rune Prana F7",
+  "x": 130,
+  "y": 74
+ },
+ "MAP_DUNG_N35": {
+  "label": "B3",
+  "map": "Rune Prana F7",
+  "x": 200,
+  "y": 141
+ },
+ "MAP_DUNG_N36": {
+  "label": "B4",
+  "map": "Rune Prana F7",
+  "x": 267,
+  "y": 141
+ },
+ "MAP_DUNG_N37": {
+  "label": "B5",
+  "map": "Rune Prana F7",
+  "x": 332,
+  "y": 139
+ },
+ "MAP_DUNG_N38": {
+  "label": "A2",
+  "map": "Rune Prana F7",
+  "x": 333,
+  "y": 65
+ },
+ "MAP_DUNG_O01": {
+  "label": "A",
+  "map": "Cluck Cluck Nest",
+  "x": 333,
+  "y": 85
+ },
+ "MAP_DUNG_O02": {
+  "label": "B",
+  "map": "Cluck Cluck Nest",
+  "x": 327,
+  "y": 262
+ },
+ "MAP_DUNG_O03": {
+  "label": "C",
+  "map": "Cluck Cluck Nest",
+  "x": 333,
+  "y": 439
+ },
+ "MAP_DUNG_O04": {
+  "label": "E",
+  "map": "Cluck Cluck Nest",
+  "x": 534,
+  "y": 262
+ },
+ "MAP_DUNG_O05": {
+  "label": "D",
+  "map": "Cluck Cluck Nest",
+  "x": 126,
+  "y": 439
+ },
+ "MAP_DUNG_P01": {
+  "label": "3",
+  "map": "Revival Cave",
+  "x": 491,
+  "y": 398
+ },
+ "MAP_DUNG_P02": {
+  "label": "2",
+  "map": "Revival Cave",
+  "x": 160,
+  "y": 398
+ },
+ "MAP_DUNG_P03": {
+  "label": "1",
+  "map": "Revival Cave",
+  "x": 160,
+  "y": 114
+ },
+ "MAP_DUNG_Q01": {
+  "label": "A1",
+  "map": "Demons Den",
+  "x": 74,
+  "y": 107
+ },
+ "MAP_DUNG_Q02": {
+  "label": "3",
+  "map": "Demons Den",
+  "x": 74,
+  "y": 207
+ },
+ "MAP_DUNG_Q03": {
+  "label": "1",
+  "map": "Demons Den",
+  "x": 204,
+  "y": 156
+ },
+ "MAP_DUNG_Q04": {
+  "label": "2",
+  "map": "Demons Den",
+  "x": 320,
+  "y": 156
+ },
+ "MAP_DUNG_Q05": {
+  "label": "5",
+  "map": "Demons Den",
+  "x": 224,
+  "y": 373
+ },
+ "MAP_DUNG_Q06": {
+  "label": "6",
+  "map": "Demons Den",
+  "x": 342,
+  "y": 373
+ },
+ "MAP_DUNG_Q07": {
+  "label": "7",
+  "map": "Demons Den",
+  "x": 472,
+  "y": 421
+ },
+ "MAP_DUNG_Q08": {
+  "label": "8",
+  "map": "Demons Den",
+  "x": 590,
+  "y": 421
+ },
+ "MAP_DUNG_Q09": {
+  "label": "4",
+  "map": "Demons Den",
+  "x": 472,
+  "y": 320
+ },
+ "MAP_FIELD_01": {
+  "label": "B4",
+  "map": "Selphia Plains",
+  "x": 282,
+  "y": 170
+ },
+ "MAP_FIELD_02": {
+  "label": "B5",
+  "map": "Selphia Plains",
+  "x": 359,
+  "y": 168
+ },
+ "MAP_FIELD_03": {
+  "label": "B6",
+  "map": "Selphia Plains",
+  "x": 429,
+  "y": 158
+ },
+ "MAP_FIELD_04": {
+  "label": "A3",
+  "map": "Selphia Plains",
+  "x": 355,
+  "y": 112
+ },
+ "MAP_FIELD_05": {
+  "label": "A1",
+  "map": "Selphia Plains",
+  "x": 208,
+  "y": 108
+ },
+ "MAP_FIELD_06": {
+  "label": "B3",
+  "map": "Selphia Plains",
+  "x": 214,
+  "y": 174
+ },
+ "MAP_FIELD_07": {
+  "label": "C3",
+  "map": "Selphia Plains",
+  "x": 310,
+  "y": 231
+ },
+ "MAP_FIELD_08": {
+  "label": "D4",
+  "map": "Selphia Plains",
+  "x": 338,
+  "y": 287
+ },
+ "MAP_FIELD_09": {
+  "label": "D5",
+  "map": "Selphia Plains",
+  "x": 413,
+  "y": 291
+ },
+ "MAP_FIELD_10": {
+  "label": "D6",
+  "map": "Selphia Plains",
+  "x": 491,
+  "y": 286
+ },
+ "MAP_FIELD_11": {
+  "label": "D7",
+  "map": "Selphia Plains",
+  "x": 555,
+  "y": 294
+ },
+ "MAP_FIELD_12": {
+  "label": "C4",
+  "map": "Selphia Plains",
+  "x": 555,
+  "y": 223
+ },
+ "MAP_FIELD_13": {
+  "label": "C2",
+  "map": "Selphia Plains",
+  "x": 219,
+  "y": 235
+ },
+ "MAP_FIELD_14": {
+  "label": "D1",
+  "map": "Selphia Plains",
+  "x": 142,
+  "y": 294
+ },
+ "MAP_FIELD_15": {
+  "label": "D2",
+  "map": "Selphia Plains",
+  "x": 214,
+  "y": 291
+ },
+ "MAP_FIELD_16": {
+  "label": "D3",
+  "map": "Selphia Plains",
+  "x": 272,
+  "y": 297
+ },
+ "MAP_FIELD_17": {
+  "label": "E2",
+  "map": "Selphia Plains",
+  "x": 214,
+  "y": 346
+ },
+ "MAP_FIELD_18": {
+  "label": "B2",
+  "map": "Selphia Plains",
+  "x": 154,
+  "y": 203
+ },
+ "MAP_FIELD_19": {
+  "label": "#19",
+  "map": "Selphia Plains",
+  "x": 68,
+  "y": 222
+ },
+ "MAP_FIELD_20": {
+  "label": "C7",
+  "map": "Autumn Road",
+  "x": 572,
+  "y": 187
+ },
+ "MAP_FIELD_21": {
+  "label": "C6",
+  "map": "Autumn Road",
+  "x": 538,
+  "y": 196
+ },
+ "MAP_FIELD_22": {
+  "label": "C4",
+  "map": "Autumn Road",
+  "x": 459,
+  "y": 197
+ },
+ "MAP_FIELD_23": {
+  "label": "E3",
+  "map": "Selphia Plains",
+  "x": 272,
+  "y": 345
+ },
+ "MAP_FIELD_24": {
+  "label": "E4",
+  "map": "Selphia Plains",
+  "x": 331,
+  "y": 345
+ },
+ "MAP_FIELD_25": {
+  "label": "C3",
+  "map": "Autumn Road",
+  "x": 433,
+  "y": 213
+ },
+ "MAP_FIELD_26": {
+  "label": "C2",
+  "map": "Autumn Road",
+  "x": 395,
+  "y": 199
+ },
+ "MAP_FIELD_27": {
+  "label": "D1",
+  "map": "Autumn Road",
+  "x": 394,
+  "y": 230
+ },
+ "MAP_FIELD_28": {
+  "label": "C1",
+  "map": "Autumn Road",
+  "x": 349,
+  "y": 200
+ },
+ "MAP_FIELD_29": {
+  "label": "B1",
+  "map": "Autumn Road",
+  "x": 354,
+  "y": 126
+ },
+ "MAP_FIELD_30": {
+  "label": "B2",
+  "map": "Autumn Road",
+  "x": 429,
+  "y": 166
+ },
+ "MAP_FIELD_31": {
+  "label": "A1",
+  "map": "Autumn Road",
+  "x": 430,
+  "y": 133
+ },
+ "MAP_FIELD_32": {
+  "label": "E5",
+  "map": "Selphia Plains",
+  "x": 487,
+  "y": 339
+ },
+ "MAP_FIELD_33": {
+  "label": "E6",
+  "map": "Selphia Plains",
+  "x": 554,
+  "y": 377
+ },
+ "MAP_FIELD_34": {
+  "label": "F2",
+  "map": "Selphia Plains",
+  "x": 483,
+  "y": 399
+ },
+ "MAP_FIELD_35": {
+  "label": "B1",
+  "map": "Sercerezo Hill",
+  "x": 207,
+  "y": 236
+ },
+ "MAP_FIELD_36": {
+  "label": "B2",
+  "map": "Sercerezo Hill",
+  "x": 312,
+  "y": 240
+ },
+ "MAP_FIELD_37": {
+  "label": "G3",
+  "map": "Selphia Plains",
+  "x": 553,
+  "y": 458
+ },
+ "MAP_FIELD_38": {
+  "label": "C2",
+  "map": "Sercerezo Hill",
+  "x": 130,
+  "y": 294
+ },
+ "MAP_FIELD_39": {
+  "label": "C3",
+  "map": "Sercerezo Hill",
+  "x": 207,
+  "y": 292
+ },
+ "MAP_FIELD_40": {
+  "label": "C4",
+  "map": "Sercerezo Hill",
+  "x": 278,
+  "y": 298
+ },
+ "MAP_FIELD_41": {
+  "label": "C5",
+  "map": "Sercerezo Hill",
+  "x": 342,
+  "y": 300
+ },
+ "MAP_FIELD_42": {
+  "label": "D3",
+  "map": "Sercerezo Hill",
+  "x": 271,
+  "y": 355
+ },
+ "MAP_FIELD_43": {
+  "label": "D2",
+  "map": "Autumn Road",
+  "x": 567,
+  "y": 232
+ },
+ "MAP_FIELD_44": {
+  "label": "E9",
+  "map": "Autumn Road",
+  "x": 570,
+  "y": 268
+ },
+ "MAP_FIELD_45": {
+  "label": "#45",
+  "map": "Autumn Road",
+  "x": 528,
+  "y": 272
+ },
+ "MAP_FIELD_46": {
+  "label": "E7",
+  "map": "Autumn Road",
+  "x": 501,
+  "y": 274
+ },
+ "MAP_FIELD_47": {
+  "label": "E6",
+  "map": "Autumn Road",
+  "x": 470,
+  "y": 266
+ },
+ "MAP_FIELD_48": {
+  "label": "F7",
+  "map": "Autumn Road",
+  "x": 459,
+  "y": 303
+ },
+ "MAP_FIELD_49": {
+  "label": "G10",
+  "map": "Autumn Road",
+  "x": 444,
+  "y": 337
+ },
+ "MAP_FIELD_50": {
+  "label": "#50",
+  "map": "Autumn Road",
+  "x": 404,
+  "y": 263
+ },
+ "MAP_FIELD_51": {
+  "label": "F6",
+  "map": "Autumn Road",
+  "x": 402,
+  "y": 300
+ },
+ "MAP_FIELD_52": {
+  "label": "G9",
+  "map": "Autumn Road",
+  "x": 404,
+  "y": 339
+ },
+ "MAP_FIELD_53": {
+  "label": "H3",
+  "map": "Autumn Road",
+  "x": 407,
+  "y": 368
+ },
+ "MAP_FIELD_54": {
+  "label": "#54",
+  "map": "Autumn Road",
+  "x": 407,
+  "y": 413
+ },
+ "MAP_FIELD_55": {
+  "label": "J2",
+  "map": "Autumn Road",
+  "x": 454,
+  "y": 418
+ },
+ "MAP_FIELD_56": {
+  "label": "F5",
+  "map": "Autumn Road",
+  "x": 340,
+  "y": 296
+ },
+ "MAP_FIELD_57": {
+  "label": "G8",
+  "map": "Autumn Road",
+  "x": 359,
+  "y": 337
+ },
+ "MAP_FIELD_58": {
+  "label": "H2",
+  "map": "Autumn Road",
+  "x": 350,
+  "y": 381
+ },
+ "MAP_FIELD_59": {
+  "label": "F4",
+  "map": "Autumn Road",
+  "x": 281,
+  "y": 300
+ },
+ "MAP_FIELD_60": {
+  "label": "G6",
+  "map": "Autumn Road",
+  "x": 281,
+  "y": 347
+ },
+ "MAP_FIELD_61": {
+  "label": "E3",
+  "map": "Autumn Road",
+  "x": 240,
+  "y": 270
+ },
+ "MAP_FIELD_62": {
+  "label": "F3",
+  "map": "Autumn Road",
+  "x": 240,
+  "y": 306
+ },
+ "MAP_FIELD_63": {
+  "label": "G5",
+  "map": "Autumn Road",
+  "x": 240,
+  "y": 339
+ },
+ "MAP_FIELD_64": {
+  "label": "#64",
+  "map": "Autumn Road",
+  "x": 282,
+  "y": 393
+ },
+ "MAP_FIELD_65": {
+  "label": "#65",
+  "map": "Autumn Road",
+  "x": 204,
+  "y": 272
+ },
+ "MAP_FIELD_66": {
+  "label": "I1",
+  "map": "Autumn Road",
+  "x": 195,
+  "y": 393
+ },
+ "MAP_FIELD_67": {
+  "label": "G2",
+  "map": "Selphia Plains",
+  "x": 486,
+  "y": 459
+ },
+ "MAP_FIELD_68": {
+  "label": "G1",
+  "map": "Selphia Plains",
+  "x": 418,
+  "y": 454
+ },
+ "MAP_FIELD_69": {
+  "label": "A4",
+  "map": "Sercerezo Hill",
+  "x": 414,
+  "y": 183
+ },
+ "MAP_FIELD_70": {
+  "label": "A3",
+  "map": "Sercerezo Hill",
+  "x": 346,
+  "y": 185
+ },
+ "MAP_FIELD_71": {
+  "label": "F1",
+  "map": "Selphia Plains",
+  "x": 215,
+  "y": 401
+ },
+ "MAP_FIELD_72": {
+  "label": "G4",
+  "map": "Autumn Road",
+  "x": 210,
+  "y": 339
+ },
+ "MAP_FIELD_73": {
+  "label": "G3",
+  "map": "Autumn Road",
+  "x": 181,
+  "y": 338
+ },
+ "MAP_FIELD_74": {
+  "label": "G2",
+  "map": "Autumn Road",
+  "x": 130,
+  "y": 338
+ },
+ "MAP_FIELD_75": {
+  "label": "F2",
+  "map": "Autumn Road",
+  "x": 153,
+  "y": 309
+ },
+ "MAP_FIELD_76": {
+  "label": "E4",
+  "map": "Autumn Road",
+  "x": 283,
+  "y": 266
+ },
+ "MAP_FIELD_77": {
+  "label": "G4",
+  "map": "Selphia Plains",
+  "x": 619,
+  "y": 462
+ },
+ "MAP_FIELD_78": {
+  "label": "F3",
+  "map": "Selphia Plains",
+  "x": 615,
+  "y": 411
+ },
+ "MAP_FIELD_79": {
+  "label": "A1",
+  "map": "Sercerezo Hill",
+  "x": 207,
+  "y": 177
+ },
+ "MAP_FIELD_80": {
+  "label": "B7",
+  "map": "Selphia Plains",
+  "x": 491,
+  "y": 171
+ },
+ "MAP_FIELD_81": {
+  "label": "E1",
+  "map": "Selphia Plains",
+  "x": 131,
+  "y": 355
+ },
+ "MAP_FIELD_82": {
+  "label": "F8",
+  "map": "Autumn Road",
+  "x": 571,
+  "y": 326
+ },
+ "MAP_FIELD_83": {
+  "label": "G11",
+  "map": "Autumn Road",
+  "x": 618,
+  "y": 334
+ },
+ "MAP_FIELD_84": {
+  "label": "H1",
+  "map": "Autumn Road",
+  "x": 140,
+  "y": 379
+ },
+ "MAP_FIELD_85": {
+  "label": "F1",
+  "map": "Autumn Road",
+  "x": 57,
+  "y": 313
+ },
+ "MAP_FIELD_86": {
+  "label": "G1",
+  "map": "Autumn Road",
+  "x": 112,
+  "y": 316
+ },
+ "MAP_FIELD_87": {
+  "label": "D4",
+  "map": "Sercerezo Hill",
+  "x": 345,
+  "y": 368
+ },
+ "MAP_FIELD_88": {
+  "label": "D5",
+  "map": "Sercerezo Hill",
+  "x": 427,
+  "y": 384
+ },
+ "MAP_FIELD_89": {
+  "label": "D1",
+  "map": "Sercerezo Hill",
+  "x": 130,
+  "y": 373
+ },
+ "MAP_FIELD_90": {
+  "label": "C1",
+  "map": "Sercerezo Hill",
+  "x": 56,
+  "y": 328
+ },
+ "MAP_FIELD_91": {
+  "label": "#91",
+  "map": "Sercerezo Hill",
+  "x": 207,
+  "y": 355
+ },
+ "MAP_FIELD_92": {
+  "label": "C6",
+  "map": "Sercerezo Hill",
+  "x": 423,
+  "y": 297
+ },
+ "MAP_FIELD_93": {
+  "label": "B3",
+  "map": "Sercerezo Hill",
+  "x": 422,
+  "y": 238
+ },
+ "MAP_FIELD_94": {
+  "label": "B4",
+  "map": "Sercerezo Hill",
+  "x": 499,
+  "y": 240
+ },
+ "MAP_FIELD_95": {
+  "label": "C7",
+  "map": "Sercerezo Hill",
+  "x": 502,
+  "y": 297
+ },
+ "MAP_FIELD_96": {
+  "label": "G7",
+  "map": "Autumn Road",
+  "x": 316,
+  "y": 337
+ },
+ "MAP_FIELD_97": {
+  "label": "E2",
+  "map": "Autumn Road",
+  "x": 170,
+  "y": 274
+ },
+ "MAP_FIELD_98": {
+  "label": "I2",
+  "map": "Autumn Road",
+  "x": 239,
+  "y": 389
+ },
+ "MAP_FIELD_99": {
+  "label": "#99",
+  "map": "Sercerezo Hill",
+  "x": 590,
+  "y": 240
+ },
+ "MAP_FIELD_A0": {
+  "label": "A2",
+  "map": "Sercerezo Hill",
+  "x": 275,
+  "y": 162
+ },
+ "MAP_FIELD_A1": {
+  "label": "B1",
+  "map": "Selphia Plains",
+  "x": 92,
+  "y": 159
+ },
+ "MAP_FIELD_A2": {
+  "label": "J1",
+  "map": "Autumn Road",
+  "x": 199,
+  "y": 439
+ },
+ "MAP_FIELD_A3": {
+  "label": "E1",
+  "map": "Autumn Road",
+  "x": 60,
+  "y": 251
+ }
+}

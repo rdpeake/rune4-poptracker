@@ -159,7 +159,7 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Maya Road Cave",
+                                "map": "Maya Road Underground",
                                 "x": 34,
                                 "y": 34,
                                 "size": 6,
@@ -657,7 +657,7 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Maya Road Cave",
+                                "map": "Maya Road Underground",
                                 "x": 34,
                                 "y": 78,
                                 "size": 6,
