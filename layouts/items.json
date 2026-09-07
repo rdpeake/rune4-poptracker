@@ -3,7 +3,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Key Items",
+                "title": "Archipelago",
                 "content": {
                     "type": "itemgrid",
                     "item_margin": "1,1",
@@ -54,6 +54,46 @@
                             "ventuswillswind"
                         ],
                         [
+                            "update",
+                            "foodtrap",
+                            "medicaldebttrap(wip)",
+                            "slipperyboots",
+                            "statustrap",
+                            "strangecurse",
+                            "warphometrap",
+                            "badosaccessories",
+                            "badosbargains",
+                            "blossomsfurniture",
+                            "blossomsgroceries",
+                            "clothingshop"
+                        ],
+                        [
+                            "fishmarket",
+                            "furniturestore",
+                            "jewelryshop",
+                            "lumieflowershop",
+                            "magicshop",
+                            "runeabilityshop",
+                            "progressiveaccessory",
+                            "progressivearmor",
+                            "progressiveheadgear",
+                            "progressiveshield",
+                            "progressiveshoes",
+                            "progressiveweapon"
+                        ]
+                    ]
+                }
+            },
+            {
+                "title": "Key Items",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "1,1",
+                    "item_size": "32,32",
+                    "h_alignment": "left",
+                    "v_alignment": "top",
+                    "rows": [
+                        [
                             "heartdrink",
                             "intelligencer",
                             "theprotein",
@@ -63,8 +103,8 @@
                             "summerheaddress",
                             "winterheaddress",
                             "brush",
-                            "magnifyingglass",
                             "progression",
+                            "magnifyingglass",
                             "squid"
                         ],
                         [
@@ -75,8 +115,7 @@
                             "materialstone",
                             "rock",
                             "norotxcexb1",
-                            "norotxcexb2",
-                            "update"
+                            "norotxcexb2"
                         ]
                     ]
                 }
@@ -927,15 +966,7 @@
                             "twinattack",
                             "uppercut",
                             "waterlaser",
-                            "windslash",
-                            "progressiveaccessory",
-                            "progressivearmor"
-                        ],
-                        [
-                            "progressiveheadgear",
-                            "progressiveshield",
-                            "progressiveshoes",
-                            "progressiveweapon"
+                            "windslash"
                         ]
                     ]
                 }
@@ -1405,20 +1436,7 @@
                             "shadestone",
                             "silver",
                             "smallcrystal",
-                            "whitestone",
-                            "badosaccessories"
-                        ],
-                        [
-                            "badosbargains",
-                            "blossomsfurniture",
-                            "blossomsgroceries",
-                            "clothingshop",
-                            "fishmarket",
-                            "furniturestore",
-                            "jewelryshop",
-                            "lumieflowershop",
-                            "magicshop",
-                            "runeabilityshop"
+                            "whitestone"
                         ]
                     ]
                 }
@@ -1455,15 +1473,7 @@
                             "greenifier+",
                             "minimizer",
                             "wettablepowder",
-                            "objectx",
-                            "foodtrap",
-                            "medicaldebttrap(wip)",
-                            "slipperyboots"
-                        ],
-                        [
-                            "statustrap",
-                            "strangecurse",
-                            "warphometrap"
+                            "objectx"
                         ]
                     ]
                 }
@@ -1474,7 +1484,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Key Items",
+                "title": "Archipelago",
                 "content": {
                     "type": "itemgrid",
                     "item_margin": "1,1",
@@ -1521,6 +1531,44 @@
                             "tabithasfodderbin",
                             "terrablefertilizer",
                             "ventuswillswind",
+                            "update",
+                            "foodtrap",
+                            "medicaldebttrap(wip)",
+                            "slipperyboots",
+                            "statustrap",
+                            "strangecurse",
+                            "warphometrap",
+                            "badosaccessories",
+                            "badosbargains",
+                            "blossomsfurniture",
+                            "blossomsgroceries",
+                            "clothingshop",
+                            "fishmarket",
+                            "furniturestore",
+                            "jewelryshop",
+                            "lumieflowershop",
+                            "magicshop",
+                            "runeabilityshop",
+                            "progressiveaccessory",
+                            "progressivearmor",
+                            "progressiveheadgear",
+                            "progressiveshield",
+                            "progressiveshoes",
+                            "progressiveweapon"
+                        ]
+                    ]
+                }
+            },
+            {
+                "title": "Key Items",
+                "content": {
+                    "type": "itemgrid",
+                    "item_margin": "1,1",
+                    "item_size": "32,32",
+                    "h_alignment": "left",
+                    "v_alignment": "top",
+                    "rows": [
+                        [
                             "heartdrink",
                             "intelligencer",
                             "theprotein",
@@ -1530,8 +1578,8 @@
                             "summerheaddress",
                             "winterheaddress",
                             "brush",
-                            "magnifyingglass",
                             "progression",
+                            "magnifyingglass",
                             "squid",
                             "turnip",
                             "bamboosprout",
@@ -1540,8 +1588,7 @@
                             "materialstone",
                             "rock",
                             "norotxcexb1",
-                            "norotxcexb2",
-                            "update"
+                            "norotxcexb2"
                         ]
                     ]
                 }
@@ -2328,15 +2375,7 @@
                             "twinattack",
                             "uppercut",
                             "waterlaser",
-                            "windslash",
-                            "progressiveaccessory",
-                            "progressivearmor"
-                        ],
-                        [
-                            "progressiveheadgear",
-                            "progressiveshield",
-                            "progressiveshoes",
-                            "progressiveweapon"
+                            "windslash"
                         ]
                     ]
                 }
@@ -2772,20 +2811,7 @@
                             "shadestone",
                             "silver",
                             "smallcrystal",
-                            "whitestone",
-                            "badosaccessories",
-                            "badosbargains",
-                            "blossomsfurniture",
-                            "blossomsgroceries",
-                            "clothingshop",
-                            "fishmarket",
-                            "furniturestore"
-                        ],
-                        [
-                            "jewelryshop",
-                            "lumieflowershop",
-                            "magicshop",
-                            "runeabilityshop"
+                            "whitestone"
                         ]
                     ]
                 }
@@ -2820,13 +2846,7 @@
                             "greenifier+",
                             "minimizer",
                             "wettablepowder",
-                            "objectx",
-                            "foodtrap",
-                            "medicaldebttrap(wip)",
-                            "slipperyboots",
-                            "statustrap",
-                            "strangecurse",
-                            "warphometrap"
+                            "objectx"
                         ]
                     ]
                 }
@@ -2889,8 +2909,8 @@
                 "summerheaddress",
                 "winterheaddress",
                 "brush",
-                "magnifyingglass",
                 "progression",
+                "magnifyingglass",
                 "squid",
                 "turnip",
                 "bamboosprout",
