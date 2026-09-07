@@ -59,6 +59,36 @@ you have already stood -- its predecessors may be unreachable by rule and it
 still got done.
 
 **Icons, still to do.** All 93 share `images/settings/opt_requestsanity.png`.
+## The game's own tables
+
+The tools that read the game need `bundleMain.mbundle` from a Rune Factory 4
+Special install, dropped in `tools/gamedata/_input/`:
+
+    tools/gamedata/   needs the game files -> _input/bundleMain.mbundle
+
+`extract_textures.py` unpacks the minimap art, item icons, frame and font out of
+it into the same folder, so that is the only file to find. `paths.py` names what
+is missing rather than failing somewhere further in. None of it is
+redistributed with the pack.
+
+`tools/room_ids.json` is room id -> map resource name, the table the client's
+room numbers index. It came out of `g_mapResourceTable` in live debuggee memory,
+each entry dereferenced through the archive TOC, so unlike everything else here
+it cannot be re-derived from files on disk -- which is the reason to keep it.
+Read it through `tools/room_ids.py`.
+
+`extract_map_graph.py` reads the game's own room adjacency out of the bundle.
+The graph is not committed -- run the tool when something needs it. It has
+two halves:
+
+    walk   1456 edges  ordinary exits -- you walked through a door
+    warp      9 edges  event and one-way links: the Obsidian Mansion drops,
+                       Yokmir Forest A08 into MAP_FIELD_35, Selphia into
+                       Maya Road
+
+Only `walk` may be used to reason about what is next door: a warp says nothing
+about adjacency. The file docstring explains the container and the .rf4m chunk
+format.
 
 ## Upstream data bugs the export matches
 
