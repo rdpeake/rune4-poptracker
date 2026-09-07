@@ -7,21 +7,29 @@ Source: <https://github.com/Happyhappyism/Rune-Factory-4-Archipelago>
 
 ## Regenerating
 
-Both scripts import the apworld's own `Locations.py` / `Items.py` / `Regions.py`,
-so put a checkout of it at `stub/rf4/` in the pack root. Archipelago itself is not
-needed — only small stubs for `BaseClasses` and `worlds.generic.Rules` alongside it.
-`stub/` is not committed. Both scripts locate the pack root from their own path, so
-they can be run from anywhere.
+Nothing that is not ours to redistribute is committed, so the tools are grouped
+by what they need and each group reads one gitignored folder you fill in:
 
-1. `export_logic.py` → `scripts/logic/rf4_data.lua`
+    tools/apworld/    needs the apworld  -> _input/rf4.apworld (or rf4/)
+    tools/            needs neither: works from what is already committed
+
+`tools/apworld/_input/` takes the `.apworld` Archipelago ships, as a zip — the
+apworld reads its own CSVs through `pkgutil`, which reads out of a zip fine — or
+an unpacked `rf4/`. The few Archipelago classes it imports are stubbed in
+`tools/apworld/_stubs/`, which IS committed, so the apworld is the only thing to
+supply, and `tools/apworld/load.py` finds it either way.
+
+Every script finds the pack root from its own path, so they run from anywhere.
+
+1. `apworld/export_logic.py` → `scripts/logic/rf4_data.lua`
    The region graph, entrance rules, recipe and shipment tables, and one AND-list
    of clauses per AP location id.
-2. `export_location_meta.py` → `scripts/autotracking/location_meta.lua`
+2. `apworld/export_location_meta.py` → `scripts/autotracking/location_meta.lua`
    Per-location tier, sell value, friendship level and the grocery/outfit
    category sets, for the five apworld options that decide the location pool
    but never reach `fill_slot_data`: `grocerysanity`, `outfitsanity`,
    `max_ship_tier`, `max_sell_value` and `max_friendship`.
-   Read from the apworld's own CSVs under `stub/rf4/data/` rather than by
+   Read from the apworld's own CSVs rather than by
    importing its Python, so this one needs no `BaseClasses` stub. Friendship
    and outfit locations have no CSV — `Locations.py` generates them from two
    dicts in `game_data.py` — so that module is imported (it depends on nothing
@@ -61,7 +69,7 @@ port against the real implementation rather than restating it.
 
 ## Known upstream data issues
 
-These are worked around in `export_logic.py`; they are bugs in the apworld, not
+These are worked around in `apworld/export_logic.py`; they are bugs in the apworld, not
 in the pack.
 
 - `Rules.get_location_rules()` returns a 1-tuple (trailing comma), so the

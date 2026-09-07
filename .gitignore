@@ -5,7 +5,7 @@ _roomsheets/
 # editor / language-server config, machine specific
 .luarc.json
 
-# apworld checkout used by tools/, not part of the pack. No trailing slash:
-# with one, a symlink to a checkout elsewhere is not matched and shows up
-# untracked, which is an easy thing to commit by accident.
-stub
+# tool inputs, neither ours to redistribute
+tools/*/_input/
+tools/__pycache__/
+tools/*/__pycache__/
