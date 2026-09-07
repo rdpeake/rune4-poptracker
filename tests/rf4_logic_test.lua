@@ -57,21 +57,39 @@ for i, c in ipairs(RF4_TEST_CASES) do
     check(i, "hitems",   c.hitems,   h32(items))
 end
 
+-- Locations the apworld's own data leaves permanently out of logic: the real
+-- Rules.can_get_item returns false for them with every item held, so matching
+-- that is the point. Listed so that one going green upstream fails here.
+local UPSTREAM_UNREACHABLE = {
+    -- Shmooly's liked item is "Clippers", which is in neither recipe_data_table
+    -- nor shipment_data_table, so can_get_item can never answer true for it.
+    [1852830] = "Selphia Plains - East Tame - Shmooly",
+}
+
 -- every location's rule must at least evaluate without error, and a full state
 -- must put every location in logic
-local total, reachable_all = 0, 0
+local total, reachable_all, excused = 0, 0, 0
 HELD = RF4_TEST_CASES[2].held      -- the "everything held" case
 RF4_Invalidate()
 for apid in pairs(RF4_LOC) do
     total = total + 1
-    if RF4Access(tostring(apid)) == AccessibilityLevel.Normal then
+    local green = RF4Access(tostring(apid)) == AccessibilityLevel.Normal
+    if green then
         reachable_all = reachable_all + 1
+        if UPSTREAM_UNREACHABLE[apid] then
+            fails = fails + 1
+            print(string.format("  %d (%s) is in logic now -- upstream fixed it, "
+                                .. "drop it from UPSTREAM_UNREACHABLE",
+                                apid, UPSTREAM_UNREACHABLE[apid]))
+        end
+    elseif UPSTREAM_UNREACHABLE[apid] then
+        excused = excused + 1
     end
 end
-if reachable_all ~= total then
+if reachable_all + excused ~= total then
     fails = fails + 1
     print(string.format("  %d of %d locations out of logic with everything held",
-                        total - reachable_all, total))
+                        total - reachable_all - excused, total))
 end
 
 -- RF4Access's three states: yellow means the region clauses pass but something
@@ -248,11 +266,11 @@ check(3, "categories", true, cats > 0)
 print("  " .. RF4LogicSummaryText())
 
 -- the empty state must not paint anything yellow behind a wall, and the full
--- state must have no yellow left at all
+-- state must have no yellow left but the locations upstream's own data strands
 HELD = RF4_TEST_CASES[2].held
 RF4_Invalidate()
 local n = tally()
-check(0, "allgreen", 0, n[AccessibilityLevel.SequenceBreak])
+check(0, "allgreen", excused, n[AccessibilityLevel.SequenceBreak])
 
 print(string.format("%d cases over %d regions / %d recipes / %d shipments, %d locations",
       #RF4_TEST_CASES, #RF4_TEST_REGIONS, #RF4_TEST_RECIPES, #RF4_TEST_SHIPMENTS, total))

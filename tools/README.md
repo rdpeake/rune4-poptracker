@@ -72,11 +72,13 @@ values in the pack against the 1077 generation used.
 
 ## Verifying
 
-    lua tests/rf4_logic_test.lua
+    lua tests/*_test.lua
 
 The expectations in `tests/rf4_logic_cases.lua` come from executing the apworld's
 *own* `Rules.py` functions over the same item states, so the test compares the
-port against the real implementation rather than restating it.
+port against the real implementation rather than restating it. Rebuild them with
+`apworld/export_logic_cases.py` whenever the apworld moves, or the differential
+test is comparing against a release the pack no longer follows.
 
 ## Known upstream data issues
 
