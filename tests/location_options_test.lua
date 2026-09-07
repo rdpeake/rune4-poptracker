@@ -31,6 +31,9 @@ local function reset(initial)
     for _, c in ipairs(OPTION_CODES) do ITEMS[c] = { Active = initial } end
 end
 local function snapshot() local t={} for _,c in ipairs(OPTION_CODES) do t[c]=ITEMS[c].Active end return t end
+-- Counts are taken from #OPTION_CODES rather than written out: the list grows
+-- whenever the apworld adds a sanity option, and a hardcoded total turns that
+-- into four unrelated test failures.
 local function count(t, v) local n=0 for _,x in pairs(t) do if x==v then n=n+1 end end return n end
 
 -- build a location pool containing only these option groups
@@ -49,13 +52,13 @@ local function check(label, cond, extra)
     if not cond then fails = fails + 1; if extra then realprint("     " .. extra) end end
 end
 
-realprint("== T1: user hand-enabled ALL 15; room only has 3 groups ==")
+realprint("== T1: user hand-enabled every option; room only has 3 groups ==")
 reset(true)                              -- every toggle manually on
 SLOT_DATA = {}
 ALL_LOCATIONS = poolFor({"opt_cropsanity","opt_dropsanity","opt_tamesanity"})
 ScheduleLocationOptions()
 pump(29); local mid = snapshot()
-check("nothing applied before the delay elapses", count(mid,true) == 15)
+check("nothing applied before the delay elapses", count(mid,true) == #OPTION_CODES)
 pump(1); local after = snapshot()
 check("exactly the 3 room groups remain on", count(after,true) == 3)
 check("  opt_cropsanity  on",  after.opt_cropsanity  == true)
@@ -70,13 +73,13 @@ realprint("     log: " .. table.concat(log, " | "))
 realprint("\n== T2: not connected (empty pool) -> leave the player's toggles alone ==")
 reset(true); ALL_LOCATIONS = {}; log = {}
 ApplyLocationOptions(nil)
-check("all 15 untouched", count(snapshot(), true) == 15)
+check("every option untouched", count(snapshot(), true) == #OPTION_CODES)
 check("ForceUpdate() not called", FORCED == 0)
 
 realprint("\n== T3: pool of ids we don't recognise -> refuse to blank everything ==")
 reset(true); ALL_LOCATIONS = {9990001, 9990002, 9990003}; log = {}
 ApplyLocationOptions(nil)
-check("all 15 untouched", count(snapshot(), true) == 15)
+check("every option untouched", count(snapshot(), true) == #OPTION_CODES)
 check("diagnostic printed", (log[1] or ""):find("did not match") ~= nil
                           or (log[1] or ""):find("matched") ~= nil, log[1])
 
@@ -103,7 +106,7 @@ reset(true); FORCED = 0
 local all = {}; for _, c in ipairs(OPTION_CODES) do all[#all+1] = c end
 ALL_LOCATIONS = poolFor(all)
 ApplyLocationOptions(nil)
-check("all 15 stay on", count(snapshot(), true) == 15)
+check("every option stays on", count(snapshot(), true) == #OPTION_CODES)
 check("ForceUpdate() skipped when nothing changed", FORCED == 0, "FORCED="..FORCED)
 
 realprint(string.format("\n%s  (%d failure%s)", fails==0 and "ALL PASS" or "FAILURES",

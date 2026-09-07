@@ -46,6 +46,12 @@ Every script finds the pack root from its own path, so they run from anywhere.
    required: without it PopTracker reads the return as an item count, and a
    SequenceBreak (5) is just "5 >= 1" and paints green. The visibility rule
    must NOT have one — it resolves through the count branch and returns 0 or 1.
+4. `apworld/export_location_options.py` -> `scripts/autotracking/option_for_location.lua`,
+   `scripts/autotracking/barrier_meta.lua` and `generated/location_kinds.json`
+   Which sanity option gates each check, and what each check is, from the
+   apworld's own `loc_type`. Which kinds are an object placed in a room is
+   discovered rather than listed -- such a kind has a data table whose entries
+   carry a field flag -- so a kind the apworld adds is picked up on its own.
 
 `scripts/logic/rf4_rules.lua` evaluates the clauses at runtime and is hand-written.
 

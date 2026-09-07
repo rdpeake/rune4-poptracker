@@ -4055,6 +4055,12 @@
                 "opt_maxsell"
             ],
             [
+                "opt_chestsanity",
+                "opt_barriersanity",
+                "opt_boxsanity",
+                "opt_searchsanity"
+            ],
+            [
                 "rf4_logic_info"
             ]
         ]

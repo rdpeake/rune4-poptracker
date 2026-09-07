@@ -1,24 +1,29 @@
 -- Location options
 --
--- The apworld has 15 "sanity" toggles deciding which location groups a slot
--- contains, but fill_slot_data only sends Friendsanity and Tamesanity. So each
--- is a pack toggle the player can set by hand, and on connect we correct them
--- from the room itself.
+-- The apworld has a "sanity" toggle for each group of locations a slot may
+-- contain, but fill_slot_data sends only some of them. So each is a pack
+-- toggle the player can set by hand, and on connect we correct them from the
+-- room itself.
 --
 -- ALL_LOCATIONS (built in PreOnClear from MissingLocations + CheckedLocations)
--- is every location id in the slot. That is exact and covers all 15 options,
--- including the 13 that never reach slot_data.
+-- is every location id in the slot. That is exact and covers every option,
+-- including the ones that never reach slot_data.
 --
 -- This runs from OnFrameHandler rather than the end of OnClear: the clear
 -- handler fires before PopTracker has finished settling item state, so options
 -- set there can be overwritten.
 
-OPTION_CODES = {
-    "opt_cropsanity", "opt_fishsanity", "opt_goldcropsanity", "opt_largecropsanity",
-    "opt_dropsanity", "opt_craftsanity", "opt_forgesanity", "opt_dishsanity",
-    "opt_spellsanity", "opt_foragesanity", "opt_chemicsanity", "opt_mineralsanity",
-    "opt_requestsanity", "opt_friendsanity", "opt_tamesanity",
-}
+-- OPTION_CODES -- every option that gates a location -- is generated into
+-- scripts/autotracking/option_for_location.lua beside the table it indexes,
+-- so an option the apworld adds cannot be missing from one and present in the
+-- other. (opt_searchsanity was, while the list was kept by hand here.)
+
+---@return table<string, boolean> OPTION_CODES as a set
+local function knownCodes()
+    local set = {}
+    for _, code in ipairs(OPTION_CODES) do set[code] = true end
+    return set
+end
 
 ---@param code string
 ---@param on boolean
@@ -41,8 +46,8 @@ function OptionsFromRoom()
     if ALL_LOCATIONS == nil or #ALL_LOCATIONS == 0 then
         return nil
     end
-    local used = {}
-    for _, code in ipairs(OPTION_CODES) do used[code] = false end
+    local used = knownCodes()
+    for code in pairs(used) do used[code] = false end
     local gated = 0
     for _, id in ipairs(ALL_LOCATIONS) do
         local code = OPTION_FOR_LOCATION[id]
@@ -65,11 +70,18 @@ end
 ---@param slot_data table|nil
 function ApplyLocationOptions(slot_data)
     if slot_data then
-        if slot_data["Friendsanity"] ~= nil then
-            setOption("opt_friendsanity", slot_data["Friendsanity"] ~= 0)
-        end
-        if slot_data["Tamesanity"] ~= nil then
-            setOption("opt_tamesanity", slot_data["Tamesanity"] ~= 0)
+        -- The 2026-09-04 apworld sends five more of these than it used to, so
+        -- they no longer have to be inferred from the room's location list.
+        -- The pack's code for an option is "opt_" .. the apworld's own name
+        -- lowercased, which is what fill_slot_data keys them by -- so match on
+        -- that rather than on a table of names, and an option upstream adds or
+        -- recapitalises (Friendsanity vs ChestSanity) arrives on its own.
+        local known = knownCodes()
+        for key, value in pairs(slot_data) do
+            local code = "opt_" .. string.lower(tostring(key))
+            if known[code] and (type(value) == "number" or type(value) == "boolean") then
+                setOption(code, value ~= 0 and value ~= false)
+            end
         end
     end
     -- The five options that never reach slot_data are handled separately; see

@@ -50,6 +50,46 @@
         "codes": "opt_dropsanity"
     },
     {
+        "name": "Chest locations",
+        "type": "toggle",
+        "img": "images/items/close.png",
+        "disabled_img": "images/items/close.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": true,
+        "overlay_align": "right",
+        "codes": "opt_chestsanity"
+    },
+    {
+        "name": "Barrier locations",
+        "type": "toggle",
+        "img": "images/items/close.png",
+        "disabled_img": "images/items/close.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "opt_barriersanity"
+    },
+    {
+        "name": "Box locations",
+        "type": "toggle",
+        "img": "images/items/close.png",
+        "disabled_img": "images/items/close.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "opt_boxsanity"
+    },
+    {
+        "name": "Search point locations",
+        "type": "toggle",
+        "img": "images/items/close.png",
+        "disabled_img": "images/items/close.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "opt_searchsanity"
+    },
+    {
         "name": "Crafting locations",
         "type": "toggle",
         "img": "images/settings/opt_craftsanity.png",
