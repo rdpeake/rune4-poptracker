@@ -3,7 +3,8 @@
 -- PopTracker has no visibility rule for a tab, so the whole panel is swapped:
 -- two layout files define the same keys and the last loaded wins. Worth
 -- pinning: the variant with the tab loads only when requestsanity is on, and a
--- redundant swap is skipped, since AddLayouts rebuilds the whole panel.
+-- redundant swap is skipped, since AddLayouts rebuilds the whole panel --
+-- including the swap back to the panel layouts_import.lua already loaded.
 --
 -- Run from the pack root with any Lua 5.x:   lua tests/item_panel_test.lua
 
@@ -28,20 +29,18 @@ local function check(label, want, got)
 end
 local function last() return LOADED[#LOADED] end
 
+-- layouts_import.lua has already loaded item_panel.json by the time this runs,
+-- so "off" is the state the pack starts in and needs no load at all.
 ON = 0
 RF4_UpdateItemPanel()
-check("off: loads the panel without the tab", "layouts/item_panel.json", last())
-
-local n = #LOADED
 RF4_UpdateItemPanel()
-RF4_UpdateItemPanel()
-check("off twice more: no redundant rebuild", n, #LOADED)
+check("off: the imported panel is already right, so no rebuild", 0, #LOADED)
 
 ON = 1
 RF4_UpdateItemPanel()
 check("on: loads the variant with the tab", "layouts/item_panel_requests.json", last())
 
-n = #LOADED
+local n = #LOADED
 RF4_UpdateItemPanel()
 check("on twice: no redundant rebuild", n, #LOADED)
 

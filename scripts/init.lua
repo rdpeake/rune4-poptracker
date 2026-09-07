@@ -13,6 +13,7 @@ require("scripts.logic.rf4_rules")
 require("scripts.logic_info")
 require("scripts.location_filters")
 require("scripts.item_panel")
+require("scripts.chroma")
 require("scripts.auto_tab")
 
 -- Maps
@@ -37,6 +38,9 @@ function OnFrameHandler()
     -- the Requests tab is present only when the seed has request checks
     ScriptHost:AddWatchForCode("requests tab", REQUEST_OPTION, RF4_UpdateItemPanel)
     RF4_UpdateItemPanel()
+    -- flat background for chroma keying; see scripts/chroma.lua
+    ScriptHost:AddWatchForCode("chroma background", CHROMA_OPTION, RF4_UpdateChroma)
+    RF4_UpdateChroma()
     if RF4_ReportAutoTabState then
         ScriptHost:AddWatchForCode("auto tab option", AUTO_TAB_CODE,
                                    RF4_ReportAutoTabState)

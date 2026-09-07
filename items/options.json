@@ -260,5 +260,15 @@
         "overlay_background": "#000000",
         "overlay_font_size": 9,
         "codes": "opt_autotab"
+    },
+    {
+        "name": "Chroma key background",
+        "type": "toggle",
+        "img": "images/settings/opt_chroma.png",
+        "disabled_img": "images/settings/opt_chroma.png",
+        "disabled_img_mods": "@disabled",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "opt_chroma"
     }
 ]
