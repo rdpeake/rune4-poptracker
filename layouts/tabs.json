@@ -533,20 +533,11 @@
                     "type": "tabbed",
                     "tabs": [
                         {
-                            "title": "Selphia",
+                            "title": "Drops",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Shipments Selphia"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Selphia Plains",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Shipments Selphia Plains"
+                                    "Drops"
                                 ]
                             }
                         },
@@ -555,25 +546,61 @@
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Shipments Autumn Road"
+                                    "Drops - Autumn Road"
                                 ]
                             }
                         },
                         {
-                            "title": "Sercerezo Hill",
+                            "title": "Crops & Seeds",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Shipments Sercerezo Hill"
+                                    "Crops & Seeds"
                                 ]
                             }
                         },
                         {
-                            "title": "Anywhere",
+                            "title": "Fish",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Shipments Anywhere"
+                                    "Fish"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Spells",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Spells"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Food & Medicine",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Food & Medicine"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Barn",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Barn Products"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Other",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Other"
                                 ]
                             }
                         }
@@ -1160,20 +1187,11 @@
                     "type": "tabbed",
                     "tabs": [
                         {
-                            "title": "Selphia",
+                            "title": "Drops",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Shipments Selphia"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Selphia Plains",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Shipments Selphia Plains"
+                                    "Drops"
                                 ]
                             }
                         },
@@ -1182,25 +1200,61 @@
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Shipments Autumn Road"
+                                    "Drops - Autumn Road"
                                 ]
                             }
                         },
                         {
-                            "title": "Sercerezo Hill",
+                            "title": "Crops & Seeds",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Shipments Sercerezo Hill"
+                                    "Crops & Seeds"
                                 ]
                             }
                         },
                         {
-                            "title": "Anywhere",
+                            "title": "Fish",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Shipments Anywhere"
+                                    "Fish"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Spells",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Spells"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Food & Medicine",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Food & Medicine"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Barn",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Barn Products"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Other",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Other"
                                 ]
                             }
                         }

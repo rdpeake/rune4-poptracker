@@ -5,7 +5,7 @@ GlobalFonts.registerFromPath('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf','
 const REPO = process.argv[4] || '/mnt/c/Users/Russell/source/repos/rune4-poptracker'
 const maps = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'))
 const outdir = process.argv[3]
-const TILE=46, MARK=16, BAND=MARK+3, GAP=4, P=TILE+BAND+GAP, PW=TILE+GAP, COLS=24, PAD=14
+const TILE=46, MARK=16, BAND=MARK+3, GAP=4, RULE=34, PW=TILE+GAP, COLS=24, PAD=14
 const cache = new Map()
 async function img (p) {
   if (!p) return null
@@ -44,16 +44,42 @@ async function build (mapName, file, items) {
   probe.font = 'bold 12px DVB'
   const GUT = Math.max(46, ...items.map(it =>
     Math.ceil(probe.measureText(String(it.group)).width) + 24))
+  // no room for a ruler on a sheet with nothing to put in it
+  const rule = items.some(it => it.sub !== null && it.sub !== undefined) ? RULE : 0
+  const P = TILE + BAND + rule + GAP
   const groups = new Map()
   for (const it of items) {
     const g = it.group
     if (!groups.has(g)) groups.set(g, [])
     groups.get(g).push(it)
   }
+  // Place each group into slots rather than straight down the list: a run that
+  // would leave one or two of its items stranded on the far side of a row break
+  // starts on the next row instead.
+  function layout (v) {
+    const slot = []
+    let at = 0, i = 0
+    while (i < v.length) {
+      let j = i
+      while (j + 1 < v.length && v[j + 1].sub === v[i].sub) j++
+      const len = j - i + 1
+      const left = COLS - (at % COLS)
+      if (left !== COLS && (left < 3 || len - left < 3) && len > left) {
+        at += left                                // push the run to a fresh row
+      }
+      for (let k = i; k <= j; k++) slot.push(at++)
+      i = j + 1
+    }
+    return slot
+  }
+  const slots = new Map()
+  for (const [g, v] of groups) slots.set(g, layout(v))
   let H = PAD
-  for (const [, v] of groups) H += Math.ceil(v.length / COLS) * P + 10
+  for (const [g, v] of groups) {
+    H += Math.ceil((slots.get(g)[v.length - 1] + 1) / COLS) * P + 10
+  }
   let used = 0
-  for (const [, v] of groups) used = Math.max(used, Math.min(v.length, COLS))
+  for (const [g, v] of groups) for (const sl of slots.get(g)) used = Math.max(used, sl % COLS + 1)
   const W = GUT + used * PW + PAD
   const c = createCanvas(W, H + PAD), x = c.getContext('2d')
   const g = x.createLinearGradient(0, 0, 0, H)
@@ -61,7 +87,8 @@ async function build (mapName, file, items) {
   x.fillStyle = g; x.fillRect(0, 0, W, H + PAD)
   const pins = []; let y = PAD
   for (const [region, v] of groups) {
-    const rows = Math.ceil(v.length / COLS)
+    const slot = slots.get(region)
+    const rows = Math.ceil((slot[v.length - 1] + 1) / COLS)
     x.fillStyle = 'rgba(60,48,20,.07)'; x.fillRect(0, y - 5, W, rows * P + 6)
     x.strokeStyle = 'rgba(90,70,30,.28)'; x.lineWidth = 1
     x.beginPath(); x.moveTo(0, y - 5.5); x.lineTo(W, y - 5.5); x.stroke()
@@ -69,11 +96,58 @@ async function build (mapName, file, items) {
     x.textAlign = 'right'; x.textBaseline = 'middle'
     x.fillText(region, GUT - 12, y + rows * P / 2 - GAP)
     for (let i = 0; i < v.length; i++) {
-      const ox = GUT + (i % COLS) * PW, oy = y + Math.floor(i / COLS) * P, ay = oy + BAND
+      const ox = GUT + (slot[i] % COLS) * PW, oy = y + Math.floor(slot[i] / COLS) * P, ay = oy + BAND
       const im = await img(v[i].img)
       if (im) x.drawImage(im, ox, ay, TILE, TILE); else textTile(x, ox, ay, v[i].name)
       x.fillStyle = 'rgba(70,55,20,.13)'; x.fillRect(ox, oy, TILE, BAND - 2)
       pins.push({ path: v[i].path, x: Math.round(ox + TILE / 2), y: Math.round(oy + MARK / 2 + 1) })
+    }
+    // the sub-label ruler: one bracket per run of equal `sub` within a row.
+    // The bracket is what says where a group starts and ends, so it is drawn
+    // whole and its end ticks go on last; the label gets out of its way.
+    for (let r = 0; r < rows; r++) {
+      const idx = []
+      for (let k = 0; k < v.length; k++) if (Math.floor(slot[k] / COLS) === r) idx.push(k)
+      let n = 0, lastRight = [-1e9, -1e9]
+      while (n < idx.length) {
+        const s = v[idx[n]].sub
+        let m = n
+        while (m + 1 < idx.length && v[idx[m + 1]].sub === s) m++
+        if (s !== null && s !== undefined) {
+          const c0 = slot[idx[n]] % COLS, c1 = slot[idx[m]] % COLS
+          const x0 = GUT + c0 * PW, x1 = GUT + c1 * PW + TILE
+          const ry = y + r * P + BAND + TILE + 8
+          x.font = 'bold 9px DVB'
+          const w = Math.min(x.measureText(String(s)).width + 8, W - 4)
+          // a label that would swamp its own bracket sits under it instead
+          let line = w <= x1 - x0 - 8 ? 0 : 1
+          let cx = Math.min(Math.max((x0 + x1) / 2, w / 2 + 2), W - w / 2 - 2)
+          if (cx - w / 2 < lastRight[line]) line = line ? 0 : 1
+          if (cx - w / 2 < lastRight[line]) line = 2
+          const ly = ry + [0, 11, 22][line]
+          lastRight[line] = Math.max(lastRight[line] || -1e9, cx + w / 2)
+
+          x.strokeStyle = 'rgba(74,58,18,.55)'; x.lineWidth = 1
+          x.beginPath()
+          if (line === 0) {                       // punch the label into the line
+            x.moveTo(x0 + .5, ry + .5); x.lineTo(cx - w / 2, ry + .5)
+            x.moveTo(cx + w / 2, ry + .5); x.lineTo(x1 - .5, ry + .5)
+          } else {
+            x.moveTo(x0 + .5, ry + .5); x.lineTo(x1 - .5, ry + .5)
+          }
+          x.stroke()
+          x.fillStyle = '#f0e8cc'; x.fillRect(cx - w / 2, ly - 5, w, 11)
+          x.fillStyle = '#5b4718'
+          x.textAlign = 'center'; x.textBaseline = 'middle'
+          x.fillText(String(s), cx, ly + .5)
+          x.strokeStyle = 'rgba(74,58,18,.8)'; x.lineWidth = 1.4
+          x.beginPath()                            // end ticks last: never hidden
+          x.moveTo(x0 + .7, ry - 4); x.lineTo(x0 + .7, ry + 1)
+          x.moveTo(x1 - .7, ry - 4); x.lineTo(x1 - .7, ry + 1)
+          x.stroke()
+        }
+        n = m + 1
+      }
     }
     y += rows * P + 10
   }

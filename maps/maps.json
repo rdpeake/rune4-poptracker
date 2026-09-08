@@ -252,39 +252,60 @@
         "img": "images/maps/Blank.png"
     },
     {
-        "name": "Shipments Selphia",
+        "name": "Drops",
         "location_size": 16,
         "location_border_thickness": 2,
         "location_shape": "rect",
-        "img": "images/maps/grid_shipments_selphia.png"
+        "img": "images/maps/grid_drops.png"
     },
     {
-        "name": "Shipments Selphia Plains",
+        "name": "Drops - Autumn Road",
         "location_size": 16,
         "location_border_thickness": 2,
         "location_shape": "rect",
-        "img": "images/maps/grid_shipments_selphiaplains.png"
+        "img": "images/maps/grid_drops_autumn_road.png"
     },
     {
-        "name": "Shipments Autumn Road",
+        "name": "Crops & Seeds",
         "location_size": 16,
         "location_border_thickness": 2,
         "location_shape": "rect",
-        "img": "images/maps/grid_shipments_autumnroad.png"
+        "img": "images/maps/grid_crops_seeds.png"
     },
     {
-        "name": "Shipments Sercerezo Hill",
+        "name": "Fish",
         "location_size": 16,
         "location_border_thickness": 2,
         "location_shape": "rect",
-        "img": "images/maps/grid_shipments_sercerezohill.png"
+        "img": "images/maps/grid_fish.png"
     },
     {
-        "name": "Shipments Anywhere",
+        "name": "Spells",
         "location_size": 16,
         "location_border_thickness": 2,
         "location_shape": "rect",
-        "img": "images/maps/grid_shipments_anywhere.png"
+        "img": "images/maps/grid_spells.png"
+    },
+    {
+        "name": "Food & Medicine",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_food_medicine.png"
+    },
+    {
+        "name": "Barn Products",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_barn_products.png"
+    },
+    {
+        "name": "Other",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_other.png"
     },
     {
         "name": "Tames Selphia",

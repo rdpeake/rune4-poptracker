@@ -21,6 +21,9 @@ that tool is used.
                           field flag.  tools/apworld/export_check_rooms.py
     transitions.json      source map -> destination map -> the rooms you
                           leave from.  tools/gamedata/export_transitions.py
+    grid_layout.json      grid sheet -> the shipment pins on it, in order,
+                          with the band and ruler label each one carries
+                          tools/apworld/export_grid_layout.py
 
 They are committed so the rest of the tools run without a copy of the game or
 the apworld. To change what is in them, change what they are derived from:

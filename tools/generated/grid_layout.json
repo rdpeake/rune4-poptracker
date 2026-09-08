@@ -1,0 +1,2478 @@
+{
+ "Crops & Seeds": [
+  {
+   "path": "Selphia/Shipment/Turnip Seeds",
+   "band": "Crops & Seeds",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Turnip",
+   "band": "Crops & Seeds",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Tyrant Turnip",
+   "band": "Crops & Seeds",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Toyherb Seeds",
+   "band": "Crops & Seeds",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Toyherb",
+   "band": "Crops & Seeds",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Ultra Toyherb",
+   "band": "Crops & Seeds",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Fodder Seeds",
+   "band": "Crops & Seeds",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Potato Seeds",
+   "band": "Crops & Seeds",
+   "sub": 1
+  },
+  {
+   "path": "Selphia/Shipment/Potato",
+   "band": "Crops & Seeds",
+   "sub": 1
+  },
+  {
+   "path": "Selphia/Shipment/Princely Potato",
+   "band": "Crops & Seeds",
+   "sub": 1
+  },
+  {
+   "path": "Selphia/Shipment/Spinach Seeds",
+   "band": "Crops & Seeds",
+   "sub": 1
+  },
+  {
+   "path": "Selphia/Shipment/Spinach",
+   "band": "Crops & Seeds",
+   "sub": 1
+  },
+  {
+   "path": "Selphia/Shipment/Sovereign Spinach",
+   "band": "Crops & Seeds",
+   "sub": 1
+  },
+  {
+   "path": "Selphia/Shipment/Radish Seeds",
+   "band": "Crops & Seeds",
+   "sub": 1
+  },
+  {
+   "path": "Selphia/Shipment/Radish",
+   "band": "Crops & Seeds",
+   "sub": 1
+  },
+  {
+   "path": "Selphia/Shipment/Noble Radish",
+   "band": "Crops & Seeds",
+   "sub": 1
+  },
+  {
+   "path": "Selphia/Shipment/Moondrop Seeds",
+   "band": "Crops & Seeds",
+   "sub": 1
+  },
+  {
+   "path": "Selphia/Shipment/Moondrop Flower",
+   "band": "Crops & Seeds",
+   "sub": 1
+  },
+  {
+   "path": "Selphia/Shipment/Ultra Moondrop Flower",
+   "band": "Crops & Seeds",
+   "sub": 1
+  },
+  {
+   "path": "Selphia/Shipment/Pink Cat Seeds",
+   "band": "Crops & Seeds",
+   "sub": 1
+  },
+  {
+   "path": "Selphia/Shipment/Pink Cat",
+   "band": "Crops & Seeds",
+   "sub": 1
+  },
+  {
+   "path": "Selphia/Shipment/King Pink Cat",
+   "band": "Crops & Seeds",
+   "sub": 1
+  },
+  {
+   "path": "Selphia/Shipment/Pink Turnip Seeds",
+   "band": "Crops & Seeds",
+   "sub": 2
+  },
+  {
+   "path": "Selphia/Shipment/Pink Turnip",
+   "band": "Crops & Seeds",
+   "sub": 2
+  },
+  {
+   "path": "Selphia/Shipment/Colossal Pink",
+   "band": "Crops & Seeds",
+   "sub": 2
+  },
+  {
+   "path": "Selphia Plains/West/Shipment/Grape Tree Seed",
+   "band": "Crops & Seeds",
+   "sub": 2
+  },
+  {
+   "path": "Selphia Plains/West/Shipment/Grapes",
+   "band": "Crops & Seeds",
+   "sub": 2
+  },
+  {
+   "path": "Selphia Plains/West/Shipment/Apple Tree Seeds",
+   "band": "Crops & Seeds",
+   "sub": 2
+  },
+  {
+   "path": "Selphia Plains/West/Shipment/Apple",
+   "band": "Crops & Seeds",
+   "sub": 2
+  },
+  {
+   "path": "Selphia Plains/West/Shipment/Orange Tree Seed",
+   "band": "Crops & Seeds",
+   "sub": 2
+  },
+  {
+   "path": "Selphia Plains/West/Shipment/Orange",
+   "band": "Crops & Seeds",
+   "sub": 2
+  },
+  {
+   "path": "Selphia/Shipment/Charm Blue Seeds",
+   "band": "Crops & Seeds",
+   "sub": 2
+  },
+  {
+   "path": "Selphia/Shipment/Charm Blue",
+   "band": "Crops & Seeds",
+   "sub": 2
+  },
+  {
+   "path": "Selphia/Shipment/Great Charm Blue",
+   "band": "Crops & Seeds",
+   "sub": 2
+  },
+  {
+   "path": "Obsidian Mansion/Shipment/Shining Seed",
+   "band": "Crops & Seeds",
+   "sub": 2
+  },
+  {
+   "path": "Selphia/Shipment/Yam Seeds",
+   "band": "Crops & Seeds",
+   "sub": 3
+  },
+  {
+   "path": "Selphia/Shipment/Yam",
+   "band": "Crops & Seeds",
+   "sub": 3
+  },
+  {
+   "path": "Selphia/Shipment/Lordly Yam",
+   "band": "Crops & Seeds",
+   "sub": 3
+  },
+  {
+   "path": "Selphia/Shipment/Pom-Pom Grass Sds.",
+   "band": "Crops & Seeds",
+   "sub": 3
+  },
+  {
+   "path": "Selphia/Shipment/Pom-Pom Grass",
+   "band": "Crops & Seeds",
+   "sub": 3
+  },
+  {
+   "path": "Selphia/Shipment/King Pom-Pom Grass",
+   "band": "Crops & Seeds",
+   "sub": 3
+  },
+  {
+   "path": "Selphia/Shipment/Corn Seeds",
+   "band": "Crops & Seeds",
+   "sub": 4
+  },
+  {
+   "path": "Selphia/Shipment/Corn",
+   "band": "Crops & Seeds",
+   "sub": 4
+  },
+  {
+   "path": "Selphia/Shipment/Gigant Corn",
+   "band": "Crops & Seeds",
+   "sub": 4
+  },
+  {
+   "path": "Selphia/Shipment/Carrot Seeds",
+   "band": "Crops & Seeds",
+   "sub": 4
+  },
+  {
+   "path": "Selphia/Shipment/Carrot",
+   "band": "Crops & Seeds",
+   "sub": 4
+  },
+  {
+   "path": "Selphia/Shipment/Royal Carrot",
+   "band": "Crops & Seeds",
+   "sub": 4
+  },
+  {
+   "path": "Selphia/Shipment/Strawberry Seeds",
+   "band": "Crops & Seeds",
+   "sub": 4
+  },
+  {
+   "path": "Selphia/Shipment/Strawberry",
+   "band": "Crops & Seeds",
+   "sub": 4
+  },
+  {
+   "path": "Selphia/Shipment/Sultan Strawberry",
+   "band": "Crops & Seeds",
+   "sub": 4
+  },
+  {
+   "path": "Selphia/Shipment/Cherry Grass Seeds",
+   "band": "Crops & Seeds",
+   "sub": 4
+  },
+  {
+   "path": "Selphia/Shipment/Cherry Grass",
+   "band": "Crops & Seeds",
+   "sub": 4
+  },
+  {
+   "path": "Selphia/Shipment/King Cherry Grass",
+   "band": "Crops & Seeds",
+   "sub": 4
+  },
+  {
+   "path": "Selphia/Shipment/Pumpkin Seeds",
+   "band": "Crops & Seeds",
+   "sub": 5
+  },
+  {
+   "path": "Selphia/Shipment/Pumpkin",
+   "band": "Crops & Seeds",
+   "sub": 5
+  },
+  {
+   "path": "Selphia/Shipment/Doom Pumpkin",
+   "band": "Crops & Seeds",
+   "sub": 5
+  },
+  {
+   "path": "Selphia/Shipment/Cucumber Seeds",
+   "band": "Crops & Seeds",
+   "sub": 5
+  },
+  {
+   "path": "Selphia/Shipment/Cucumber",
+   "band": "Crops & Seeds",
+   "sub": 5
+  },
+  {
+   "path": "Selphia/Shipment/Kaiser Cucumber",
+   "band": "Crops & Seeds",
+   "sub": 5
+  },
+  {
+   "path": "Selphia/Shipment/Lamp Grass Seeds",
+   "band": "Crops & Seeds",
+   "sub": 5
+  },
+  {
+   "path": "Selphia/Shipment/Lamp Grass",
+   "band": "Crops & Seeds",
+   "sub": 5
+  },
+  {
+   "path": "Selphia/Shipment/Kaiser Lamp Grass",
+   "band": "Crops & Seeds",
+   "sub": 5
+  },
+  {
+   "path": "Demons Den/Shipment/Dungeon Seed",
+   "band": "Crops & Seeds",
+   "sub": 5
+  },
+  {
+   "path": "Selphia/Shipment/Green Pepper Seeds",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Selphia/Shipment/Green Pepper",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Selphia/Shipment/Green Pepper Rex",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Water Ruins/Shipment/Leek Seeds",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Water Ruins/Shipment/Leek",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Water Ruins/Shipment/Legendary Leek",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Blue Crystal Seeds",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Blue Crystal",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Big Blue Crystal",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Selphia/Shipment/Clover Seeds",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Selphia/Shipment/4-Leaf Clover",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Selphia/Shipment/Great 4-Leaf Clover",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Green Crystal Seeds",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Green Crystal",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Big Green Crystal",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Red Crystal Seeds",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Red Crystal",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Big Red Crystal",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/White Crystal Seeds",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/White Crystal",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Big White Crystal",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Demons Den/Shipment/Sword Seed",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Demons Den/Shipment/Plant Sword",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Demons Den/Shipment/Shield Seed",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Demons Den/Shipment/Magic Plant Shield",
+   "band": "Crops & Seeds",
+   "sub": 6
+  },
+  {
+   "path": "Selphia/Shipment/Cabbage Seeds",
+   "band": "Crops & Seeds",
+   "sub": 7
+  },
+  {
+   "path": "Selphia/Shipment/Cabbage",
+   "band": "Crops & Seeds",
+   "sub": 7
+  },
+  {
+   "path": "Selphia/Shipment/King Cabbage",
+   "band": "Crops & Seeds",
+   "sub": 7
+  },
+  {
+   "path": "Selphia/Shipment/Onion Seeds",
+   "band": "Crops & Seeds",
+   "sub": 7
+  },
+  {
+   "path": "Selphia/Shipment/Onion",
+   "band": "Crops & Seeds",
+   "sub": 7
+  },
+  {
+   "path": "Selphia/Shipment/Ultra Onion",
+   "band": "Crops & Seeds",
+   "sub": 7
+  },
+  {
+   "path": "Selphia/Shipment/Bok Choy Seeds",
+   "band": "Crops & Seeds",
+   "sub": 7
+  },
+  {
+   "path": "Selphia/Shipment/Bok Choy",
+   "band": "Crops & Seeds",
+   "sub": 7
+  },
+  {
+   "path": "Selphia/Shipment/Boss Bok Choy",
+   "band": "Crops & Seeds",
+   "sub": 7
+  },
+  {
+   "path": "Selphia/Shipment/Ironleaf Seeds",
+   "band": "Crops & Seeds",
+   "sub": 7
+  },
+  {
+   "path": "Selphia/Shipment/Ironleaf",
+   "band": "Crops & Seeds",
+   "sub": 7
+  },
+  {
+   "path": "Selphia/Shipment/Super Ironleaf",
+   "band": "Crops & Seeds",
+   "sub": 7
+  },
+  {
+   "path": "Selphia/Shipment/Eggplant Seeds",
+   "band": "Crops & Seeds",
+   "sub": 8
+  },
+  {
+   "path": "Selphia/Shipment/Eggplant",
+   "band": "Crops & Seeds",
+   "sub": 8
+  },
+  {
+   "path": "Selphia/Shipment/Emperor Eggplant",
+   "band": "Crops & Seeds",
+   "sub": 8
+  },
+  {
+   "path": "Selphia/Shipment/Hot-Hot Seeds",
+   "band": "Crops & Seeds",
+   "sub": 8
+  },
+  {
+   "path": "Selphia/Shipment/Hot-Hot Fruit",
+   "band": "Crops & Seeds",
+   "sub": 8
+  },
+  {
+   "path": "Selphia/Shipment/Giant Hot-Hot Fruit",
+   "band": "Crops & Seeds",
+   "sub": 8
+  },
+  {
+   "path": "Selphia/Shipment/Pineapple Seeds",
+   "band": "Crops & Seeds",
+   "sub": 8
+  },
+  {
+   "path": "Selphia/Shipment/Pineapple",
+   "band": "Crops & Seeds",
+   "sub": 8
+  },
+  {
+   "path": "Selphia/Shipment/King Pineapple",
+   "band": "Crops & Seeds",
+   "sub": 8
+  },
+  {
+   "path": "Selphia/Shipment/Autumn Grass Seeds",
+   "band": "Crops & Seeds",
+   "sub": 8
+  },
+  {
+   "path": "Selphia/Shipment/Autumn Grass",
+   "band": "Crops & Seeds",
+   "sub": 8
+  },
+  {
+   "path": "Selphia/Shipment/Big Autumn Grass",
+   "band": "Crops & Seeds",
+   "sub": 8
+  },
+  {
+   "path": "Selphia/Shipment/Pink Melon",
+   "band": "Crops & Seeds",
+   "sub": 9
+  },
+  {
+   "path": "Selphia/Shipment/Conqueror Melon",
+   "band": "Crops & Seeds",
+   "sub": 9
+  },
+  {
+   "path": "Selphia/Shipment/Tomato Seeds",
+   "band": "Crops & Seeds",
+   "sub": 9
+  },
+  {
+   "path": "Selphia/Shipment/Tomato",
+   "band": "Crops & Seeds",
+   "sub": 9
+  },
+  {
+   "path": "Selphia/Shipment/Titan Tomato",
+   "band": "Crops & Seeds",
+   "sub": 9
+  },
+  {
+   "path": "Selphia/Shipment/Fireflower Seeds",
+   "band": "Crops & Seeds",
+   "sub": 9
+  },
+  {
+   "path": "Selphia/Shipment/Fireflower",
+   "band": "Crops & Seeds",
+   "sub": 9
+  },
+  {
+   "path": "Selphia/Shipment/Big Fireflower",
+   "band": "Crops & Seeds",
+   "sub": 9
+  },
+  {
+   "path": "Selphia/Shipment/Noel Grass Seeds",
+   "band": "Crops & Seeds",
+   "sub": 9
+  },
+  {
+   "path": "Selphia/Shipment/Noel Grass",
+   "band": "Crops & Seeds",
+   "sub": 9
+  },
+  {
+   "path": "Selphia/Shipment/Large Noel Grass",
+   "band": "Crops & Seeds",
+   "sub": 9
+  },
+  {
+   "path": "Selphia/Shipment/Gold Melon Seeds",
+   "band": "Crops & Seeds",
+   "sub": 9
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Gold Cabbage Seeds",
+   "band": "Crops & Seeds",
+   "sub": 10
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Golden Cabbage",
+   "band": "Crops & Seeds",
+   "sub": 10
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Golden King Cabbage",
+   "band": "Crops & Seeds",
+   "sub": 10
+  },
+  {
+   "path": "Selphia/Shipment/Gold Pumpkin Seeds",
+   "band": "Crops & Seeds",
+   "sub": 10
+  },
+  {
+   "path": "Selphia/Shipment/Golden Pumpkin",
+   "band": "Crops & Seeds",
+   "sub": 10
+  },
+  {
+   "path": "Selphia/Shipment/Gldn. Doom Pumpkin",
+   "band": "Crops & Seeds",
+   "sub": 10
+  },
+  {
+   "path": "Water Ruins/Shipment/Gold Potato Seeds",
+   "band": "Crops & Seeds",
+   "sub": 10
+  },
+  {
+   "path": "Water Ruins/Shipment/Golden Potato",
+   "band": "Crops & Seeds",
+   "sub": 10
+  },
+  {
+   "path": "Water Ruins/Shipment/Gold Prince Potato",
+   "band": "Crops & Seeds",
+   "sub": 10
+  },
+  {
+   "path": "Floating Empire/Shipment/Gold Turnip Seeds",
+   "band": "Crops & Seeds",
+   "sub": 10
+  },
+  {
+   "path": "Floating Empire/Shipment/Golden Turnip",
+   "band": "Crops & Seeds",
+   "sub": 10
+  },
+  {
+   "path": "Floating Empire/Shipment/Golden Tyrant Turnip",
+   "band": "Crops & Seeds",
+   "sub": 10
+  },
+  {
+   "path": "Selphia/Shipment/Emery Flower Seeds",
+   "band": "Crops & Seeds",
+   "sub": 11
+  },
+  {
+   "path": "Selphia/Shipment/Emery Flower",
+   "band": "Crops & Seeds",
+   "sub": 11
+  },
+  {
+   "path": "Selphia/Shipment/Great Emery Flower",
+   "band": "Crops & Seeds",
+   "sub": 11
+  }
+ ],
+ "Drops - Autumn Road": [
+  {
+   "path": "Obsidian Mansion/Shipment/Boss - Cursed Doll",
+   "band": "Obsidian Mansion",
+   "sub": null
+  },
+  {
+   "path": "Obsidian Mansion/Shipment/Boss - Puppetry Strings",
+   "band": "Obsidian Mansion",
+   "sub": null
+  },
+  {
+   "path": "Obsidian Mansion/Shipment/Dark Crystal",
+   "band": "Obsidian Mansion",
+   "sub": null
+  },
+  {
+   "path": "Obsidian Mansion/Shipment/Ghost Hood",
+   "band": "Obsidian Mansion",
+   "sub": null
+  },
+  {
+   "path": "Obsidian Mansion/Shipment/Insect Jaw",
+   "band": "Obsidian Mansion",
+   "sub": null
+  },
+  {
+   "path": "Obsidian Mansion/Shipment/Magic Crystal",
+   "band": "Obsidian Mansion",
+   "sub": null
+  },
+  {
+   "path": "Obsidian Mansion/Shipment/Panther Claw",
+   "band": "Obsidian Mansion",
+   "sub": null
+  },
+  {
+   "path": "Obsidian Mansion/Shipment/Spider's Thread",
+   "band": "Obsidian Mansion",
+   "sub": null
+  },
+  {
+   "path": "Obsidian Mansion/Shipment/Black Grass",
+   "band": "Obsidian Mansion",
+   "sub": null
+  },
+  {
+   "path": "Obsidian Mansion/Shipment/Glitta Augite",
+   "band": "Obsidian Mansion",
+   "sub": null
+  },
+  {
+   "path": "Revival Cave/Shipment/Boss - Dragon Bones",
+   "band": "Revival Cave",
+   "sub": null
+  },
+  {
+   "path": "Revival Cave/Shipment/Ayngondaia Lawn",
+   "band": "Revival Cave",
+   "sub": null
+  },
+  {
+   "path": "Selphia Plains/West/Shipment/Fairy Dust",
+   "band": "Selphia Plains - West",
+   "sub": null
+  },
+  {
+   "path": "Selphia Plains/West/Shipment/Yellow Down",
+   "band": "Selphia Plains - West",
+   "sub": null
+  },
+  {
+   "path": "Selphia Plains/West/Shipment/Bronze",
+   "band": "Selphia Plains - West",
+   "sub": null
+  },
+  {
+   "path": "Autumn Road/Shipment/Shade Stone",
+   "band": "Selphia Plains - West",
+   "sub": null
+  },
+  {
+   "path": "Autumn Road/Shipment/Palm Claw",
+   "band": "Autumn Road",
+   "sub": null
+  },
+  {
+   "path": "Autumn Road/Shipment/Poison Powder",
+   "band": "Autumn Road",
+   "sub": null
+  },
+  {
+   "path": "Autumn Road/Shipment/Quality Puffy Fur",
+   "band": "Autumn Road",
+   "sub": null
+  },
+  {
+   "path": "Autumn Road/Shipment/Red Core",
+   "band": "Autumn Road",
+   "sub": null
+  },
+  {
+   "path": "Autumn Road/Shipment/Vine",
+   "band": "Autumn Road",
+   "sub": null
+  },
+  {
+   "path": "Autumn Road/Shipment/Yellow Grass",
+   "band": "Autumn Road",
+   "sub": null
+  },
+  {
+   "path": "Autumn Road/Shipment/Silver",
+   "band": "Autumn Road",
+   "sub": null
+  },
+  {
+   "path": "Delirium Lava Ruins/Shipment/Boss - Rafflesia Petal",
+   "band": "Delirium Lava Ruins",
+   "sub": null
+  },
+  {
+   "path": "Delirium Lava Ruins/Shipment/Bull's Horn",
+   "band": "Delirium Lava Ruins",
+   "sub": null
+  },
+  {
+   "path": "Delirium Lava Ruins/Shipment/Fire Crystal",
+   "band": "Delirium Lava Ruins",
+   "sub": null
+  },
+  {
+   "path": "Delirium Lava Ruins/Shipment/Giant's Nail",
+   "band": "Delirium Lava Ruins",
+   "sub": null
+  },
+  {
+   "path": "Delirium Lava Ruins/Shipment/Quality Cloth",
+   "band": "Delirium Lava Ruins",
+   "sub": null
+  },
+  {
+   "path": "Delirium Lava Ruins/Shipment/Scorpion Tail",
+   "band": "Delirium Lava Ruins",
+   "sub": null
+  },
+  {
+   "path": "Delirium Lava Ruins/Shipment/Red Grass",
+   "band": "Delirium Lava Ruins",
+   "sub": null
+  },
+  {
+   "path": "Delirium Lava Ruins/Shipment/Ruby",
+   "band": "Delirium Lava Ruins",
+   "sub": null
+  },
+  {
+   "path": "Maya Road/Shipment/Boss - Fire Dragon Ash",
+   "band": "Maya Road",
+   "sub": null
+  },
+  {
+   "path": "Maya Road/Shipment/Black Bird Feather",
+   "band": "Maya Road",
+   "sub": null
+  },
+  {
+   "path": "Maya Road/Shipment/Giant's Gloves",
+   "band": "Maya Road",
+   "sub": null
+  },
+  {
+   "path": "Maya Road/Shipment/Green Core",
+   "band": "Maya Road",
+   "sub": null
+  },
+  {
+   "path": "Maya Road/Shipment/Paralysis Poison",
+   "band": "Maya Road",
+   "sub": null
+  },
+  {
+   "path": "Maya Road/Shipment/Rigid Horn",
+   "band": "Maya Road",
+   "sub": null
+  },
+  {
+   "path": "Maya Road/Shipment/Gold",
+   "band": "Maya Road",
+   "sub": null
+  },
+  {
+   "path": "Maya Road/(Underground)/Shipment/Mysterious Powder",
+   "band": "Maya Road",
+   "sub": "Maya Road (Underground)"
+  },
+  {
+   "path": "Maya Road/(Underground)/Shipment/Light Ore",
+   "band": "Maya Road",
+   "sub": "Maya Road (Underground)"
+  },
+  {
+   "path": "Maya Road/(Underground)/Shipment/Sapphire",
+   "band": "Maya Road",
+   "sub": "Maya Road (Underground)"
+  },
+  {
+   "path": "Sechs Territory/Shipment/Boss - Icy Nose",
+   "band": "Sechs Territory",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/Shipment/Boss - Water Dragon Ash",
+   "band": "Sechs Territory",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/Shipment/Blue Core",
+   "band": "Sechs Territory",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/Shipment/Blue Giant's Glove",
+   "band": "Sechs Territory",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/Shipment/Gold Wolf Fang",
+   "band": "Sechs Territory",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/Shipment/Magic",
+   "band": "Sechs Territory",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/Shipment/Penguin Down",
+   "band": "Sechs Territory",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/Shipment/Scorpion Pincer",
+   "band": "Sechs Territory",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/Shipment/Shoulder Piece",
+   "band": "Sechs Territory",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/Shipment/Strong Vine",
+   "band": "Sechs Territory",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/Shipment/Unbroken Ivory Tusk",
+   "band": "Sechs Territory",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/Shipment/Wet Scale",
+   "band": "Sechs Territory",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/Shipment/White Grass",
+   "band": "Sechs Territory",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/Shipment/Diamond",
+   "band": "Sechs Territory",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/Shipment/White Stone",
+   "band": "Sechs Territory",
+   "sub": null
+  },
+  {
+   "path": "Leon Karnak/Shipment/Boss - Crystal Skull",
+   "band": "Leon Karnak",
+   "sub": null
+  },
+  {
+   "path": "Leon Karnak/Shipment/Boss - Grimoire Scale",
+   "band": "Leon Karnak",
+   "sub": null
+  },
+  {
+   "path": "Leon Karnak/Shipment/Boss - Left Rock Shard",
+   "band": "Leon Karnak",
+   "sub": null
+  },
+  {
+   "path": "Leon Karnak/Shipment/Boss - Right Rock Shard",
+   "band": "Leon Karnak",
+   "sub": null
+  },
+  {
+   "path": "Leon Karnak/Shipment/10-Fold Steel",
+   "band": "Leon Karnak",
+   "sub": null
+  },
+  {
+   "path": "Leon Karnak/Shipment/Devil Horn",
+   "band": "Leon Karnak",
+   "sub": null
+  },
+  {
+   "path": "Leon Karnak/Shipment/Double Steel",
+   "band": "Leon Karnak",
+   "sub": null
+  },
+  {
+   "path": "Leon Karnak/Shipment/Light Crystal",
+   "band": "Leon Karnak",
+   "sub": null
+  },
+  {
+   "path": "Leon Karnak/Shipment/Malm Claw",
+   "band": "Leon Karnak",
+   "sub": null
+  },
+  {
+   "path": "Leon Karnak/Shipment/Proof of Rank",
+   "band": "Leon Karnak",
+   "sub": null
+  },
+  {
+   "path": "Leon Karnak/Shipment/Warrior's Proof",
+   "band": "Leon Karnak",
+   "sub": null
+  },
+  {
+   "path": "Leon Karnak/Shipment/Big Crystal",
+   "band": "Leon Karnak",
+   "sub": null
+  },
+  {
+   "path": "Leon Karnak/Shipment/Orichalcum",
+   "band": "Leon Karnak",
+   "sub": null
+  },
+  {
+   "path": "Rune Prana/F1/Shipment/Dragon Scale",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F1"
+  },
+  {
+   "path": "Rune Prana/F1/Shipment/Quality Worn Cloth",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F1"
+  },
+  {
+   "path": "Rune Prana/F2/Shipment/Poison King",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F2"
+  },
+  {
+   "path": "Rune Prana/F2/Shipment/Yellow Feather",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F2"
+  },
+  {
+   "path": "Rune Prana/F3/Shipment/Pirate's Armor",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F3"
+  },
+  {
+   "path": "Rune Prana/F3/Shipment/Turnip's Miracle",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F3"
+  },
+  {
+   "path": "Rune Prana/F4/Shipment/Big Giant's Nail",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F4"
+  },
+  {
+   "path": "Rune Prana/F4/Shipment/Crimson Scale",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F4"
+  },
+  {
+   "path": "Rune Prana/F4/Shipment/Queen's Jaw",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F4"
+  },
+  {
+   "path": "Rune Prana/F4/Shipment/Dragonic Stone",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F4"
+  },
+  {
+   "path": "Rune Prana/F5/Shipment/Dangerous Scissors",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F5"
+  },
+  {
+   "path": "Rune Prana/F6/Shipment/Blue Scale",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F6"
+  },
+  {
+   "path": "Rune Prana/F6/Shipment/Glitter Scale",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F6"
+  },
+  {
+   "path": "Rune Prana/F6/Shipment/Golem Spirit Stone",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F6"
+  },
+  {
+   "path": "Rune Prana/F6/Shipment/Love Scale",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F6"
+  },
+  {
+   "path": "Rune Prana/F7/Shipment/Ancient Orc Cloth",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F7"
+  },
+  {
+   "path": "Rune Prana/F7/Shipment/Black Scale",
+   "band": "Rune Prana",
+   "sub": "Rune Prana F7"
+  },
+  {
+   "path": "Rune Prana/F2/Shipment/Boss - Ammonite",
+   "band": "Rune Prana",
+   "sub": null
+  },
+  {
+   "path": "Rune Prana/F4/Shipment/Boss - Blue Lion Fur",
+   "band": "Rune Prana",
+   "sub": null
+  },
+  {
+   "path": "Rune Prana/F6/Shipment/Boss - Broken Ice Wall",
+   "band": "Rune Prana",
+   "sub": null
+  },
+  {
+   "path": "Rune Prana/F7/Shipment/Boss - Chest Hair",
+   "band": "Rune Prana",
+   "sub": null
+  },
+  {
+   "path": "Rune Prana/F7/Shipment/Boss - Chimera Tail",
+   "band": "Rune Prana",
+   "sub": null
+  },
+  {
+   "path": "Rune Prana/F1/Shipment/Boss - Electro Crystal",
+   "band": "Rune Prana",
+   "sub": null
+  },
+  {
+   "path": "Rune Prana/F5/Shipment/Boss - Melody Bottle",
+   "band": "Rune Prana",
+   "sub": null
+  },
+  {
+   "path": "Rune Prana/F7/Shipment/Boss - Moving Branch",
+   "band": "Rune Prana",
+   "sub": null
+  },
+  {
+   "path": "Rune Prana/F4/Shipment/Boss - Red Lion Fur",
+   "band": "Rune Prana",
+   "sub": null
+  },
+  {
+   "path": "Rune Prana/F7/Shipment/Boss - Rune Sphere Shard",
+   "band": "Rune Prana",
+   "sub": null
+  },
+  {
+   "path": "Rune Prana/F7/Shipment/Boss - Tablet of Truth",
+   "band": "Rune Prana",
+   "sub": null
+  },
+  {
+   "path": "Rune Prana/F7/Shipment/Boss - Throne of the Empire",
+   "band": "Rune Prana",
+   "sub": null
+  }
+ ],
+ "Drops": [
+  {
+   "path": "Selphia/Shipment/Antidote Grass",
+   "band": "Selphia",
+   "sub": "Selphia"
+  },
+  {
+   "path": "Selphia/Shipment/Fodder",
+   "band": "Selphia",
+   "sub": "Selphia"
+  },
+  {
+   "path": "Selphia/Shipment/Medicinal Herb",
+   "band": "Selphia",
+   "sub": "Selphia"
+  },
+  {
+   "path": "Selphia/Shipment/Weeds",
+   "band": "Selphia",
+   "sub": "Selphia"
+  },
+  {
+   "path": "Selphia/Shipment/Withered Grass",
+   "band": "Selphia",
+   "sub": "Selphia"
+  },
+  {
+   "path": "Floating Empire/West/Shipment/Boss - Golem Tablet",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/South/Shipment/Boss - MTGU Plate",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/East/Shipment/Boss - Rusty Screw",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/East/Shipment/Boss - Shiny Screw",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/Shipment/Blk. Tortoise Shell",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/Shipment/Cheap Propeller",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/Shipment/Dragon Fang",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/Shipment/Fairy Elixir",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/Shipment/Glistening Blade",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/Shipment/Golem Stone",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/Shipment/Great Hammer Shard",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/Shipment/Love Crystal",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/Shipment/Magic Claw",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/Shipment/Pretty Thread",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/Shipment/Quality Propeller",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/Shipment/Thick Stick",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/Shipment/Thunderbird Feather",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Floating Empire/Shipment/Platinum",
+   "band": "Selphia",
+   "sub": "Floating Empire"
+  },
+  {
+   "path": "Sharance Maze/Deepwater Shrine Lv 10/Shipment/Boss - Dragon Fin",
+   "band": "Selphia",
+   "sub": "Sharance Maze"
+  },
+  {
+   "path": "Sharance Maze/Shipment/Boss - Earthwyrm Scale",
+   "band": "Selphia",
+   "sub": "Sharance Maze"
+  },
+  {
+   "path": "Sharance Maze/Shipment/Boss - Firewyrm Scale",
+   "band": "Selphia",
+   "sub": "Sharance Maze"
+  },
+  {
+   "path": "Sharance Maze/Deepwater Shrine Lv 10/Shipment/Boss - Legendary Scale",
+   "band": "Selphia",
+   "sub": "Sharance Maze"
+  },
+  {
+   "path": "Sharance Maze/Dragon Ruins Level 12/Shipment/Boss - Wind Dragon Tooth",
+   "band": "Selphia",
+   "sub": "Sharance Maze"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Fur",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Holy Spore",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Spore",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Green Grass",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Purple Grass",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Amethyst",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Earth Crystal",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Invisible Stone",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Iron",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Scrap Metal",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Mushroom 1",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Mushroom 2",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Mushroom 3",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Mushroom 4",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Mushroom 5",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Mushroom 6",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Boss - Ambrosia's Thorns",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Arrowhead",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Cheap Cloth",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Insect Carapace",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Insect Horn",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Stick",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Blue Grass",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Selphia Plains/East/Shipment/Wooly Furball",
+   "band": "Selphia Plains",
+   "sub": "Selphia Plains - East"
+  },
+  {
+   "path": "Yokmir Forest/Cave/Shipment/Glue",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Cave"
+  },
+  {
+   "path": "Yokmir Forest/Cave/Shipment/Gunpowder",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Cave"
+  },
+  {
+   "path": "Yokmir Forest/Cave/Shipment/Plant Stem",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Cave"
+  },
+  {
+   "path": "Yokmir Forest/Cave/Shipment/Pretty Carapace",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Cave"
+  },
+  {
+   "path": "Yokmir Forest/Cave/Shipment/Quality Fur",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Cave"
+  },
+  {
+   "path": "Yokmir Forest/Cave/Shipment/Wind Crystal",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Cave"
+  },
+  {
+   "path": "Yokmir Forest/Cave/Shipment/Wolf Fang",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Cave"
+  },
+  {
+   "path": "Yokmir Forest/Cave/Shipment/Indigo Grass",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Cave"
+  },
+  {
+   "path": "Yokmir Forest/Cave/Shipment/Emerald",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Cave"
+  },
+  {
+   "path": "Cluck Cluck Nest/Shipment/Big Bird's Comb",
+   "band": "Selphia Plains",
+   "sub": "Cluck Cluck Nest"
+  },
+  {
+   "path": "Water Ruins/Shipment/Boss - Chimera's Claw",
+   "band": "Selphia Plains",
+   "sub": "Water Ruins"
+  },
+  {
+   "path": "Water Ruins/Shipment/Boss - Lightning Mane",
+   "band": "Selphia Plains",
+   "sub": "Water Ruins"
+  },
+  {
+   "path": "Water Ruins/Shipment/Bird's Feather",
+   "band": "Selphia Plains",
+   "sub": "Water Ruins"
+  },
+  {
+   "path": "Water Ruins/Shipment/Blade Shard",
+   "band": "Selphia Plains",
+   "sub": "Water Ruins"
+  },
+  {
+   "path": "Water Ruins/Shipment/Fish Fossil",
+   "band": "Selphia Plains",
+   "sub": "Water Ruins"
+  },
+  {
+   "path": "Water Ruins/Shipment/Old Bandage",
+   "band": "Selphia Plains",
+   "sub": "Water Ruins"
+  },
+  {
+   "path": "Water Ruins/Shipment/Turtle Shell",
+   "band": "Selphia Plains",
+   "sub": "Water Ruins"
+  },
+  {
+   "path": "Water Ruins/Shipment/Water Crystal",
+   "band": "Selphia Plains",
+   "sub": "Water Ruins"
+  },
+  {
+   "path": "Water Ruins/Shipment/Aquamarine",
+   "band": "Selphia Plains",
+   "sub": "Water Ruins"
+  },
+  {
+   "path": "Idra Cave/Shipment/Boss - Earth Dragon Ash",
+   "band": "Sercerezo Hill",
+   "sub": "Idra Cave"
+  },
+  {
+   "path": "Idra Cave/Shipment/Devil Blood",
+   "band": "Sercerezo Hill",
+   "sub": "Idra Cave"
+  },
+  {
+   "path": "Idra Cave/Shipment/Hammer Piece",
+   "band": "Sercerezo Hill",
+   "sub": "Idra Cave"
+  },
+  {
+   "path": "Idra Cave/Shipment/Magic Powder",
+   "band": "Sercerezo Hill",
+   "sub": "Idra Cave"
+  },
+  {
+   "path": "Idra Cave/Shipment/Silk Cloth",
+   "band": "Sercerezo Hill",
+   "sub": "Idra Cave"
+  },
+  {
+   "path": "Idra Cave/Shipment/Skull",
+   "band": "Sercerezo Hill",
+   "sub": "Idra Cave"
+  },
+  {
+   "path": "Idra Cave/Shipment/Tiny Golem Stone",
+   "band": "Sercerezo Hill",
+   "sub": "Idra Cave"
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Ivory Tusk",
+   "band": "Sercerezo Hill",
+   "sub": "Sercerezo Hill"
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Mealy Apple",
+   "band": "Sercerezo Hill",
+   "sub": "Sercerezo Hill"
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Root",
+   "band": "Sercerezo Hill",
+   "sub": "Sercerezo Hill"
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Yellow Core",
+   "band": "Sercerezo Hill",
+   "sub": "Sercerezo Hill"
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Orange Grass",
+   "band": "Sercerezo Hill",
+   "sub": "Sercerezo Hill"
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Monarch Mushroom",
+   "band": "Sercerezo Hill",
+   "sub": "Sercerezo Hill"
+  },
+  {
+   "path": "Demons Den/Shipment/Boss - Raccoon Leaf",
+   "band": "Sercerezo Hill",
+   "sub": "Demons Den"
+  },
+  {
+   "path": "Anywhere (Rare)/Shipment/Broken Box",
+   "band": "Anywhere",
+   "sub": "Anywhere (Rare)"
+  },
+  {
+   "path": "Anywhere (Rare)/Shipment/Broken Hilt",
+   "band": "Anywhere",
+   "sub": "Anywhere (Rare)"
+  },
+  {
+   "path": "Anywhere (Rare)/Shipment/Rune Crystal",
+   "band": "Anywhere",
+   "sub": "Anywhere (Rare)"
+  },
+  {
+   "path": "Anywhere (Rare)/Shipment/Small Crystal",
+   "band": "Anywhere",
+   "sub": "Anywhere (Rare)"
+  }
+ ],
+ "Spells": [
+  {
+   "path": "Floating Empire/East/Shipment/Avenger Rock",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Maya Road/F2/Shipment/Axel Disaster",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Delirium Lava Ruins/F1/Shipment/Big Fire",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Maya Road/F1/Shipment/Blitz",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Delirium Lava Ruins/F1/Shipment/Bonus Concerto",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Obsidian Mansion/Shipment/Cure",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Delirium Lava Ruins/F2/Shipment/Cure All",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/F1/Shipment/Cyclone",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Autumn Road/Shipment/Dark Ball",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Maya Road/B2/Shipment/Dark Snake",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Leon Karnak/Shipment/Darkness",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Yokmir Forest/Cave/F3/Shipment/Dash Slash",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Floating Empire/West/Shipment/Delta Laser",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Maya Road/B1/Shipment/Delta Strike",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Floating Empire/East/Shipment/Double Kick",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Idra Cave/B2/Shipment/Double Sonic",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Idra Cave/B2/Shipment/Earth Spike",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/F2/Shipment/Explosion",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Fireball",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Obsidian Mansion/Shipment/Flash Strike",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/Shipment/Giga Swing",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Floating Empire/East/Shipment/Grand Impact",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Greeting Spell",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Selphia Plains/West/Shipment/Gust",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Leon Karnak/Shipment/Hurricane",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Iron Waltz",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Delirium Lava Ruins/F2/Shipment/Light Barrier",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/F1/Shipment/Master Cure",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Idra Cave/Shipment/Mediparalyze",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Medipoison",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Maya Road/B1/Shipment/Mediseal",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Idra Cave/B1/Shipment/Millionstrike",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Idra Cave/B1/Shipment/Mind Thrust",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Autumn Road/Shipment/Naive Blade",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Floating Empire/Shipment/Neko Damashi",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Autumn Road/Shipment/Parallel Laser",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Floating Empire/South/Shipment/Penetrate Sonic",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Selphia Plains/Shipment/Power Wave",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Maya Road/B2/Shipment/Prism",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Maya Road/B2/Shipment/Rail Strike",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/F1/Shipment/Rapid Move",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Selphia Plains/Shipment/Reaper Slash",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Floating Empire/East/Shipment/Round Break",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Rush Attack",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Delirium Lava Ruins/F1/Shipment/Rush Punch",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Autumn Road/Shipment/Screw Rock",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Shine",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Yokmir Forest/Cave/F2/Shipment/Sonic Wind",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Stardust Upper",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/F1/Shipment/Steel Heart",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Storm",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/F2/Shipment/Straight Punch",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Striking March",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Floating Empire/South/Shipment/Tornado Swing",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Sechs Territory/F2/Shipment/Twin Attack",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Selphia Plains/Shipment/Upper Cut",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Water Ruins/Shipment/Water Laser",
+   "band": "Spell",
+   "sub": null
+  },
+  {
+   "path": "Leon Karnak/Shipment/Wind Slash",
+   "band": "Spell",
+   "sub": null
+  }
+ ],
+ "Food & Medicine": [
+  {
+   "path": "Selphia/Shipment/Accessory Bread",
+   "band": "Bread",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Chocolate",
+   "band": "Grocery",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Cooking Bread",
+   "band": "Bread",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Curry Powder",
+   "band": "Grocery",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Farming Bread",
+   "band": "Bread",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Flour",
+   "band": "Grocery",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Heavy Spice",
+   "band": "Grocery",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Medicine Bread",
+   "band": "Bread",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Mixed Herbs",
+   "band": "Grocery",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Oil",
+   "band": "Grocery",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Rice",
+   "band": "Grocery",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Rice Flour",
+   "band": "Grocery",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Sour Drop",
+   "band": "Grocery",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Sweet Powder",
+   "band": "Grocery",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Weapon Bread",
+   "band": "Bread",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Wine",
+   "band": "Grocery",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Elli Leaves",
+   "band": "Grocery",
+   "sub": 8
+  },
+  {
+   "path": "Selphia/Shipment/Heart Drink",
+   "band": "Vitamin",
+   "sub": 9
+  },
+  {
+   "path": "Selphia/Shipment/Intelligencer",
+   "band": "Vitamin",
+   "sub": 9
+  },
+  {
+   "path": "Selphia/Shipment/The Protein",
+   "band": "Vitamin",
+   "sub": 9
+  },
+  {
+   "path": "Selphia/Shipment/Vital Gummi",
+   "band": "Vitamin",
+   "sub": 9
+  },
+  {
+   "path": "Sharance Maze/Shipment/Accessory Bread+",
+   "band": "Bread",
+   "sub": 10
+  },
+  {
+   "path": "Sharance Maze/Shipment/Cooking Bread+",
+   "band": "Bread",
+   "sub": 10
+  },
+  {
+   "path": "Sharance Maze/Shipment/Farming Bread+",
+   "band": "Bread",
+   "sub": 10
+  },
+  {
+   "path": "Sharance Maze/Shipment/Medicine Bread+",
+   "band": "Bread",
+   "sub": 10
+  },
+  {
+   "path": "Sharance Maze/Shipment/Weapon Bread+",
+   "band": "Bread",
+   "sub": 10
+  },
+  {
+   "path": "Selphia/Shipment/Antidote Potion",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Cold Medicine",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Formuade",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Formula A",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Formula B",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Formula C",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Giantizer",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Greenifier",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Greenifier+",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Healing Potion",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Invinciroid",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Leveliser",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Love Potion",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Magical Potion",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Minimizer",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Mystery Potion",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/No Rot α",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/No Rot β",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Object X",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Para-Gone",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Recovery Potion",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Roundoff",
+   "band": "Potion",
+   "sub": null
+  },
+  {
+   "path": "Selphia/Shipment/Wettable Powder",
+   "band": "Potion",
+   "sub": null
+  }
+ ],
+ "Fish": [
+  {
+   "path": "Selphia/Shipment/Boot",
+   "band": "Selphia",
+   "sub": "Selphia"
+  },
+  {
+   "path": "Selphia/Shipment/Can",
+   "band": "Selphia",
+   "sub": "Selphia"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Lamp Squid",
+   "band": "Selphia Plains",
+   "sub": "Summer Spring"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Lobster",
+   "band": "Selphia Plains",
+   "sub": "Summer Spring"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Pike",
+   "band": "Selphia Plains",
+   "sub": "Summer Spring"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Shrimp",
+   "band": "Selphia Plains",
+   "sub": "Summer Spring"
+  },
+  {
+   "path": "Selphia Plains/Shipment/Tuna",
+   "band": "Selphia Plains",
+   "sub": "Summer Spring"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Char",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Cherry Salmon",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Chub",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Crucian Carp",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Flounder",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Gibelio",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Girella",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Mackerel",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Rainbow Trout",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Round Stone",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Sardine",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Skipjack",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Yokmir Forest/Shipment/Turbot",
+   "band": "Selphia Plains",
+   "sub": "Yokmir Forest"
+  },
+  {
+   "path": "Autumn Road/Shipment/Salmon",
+   "band": "Autumn Road",
+   "sub": "Autumn River"
+  },
+  {
+   "path": "Autumn Road/Shipment/Glitter Snapper",
+   "band": "Autumn Road",
+   "sub": "Autumn Spring"
+  },
+  {
+   "path": "Autumn Road/Shipment/Snapper",
+   "band": "Autumn Road",
+   "sub": "Autumn Spring"
+  },
+  {
+   "path": "Autumn Road/Shipment/Squid",
+   "band": "Autumn Road",
+   "sub": "Autumn Spring"
+  },
+  {
+   "path": "Maya Road/Shipment/Fall Flounder",
+   "band": "Autumn Road",
+   "sub": "Maya Road"
+  },
+  {
+   "path": "Sechs Territory/Cave/Shipment/Blowfish",
+   "band": "Autumn Road",
+   "sub": "Sechs Cave"
+  },
+  {
+   "path": "Sechs Territory/Cave/Shipment/Rare Can",
+   "band": "Autumn Road",
+   "sub": "Sechs Cave"
+  },
+  {
+   "path": "Sechs Territory/Cave/Shipment/Taimen",
+   "band": "Autumn Road",
+   "sub": "Sechs Cave"
+  },
+  {
+   "path": "Autumn Road/Shipment/Needlefish",
+   "band": "Autumn Road",
+   "sub": "Winter Spring"
+  },
+  {
+   "path": "Autumn Road/Shipment/Pond Smelt",
+   "band": "Autumn Road",
+   "sub": "Winter Spring"
+  },
+  {
+   "path": "Autumn Road/Shipment/Yellowtail",
+   "band": "Autumn Road",
+   "sub": "Winter Spring"
+  },
+  {
+   "path": "Idra Cave/Shipment/Sunsquid",
+   "band": "Sercerezo Hill",
+   "sub": "Idra Cave"
+  },
+  {
+   "path": "Idra Cave/Shipment/Throbby Snapper",
+   "band": "Sercerezo Hill",
+   "sub": "Idra Cave"
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Masu Trout",
+   "band": "Sercerezo Hill",
+   "sub": "Spring Spring"
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Rockfish",
+   "band": "Sercerezo Hill",
+   "sub": "Sercerezo Hill"
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Sand Flounder",
+   "band": "Sercerezo Hill",
+   "sub": "Sercerezo Hill"
+  }
+ ],
+ "Other": [
+  {
+   "path": "Selphia/Shipment/Bamboo Sprout",
+   "band": "Other",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Branch",
+   "band": "Other",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Brush",
+   "band": "Tool",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Lumber",
+   "band": "Other",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Magnifying Glass",
+   "band": "Tool",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Material Stone",
+   "band": "Other",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/progression",
+   "band": "Tool",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Rock",
+   "band": "Other",
+   "sub": 0
+  },
+  {
+   "path": "Selphia/Shipment/Scrap Metal+",
+   "band": "Forge",
+   "sub": 0
+  },
+  {
+   "path": "Selphia Plains/Shipment/Summer Headdress",
+   "band": "Special",
+   "sub": 0
+  },
+  {
+   "path": "Autumn Road/Shipment/Autumn Headdress",
+   "band": "Special",
+   "sub": 3
+  },
+  {
+   "path": "Sercerezo Hill/Shipment/Spring Headdress",
+   "band": "Special",
+   "sub": 5
+  },
+  {
+   "path": "Autumn Road/Shipment/Winter Headdress",
+   "band": "Special",
+   "sub": 7
+  }
+ ],
+ "Barn Products": [
+  {
+   "path": "Selphia Plains/Shipment/Milk (S)",
+   "band": "Buffamoo",
+   "sub": 0
+  },
+  {
+   "path": "Idra Cave/Shipment/Milk (M)",
+   "band": "Buffamoo",
+   "sub": 5
+  },
+  {
+   "path": "Floating Empire/Shipment/Milk (L)",
+   "band": "Buffamoo",
+   "sub": 10
+  },
+  {
+   "path": "Selphia Plains/Shipment/Egg (S)",
+   "band": "Cluckadoodle",
+   "sub": 0
+  },
+  {
+   "path": "Idra Cave/Shipment/Egg (M)",
+   "band": "Cluckadoodle",
+   "sub": 5
+  },
+  {
+   "path": "Floating Empire/Shipment/Egg (L)",
+   "band": "Cluckadoodle",
+   "sub": 10
+  },
+  {
+   "path": "Yokmir Forest/Cave/Shipment/Honey",
+   "band": "Hornet",
+   "sub": 0
+  },
+  {
+   "path": "Selphia Plains/Shipment/Fur (S)",
+   "band": "Wooly",
+   "sub": 0
+  },
+  {
+   "path": "Idra Cave/Shipment/Fur (M)",
+   "band": "Wooly",
+   "sub": 5
+  },
+  {
+   "path": "Floating Empire/Shipment/Fur (L)",
+   "band": "Wooly",
+   "sub": 8
+  }
+ ]
+}

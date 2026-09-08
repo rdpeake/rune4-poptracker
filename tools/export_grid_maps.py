@@ -75,20 +75,28 @@ def monster_art():
     return art
 
 
-def collect(sources, art, prefix):
-    """the gen_grid_maps.mjs input for one family of sheets"""
+def collect(sources, art, prefix, plan=None):
+    """the gen_grid_maps.mjs input for one family of sheets
+
+    A family with a plan -- generated/grid_layout.json -- takes its sheet, its
+    bands and its order from that. One without keeps the order of the pins on
+    disk, so a rebuild moves nothing it was not asked to.
+    """
     maps, owner = [], {}
-    for mapname, pins in sheets(sources).items():
+    laid = plan.items() if plan else (
+        (m, [{'path': r, 'band': r.split('/')[0], 'sub': None} for r, _ in p])
+        for m, p in sheets(sources).items())
+    for mapname, pins in laid:
         entries = []
-        for ref, src in pins:
+        for pin in pins:
+            ref = pin['path']
             name = ref.rsplit('/', 1)[-1]
-            entries.append({'path': ref, 'name': name,
-                            'group': ref.split('/')[0], 'img': art(name)})
-            owner[ref] = src
+            entries.append({'path': ref, 'name': name, 'group': pin['band'],
+                            'sub': pin['sub'], 'img': art(name)})
         missing = [e['name'] for e in entries if not e['img']]
         if missing:
             raise SystemExit('no %s image for %s' % (prefix or 'item', missing[:4]))
-        fileslug = mapname.lower().replace(' ', '')
+        fileslug = re.sub(r'[^a-z0-9]+', '_', mapname.lower()).strip('_')
         maps.append({'mapName': mapname, 'file': 'grid_%s.png' % fileslug,
                      'items': entries})
         print('%-26s %4d tiles' % (mapname, len(entries)))
@@ -96,17 +104,15 @@ def collect(sources, art, prefix):
 
 
 def main():
-    maps = (collect(SOURCES, item_art(), 'item')
+    plan = json.load(open(PACK + 'tools/generated/grid_layout.json',
+                          encoding='utf-8'))
+    maps = (collect(('locations/_Shipments.json',), item_art(), 'item', plan)
+            + collect(('locations/_Crafting.json',), item_art(), 'item')
             + collect(TAMES, monster_art(), 'monster'))
 
     # the shipped file names predate this tool, so keep them
     KNOWN = {'Forge': 'grid_forge.png', 'Crafting': 'grid_crafting.png',
              'Cooking': 'grid_cooking.png',
-             'Shipments Selphia': 'grid_shipments_selphia.png',
-             'Shipments Selphia Plains': 'grid_shipments_selphiaplains.png',
-             'Shipments Autumn Road': 'grid_shipments_autumnroad.png',
-             'Shipments Sercerezo Hill': 'grid_shipments_sercerezohill.png',
-             'Shipments Anywhere': 'grid_shipments_anywhere.png',
              'Tames Selphia': 'grid_tames_selphia.png',
              'Tames Selphia Plains': 'grid_tames_selphiaplains.png',
              'Tames Autumn Road': 'grid_tames_autumnroad.png',
