@@ -18,12 +18,13 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Floating Empire/Tame/Blood Panther"
+                        "ref": "Floating Empire/Tame/Blood Panther",
+                        "name": "Blood Panther - gifts: Panther Claw, Fur, Quality Fur, Devil Blood"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Selphia",
+                        "map": "Tames Floating Empire",
                         "x": 155,
                         "y": 23,
                         "size": 16,
@@ -42,12 +43,13 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Floating Empire/Tame/Dark Fairy"
+                        "ref": "Floating Empire/Tame/Dark Fairy",
+                        "name": "Dark Fairy - gifts: Fairy Dust, Love Potion, Prelude to Love"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Selphia",
+                        "map": "Tames Floating Empire",
                         "x": 205,
                         "y": 23,
                         "size": 16,
@@ -66,12 +68,13 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Floating Empire/West Tame/Dark Slime"
+                        "ref": "Floating Empire/West Tame/Dark Slime",
+                        "name": "Dark Slime - gifts: Aquamarine, Sapphire, Small Crystal, Wine"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Selphia",
+                        "map": "Tames Floating Empire",
                         "x": 255,
                         "y": 23,
                         "size": 16,
@@ -90,12 +93,13 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Floating Empire/Tame/Faust"
+                        "ref": "Floating Empire/Tame/Faust",
+                        "name": "Faust - gifts: Ghost Hood, Skull"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Selphia",
+                        "map": "Tames Floating Empire",
                         "x": 305,
                         "y": 23,
                         "size": 16,
@@ -114,12 +118,13 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Floating Empire/Tame/Fortoise"
+                        "ref": "Floating Empire/Tame/Fortoise",
+                        "name": "Fortoise - gift: Blk. Tortoise Shell"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Selphia",
+                        "map": "Tames Floating Empire",
                         "x": 355,
                         "y": 23,
                         "size": 16,
@@ -138,12 +143,13 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Floating Empire/Tame/Gigantes"
+                        "ref": "Floating Empire/Tame/Gigantes",
+                        "name": "Gigantes - gifts: Giant's Nail, Giant's Gloves, Hammer Piece"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Selphia",
+                        "map": "Tames Floating Empire",
                         "x": 405,
                         "y": 23,
                         "size": 16,
@@ -162,12 +168,13 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Floating Empire/Tame/Golem"
+                        "ref": "Floating Empire/Tame/Golem",
+                        "name": "Golem - gifts: Silver, Gold, Diamond"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Selphia",
+                        "map": "Tames Floating Empire",
                         "x": 455,
                         "y": 23,
                         "size": 16,
@@ -186,12 +193,13 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Floating Empire/Tame/Hell Spider"
+                        "ref": "Floating Empire/Tame/Hell Spider",
+                        "name": "Hell Spider - gifts: Spider's Thread, Pretty Thread, Insect Jaw"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Selphia",
+                        "map": "Tames Floating Empire",
                         "x": 505,
                         "y": 23,
                         "size": 16,
@@ -210,12 +218,13 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Floating Empire/Tame/Little Dragon"
+                        "ref": "Floating Empire/Tame/Little Dragon",
+                        "name": "Little Dragon - gift: Dragon Fang"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Selphia",
+                        "map": "Tames Floating Empire",
                         "x": 555,
                         "y": 23,
                         "size": 16,
@@ -234,12 +243,13 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Floating Empire/Tame/Master Giant"
+                        "ref": "Floating Empire/Tame/Master Giant",
+                        "name": "Master Giant - gift: Giant's Gloves"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Selphia",
+                        "map": "Tames Floating Empire",
                         "x": 605,
                         "y": 23,
                         "size": 16,
@@ -258,12 +268,13 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Floating Empire/Tame/Pepper Ghost"
+                        "ref": "Floating Empire/Tame/Pepper Ghost",
+                        "name": "Pepper Ghost - gifts: Green Pepper Seeds, Green Pepper, Ghost Hood"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Selphia",
+                        "map": "Tames Floating Empire",
                         "x": 655,
                         "y": 23,
                         "size": 16,
@@ -282,12 +293,13 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Floating Empire/Tame/Thunderbird"
+                        "ref": "Floating Empire/Tame/Thunderbird",
+                        "name": "Thunderbird - gifts: Thunderbird Feather, Branch"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Selphia",
+                        "map": "Tames Floating Empire",
                         "x": 705,
                         "y": 23,
                         "size": 16,
@@ -306,14 +318,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sharance Maze/Tame/Boss - Terrable"
+                        "ref": "Sharance Maze/Tame/Boss - Terrable",
+                        "name": "Boss - Terrable - gift: Turnip Heaven"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Selphia",
+                        "map": "Tames Floating Empire",
                         "x": 155,
-                        "y": 102,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -330,14 +343,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sharance Maze/Deepwater Shrine Lv 10 Tame/Boss - Aquaticus"
+                        "ref": "Sharance Maze/Deepwater Shrine Lv 10 Tame/Boss - Aquaticus",
+                        "name": "Boss - Aquaticus - gift: Union Stew"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Selphia",
+                        "map": "Tames Floating Empire",
                         "x": 205,
-                        "y": 102,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -354,14 +368,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sharance Maze/Tame/Boss - Fiersome"
+                        "ref": "Sharance Maze/Tame/Boss - Fiersome",
+                        "name": "Boss - Fiersome - gift: Gold Juice"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Selphia",
+                        "map": "Tames Floating Empire",
                         "x": 255,
-                        "y": 102,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -378,14 +393,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Cluck Cluck Nest/Tame/Mamadoodle"
+                        "ref": "Cluck Cluck Nest/Tame/Mamadoodle",
+                        "name": "Mamadoodle - gifts: Egg (S), Egg (M), Egg (L)"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 160,
-                        "y": 23,
+                        "x": 162,
+                        "y": 547,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -402,14 +418,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Selphia Plains/Tame/Big Muck"
+                        "ref": "Selphia Plains/Tame/Big Muck",
+                        "name": "Big Muck - gifts: Spore, Poison Powder, Plant Stem"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 160,
-                        "y": 102,
+                        "x": 162,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -426,14 +443,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Selphia Plains/Tame/Buffamoo"
+                        "ref": "Selphia Plains/Tame/Buffamoo",
+                        "name": "Buffamoo - gifts: Milk (S), Milk (M), Milk (L)"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 210,
-                        "y": 102,
+                        "x": 212,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -450,14 +468,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Selphia Plains/Tame/Chipsqueek"
+                        "ref": "Selphia Plains/Tame/Chipsqueek",
+                        "name": "Chipsqueek - gifts: Quality Fur, Fur, Branch"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 260,
-                        "y": 102,
+                        "x": 262,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -474,14 +493,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Selphia Plains/Tame/Cluckadoodle"
+                        "ref": "Selphia Plains/Tame/Cluckadoodle",
+                        "name": "Cluckadoodle - gifts: Egg (S), Egg (M), Egg (L), Bird's Feather"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 310,
-                        "y": 102,
+                        "x": 312,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -498,14 +518,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Selphia Plains/Tame/Pomme Pomme"
+                        "ref": "Selphia Plains/Tame/Pomme Pomme",
+                        "name": "Pomme Pomme - gifts: Apple, Baked Apple"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 360,
-                        "y": 102,
+                        "x": 362,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -522,14 +543,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Selphia Plains/Tame/Wooly"
+                        "ref": "Selphia Plains/Tame/Wooly",
+                        "name": "Wooly - gifts: Wooly Furball, Clippers"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 410,
-                        "y": 102,
+                        "x": 412,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -546,14 +568,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Selphia Plains/West Tame/Duck"
+                        "ref": "Selphia Plains/West Tame/Duck",
+                        "name": "Duck - gifts: Fur, Quality Fur, Bird's Feather"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 460,
-                        "y": 102,
+                        "x": 462,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -570,14 +593,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Selphia Plains/West Tame/Fairy"
+                        "ref": "Selphia Plains/West Tame/Fairy",
+                        "name": "Fairy - gifts: Fairy Dust, Love Potion, Prelude to Love"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 510,
-                        "y": 102,
+                        "x": 512,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -594,14 +618,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Selphia Plains/East Tame/Shmooly"
+                        "ref": "Selphia Plains/East Tame/Shmooly",
+                        "name": "Shmooly - gift: Clippers"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 560,
-                        "y": 102,
+                        "x": 562,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -618,14 +643,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Water Ruins/Tame/Goblin"
+                        "ref": "Water Ruins/Tame/Goblin",
+                        "name": "Goblin - gifts: Warrior's Proof, Glue, Old Bandage, Onigiri"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 160,
-                        "y": 181,
+                        "x": 162,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -642,14 +668,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Water Ruins/Tame/Goblin Archer"
+                        "ref": "Water Ruins/Tame/Goblin Archer",
+                        "name": "Goblin Archer - gifts: Arrowhead, Gunpowder, Old Bandage, Recovery Potion"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 210,
-                        "y": 181,
+                        "x": 212,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -666,14 +693,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Water Ruins/Tame/Boss - Thunderbolt"
+                        "ref": "Water Ruins/Tame/Boss - Thunderbolt",
+                        "name": "Boss - Thunderbolt - gift: Royal Carrot"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 260,
-                        "y": 181,
+                        "x": 262,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -690,14 +718,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Water Ruins/Tame/Sky Fish"
+                        "ref": "Water Ruins/Tame/Sky Fish",
+                        "name": "Sky Fish - gifts: Fish Fossil, Can, Rare Can"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 310,
-                        "y": 181,
+                        "x": 312,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -714,14 +743,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Water Ruins/Tame/Tortas"
+                        "ref": "Water Ruins/Tame/Tortas",
+                        "name": "Tortas - gifts: Turtle Shell, Egg (S)"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 360,
-                        "y": 181,
+                        "x": 362,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -738,14 +768,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Water Ruins/Tame/Weagle"
+                        "ref": "Water Ruins/Tame/Weagle",
+                        "name": "Weagle - gifts: Bird's Feather, Branch"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 410,
-                        "y": 181,
+                        "x": 412,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -762,14 +793,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Water Ruins/Tame/Boss - Chimera"
+                        "ref": "Water Ruins/Tame/Boss - Chimera",
+                        "name": "Boss - Chimera - gifts: Royal Curry, Ultimate Curry"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 460,
-                        "y": 181,
+                        "x": 462,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -786,14 +818,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Yokmir Forest/Tame/Ant"
+                        "ref": "Yokmir Forest/Tame/Ant",
+                        "name": "Ant - gifts: Insect Carapace, Pretty Carapace, Insect Jaw, Lumber"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 160,
-                        "y": 260,
+                        "x": 162,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -810,14 +843,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Yokmir Forest/Tame/Beetle"
+                        "ref": "Yokmir Forest/Tame/Beetle",
+                        "name": "Beetle - gifts: Rigid Horn, Insect Carapace, Pretty Carapace"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 210,
-                        "y": 260,
+                        "x": 212,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -834,14 +868,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Yokmir Forest/Tame/Boss - Ambrosia"
+                        "ref": "Yokmir Forest/Tame/Boss - Ambrosia",
+                        "name": "Boss - Ambrosia - gifts: Ultra Toyherb, Ultra Moondrop Flower, King Pink Cat, Great Charm Blue"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 260,
-                        "y": 260,
+                        "x": 262,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -858,14 +893,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Yokmir Forest/Tame/Orc"
+                        "ref": "Yokmir Forest/Tame/Orc",
+                        "name": "Orc - gifts: Cheap Cloth, Glue, Cheap Bracelet"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 310,
-                        "y": 260,
+                        "x": 312,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -882,14 +918,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Yokmir Forest/Tame/Orc Archer"
+                        "ref": "Yokmir Forest/Tame/Orc Archer",
+                        "name": "Orc Archer - gifts: Arrowhead, Gunpowder, Recovery Potion"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 360,
-                        "y": 260,
+                        "x": 362,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -906,14 +943,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Yokmir Forest/Tame/Boss - Dead Tree"
+                        "ref": "Yokmir Forest/Tame/Boss - Dead Tree",
+                        "name": "Boss - Dead Tree - gifts: Greenifier+, Formula C"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 410,
-                        "y": 260,
+                        "x": 412,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -930,14 +968,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Yokmir Forest/Cave/Tame/High Orc"
+                        "ref": "Yokmir Forest/Cave/Tame/High Orc",
+                        "name": "High Orc - gifts: Cheap Cloth, Glue, Cheap Bracelet"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 460,
-                        "y": 260,
+                        "x": 462,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -954,14 +993,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Yokmir Forest/Cave/Tame/Hornet"
+                        "ref": "Yokmir Forest/Cave/Tame/Hornet",
+                        "name": "Hornet - gifts: Insect Carapace, Pretty Carapace, Insect Jaw, Honey"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 510,
-                        "y": 260,
+                        "x": 512,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -978,14 +1018,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Yokmir Forest/Cave/Tame/Killer Ant"
+                        "ref": "Yokmir Forest/Cave/Tame/Killer Ant",
+                        "name": "Killer Ant - gifts: Insect Carapace, Pretty Carapace, Insect Jaw, Lumber"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 560,
-                        "y": 260,
+                        "x": 562,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1002,14 +1043,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Yokmir Forest/Cave/Tame/Leaf Ball"
+                        "ref": "Yokmir Forest/Cave/Tame/Leaf Ball",
+                        "name": "Leaf Ball - gifts: Root, Plant Stem, Strong Vine"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 610,
-                        "y": 260,
+                        "x": 612,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1026,14 +1068,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Yokmir Forest/Cave/Tame/Orc Hunter"
+                        "ref": "Yokmir Forest/Cave/Tame/Orc Hunter",
+                        "name": "Orc Hunter - gifts: Arrowhead, Gunpowder, Recovery Potion"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 660,
-                        "y": 260,
+                        "x": 662,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1050,14 +1093,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Yokmir Forest/Cave/Tame/Silver Wolf"
+                        "ref": "Yokmir Forest/Cave/Tame/Silver Wolf",
+                        "name": "Silver Wolf - gifts: Wolf Fang, Fur, Quality Fur"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Selphia Plains",
-                        "x": 710,
-                        "y": 260,
+                        "x": 712,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1074,14 +1118,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Autumn Road/Tame/Flower Lily"
+                        "ref": "Autumn Road/Tame/Flower Lily",
+                        "name": "Flower Lily - gifts: Root, Plant Stem, Strong Vine"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 183,
-                        "y": 23,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1098,14 +1143,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Autumn Road/Tame/Mino"
+                        "ref": "Autumn Road/Tame/Mino",
+                        "name": "Mino - gifts: Grapes, Grape Juice"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 233,
-                        "y": 23,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1122,14 +1168,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Autumn Road/Tame/Furpy"
+                        "ref": "Autumn Road/Tame/Furpy",
+                        "name": "Furpy - gifts: Quality Fur, Fur, Branch"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 283,
-                        "y": 23,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1146,14 +1193,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Autumn Road/Tame/Palm Cat"
+                        "ref": "Autumn Road/Tame/Palm Cat",
+                        "name": "Palm Cat - gifts: Fur, Cake"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 333,
-                        "y": 23,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1170,14 +1218,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Autumn Road/Tame/Tricky Muck"
+                        "ref": "Autumn Road/Tame/Tricky Muck",
+                        "name": "Tricky Muck - gifts: Spore, Poison Powder, Plant Stem"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 383,
-                        "y": 23,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1194,14 +1243,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Autumn Road/Tame/Red"
+                        "ref": "Autumn Road/Tame/Red",
+                        "name": "Red - gifts: Cake, Chocolate Cake"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 433,
-                        "y": 23,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1218,14 +1268,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Delirium Lava Ruins/Tame/Buffaloo"
+                        "ref": "Delirium Lava Ruins/Tame/Buffaloo",
+                        "name": "Buffaloo - gift: Bull's Horn"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 183,
-                        "y": 102,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1242,14 +1293,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Delirium Lava Ruins/Tame/Flower Lion"
+                        "ref": "Delirium Lava Ruins/Tame/Flower Lion",
+                        "name": "Flower Lion - gifts: Root, Plant Stem, Strong Vine"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 233,
-                        "y": 102,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1266,14 +1318,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Delirium Lava Ruins/Tame/Gangster Goblin"
+                        "ref": "Delirium Lava Ruins/Tame/Gangster Goblin",
+                        "name": "Gangster Goblin - gifts: Quality Cloth, Old Bandage, Skull, Oil"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 283,
-                        "y": 102,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1290,14 +1343,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Delirium Lava Ruins/Tame/Goblin Pirate"
+                        "ref": "Delirium Lava Ruins/Tame/Goblin Pirate",
+                        "name": "Goblin Pirate - gifts: Quality Cloth, Silk Cloth, Skull, Oil"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 333,
-                        "y": 102,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1314,14 +1368,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Delirium Lava Ruins/Tame/Ignis"
+                        "ref": "Delirium Lava Ruins/Tame/Ignis",
+                        "name": "Ignis - gifts: Magic Crystal, Fire Crystal"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 383,
-                        "y": 102,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1338,14 +1393,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Delirium Lava Ruins/Tame/Scorpion"
+                        "ref": "Delirium Lava Ruins/Tame/Scorpion",
+                        "name": "Scorpion - gifts: Scorpion Tail, Scorpion Pincer, Insect Carapace, Pretty Carapace"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 433,
-                        "y": 102,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1362,14 +1418,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Delirium Lava Ruins/Tame/Tomato Ghost"
+                        "ref": "Delirium Lava Ruins/Tame/Tomato Ghost",
+                        "name": "Tomato Ghost - gifts: Tomato Seeds, Tomato, Ghost Hood"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 483,
-                        "y": 102,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1386,14 +1443,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Delirium Lava Ruins/Tame/Troll"
+                        "ref": "Delirium Lava Ruins/Tame/Troll",
+                        "name": "Troll - gifts: Giant's Nail, Giant's Gloves, Hammer Piece"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 533,
-                        "y": 102,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1410,14 +1468,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Leon Karnak/Tame/Arch-Daemon"
+                        "ref": "Leon Karnak/Tame/Arch-Daemon",
+                        "name": "Arch-Daemon - gifts: Devil Horn, Devil Blood"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 183,
-                        "y": 181,
+                        "map": "Tames Sechs Territory",
+                        "x": 150,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1434,14 +1493,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Leon Karnak/Tame/Captain Goblin"
+                        "ref": "Leon Karnak/Tame/Captain Goblin",
+                        "name": "Captain Goblin - gifts: Quality Cloth, Silk Cloth, Skull, Oil"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 233,
-                        "y": 181,
+                        "map": "Tames Sechs Territory",
+                        "x": 200,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1458,14 +1518,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Leon Karnak/Tame/Goblin Don"
+                        "ref": "Leon Karnak/Tame/Goblin Don",
+                        "name": "Goblin Don - gifts: Quality Cloth, Old Bandage, Skull, Oil"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 283,
-                        "y": 181,
+                        "map": "Tames Sechs Territory",
+                        "x": 250,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1482,14 +1543,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Leon Karnak/Tame/Little Emperor"
+                        "ref": "Leon Karnak/Tame/Little Emperor",
+                        "name": "Little Emperor - gifts: Magic Powder, Magic Crystal, Small Crystal, Medicine Bread+"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 333,
-                        "y": 181,
+                        "map": "Tames Sechs Territory",
+                        "x": 300,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1506,14 +1568,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Leon Karnak/Tame/Malm Tiger"
+                        "ref": "Leon Karnak/Tame/Malm Tiger",
+                        "name": "Malm Tiger - gifts: Fur, Cake"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 383,
-                        "y": 181,
+                        "map": "Tames Sechs Territory",
+                        "x": 350,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1530,14 +1593,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Leon Karnak/Tame/Minotaur King"
+                        "ref": "Leon Karnak/Tame/Minotaur King",
+                        "name": "Minotaur King - gifts: Devil Horn, Devil Blood, Hammer Piece"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 433,
-                        "y": 181,
+                        "map": "Tames Sechs Territory",
+                        "x": 400,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1554,14 +1618,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Leon Karnak/Tame/Nappie"
+                        "ref": "Leon Karnak/Tame/Nappie",
+                        "name": "Nappie - gifts: Pineapple, Pineapple Juice"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 483,
-                        "y": 181,
+                        "map": "Tames Sechs Territory",
+                        "x": 450,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1578,14 +1643,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Leon Karnak/Tame/Boss - Grimoire 2"
+                        "ref": "Leon Karnak/Tame/Boss - Grimoire 2",
+                        "name": "Boss - Grimoire 2 - gifts: Golden Tyrant Turnip, Gold Prince Potato, Gldn. Doom Pumpkin, Golden King Cabbage"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 533,
-                        "y": 181,
+                        "map": "Tames Sechs Territory",
+                        "x": 500,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1602,14 +1668,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Leon Karnak/Tame/Boss - Sarcophagus"
+                        "ref": "Leon Karnak/Tame/Boss - Sarcophagus",
+                        "name": "Boss - Sarcophagus - gifts: Gold Juice, Mixed Juice, Mixed Smoothie"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 583,
-                        "y": 181,
+                        "map": "Tames Sechs Territory",
+                        "x": 550,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1626,14 +1693,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Maya Road/Tame/Airror"
+                        "ref": "Maya Road/Tame/Airror",
+                        "name": "Airror - gifts: Magic Crystal, Wind Crystal"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 183,
-                        "y": 260,
+                        "y": 416,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1650,14 +1718,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Maya Road/Tame/Blackbird"
+                        "ref": "Maya Road/Tame/Blackbird",
+                        "name": "Blackbird - gifts: Bird's Feather, Branch"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 233,
-                        "y": 260,
+                        "y": 416,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1674,14 +1743,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Maya Road/Tame/Green"
+                        "ref": "Maya Road/Tame/Green",
+                        "name": "Green - gifts: Cake, Chocolate Cake"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 283,
-                        "y": 260,
+                        "y": 416,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1698,14 +1768,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Maya Road/Tame/Hammer Troll"
+                        "ref": "Maya Road/Tame/Hammer Troll",
+                        "name": "Hammer Troll - gifts: Giant's Nail, Giant's Gloves, Hammer Piece"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 333,
-                        "y": 260,
+                        "y": 416,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1722,14 +1793,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Maya Road/Tame/Heracles"
+                        "ref": "Maya Road/Tame/Heracles",
+                        "name": "Heracles - gifts: Rigid Horn, Insect Carapace, Pretty Carapace"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 383,
-                        "y": 260,
+                        "y": 416,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1746,14 +1818,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Maya Road/Tame/Hornet Queen"
+                        "ref": "Maya Road/Tame/Hornet Queen",
+                        "name": "Hornet Queen - gifts: Insect Carapace, Pretty Carapace, Insect Jaw, Honey"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 433,
-                        "y": 260,
+                        "y": 416,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1770,14 +1843,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Maya Road/Tame/Planchoa"
+                        "ref": "Maya Road/Tame/Planchoa",
+                        "name": "Planchoa - gifts: Root, Plant Stem, Strong Vine"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 483,
-                        "y": 260,
+                        "y": 416,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1794,14 +1868,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Maya Road/Tame/Boss - Fiergaenger"
+                        "ref": "Maya Road/Tame/Boss - Fiergaenger",
+                        "name": "Boss - Fiergaenger - gift: Gold Juice"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 533,
-                        "y": 260,
+                        "y": 416,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1818,14 +1893,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Obsidian Mansion/Tame/Boss - Marionetta"
+                        "ref": "Obsidian Mansion/Tame/Boss - Marionetta",
+                        "name": "Boss - Marionetta - gifts: Cake, Chocolate Cake, Cheesecake, Apple Pie"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 183,
-                        "y": 339,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1842,14 +1918,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Obsidian Mansion/Tame/Ghost"
+                        "ref": "Obsidian Mansion/Tame/Ghost",
+                        "name": "Ghost - gifts: Ghost Hood, Skull"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 233,
-                        "y": 339,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1866,14 +1943,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Obsidian Mansion/Tame/Ghost Ray"
+                        "ref": "Obsidian Mansion/Tame/Ghost Ray",
+                        "name": "Ghost Ray - gifts: Ghost Hood, Skull"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 283,
-                        "y": 339,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1890,14 +1968,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Obsidian Mansion/Tame/Onion Ghost"
+                        "ref": "Obsidian Mansion/Tame/Onion Ghost",
+                        "name": "Onion Ghost - gifts: Onion Seeds, Onion, Ghost Hood"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 333,
-                        "y": 339,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1914,14 +1993,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Obsidian Mansion/Tame/Shadow Panther"
+                        "ref": "Obsidian Mansion/Tame/Shadow Panther",
+                        "name": "Shadow Panther - gifts: Panther Claw, Fur, Quality Fur"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 383,
-                        "y": 339,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1938,14 +2018,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Obsidian Mansion/Tame/Slime"
+                        "ref": "Obsidian Mansion/Tame/Slime",
+                        "name": "Slime - gifts: Ruby, Emerald, Small Crystal"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 433,
-                        "y": 339,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1962,14 +2043,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Obsidian Mansion/Tame/Spider"
+                        "ref": "Obsidian Mansion/Tame/Spider",
+                        "name": "Spider - gifts: Spider's Thread, Pretty Thread, Insect Jaw"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 483,
-                        "y": 339,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -1986,14 +2068,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Obsidian Mansion/Tame/Spirit"
+                        "ref": "Obsidian Mansion/Tame/Spirit",
+                        "name": "Spirit - gifts: Magic Crystal, Dark Crystal"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Autumn Road",
                         "x": 533,
-                        "y": 339,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2010,14 +2093,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F4/Tame/Ant Queen"
+                        "ref": "Rune Prana/F4/Tame/Ant Queen",
+                        "name": "Ant Queen - gift: Honey"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 183,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 126,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2034,14 +2118,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F7/Tame/Black Dragon"
+                        "ref": "Rune Prana/F7/Tame/Black Dragon",
+                        "name": "Black Dragon - gift: Dragon Fang"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 233,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 176,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2058,14 +2143,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F6/Tame/Blue Dragon"
+                        "ref": "Rune Prana/F6/Tame/Blue Dragon",
+                        "name": "Blue Dragon - gift: Dragon Fang"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 283,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 226,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2082,14 +2168,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F1/Tame/Boss - Bane Dragon"
+                        "ref": "Rune Prana/F1/Tame/Boss - Bane Dragon",
+                        "name": "Boss - Bane Dragon - gift: Rockfish Stew"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 333,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 276,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2106,14 +2193,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F7/Tame/Boss - Chimera 2"
+                        "ref": "Rune Prana/F7/Tame/Boss - Chimera 2",
+                        "name": "Boss - Chimera 2 - gifts: Royal Curry, Ultimate Curry"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 383,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 326,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2130,14 +2218,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F3/Tame/Boss - Crystal Mammoth 2"
+                        "ref": "Rune Prana/F3/Tame/Boss - Crystal Mammoth 2",
+                        "name": "Boss - Crystal Mammoth 2 - gift: King Pineapple"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 433,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 376,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2154,14 +2243,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F7/Tame/Boss - Dead Tree 2"
+                        "ref": "Rune Prana/F7/Tame/Boss - Dead Tree 2",
+                        "name": "Boss - Dead Tree 2 - gifts: Greenifier+, Formula C"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 483,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 426,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2178,14 +2268,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F6/Tame/Boss - Death Wall"
+                        "ref": "Rune Prana/F6/Tame/Boss - Death Wall",
+                        "name": "Boss - Death Wall - gift: Ice Cream"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 533,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 476,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2202,14 +2293,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F7/Tame/Boss - Emerald (Boss)"
+                        "ref": "Rune Prana/F7/Tame/Boss - Emerald (Boss)",
+                        "name": "Boss - Emerald (Boss) - gift: Big Green Crystal"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 583,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 526,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2226,14 +2318,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F7/Tame/Boss - G Golem"
+                        "ref": "Rune Prana/F7/Tame/Boss - G Golem",
+                        "name": "Boss - G Golem - gift: Orichalcum"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 633,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 576,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2250,14 +2343,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F7/Tame/Boss - Greater Demon 2"
+                        "ref": "Rune Prana/F7/Tame/Boss - Greater Demon 2",
+                        "name": "Boss - Greater Demon 2 - gifts: Big Fireflower, Big Autumn Grass"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 683,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 626,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2274,14 +2368,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F4/Tame/Boss - Hinoe"
+                        "ref": "Rune Prana/F4/Tame/Boss - Hinoe",
+                        "name": "Boss - Hinoe - gifts: Salted Char, Grilled G. Snapper, Grilled L. Snapper"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 733,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 676,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2298,14 +2393,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F4/Tame/Boss - Kinoto"
+                        "ref": "Rune Prana/F4/Tame/Boss - Kinoto",
+                        "name": "Boss - Kinoto - gifts: Salted Char, Grilled G. Snapper, Grilled L. Snapper"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 783,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 726,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2322,14 +2418,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F7/Tame/Boss - Marin"
+                        "ref": "Rune Prana/F7/Tame/Boss - Marin",
+                        "name": "Boss - Marin - gift: Big Blue Crystal"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 833,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 776,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2346,14 +2443,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F2/Tame/Boss - Octopirate 2"
+                        "ref": "Rune Prana/F2/Tame/Boss - Octopirate 2",
+                        "name": "Boss - Octopirate 2 - gifts: Grilled Snapper, Grilled G. Snapper, Grilled L. Snapper"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 883,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 826,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2370,14 +2468,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F7/Tame/Boss - Olive"
+                        "ref": "Rune Prana/F7/Tame/Boss - Olive",
+                        "name": "Boss - Olive - gift: Big White Crystal"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 933,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 876,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2394,14 +2493,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F7/Tame/Boss - Rouge"
+                        "ref": "Rune Prana/F7/Tame/Boss - Rouge",
+                        "name": "Boss - Rouge - gift: Big Red Crystal"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 983,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 126,
+                        "y": 144,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2418,14 +2518,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F5/Tame/Boss - Siren"
+                        "ref": "Rune Prana/F5/Tame/Boss - Siren",
+                        "name": "Boss - Siren - gift: Great 4-Leaf Clover"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 1033,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 176,
+                        "y": 144,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2442,14 +2543,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F6/Tame/Elemental Emperor"
+                        "ref": "Rune Prana/F6/Tame/Elemental Emperor",
+                        "name": "Elemental Emperor - gift: Magic"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 1083,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 226,
+                        "y": 144,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2466,14 +2568,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F1/Tame/Flare Mage"
+                        "ref": "Rune Prana/F1/Tame/Flare Mage",
+                        "name": "Flare Mage - gift: Magic"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 1133,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 276,
+                        "y": 144,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2490,14 +2593,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F1/Tame/Green Dragon"
+                        "ref": "Rune Prana/F1/Tame/Green Dragon",
+                        "name": "Green Dragon - gift: Dragon Fang"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 1183,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 326,
+                        "y": 144,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2514,14 +2618,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F5/Tame/Heaven's Scissors"
+                        "ref": "Rune Prana/F5/Tame/Heaven's Scissors",
+                        "name": "Heaven's Scissors - gift: Honey"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 1233,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 376,
+                        "y": 144,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2538,14 +2643,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F3/Tame/High Ogre Viking"
+                        "ref": "Rune Prana/F3/Tame/High Ogre Viking",
+                        "name": "High Ogre Viking - gifts: Shoulder Piece, Glue, Wine"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 1283,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 426,
+                        "y": 144,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2562,14 +2668,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F3/Tame/High Orc Viking"
+                        "ref": "Rune Prana/F3/Tame/High Orc Viking",
+                        "name": "High Orc Viking - gifts: Shoulder Piece, Glue, Wine"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 1333,
-                        "y": 418,
+                        "map": "Tames Rune Prana",
+                        "x": 476,
+                        "y": 144,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2586,14 +2693,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F5/Tame/Ice Wizard"
+                        "ref": "Rune Prana/F5/Tame/Ice Wizard",
+                        "name": "Ice Wizard - gift: Magic"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 183,
-                        "y": 487,
+                        "map": "Tames Rune Prana",
+                        "x": 526,
+                        "y": 144,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2610,14 +2718,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F2/Tame/King Bee"
+                        "ref": "Rune Prana/F2/Tame/King Bee",
+                        "name": "King Bee - gift: Honey"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 233,
-                        "y": 487,
+                        "map": "Tames Rune Prana",
+                        "x": 576,
+                        "y": 144,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2634,14 +2743,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F4/Tame/Leoplicant"
+                        "ref": "Rune Prana/F4/Tame/Leoplicant",
+                        "name": "Leoplicant - gift: Cake"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 283,
-                        "y": 487,
+                        "map": "Tames Rune Prana",
+                        "x": 626,
+                        "y": 144,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2658,14 +2768,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F1/Tame/Onionger"
+                        "ref": "Rune Prana/F1/Tame/Onionger",
+                        "name": "Onionger - gifts: Onion Seeds, Onion"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 333,
-                        "y": 487,
+                        "map": "Tames Rune Prana",
+                        "x": 676,
+                        "y": 144,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2682,14 +2793,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F6/Tame/Pink Dragon"
+                        "ref": "Rune Prana/F6/Tame/Pink Dragon",
+                        "name": "Pink Dragon - gift: Dragon Fang"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 383,
-                        "y": 487,
+                        "map": "Tames Rune Prana",
+                        "x": 726,
+                        "y": 144,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2706,14 +2818,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F4/Tame/Red Dragon"
+                        "ref": "Rune Prana/F4/Tame/Red Dragon",
+                        "name": "Red Dragon - gift: Dragon Fang"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 433,
-                        "y": 487,
+                        "map": "Tames Rune Prana",
+                        "x": 776,
+                        "y": 144,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2730,14 +2843,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F3/Tame/Turnip Ghost"
+                        "ref": "Rune Prana/F3/Tame/Turnip Ghost",
+                        "name": "Turnip Ghost - gifts: Turnip Seeds, Turnip, Ghost Hood"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 483,
-                        "y": 487,
+                        "map": "Tames Rune Prana",
+                        "x": 826,
+                        "y": 144,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2754,14 +2868,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Rune Prana/F6/Tame/Yellow Dragon"
+                        "ref": "Rune Prana/F6/Tame/Yellow Dragon",
+                        "name": "Yellow Dragon - gift: Dragon Fang"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 533,
-                        "y": 487,
+                        "map": "Tames Rune Prana",
+                        "x": 876,
+                        "y": 144,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2778,14 +2893,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sechs Territory/Tame/Blue"
+                        "ref": "Sechs Territory/Tame/Blue",
+                        "name": "Blue - gifts: Cake, Chocolate Cake"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 183,
-                        "y": 566,
+                        "map": "Tames Sechs Territory",
+                        "x": 150,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2802,14 +2918,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sechs Territory/Tame/Boss - Crystal Mammoth"
+                        "ref": "Sechs Territory/Tame/Boss - Crystal Mammoth",
+                        "name": "Boss - Crystal Mammoth - gift: King Pineapple"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 233,
-                        "y": 566,
+                        "map": "Tames Sechs Territory",
+                        "x": 200,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2826,14 +2943,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sechs Territory/Tame/Emperor Penguin"
+                        "ref": "Sechs Territory/Tame/Emperor Penguin",
+                        "name": "Emperor Penguin - gifts: Fur, Quality Fur, Bird's Feather"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 283,
-                        "y": 566,
+                        "map": "Tames Sechs Territory",
+                        "x": 250,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2850,14 +2968,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sechs Territory/Tame/Flower Crystal"
+                        "ref": "Sechs Territory/Tame/Flower Crystal",
+                        "name": "Flower Crystal - gifts: Root, Plant Stem, Strong Vine"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 333,
-                        "y": 566,
+                        "map": "Tames Sechs Territory",
+                        "x": 300,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2874,14 +2993,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sechs Territory/Tame/Hunter Wolf"
+                        "ref": "Sechs Territory/Tame/Hunter Wolf",
+                        "name": "Hunter Wolf - gifts: Wolf Fang, Fur, Quality Fur"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 383,
-                        "y": 566,
+                        "map": "Tames Sechs Territory",
+                        "x": 350,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2898,14 +3018,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sechs Territory/Tame/Little Wizard"
+                        "ref": "Sechs Territory/Tame/Little Wizard",
+                        "name": "Little Wizard - gifts: Magic Powder, Magic Crystal, Small Crystal, Medicine Bread+"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 433,
-                        "y": 566,
+                        "map": "Tames Sechs Territory",
+                        "x": 400,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2922,14 +3043,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sechs Territory/Tame/Mammoo"
+                        "ref": "Sechs Territory/Tame/Mammoo",
+                        "name": "Mammoo - gifts: Fur, Quality Fur, Cheap Waterpot"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 483,
-                        "y": 566,
+                        "map": "Tames Sechs Territory",
+                        "x": 450,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2946,14 +3068,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sechs Territory/Tame/Ogre Viking"
+                        "ref": "Sechs Territory/Tame/Ogre Viking",
+                        "name": "Ogre Viking - gifts: Shoulder Piece, Glue, Wine"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 533,
-                        "y": 566,
+                        "map": "Tames Sechs Territory",
+                        "x": 500,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2970,14 +3093,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sechs Territory/Tame/Orc Viking"
+                        "ref": "Sechs Territory/Tame/Orc Viking",
+                        "name": "Orc Viking - gifts: Shoulder Piece, Glue, Wine"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 583,
-                        "y": 566,
+                        "map": "Tames Sechs Territory",
+                        "x": 550,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -2994,14 +3118,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sechs Territory/Tame/Sealy"
+                        "ref": "Sechs Territory/Tame/Sealy",
+                        "name": "Sealy - gifts: Fish Fossil, Can, Rare Can"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 633,
-                        "y": 566,
+                        "map": "Tames Sechs Territory",
+                        "x": 600,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3018,14 +3143,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sechs Territory/Tame/Snowy"
+                        "ref": "Sechs Territory/Tame/Snowy",
+                        "name": "Snowy - gifts: Orange, Orange Juice"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 683,
-                        "y": 566,
+                        "map": "Tames Sechs Territory",
+                        "x": 650,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3042,14 +3168,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sechs Territory/Tame/Titan"
+                        "ref": "Sechs Territory/Tame/Titan",
+                        "name": "Titan - gifts: Giant's Nail, Giant's Gloves, Hammer Piece"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 733,
-                        "y": 566,
+                        "map": "Tames Sechs Territory",
+                        "x": 700,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3066,14 +3193,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sechs Territory/Tame/Tundra"
+                        "ref": "Sechs Territory/Tame/Tundra",
+                        "name": "Tundra - gifts: Magic Crystal, Water Crystal"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 783,
-                        "y": 566,
+                        "map": "Tames Sechs Territory",
+                        "x": 750,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3090,14 +3218,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sechs Territory/Tame/Death Stalker"
+                        "ref": "Sechs Territory/Tame/Death Stalker",
+                        "name": "Death Stalker - gifts: Scorpion Tail, Scorpion Pincer, Insect Carapace, Pretty Carapace"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 833,
-                        "y": 566,
+                        "map": "Tames Sechs Territory",
+                        "x": 800,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3114,14 +3243,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sechs Territory/Tame/Boss - Aquameleon"
+                        "ref": "Sechs Territory/Tame/Boss - Aquameleon",
+                        "name": "Boss - Aquameleon - gift: Union Stew"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Autumn Road",
-                        "x": 883,
-                        "y": 566,
+                        "map": "Tames Sechs Territory",
+                        "x": 850,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3138,14 +3268,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Demons Den/Tame/Boss - Magnuto"
+                        "ref": "Demons Den/Tame/Boss - Magnuto",
+                        "name": "Boss - Magnuto - gifts: Udon, Tempura Udon, Curry Udon"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 145,
-                        "y": 23,
+                        "y": 416,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3162,14 +3293,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Field Dungeon/Tame/Boss - Greater Demon"
+                        "ref": "Field Dungeon/Tame/Boss - Greater Demon",
+                        "name": "Boss - Greater Demon - gifts: Big Fireflower, Big Autumn Grass"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 145,
-                        "y": 102,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3186,14 +3318,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Field Dungeon/Tame/Boss - Grimoire"
+                        "ref": "Field Dungeon/Tame/Boss - Grimoire",
+                        "name": "Boss - Grimoire - gifts: Golden Tyrant Turnip, Gold Prince Potato, Gldn. Doom Pumpkin, Golden King Cabbage"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 195,
-                        "y": 102,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3210,14 +3343,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Field Dungeon/Tame/Boss - Octopirate"
+                        "ref": "Field Dungeon/Tame/Boss - Octopirate",
+                        "name": "Boss - Octopirate - gifts: Grilled Snapper, Grilled G. Snapper, Grilled L. Snapper"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 245,
-                        "y": 102,
+                        "y": 154,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3234,14 +3368,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Idra Cave/Tame/Daemon"
+                        "ref": "Idra Cave/Tame/Daemon",
+                        "name": "Daemon - gifts: Devil Horn, Devil Blood"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 145,
-                        "y": 181,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3258,14 +3393,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Idra Cave/Tame/Gaias"
+                        "ref": "Idra Cave/Tame/Gaias",
+                        "name": "Gaias - gifts: Magic Crystal, Earth Crystal"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 195,
-                        "y": 181,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3282,14 +3418,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Idra Cave/Tame/Goblin Sniper"
+                        "ref": "Idra Cave/Tame/Goblin Sniper",
+                        "name": "Goblin Sniper - gifts: Arrowhead, Gunpowder, Old Bandage, Recovery Potion"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 245,
-                        "y": 181,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3306,14 +3443,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Idra Cave/Tame/Hobgoblin"
+                        "ref": "Idra Cave/Tame/Hobgoblin",
+                        "name": "Hobgoblin - gifts: Warrior's Proof, Glue, Old Bandage, Onigiri"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 295,
-                        "y": 181,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3330,14 +3468,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Idra Cave/Tame/Little Golem"
+                        "ref": "Idra Cave/Tame/Little Golem",
+                        "name": "Little Golem - gifts: Silver, Gold, Platinum, Diamond"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 345,
-                        "y": 181,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3354,14 +3493,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Idra Cave/Tame/Little Mage"
+                        "ref": "Idra Cave/Tame/Little Mage",
+                        "name": "Little Mage - gifts: Magic Powder, Magic Crystal, Small Crystal, Medicine Bread+"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 395,
-                        "y": 181,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3378,14 +3518,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Idra Cave/Tame/Minotaur"
+                        "ref": "Idra Cave/Tame/Minotaur",
+                        "name": "Minotaur - gifts: Devil Horn, Devil Blood, Hammer Piece"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 445,
-                        "y": 181,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3402,14 +3543,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Idra Cave/Tame/Necro"
+                        "ref": "Idra Cave/Tame/Necro",
+                        "name": "Necro - gifts: Ghost Hood, Skull"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 495,
-                        "y": 181,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3426,14 +3568,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Idra Cave/Tame/Boss - Terraclone"
+                        "ref": "Idra Cave/Tame/Boss - Terraclone",
+                        "name": "Boss - Terraclone - gift: Turnip Heaven"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 545,
-                        "y": 181,
+                        "y": 285,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3450,14 +3593,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sercerezo Hill/Tame/Elefun"
+                        "ref": "Sercerezo Hill/Tame/Elefun",
+                        "name": "Elefun - gifts: Fur, Quality Fur, Cheap Waterpot"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 145,
-                        "y": 260,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3474,14 +3618,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sercerezo Hill/Tame/Flower Blossom"
+                        "ref": "Sercerezo Hill/Tame/Flower Blossom",
+                        "name": "Flower Blossom - gifts: Root, Plant Stem, Strong Vine"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 195,
-                        "y": 260,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3498,14 +3643,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sercerezo Hill/Tame/Yellow"
+                        "ref": "Sercerezo Hill/Tame/Yellow",
+                        "name": "Yellow - gifts: Cake, Chocolate Cake"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 245,
-                        "y": 260,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3522,14 +3668,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Sercerezo Hill/Tame/Typhoon"
+                        "ref": "Sercerezo Hill/Tame/Typhoon",
+                        "name": "Typhoon - gift: Mealy Apple"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Tames Sercerezo Hill",
                         "x": 295,
-                        "y": 260,
+                        "y": 23,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3546,14 +3693,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Anywhere (Rare)/Tame/Monster Box"
+                        "ref": "Anywhere (Rare)/Tame/Monster Box",
+                        "name": "Monster Box - gifts: Broken Hilt, Broken Box, Failed Dish, Disastrous Dish"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Anywhere",
+                        "map": "Tames Selphia Plains",
                         "x": 162,
-                        "y": 23,
+                        "y": 416,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2
@@ -3570,14 +3718,15 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Anywhere (Rare)/Tame/Gobble Box"
+                        "ref": "Anywhere (Rare)/Tame/Gobble Box",
+                        "name": "Gobble Box - gifts: Broken Hilt, Broken Box, Failed Dish, Disastrous Dish"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Tames Anywhere",
+                        "map": "Tames Selphia Plains",
                         "x": 212,
-                        "y": 23,
+                        "y": 416,
                         "size": 16,
                         "shape": "trapezoid",
                         "border_thickness": 2

@@ -5,7 +5,11 @@ GlobalFonts.registerFromPath('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf','
 const REPO = process.argv[4] || '/mnt/c/Users/Russell/source/repos/rune4-poptracker'
 const maps = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'))
 const outdir = process.argv[3]
-const TILE=46, MARK=16, BAND=MARK+3, GAP=4, RULE=34, PW=TILE+GAP, COLS=24, PAD=14
+const TILE=46, MARK=16, BAND=MARK+3, GAP=4, RULE=34, PW=TILE+GAP, PAD=14
+// the items that tame a monster, in a strip under its face. They are bare
+// icons, so four fit where four cards would not, and the strip never covers
+// the face -- a chip riding the tile's edge reads as its neighbour's.
+const CHIP=18
 const cache = new Map()
 async function img (p) {
   if (!p) return null
@@ -36,7 +40,7 @@ function textTile (x, ox, oy, label) {
   const lh = size + 1, top = oy + TILE / 2 - ((lines.length - 1) * lh) / 2
   lines.forEach((l, i) => x.fillText(l, ox + TILE / 2, top + i * lh))
 }
-async function build (mapName, file, items) {
+async function build (mapName, file, items, COLS) {
   // The gutter is only as wide as this sheet's own band labels need, and the
   // canvas stops at the widest row: a sheet of ten tiles was reserving the full
   // 24 columns and a gutter sized for the longest label in the pack.
@@ -46,7 +50,10 @@ async function build (mapName, file, items) {
     Math.ceil(probe.measureText(String(it.group)).width) + 24))
   // no room for a ruler on a sheet with nothing to put in it
   const rule = items.some(it => it.sub !== null && it.sub !== undefined) ? RULE : 0
-  const P = TILE + BAND + rule + GAP
+  // only a sheet that has chips reserves the strip; the shipment sheets have
+  // none and must keep the row pitch, and the pins, they already had
+  const chip = items.some(it => (it.glyphs || []).length) ? CHIP : 0
+  const P = TILE + chip + BAND + rule + GAP
   const groups = new Map()
   for (const it of items) {
     const g = it.group
@@ -99,6 +106,17 @@ async function build (mapName, file, items) {
       const ox = GUT + (slot[i] % COLS) * PW, oy = y + Math.floor(slot[i] / COLS) * P, ay = oy + BAND
       const im = await img(v[i].img)
       if (im) x.drawImage(im, ox, ay, TILE, TILE); else textTile(x, ox, ay, v[i].name)
+      const gs = v[i].glyphs || []
+      if (gs.length) {
+        // one gift keeps the size a single badge had; only four pay for four
+        const n = Math.min(gs.length, 4)
+        const sz = Math.min(CHIP, Math.floor((TILE - 2) / n))
+        const sx = ox + Math.round((TILE - n * sz) / 2), sy = ay + TILE + 1
+        for (let k = 0; k < n; k++) {
+          const gi = await img(gs[k])
+          if (gi) x.drawImage(gi, sx + k * sz, sy, sz, sz)
+        }
+      }
       x.fillStyle = 'rgba(70,55,20,.13)'; x.fillRect(ox, oy, TILE, BAND - 2)
       pins.push({ path: v[i].path, x: Math.round(ox + TILE / 2), y: Math.round(oy + MARK / 2 + 1) })
     }
@@ -116,7 +134,7 @@ async function build (mapName, file, items) {
         if (s !== null && s !== undefined) {
           const c0 = slot[idx[n]] % COLS, c1 = slot[idx[m]] % COLS
           const x0 = GUT + c0 * PW, x1 = GUT + c1 * PW + TILE
-          const ry = y + r * P + BAND + TILE + 8
+          const ry = y + r * P + BAND + TILE + chip + 8
           x.font = 'bold 9px DVB'
           const w = Math.min(x.measureText(String(s)).width + 8, W - 4)
           // a label that would swamp its own bracket sits under it instead
@@ -155,6 +173,6 @@ async function build (mapName, file, items) {
   return { mapName, file, W, H: H + PAD, pins }
 }
 const out = []
-for (const m of maps) out.push(await build(m.mapName, m.file, m.items))
+for (const m of maps) out.push(await build(m.mapName, m.file, m.items, m.cols || 24))
 fs.writeFileSync(outdir + '/grid_split.json', JSON.stringify(out))
 for (const o of out) console.log(`${o.mapName.padEnd(26)} ${o.W}x${o.H}  ${o.pins.length} tiles`)

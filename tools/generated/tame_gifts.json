@@ -1,0 +1,2325 @@
+{
+ "Airror": {
+  "gifts": [
+   {
+    "item": "Magic Crystal",
+    "value": 5
+   },
+   {
+    "item": "Wind Crystal",
+    "value": 8
+   }
+  ],
+  "id": 100
+ },
+ "Ambrosia": {
+  "gifts": [
+   {
+    "item": "Ultra Toyherb",
+    "value": 5
+   },
+   {
+    "item": "Ultra Moondrop Flower",
+    "value": 5
+   },
+   {
+    "item": "King Pink Cat",
+    "value": 5
+   },
+   {
+    "item": "Great Charm Blue",
+    "value": 5
+   }
+  ],
+  "id": 229
+ },
+ "Ant": {
+  "gifts": [
+   {
+    "item": "Insect Carapace",
+    "value": 5
+   },
+   {
+    "item": "Pretty Carapace",
+    "value": 5
+   },
+   {
+    "item": "Insect Jaw",
+    "value": 5
+   },
+   {
+    "item": "Lumber",
+    "value": 15
+   }
+  ],
+  "id": 67
+ },
+ "Ant Queen": {
+  "gifts": [
+   {
+    "item": "Honey",
+    "value": 5
+   }
+  ],
+  "id": 154
+ },
+ "Aquameleon": {
+  "gifts": [
+   {
+    "item": "Union Stew",
+    "value": 5
+   }
+  ],
+  "id": 227
+ },
+ "Aquaticus": {
+  "gifts": [
+   {
+    "item": "Union Stew",
+    "value": 5
+   }
+  ],
+  "id": 226
+ },
+ "Arch-Daemon": {
+  "gifts": [
+   {
+    "item": "Devil Horn",
+    "value": 5
+   },
+   {
+    "item": "Devil Blood",
+    "value": 5
+   }
+  ],
+  "id": 59
+ },
+ "Baal": {
+  "gifts": [
+   {
+    "item": "Devil Blood",
+    "value": 5
+   }
+  ],
+  "id": 145
+ },
+ "Bane Dragon": {
+  "gifts": [
+   {
+    "item": "Rockfish Stew",
+    "value": 5
+   }
+  ],
+  "id": 204
+ },
+ "Beetle": {
+  "gifts": [
+   {
+    "item": "Rigid Horn",
+    "value": 5
+   },
+   {
+    "item": "Insect Carapace",
+    "value": 5
+   },
+   {
+    "item": "Pretty Carapace",
+    "value": 5
+   }
+  ],
+  "id": 73
+ },
+ "Big Duck": {
+  "gifts": [
+   {
+    "item": "Orange",
+    "value": 5
+   }
+  ],
+  "id": 138
+ },
+ "Big Muck": {
+  "gifts": [
+   {
+    "item": "Spore",
+    "value": 5
+   },
+   {
+    "item": "Poison Powder",
+    "value": 5
+   },
+   {
+    "item": "Plant Stem",
+    "value": 5
+   }
+  ],
+  "id": 91
+ },
+ "Black Dragon": {
+  "gifts": [
+   {
+    "item": "Dragon Fang",
+    "value": 5
+   }
+  ],
+  "id": 146
+ },
+ "Blackbird": {
+  "gifts": [
+   {
+    "item": "Bird's Feather",
+    "value": 5
+   },
+   {
+    "item": "Branch",
+    "value": 5
+   }
+  ],
+  "id": 84
+ },
+ "Blood Panther": {
+  "gifts": [
+   {
+    "item": "Panther Claw",
+    "value": 5
+   },
+   {
+    "item": "Fur",
+    "value": 5
+   },
+   {
+    "item": "Quality Fur",
+    "value": 5
+   },
+   {
+    "item": "Devil Blood",
+    "value": 5
+   }
+  ],
+  "id": 78
+ },
+ "Blue": {
+  "gifts": [
+   {
+    "item": "Cake",
+    "value": 5
+   },
+   {
+    "item": "Chocolate Cake",
+    "value": 5
+   }
+  ],
+  "id": 171
+ },
+ "Blue Dragon": {
+  "gifts": [
+   {
+    "item": "Dragon Fang",
+    "value": 5
+   }
+  ],
+  "id": 197
+ },
+ "Buffaloo": {
+  "gifts": [
+   {
+    "item": "Bull's Horn",
+    "value": 5
+   }
+  ],
+  "id": 81
+ },
+ "Buffamoo": {
+  "gifts": [
+   {
+    "item": "Milk (S)",
+    "value": 5
+   },
+   {
+    "item": "Milk (M)",
+    "value": 8
+   },
+   {
+    "item": "Milk (L)",
+    "value": 10
+   }
+  ],
+  "id": 82
+ },
+ "Captain Goblin": {
+  "gifts": [
+   {
+    "item": "Quality Cloth",
+    "value": 5
+   },
+   {
+    "item": "Silk Cloth",
+    "value": 5
+   },
+   {
+    "item": "Skull",
+    "value": 5
+   },
+   {
+    "item": "Oil",
+    "value": 10
+   }
+  ],
+  "id": 121
+ },
+ "Chimera": {
+  "gifts": [
+   {
+    "item": "Royal Curry",
+    "value": 5
+   },
+   {
+    "item": "Ultimate Curry",
+    "value": 5
+   }
+  ],
+  "id": 210
+ },
+ "Chimera 2": {
+  "gifts": [
+   {
+    "item": "Royal Curry",
+    "value": 5
+   },
+   {
+    "item": "Ultimate Curry",
+    "value": 5
+   }
+  ],
+  "id": 209
+ },
+ "Chipsqueek": {
+  "gifts": [
+   {
+    "item": "Quality Fur",
+    "value": 5
+   },
+   {
+    "item": "Fur",
+    "value": 5
+   },
+   {
+    "item": "Branch",
+    "value": 5
+   }
+  ],
+  "id": 85
+ },
+ "Cluckadoodle": {
+  "gifts": [
+   {
+    "item": "Egg (S)",
+    "value": 5
+   },
+   {
+    "item": "Egg (M)",
+    "value": 8
+   },
+   {
+    "item": "Egg (L)",
+    "value": 10
+   },
+   {
+    "item": "Bird's Feather",
+    "value": 5
+   }
+  ],
+  "id": 113
+ },
+ "Crystal Mammoth": {
+  "gifts": [
+   {
+    "item": "King Pineapple",
+    "value": 5
+   }
+  ],
+  "id": 206
+ },
+ "Crystal Mammoth 2": {
+  "gifts": [
+   {
+    "item": "King Pineapple",
+    "value": 5
+   }
+  ],
+  "id": 205
+ },
+ "Daemon": {
+  "gifts": [
+   {
+    "item": "Devil Horn",
+    "value": 5
+   },
+   {
+    "item": "Devil Blood",
+    "value": 5
+   }
+  ],
+  "id": 58
+ },
+ "Dark Fairy": {
+  "gifts": [
+   {
+    "item": "Fairy Dust",
+    "value": 5
+   },
+   {
+    "item": "Love Potion",
+    "value": 5
+   },
+   {
+    "item": "Prelude to Love",
+    "value": 15
+   }
+  ],
+  "id": 107
+ },
+ "Dark Slime": {
+  "gifts": [
+   {
+    "item": "Aquamarine",
+    "value": 5
+   },
+   {
+    "item": "Sapphire",
+    "value": 5
+   },
+   {
+    "item": "Small Crystal",
+    "value": 5
+   },
+   {
+    "item": "Wine",
+    "value": 5
+   }
+  ],
+  "id": 109
+ },
+ "Dead Tree": {
+  "gifts": [
+   {
+    "item": "Greenifier+",
+    "value": 5
+   },
+   {
+    "item": "Formula C",
+    "value": 5
+   }
+  ],
+  "id": 201
+ },
+ "Dead Tree 2": {
+  "gifts": [
+   {
+    "item": "Greenifier+",
+    "value": 5
+   },
+   {
+    "item": "Formula C",
+    "value": 5
+   }
+  ],
+  "id": 200
+ },
+ "Death Fungus": {
+  "gifts": [
+   {
+    "item": "Spore",
+    "value": 5
+   }
+  ],
+  "id": 140
+ },
+ "Death Orc": {
+  "gifts": [
+   {
+    "item": "Ancient Orc Cloth",
+    "value": 5
+   }
+  ],
+  "id": 148
+ },
+ "Death Stalker": {
+  "gifts": [
+   {
+    "item": "Scorpion Tail",
+    "value": 5
+   },
+   {
+    "item": "Scorpion Pincer",
+    "value": 5
+   },
+   {
+    "item": "Insect Carapace",
+    "value": 5
+   },
+   {
+    "item": "Pretty Carapace",
+    "value": 5
+   }
+  ],
+  "id": 76
+ },
+ "Death Wall": {
+  "gifts": [
+   {
+    "item": "Ice Cream",
+    "value": 5
+   }
+  ],
+  "id": 225
+ },
+ "Duck": {
+  "gifts": [
+   {
+    "item": "Fur",
+    "value": 5
+   },
+   {
+    "item": "Quality Fur",
+    "value": 5
+   },
+   {
+    "item": "Bird's Feather",
+    "value": 5
+   }
+  ],
+  "id": 124
+ },
+ "Elefun": {
+  "gifts": [
+   {
+    "item": "Fur",
+    "value": 5
+   },
+   {
+    "item": "Quality Fur",
+    "value": 5
+   },
+   {
+    "item": "Cheap Waterpot",
+    "value": 15
+   }
+  ],
+  "id": 126
+ },
+ "Elemental Emperor": {
+  "gifts": [
+   {
+    "item": "Magic",
+    "value": 5
+   }
+  ],
+  "id": 196
+ },
+ "Emerald": {
+  "gifts": [
+   {
+    "item": "Big Green Crystal",
+    "value": 5
+   }
+  ],
+  "id": 251
+ },
+ "Emerald (Boss)": {
+  "gifts": [
+   {
+    "item": "Big Green Crystal",
+    "value": 5
+   }
+  ],
+  "id": 251
+ },
+ "Emperor Penguin": {
+  "gifts": [
+   {
+    "item": "Fur",
+    "value": 5
+   },
+   {
+    "item": "Quality Fur",
+    "value": 5
+   },
+   {
+    "item": "Bird's Feather",
+    "value": 5
+   }
+  ],
+  "id": 125
+ },
+ "Fairy": {
+  "gifts": [
+   {
+    "item": "Fairy Dust",
+    "value": 5
+   },
+   {
+    "item": "Love Potion",
+    "value": 5
+   },
+   {
+    "item": "Prelude to Love",
+    "value": 15
+   }
+  ],
+  "id": 106
+ },
+ "Faust": {
+  "gifts": [
+   {
+    "item": "Ghost Hood",
+    "value": 5
+   },
+   {
+    "item": "Skull",
+    "value": 5
+   }
+  ],
+  "id": 103
+ },
+ "Fiergaenger": {
+  "gifts": [
+   {
+    "item": "Gold Juice",
+    "value": 5
+   }
+  ],
+  "id": 219
+ },
+ "Fiersome": {
+  "gifts": [
+   {
+    "item": "Gold Juice",
+    "value": 5
+   }
+  ],
+  "id": 218
+ },
+ "Flare Mage": {
+  "gifts": [
+   {
+    "item": "Magic",
+    "value": 5
+   }
+  ],
+  "id": 194
+ },
+ "Flower Blossom": {
+  "gifts": [
+   {
+    "item": "Root",
+    "value": 5
+   },
+   {
+    "item": "Plant Stem",
+    "value": 5
+   },
+   {
+    "item": "Strong Vine",
+    "value": 5
+   }
+  ],
+  "id": 87
+ },
+ "Flower Crystal": {
+  "gifts": [
+   {
+    "item": "Root",
+    "value": 5
+   },
+   {
+    "item": "Plant Stem",
+    "value": 5
+   },
+   {
+    "item": "Strong Vine",
+    "value": 5
+   }
+  ],
+  "id": 90
+ },
+ "Flower Lily": {
+  "gifts": [
+   {
+    "item": "Root",
+    "value": 5
+   },
+   {
+    "item": "Plant Stem",
+    "value": 5
+   },
+   {
+    "item": "Strong Vine",
+    "value": 5
+   }
+  ],
+  "id": 89
+ },
+ "Flower Lion": {
+  "gifts": [
+   {
+    "item": "Root",
+    "value": 5
+   },
+   {
+    "item": "Plant Stem",
+    "value": 5
+   },
+   {
+    "item": "Strong Vine",
+    "value": 5
+   }
+  ],
+  "id": 88
+ },
+ "Fortoise": {
+  "gifts": [
+   {
+    "item": "Blk. Tortoise Shell",
+    "value": 5
+   }
+  ],
+  "id": 184
+ },
+ "Furpy": {
+  "gifts": [
+   {
+    "item": "Quality Fur",
+    "value": 5
+   },
+   {
+    "item": "Fur",
+    "value": 5
+   },
+   {
+    "item": "Branch",
+    "value": 5
+   }
+  ],
+  "id": 86
+ },
+ "G Golem": {
+  "gifts": [
+   {
+    "item": "Orichalcum",
+    "value": 5
+   }
+  ],
+  "id": 211
+ },
+ "Gaias": {
+  "gifts": [
+   {
+    "item": "Magic Crystal",
+    "value": 5
+   },
+   {
+    "item": "Earth Crystal",
+    "value": 5
+   }
+  ],
+  "id": 157
+ },
+ "Gangster Goblin": {
+  "gifts": [
+   {
+    "item": "Quality Cloth",
+    "value": 5
+   },
+   {
+    "item": "Old Bandage",
+    "value": 5
+   },
+   {
+    "item": "Skull",
+    "value": 5
+   },
+   {
+    "item": "Oil",
+    "value": 10
+   }
+  ],
+  "id": 122
+ },
+ "Ghost": {
+  "gifts": [
+   {
+    "item": "Ghost Hood",
+    "value": 5
+   },
+   {
+    "item": "Skull",
+    "value": 5
+   }
+  ],
+  "id": 101
+ },
+ "Ghost Ray": {
+  "gifts": [
+   {
+    "item": "Ghost Hood",
+    "value": 5
+   },
+   {
+    "item": "Skull",
+    "value": 5
+   }
+  ],
+  "id": 152
+ },
+ "Gigantes": {
+  "gifts": [
+   {
+    "item": "Giant's Nail",
+    "value": 5
+   },
+   {
+    "item": "Giant's Gloves",
+    "value": 5
+   },
+   {
+    "item": "Hammer Piece",
+    "value": 5
+   }
+  ],
+  "id": 66
+ },
+ "Gobble Box": {
+  "gifts": [
+   {
+    "item": "Broken Hilt",
+    "value": 5
+   },
+   {
+    "item": "Broken Box",
+    "value": 5
+   },
+   {
+    "item": "Failed Dish",
+    "value": 10
+   },
+   {
+    "item": "Disastrous Dish",
+    "value": 10
+   }
+  ],
+  "id": 105
+ },
+ "Goblin": {
+  "gifts": [
+   {
+    "item": "Warrior's Proof",
+    "value": 5
+   },
+   {
+    "item": "Glue",
+    "value": 5
+   },
+   {
+    "item": "Old Bandage",
+    "value": 5
+   },
+   {
+    "item": "Onigiri",
+    "value": 15
+   }
+  ],
+  "id": 52
+ },
+ "Goblin Archer": {
+  "gifts": [
+   {
+    "item": "Arrowhead",
+    "value": 5
+   },
+   {
+    "item": "Gunpowder",
+    "value": 5
+   },
+   {
+    "item": "Old Bandage",
+    "value": 5
+   },
+   {
+    "item": "Recovery Potion",
+    "value": 8
+   }
+  ],
+  "id": 54
+ },
+ "Goblin Don": {
+  "gifts": [
+   {
+    "item": "Quality Cloth",
+    "value": 5
+   },
+   {
+    "item": "Old Bandage",
+    "value": 5
+   },
+   {
+    "item": "Skull",
+    "value": 5
+   },
+   {
+    "item": "Oil",
+    "value": 10
+   }
+  ],
+  "id": 123
+ },
+ "Goblin Pirate": {
+  "gifts": [
+   {
+    "item": "Quality Cloth",
+    "value": 5
+   },
+   {
+    "item": "Silk Cloth",
+    "value": 5
+   },
+   {
+    "item": "Skull",
+    "value": 5
+   },
+   {
+    "item": "Oil",
+    "value": 10
+   }
+  ],
+  "id": 120
+ },
+ "Goblin Sniper": {
+  "gifts": [
+   {
+    "item": "Arrowhead",
+    "value": 5
+   },
+   {
+    "item": "Gunpowder",
+    "value": 5
+   },
+   {
+    "item": "Old Bandage",
+    "value": 5
+   },
+   {
+    "item": "Recovery Potion",
+    "value": 8
+   }
+  ],
+  "id": 55
+ },
+ "Golem": {
+  "gifts": [
+   {
+    "item": "Silver",
+    "value": 5
+   },
+   {
+    "item": "Gold",
+    "value": 5
+   },
+   {
+    "item": "Diamond",
+    "value": 5
+   }
+  ],
+  "id": 177
+ },
+ "Greater Demon": {
+  "gifts": [
+   {
+    "item": "Big Fireflower",
+    "value": 5
+   },
+   {
+    "item": "Big Autumn Grass",
+    "value": 5
+   }
+  ],
+  "id": 208
+ },
+ "Greater Demon 2": {
+  "gifts": [
+   {
+    "item": "Big Fireflower",
+    "value": 5
+   },
+   {
+    "item": "Big Autumn Grass",
+    "value": 5
+   }
+  ],
+  "id": 207
+ },
+ "Green": {
+  "gifts": [
+   {
+    "item": "Cake",
+    "value": 5
+   },
+   {
+    "item": "Chocolate Cake",
+    "value": 5
+   }
+  ],
+  "id": 170
+ },
+ "Green Dragon": {
+  "gifts": [
+   {
+    "item": "Dragon Fang",
+    "value": 5
+   }
+  ],
+  "id": 190
+ },
+ "Grimoire": {
+  "gifts": [
+   {
+    "item": "Golden Tyrant Turnip",
+    "value": 5
+   },
+   {
+    "item": "Gold Prince Potato",
+    "value": 5
+   },
+   {
+    "item": "Gldn. Doom Pumpkin",
+    "value": 5
+   },
+   {
+    "item": "Golden King Cabbage",
+    "value": 5
+   }
+  ],
+  "id": 214
+ },
+ "Grimoire 2": {
+  "gifts": [
+   {
+    "item": "Golden Tyrant Turnip",
+    "value": 5
+   },
+   {
+    "item": "Gold Prince Potato",
+    "value": 5
+   },
+   {
+    "item": "Gldn. Doom Pumpkin",
+    "value": 5
+   },
+   {
+    "item": "Golden King Cabbage",
+    "value": 5
+   }
+  ],
+  "id": 213
+ },
+ "Guardian": {
+  "gifts": [
+   {
+    "item": "Golem Spirit Stone",
+    "value": 5
+   }
+  ],
+  "id": 147
+ },
+ "Hammer Troll": {
+  "gifts": [
+   {
+    "item": "Giant's Nail",
+    "value": 5
+   },
+   {
+    "item": "Giant's Gloves",
+    "value": 5
+   },
+   {
+    "item": "Hammer Piece",
+    "value": 5
+   }
+  ],
+  "id": 65
+ },
+ "Handonetta": {
+  "gifts": [
+   {
+    "item": "Gold Juice",
+    "value": 5
+   }
+  ],
+  "id": 232
+ },
+ "Heaven's Scissors": {
+  "gifts": [
+   {
+    "item": "Honey",
+    "value": 5
+   }
+  ],
+  "id": 156
+ },
+ "Hell Spider": {
+  "gifts": [
+   {
+    "item": "Spider's Thread",
+    "value": 5
+   },
+   {
+    "item": "Pretty Thread",
+    "value": 5
+   },
+   {
+    "item": "Insect Jaw",
+    "value": 5
+   }
+  ],
+  "id": 72
+ },
+ "Heracles": {
+  "gifts": [
+   {
+    "item": "Rigid Horn",
+    "value": 5
+   },
+   {
+    "item": "Insect Carapace",
+    "value": 5
+   },
+   {
+    "item": "Pretty Carapace",
+    "value": 5
+   }
+  ],
+  "id": 74
+ },
+ "High Ogre Viking": {
+  "gifts": [
+   {
+    "item": "Shoulder Piece",
+    "value": 5
+   },
+   {
+    "item": "Glue",
+    "value": 5
+   },
+   {
+    "item": "Wine",
+    "value": 10
+   }
+  ],
+  "id": 119
+ },
+ "High Orc": {
+  "gifts": [
+   {
+    "item": "Cheap Cloth",
+    "value": 4
+   },
+   {
+    "item": "Glue",
+    "value": 5
+   },
+   {
+    "item": "Cheap Bracelet",
+    "value": 8
+   }
+  ],
+  "id": 49
+ },
+ "High Orc Viking": {
+  "gifts": [
+   {
+    "item": "Shoulder Piece",
+    "value": 5
+   },
+   {
+    "item": "Glue",
+    "value": 5
+   },
+   {
+    "item": "Wine",
+    "value": 10
+   }
+  ],
+  "id": 117
+ },
+ "Hinoe": {
+  "gifts": [
+   {
+    "item": "Salted Char",
+    "value": 5
+   },
+   {
+    "item": "Grilled G. Snapper",
+    "value": 5
+   },
+   {
+    "item": "Grilled L. Snapper",
+    "value": 5
+   }
+  ],
+  "id": 223
+ },
+ "Hobgoblin": {
+  "gifts": [
+   {
+    "item": "Warrior's Proof",
+    "value": 5
+   },
+   {
+    "item": "Glue",
+    "value": 5
+   },
+   {
+    "item": "Old Bandage",
+    "value": 5
+   },
+   {
+    "item": "Onigiri",
+    "value": 15
+   }
+  ],
+  "id": 53
+ },
+ "Hornet": {
+  "gifts": [
+   {
+    "item": "Insect Carapace",
+    "value": 5
+   },
+   {
+    "item": "Pretty Carapace",
+    "value": 5
+   },
+   {
+    "item": "Insect Jaw",
+    "value": 5
+   },
+   {
+    "item": "Honey",
+    "value": 15
+   }
+  ],
+  "id": 69
+ },
+ "Hornet Queen": {
+  "gifts": [
+   {
+    "item": "Insect Carapace",
+    "value": 5
+   },
+   {
+    "item": "Pretty Carapace",
+    "value": 5
+   },
+   {
+    "item": "Insect Jaw",
+    "value": 5
+   },
+   {
+    "item": "Honey",
+    "value": 15
+   }
+  ],
+  "id": 70
+ },
+ "Hunter Wolf": {
+  "gifts": [
+   {
+    "item": "Wolf Fang",
+    "value": 5
+   },
+   {
+    "item": "Fur",
+    "value": 5
+   },
+   {
+    "item": "Quality Fur",
+    "value": 5
+   }
+  ],
+  "id": 80
+ },
+ "Ice Wizard": {
+  "gifts": [
+   {
+    "item": "Magic",
+    "value": 5
+   }
+  ],
+  "id": 195
+ },
+ "Ignis": {
+  "gifts": [
+   {
+    "item": "Magic Crystal",
+    "value": 5
+   },
+   {
+    "item": "Fire Crystal",
+    "value": 8
+   }
+  ],
+  "id": 98
+ },
+ "Killer Ant": {
+  "gifts": [
+   {
+    "item": "Insect Carapace",
+    "value": 5
+   },
+   {
+    "item": "Pretty Carapace",
+    "value": 5
+   },
+   {
+    "item": "Insect Jaw",
+    "value": 5
+   },
+   {
+    "item": "Lumber",
+    "value": 15
+   }
+  ],
+  "id": 68
+ },
+ "King Bee": {
+  "gifts": [
+   {
+    "item": "Honey",
+    "value": 5
+   }
+  ],
+  "id": 155
+ },
+ "King Wooly": {
+  "gifts": [
+   {
+    "item": "Wooly Furball",
+    "value": 5
+   }
+  ],
+  "id": 139
+ },
+ "Kinoto": {
+  "gifts": [
+   {
+    "item": "Salted Char",
+    "value": 5
+   },
+   {
+    "item": "Grilled G. Snapper",
+    "value": 5
+   },
+   {
+    "item": "Grilled L. Snapper",
+    "value": 5
+   }
+  ],
+  "id": 224
+ },
+ "Leaf Ball": {
+  "gifts": [
+   {
+    "item": "Root",
+    "value": 5
+   },
+   {
+    "item": "Plant Stem",
+    "value": 5
+   },
+   {
+    "item": "Strong Vine",
+    "value": 5
+   }
+  ],
+  "id": 93
+ },
+ "Leoplicant": {
+  "gifts": [
+   {
+    "item": "Cake",
+    "value": 5
+   }
+  ],
+  "id": 192
+ },
+ "Little Dragon": {
+  "gifts": [
+   {
+    "item": "Dragon Fang",
+    "value": 5
+   }
+  ],
+  "id": 114
+ },
+ "Little Emperor": {
+  "gifts": [
+   {
+    "item": "Magic Powder",
+    "value": 5
+   },
+   {
+    "item": "Magic Crystal",
+    "value": 5
+   },
+   {
+    "item": "Small Crystal",
+    "value": 5
+   },
+   {
+    "item": "Medicine Bread+",
+    "value": 10
+   }
+  ],
+  "id": 62
+ },
+ "Little Golem": {
+  "gifts": [
+   {
+    "item": "Silver",
+    "value": 5
+   },
+   {
+    "item": "Gold",
+    "value": 5
+   },
+   {
+    "item": "Platinum",
+    "value": 5
+   },
+   {
+    "item": "Diamond",
+    "value": 5
+   }
+  ],
+  "id": 112
+ },
+ "Little Mage": {
+  "gifts": [
+   {
+    "item": "Magic Powder",
+    "value": 5
+   },
+   {
+    "item": "Magic Crystal",
+    "value": 5
+   },
+   {
+    "item": "Small Crystal",
+    "value": 5
+   },
+   {
+    "item": "Medicine Bread+",
+    "value": 10
+   }
+  ],
+  "id": 60
+ },
+ "Little Wizard": {
+  "gifts": [
+   {
+    "item": "Magic Powder",
+    "value": 5
+   },
+   {
+    "item": "Magic Crystal",
+    "value": 5
+   },
+   {
+    "item": "Small Crystal",
+    "value": 5
+   },
+   {
+    "item": "Medicine Bread+",
+    "value": 10
+   }
+  ],
+  "id": 61
+ },
+ "Magnuto": {
+  "gifts": [
+   {
+    "item": "Udon",
+    "value": 5
+   },
+   {
+    "item": "Tempura Udon",
+    "value": 5
+   },
+   {
+    "item": "Curry Udon",
+    "value": 5
+   }
+  ],
+  "id": 221
+ },
+ "Malm Tiger": {
+  "gifts": [
+   {
+    "item": "Fur",
+    "value": 5
+   },
+   {
+    "item": "Cake",
+    "value": 5
+   }
+  ],
+  "id": 161
+ },
+ "Mamadoodle": {
+  "gifts": [
+   {
+    "item": "Egg (S)",
+    "value": 5
+   },
+   {
+    "item": "Egg (M)",
+    "value": 5
+   },
+   {
+    "item": "Egg (L)",
+    "value": 5
+   }
+  ],
+  "id": 186
+ },
+ "Mammoo": {
+  "gifts": [
+   {
+    "item": "Fur",
+    "value": 5
+   },
+   {
+    "item": "Quality Fur",
+    "value": 5
+   },
+   {
+    "item": "Cheap Waterpot",
+    "value": 15
+   }
+  ],
+  "id": 127
+ },
+ "Marin": {
+  "gifts": [
+   {
+    "item": "Big Blue Crystal",
+    "value": 5
+   }
+  ],
+  "id": 252
+ },
+ "Marionetta": {
+  "gifts": [
+   {
+    "item": "Cake",
+    "value": 5
+   },
+   {
+    "item": "Chocolate Cake",
+    "value": 5
+   },
+   {
+    "item": "Cheesecake",
+    "value": 5
+   },
+   {
+    "item": "Apple Pie",
+    "value": 5
+   }
+  ],
+  "id": 231
+ },
+ "Master Giant": {
+  "gifts": [
+   {
+    "item": "Giant's Gloves",
+    "value": 5
+   }
+  ],
+  "id": 158
+ },
+ "Master Troll": {
+  "gifts": [
+   {
+    "item": "Giant's Nail",
+    "value": 5
+   }
+  ],
+  "id": 137
+ },
+ "Mino": {
+  "gifts": [
+   {
+    "item": "Grapes",
+    "value": 5
+   },
+   {
+    "item": "Grape Juice",
+    "value": 5
+   }
+  ],
+  "id": 135
+ },
+ "Minotaur": {
+  "gifts": [
+   {
+    "item": "Devil Horn",
+    "value": 5
+   },
+   {
+    "item": "Devil Blood",
+    "value": 5
+   },
+   {
+    "item": "Hammer Piece",
+    "value": 5
+   }
+  ],
+  "id": 56
+ },
+ "Minotaur King": {
+  "gifts": [
+   {
+    "item": "Devil Horn",
+    "value": 5
+   },
+   {
+    "item": "Devil Blood",
+    "value": 5
+   },
+   {
+    "item": "Hammer Piece",
+    "value": 5
+   }
+  ],
+  "id": 57
+ },
+ "Monster Box": {
+  "gifts": [
+   {
+    "item": "Broken Hilt",
+    "value": 5
+   },
+   {
+    "item": "Broken Box",
+    "value": 5
+   },
+   {
+    "item": "Failed Dish",
+    "value": 10
+   },
+   {
+    "item": "Disastrous Dish",
+    "value": 10
+   }
+  ],
+  "id": 104
+ },
+ "Nappie": {
+  "gifts": [
+   {
+    "item": "Pineapple",
+    "value": 5
+   },
+   {
+    "item": "Pineapple Juice",
+    "value": 5
+   }
+  ],
+  "id": 134
+ },
+ "Necro": {
+  "gifts": [
+   {
+    "item": "Ghost Hood",
+    "value": 5
+   },
+   {
+    "item": "Skull",
+    "value": 5
+   }
+  ],
+  "id": 102
+ },
+ "Octopirate": {
+  "gifts": [
+   {
+    "item": "Grilled Snapper",
+    "value": 5
+   },
+   {
+    "item": "Grilled G. Snapper",
+    "value": 5
+   },
+   {
+    "item": "Grilled L. Snapper",
+    "value": 5
+   }
+  ],
+  "id": 203
+ },
+ "Octopirate 2": {
+  "gifts": [
+   {
+    "item": "Grilled Snapper",
+    "value": 5
+   },
+   {
+    "item": "Grilled G. Snapper",
+    "value": 5
+   },
+   {
+    "item": "Grilled L. Snapper",
+    "value": 5
+   }
+  ],
+  "id": 202
+ },
+ "Ogre Viking": {
+  "gifts": [
+   {
+    "item": "Shoulder Piece",
+    "value": 5
+   },
+   {
+    "item": "Glue",
+    "value": 5
+   },
+   {
+    "item": "Wine",
+    "value": 10
+   }
+  ],
+  "id": 118
+ },
+ "Olive": {
+  "gifts": [
+   {
+    "item": "Big White Crystal",
+    "value": 5
+   }
+  ],
+  "id": 253
+ },
+ "Onion Ghost": {
+  "gifts": [
+   {
+    "item": "Onion Seeds",
+    "value": 5
+   },
+   {
+    "item": "Onion",
+    "value": 10
+   },
+   {
+    "item": "Ghost Hood",
+    "value": 5
+   }
+  ],
+  "id": 128
+ },
+ "Onionger": {
+  "gifts": [
+   {
+    "item": "Onion Seeds",
+    "value": 5
+   },
+   {
+    "item": "Onion",
+    "value": 5
+   }
+  ],
+  "id": 151
+ },
+ "Orc": {
+  "gifts": [
+   {
+    "item": "Cheap Cloth",
+    "value": 4
+   },
+   {
+    "item": "Glue",
+    "value": 5
+   },
+   {
+    "item": "Cheap Bracelet",
+    "value": 8
+   }
+  ],
+  "id": 48
+ },
+ "Orc Archer": {
+  "gifts": [
+   {
+    "item": "Arrowhead",
+    "value": 5
+   },
+   {
+    "item": "Gunpowder",
+    "value": 5
+   },
+   {
+    "item": "Recovery Potion",
+    "value": 8
+   }
+  ],
+  "id": 50
+ },
+ "Orc Hunter": {
+  "gifts": [
+   {
+    "item": "Arrowhead",
+    "value": 5
+   },
+   {
+    "item": "Gunpowder",
+    "value": 5
+   },
+   {
+    "item": "Recovery Potion",
+    "value": 8
+   }
+  ],
+  "id": 51
+ },
+ "Orc Viking": {
+  "gifts": [
+   {
+    "item": "Shoulder Piece",
+    "value": 5
+   },
+   {
+    "item": "Glue",
+    "value": 5
+   },
+   {
+    "item": "Wine",
+    "value": 10
+   }
+  ],
+  "id": 116
+ },
+ "Palm Cat": {
+  "gifts": [
+   {
+    "item": "Fur",
+    "value": 5
+   },
+   {
+    "item": "Cake",
+    "value": 5
+   }
+  ],
+  "id": 160
+ },
+ "Pepper Ghost": {
+  "gifts": [
+   {
+    "item": "Green Pepper Seeds",
+    "value": 5
+   },
+   {
+    "item": "Green Pepper",
+    "value": 10
+   },
+   {
+    "item": "Ghost Hood",
+    "value": 5
+   }
+  ],
+  "id": 130
+ },
+ "Pink Dragon": {
+  "gifts": [
+   {
+    "item": "Dragon Fang",
+    "value": 5
+   }
+  ],
+  "id": 199
+ },
+ "Planchoa": {
+  "gifts": [
+   {
+    "item": "Root",
+    "value": 5
+   },
+   {
+    "item": "Plant Stem",
+    "value": 5
+   },
+   {
+    "item": "Strong Vine",
+    "value": 5
+   }
+  ],
+  "id": 94
+ },
+ "Pomme Pomme": {
+  "gifts": [
+   {
+    "item": "Apple",
+    "value": 5
+   },
+   {
+    "item": "Baked Apple",
+    "value": 15
+   }
+  ],
+  "id": 115
+ },
+ "Red": {
+  "gifts": [
+   {
+    "item": "Cake",
+    "value": 5
+   },
+   {
+    "item": "Chocolate Cake",
+    "value": 5
+   }
+  ],
+  "id": 169
+ },
+ "Red Dragon": {
+  "gifts": [
+   {
+    "item": "Dragon Fang",
+    "value": 5
+   }
+  ],
+  "id": 191
+ },
+ "Rider Orc": {
+  "gifts": [
+   {
+    "item": "Cheap Cloth",
+    "value": 5
+   },
+   {
+    "item": "Warrior's Proof",
+    "value": 5
+   },
+   {
+    "item": "Glue",
+    "value": 5
+   },
+   {
+    "item": "Old Bandage",
+    "value": 5
+   }
+  ],
+  "id": 132
+ },
+ "Rouge": {
+  "gifts": [
+   {
+    "item": "Big Red Crystal",
+    "value": 5
+   }
+  ],
+  "id": 250
+ },
+ "Sarcophagus": {
+  "gifts": [
+   {
+    "item": "Gold Juice",
+    "value": 5
+   },
+   {
+    "item": "Mixed Juice",
+    "value": 5
+   },
+   {
+    "item": "Mixed Smoothie",
+    "value": 5
+   }
+  ],
+  "id": 234
+ },
+ "Scorpion": {
+  "gifts": [
+   {
+    "item": "Scorpion Tail",
+    "value": 5
+   },
+   {
+    "item": "Scorpion Pincer",
+    "value": 5
+   },
+   {
+    "item": "Insect Carapace",
+    "value": 5
+   },
+   {
+    "item": "Pretty Carapace",
+    "value": 5
+   }
+  ],
+  "id": 75
+ },
+ "Sealy": {
+  "gifts": [
+   {
+    "item": "Fish Fossil",
+    "value": 5
+   },
+   {
+    "item": "Can",
+    "value": 5
+   },
+   {
+    "item": "Rare Can",
+    "value": 5
+   }
+  ],
+  "id": 96
+ },
+ "Shadow Panther": {
+  "gifts": [
+   {
+    "item": "Panther Claw",
+    "value": 5
+   },
+   {
+    "item": "Fur",
+    "value": 5
+   },
+   {
+    "item": "Quality Fur",
+    "value": 5
+   }
+  ],
+  "id": 77
+ },
+ "Shmooly": {
+  "gifts": [
+   {
+    "item": "Clippers",
+    "value": 5
+   }
+  ],
+  "id": 176
+ },
+ "Silver Wolf": {
+  "gifts": [
+   {
+    "item": "Wolf Fang",
+    "value": 5
+   },
+   {
+    "item": "Fur",
+    "value": 5
+   },
+   {
+    "item": "Quality Fur",
+    "value": 5
+   }
+  ],
+  "id": 79
+ },
+ "Siren": {
+  "gifts": [
+   {
+    "item": "Great 4-Leaf Clover",
+    "value": 5
+   }
+  ],
+  "id": 215
+ },
+ "Sky Fish": {
+  "gifts": [
+   {
+    "item": "Fish Fossil",
+    "value": 5
+   },
+   {
+    "item": "Can",
+    "value": 5
+   },
+   {
+    "item": "Rare Can",
+    "value": 5
+   }
+  ],
+  "id": 95
+ },
+ "Slime": {
+  "gifts": [
+   {
+    "item": "Ruby",
+    "value": 5
+   },
+   {
+    "item": "Emerald",
+    "value": 5
+   },
+   {
+    "item": "Small Crystal",
+    "value": 5
+   }
+  ],
+  "id": 108
+ },
+ "Snowy": {
+  "gifts": [
+   {
+    "item": "Orange",
+    "value": 5
+   },
+   {
+    "item": "Orange Juice",
+    "value": 5
+   }
+  ],
+  "id": 136
+ },
+ "Spider": {
+  "gifts": [
+   {
+    "item": "Spider's Thread",
+    "value": 5
+   },
+   {
+    "item": "Pretty Thread",
+    "value": 5
+   },
+   {
+    "item": "Insect Jaw",
+    "value": 5
+   }
+  ],
+  "id": 71
+ },
+ "Spirit": {
+  "gifts": [
+   {
+    "item": "Magic Crystal",
+    "value": 5
+   },
+   {
+    "item": "Dark Crystal",
+    "value": 5
+   }
+  ],
+  "id": 153
+ },
+ "Terrable": {
+  "gifts": [
+   {
+    "item": "Turnip Heaven",
+    "value": 5
+   }
+  ],
+  "id": 216
+ },
+ "Terraclone": {
+  "gifts": [
+   {
+    "item": "Turnip Heaven",
+    "value": 5
+   }
+  ],
+  "id": 217
+ },
+ "Thunderbird": {
+  "gifts": [
+   {
+    "item": "Thunderbird Feather",
+    "value": 5
+   },
+   {
+    "item": "Branch",
+    "value": 5
+   }
+  ],
+  "id": 185
+ },
+ "Thunderbolt": {
+  "gifts": [
+   {
+    "item": "Royal Carrot",
+    "value": 5
+   }
+  ],
+  "id": 230
+ },
+ "Titan": {
+  "gifts": [
+   {
+    "item": "Giant's Nail",
+    "value": 5
+   },
+   {
+    "item": "Giant's Gloves",
+    "value": 5
+   },
+   {
+    "item": "Hammer Piece",
+    "value": 5
+   }
+  ],
+  "id": 64
+ },
+ "Tomato Ghost": {
+  "gifts": [
+   {
+    "item": "Tomato Seeds",
+    "value": 5
+   },
+   {
+    "item": "Tomato",
+    "value": 10
+   },
+   {
+    "item": "Ghost Hood",
+    "value": 5
+   }
+  ],
+  "id": 129
+ },
+ "Tortas": {
+  "gifts": [
+   {
+    "item": "Turtle Shell",
+    "value": 5
+   },
+   {
+    "item": "Egg (S)",
+    "value": 10
+   }
+  ],
+  "id": 97
+ },
+ "Tricky Muck": {
+  "gifts": [
+   {
+    "item": "Spore",
+    "value": 5
+   },
+   {
+    "item": "Poison Powder",
+    "value": 5
+   },
+   {
+    "item": "Plant Stem",
+    "value": 5
+   }
+  ],
+  "id": 92
+ },
+ "Troll": {
+  "gifts": [
+   {
+    "item": "Giant's Nail",
+    "value": 5
+   },
+   {
+    "item": "Giant's Gloves",
+    "value": 5
+   },
+   {
+    "item": "Hammer Piece",
+    "value": 5
+   }
+  ],
+  "id": 63
+ },
+ "Tundra": {
+  "gifts": [
+   {
+    "item": "Magic Crystal",
+    "value": 5
+   },
+   {
+    "item": "Water Crystal",
+    "value": 8
+   }
+  ],
+  "id": 99
+ },
+ "Turnip Ghost": {
+  "gifts": [
+   {
+    "item": "Turnip Seeds",
+    "value": 5
+   },
+   {
+    "item": "Turnip",
+    "value": 10
+   },
+   {
+    "item": "Ghost Hood",
+    "value": 5
+   }
+  ],
+  "id": 131
+ },
+ "Typhoon": {
+  "gifts": [
+   {
+    "item": "Mealy Apple",
+    "value": 5
+   }
+  ],
+  "id": 188
+ },
+ "Weagle": {
+  "gifts": [
+   {
+    "item": "Bird's Feather",
+    "value": 5
+   },
+   {
+    "item": "Branch",
+    "value": 5
+   }
+  ],
+  "id": 83
+ },
+ "Wooly": {
+  "gifts": [
+   {
+    "item": "Wooly Furball",
+    "value": 5
+   },
+   {
+    "item": "Clippers",
+    "value": 5
+   }
+  ],
+  "id": 111
+ },
+ "Yellow": {
+  "gifts": [
+   {
+    "item": "Cake",
+    "value": 5
+   },
+   {
+    "item": "Chocolate Cake",
+    "value": 5
+   }
+  ],
+  "id": 172
+ },
+ "Yellow Dragon": {
+  "gifts": [
+   {
+    "item": "Dragon Fang",
+    "value": 5
+   }
+  ],
+  "id": 198
+ }
+}

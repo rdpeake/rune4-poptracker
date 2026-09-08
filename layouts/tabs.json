@@ -631,15 +631,6 @@
                     "type": "tabbed",
                     "tabs": [
                         {
-                            "title": "Selphia",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Tames Selphia"
-                                ]
-                            }
-                        },
-                        {
                             "title": "Selphia Plains",
                             "content": {
                                 "type": "map",
@@ -667,11 +658,29 @@
                             }
                         },
                         {
-                            "title": "Anywhere",
+                            "title": "Sechs Territory",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Tames Anywhere"
+                                    "Tames Sechs Territory"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Floating Empire",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Tames Floating Empire"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Rune Prana",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Tames Rune Prana"
                                 ]
                             }
                         }
@@ -1303,15 +1312,6 @@
                     "type": "tabbed",
                     "tabs": [
                         {
-                            "title": "Selphia",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Tames Selphia"
-                                ]
-                            }
-                        },
-                        {
                             "title": "Selphia Plains",
                             "content": {
                                 "type": "map",
@@ -1339,11 +1339,29 @@
                             }
                         },
                         {
-                            "title": "Anywhere",
+                            "title": "Sechs Territory",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Tames Anywhere"
+                                    "Tames Sechs Territory"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Floating Empire",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Tames Floating Empire"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Rune Prana",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Tames Rune Prana"
                                 ]
                             }
                         }

@@ -288,25 +288,83 @@ enough. They need node and one package, which is gitignored:
 the background keyed to the item's category family and a rim keyed to its
 classification. Input is a JSON list of `{slug, label, cat, cls}`.
 
-`export_grid_maps.py` (which calls `gen_grid_maps.mjs`) rebuilds all eighteen
-sheets — eight shipment, five crafting and five tame — **and** checks the pins on
+`export_grid_maps.py` (which calls `gen_grid_maps.mjs`) rebuilds all nineteen
+sheets — eight shipment, five crafting and six tame — **and** checks the pins on
 them in `locations/_Crafting.json`, `_Shipments.json` and `_Tames.json`. Image and
 pins come out of the same pass, so they must be regenerated together or every pin
 slides off its tile. Run it after anything that touches `images/items/` or
 `images/monsters/`.
 
-The shipment and crafting sheets are laid out from `generated/grid_layout.json`
+Every sheet is laid out from `generated/grid_layout.json`
 (`apworld/export_grid_layout.py`): which sheet a check belongs on, which band
-inside it, and in what order. The tame sheets have no plan, so they keep the
-order of the pins already on disk and a rebuild changes only the tiles.
-Either way the pins are tied to marker positions, so the tool recomputes them and
-**refuses to write if any would move** — pass `--relayout` when moving them is the
-point.
+inside it, and in what order. The pins are tied to marker positions, so the tool
+recomputes them and **refuses to write if any would move** — pass `--relayout`
+when moving them is the point.
 
 A band's label sits in the left gutter; under the tiles, a ruler brackets each
 run of equal `sub` and names it. That is where the tier goes on the shipment
 sheets, so a sheet reads left to right as progression and the tail past your
 max-shipment-tier is visible at a glance.
+
+### The tame sheets
+
+They were the last family filed by the doorway: five sheets named for the
+overworld hub a place is reached through, which put Rune Prana's 32 tames under
+a tab called Autumn Road and 86 of the 149 on that one sheet. They are six
+sheets now, each named for an area ON it, holding the areas walked in the same
+stretch of the run, banded by area and ruled by tier — so the tail past
+`max_ship_tier` reads as a bracket rather than as tiles with no marker above
+them. Tames are cut on `> tier` where shipments are cut on `>=`, and at the
+default of 9 that is 37 of them: Rune Prana entire, Sharance Maze, and the last
+two of Leon Karnak.
+
+An area is never split across two sheets. Cutting strictly on tier balances the
+sheets better and lands the cut exactly on a tab boundary, but it shreds a
+dungeon across tabs — a trial sheet of tiers 4-6 came out eleven bands for 35
+tiles, six of them one tile tall.
+
+### What tames a monster
+
+Not the Tame CSV's `Friend Item`. The game lists up to **four** gifts per
+monster where the CSV keeps one, and 114 of the pack's 149 tames have more than
+one -- which is the difference between a useful pin and a misleading one in a
+randomiser, where the four arrive in any order or not at all.
+
+    python3 tools/gamedata/export_monster_presents.py   -> generated/tame_gifts.json
+    python3 tools/gamedata/export_gift_chips.py         -> images/gifts/
+    python3 tools/export_tame_gifts.py                  -> names the pins
+
+`rf3MonsterPresent.bin` holds 209 records of 4 x (item id, value), indexed by
+**monster id - 48**; `rf3TxtNpc_split2_1.eng` and `rf3TxtItem_split2_1.eng`
+name the monster and the item. The offset came from a histogram of (record
+index - monster id) over the 149 gifts the apworld already knew: it is the only
+one that puts every one of them in its own monster's record. An empty record is
+a monster that cannot be tamed, which agrees with the CSV on every one of them.
+The exporter's docstring records what the value means and what the table is not.
+
+The gifts stay in the game's slot order, which runs easiest-first where that
+matters -- Buffamoo reads Milk (S) before Milk (L), and ranking by value would
+put the milk you cannot get yet at the front.
+
+Tiles draw `images/gifts/`, bare icons cut from the game rather than the
+`images/items/` cards: at the size four of them fit, a card is mostly frame.
+The strip sits under the face, never over it -- a chip riding the tile's edge
+reads as its neighbour's -- and only a sheet that has chips reserves the height,
+so the shipment sheets keep the pitch and the pins they already had.
+
+The names ride the pin for free. `MapTooltip` prints a `ref` section's own name
+when it has one and the target's only when it does not (`maptooltip.cpp:112`),
+and that line was pure duplication -- the header already says
+`Water Ruins > Tame > Goblin` and the section under it said `Goblin` again. It
+now reads `Goblin - gifts: Warrior's Proof, Glue, Old Bandage, Onigiri`.
+
+`MapTooltip` prints a `ref` section's own name when it has one and the target's
+only when it does not (`maptooltip.cpp:112`), and that line was pure duplication
+— the header already says `Floating Empire > Tame > Blood Panther` and the
+section under it said `Blood Panther` again, so the gift costs no pixels. The
+name goes on the ref in `_Tames.json`, **never** on the canonical section: a
+section's full id is its parent plus its name, so that name IS the ref path
+every pin uses and the path `location_mapping.lua` keys the AP id to.
 
 `export_section_icons.py` gives each check its own icon in the tracker instead of
 one shared crate: shipments take their item tile, tames their monster tile,

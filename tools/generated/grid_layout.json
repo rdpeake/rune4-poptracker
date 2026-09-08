@@ -5296,6 +5296,763 @@
    "sub": "Sercerezo Hill"
   }
  ],
+ "Tames Rune Prana": [
+  {
+   "path": "Rune Prana/F4/Tame/Ant Queen",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F7/Tame/Black Dragon",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F6/Tame/Blue Dragon",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F1/Tame/Boss - Bane Dragon",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F7/Tame/Boss - Chimera 2",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F3/Tame/Boss - Crystal Mammoth 2",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F7/Tame/Boss - Dead Tree 2",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F6/Tame/Boss - Death Wall",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F7/Tame/Boss - Emerald (Boss)",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F7/Tame/Boss - G Golem",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F7/Tame/Boss - Greater Demon 2",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F4/Tame/Boss - Hinoe",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F4/Tame/Boss - Kinoto",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F7/Tame/Boss - Marin",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F2/Tame/Boss - Octopirate 2",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F7/Tame/Boss - Olive",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F7/Tame/Boss - Rouge",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F5/Tame/Boss - Siren",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F6/Tame/Elemental Emperor",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F1/Tame/Flare Mage",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F1/Tame/Green Dragon",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F5/Tame/Heaven's Scissors",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F3/Tame/High Ogre Viking",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F3/Tame/High Orc Viking",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F5/Tame/Ice Wizard",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F2/Tame/King Bee",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F4/Tame/Leoplicant",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F1/Tame/Onionger",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F6/Tame/Pink Dragon",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F4/Tame/Red Dragon",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F3/Tame/Turnip Ghost",
+   "band": "Rune Prana",
+   "sub": 10
+  },
+  {
+   "path": "Rune Prana/F6/Tame/Yellow Dragon",
+   "band": "Rune Prana",
+   "sub": 10
+  }
+ ],
+ "Tames Selphia Plains": [
+  {
+   "path": "Selphia Plains/Tame/Big Muck",
+   "band": "Selphia Plains",
+   "sub": 0
+  },
+  {
+   "path": "Selphia Plains/Tame/Buffamoo",
+   "band": "Selphia Plains",
+   "sub": 0
+  },
+  {
+   "path": "Selphia Plains/Tame/Chipsqueek",
+   "band": "Selphia Plains",
+   "sub": 0
+  },
+  {
+   "path": "Selphia Plains/Tame/Cluckadoodle",
+   "band": "Selphia Plains",
+   "sub": 0
+  },
+  {
+   "path": "Selphia Plains/Tame/Pomme Pomme",
+   "band": "Selphia Plains",
+   "sub": 0
+  },
+  {
+   "path": "Selphia Plains/Tame/Wooly",
+   "band": "Selphia Plains",
+   "sub": 0
+  },
+  {
+   "path": "Selphia Plains/West Tame/Duck",
+   "band": "Selphia Plains",
+   "sub": 1
+  },
+  {
+   "path": "Selphia Plains/West Tame/Fairy",
+   "band": "Selphia Plains",
+   "sub": 1
+  },
+  {
+   "path": "Selphia Plains/East Tame/Shmooly",
+   "band": "Selphia Plains",
+   "sub": 4
+  },
+  {
+   "path": "Water Ruins/Tame/Goblin",
+   "band": "Water Ruins",
+   "sub": 0
+  },
+  {
+   "path": "Water Ruins/Tame/Goblin Archer",
+   "band": "Water Ruins",
+   "sub": 0
+  },
+  {
+   "path": "Water Ruins/Tame/Boss - Thunderbolt",
+   "band": "Water Ruins",
+   "sub": 1
+  },
+  {
+   "path": "Water Ruins/Tame/Sky Fish",
+   "band": "Water Ruins",
+   "sub": 1
+  },
+  {
+   "path": "Water Ruins/Tame/Tortas",
+   "band": "Water Ruins",
+   "sub": 1
+  },
+  {
+   "path": "Water Ruins/Tame/Weagle",
+   "band": "Water Ruins",
+   "sub": 1
+  },
+  {
+   "path": "Water Ruins/Tame/Boss - Chimera",
+   "band": "Water Ruins",
+   "sub": 3
+  },
+  {
+   "path": "Yokmir Forest/Tame/Ant",
+   "band": "Yokmir Forest",
+   "sub": 0
+  },
+  {
+   "path": "Yokmir Forest/Tame/Beetle",
+   "band": "Yokmir Forest",
+   "sub": 0
+  },
+  {
+   "path": "Yokmir Forest/Tame/Boss - Ambrosia",
+   "band": "Yokmir Forest",
+   "sub": 0
+  },
+  {
+   "path": "Yokmir Forest/Tame/Orc",
+   "band": "Yokmir Forest",
+   "sub": 0
+  },
+  {
+   "path": "Yokmir Forest/Tame/Orc Archer",
+   "band": "Yokmir Forest",
+   "sub": 0
+  },
+  {
+   "path": "Yokmir Forest/Tame/Boss - Dead Tree",
+   "band": "Yokmir Forest",
+   "sub": 3
+  },
+  {
+   "path": "Yokmir Forest/Cave/Tame/High Orc",
+   "band": "Yokmir Forest",
+   "sub": 3
+  },
+  {
+   "path": "Yokmir Forest/Cave/Tame/Hornet",
+   "band": "Yokmir Forest",
+   "sub": 3
+  },
+  {
+   "path": "Yokmir Forest/Cave/Tame/Killer Ant",
+   "band": "Yokmir Forest",
+   "sub": 3
+  },
+  {
+   "path": "Yokmir Forest/Cave/Tame/Leaf Ball",
+   "band": "Yokmir Forest",
+   "sub": 3
+  },
+  {
+   "path": "Yokmir Forest/Cave/Tame/Orc Hunter",
+   "band": "Yokmir Forest",
+   "sub": 3
+  },
+  {
+   "path": "Yokmir Forest/Cave/Tame/Silver Wolf",
+   "band": "Yokmir Forest",
+   "sub": 3
+  },
+  {
+   "path": "Anywhere (Rare)/Tame/Monster Box",
+   "band": "Anywhere (Rare)",
+   "sub": 2
+  },
+  {
+   "path": "Anywhere (Rare)/Tame/Gobble Box",
+   "band": "Anywhere (Rare)",
+   "sub": 5
+  },
+  {
+   "path": "Cluck Cluck Nest/Tame/Mamadoodle",
+   "band": "Cluck Cluck Nest",
+   "sub": 4
+  }
+ ],
+ "Tames Autumn Road": [
+  {
+   "path": "Obsidian Mansion/Tame/Boss - Marionetta",
+   "band": "Obsidian Mansion",
+   "sub": 2
+  },
+  {
+   "path": "Obsidian Mansion/Tame/Ghost",
+   "band": "Obsidian Mansion",
+   "sub": 2
+  },
+  {
+   "path": "Obsidian Mansion/Tame/Ghost Ray",
+   "band": "Obsidian Mansion",
+   "sub": 2
+  },
+  {
+   "path": "Obsidian Mansion/Tame/Onion Ghost",
+   "band": "Obsidian Mansion",
+   "sub": 2
+  },
+  {
+   "path": "Obsidian Mansion/Tame/Shadow Panther",
+   "band": "Obsidian Mansion",
+   "sub": 2
+  },
+  {
+   "path": "Obsidian Mansion/Tame/Slime",
+   "band": "Obsidian Mansion",
+   "sub": 2
+  },
+  {
+   "path": "Obsidian Mansion/Tame/Spider",
+   "band": "Obsidian Mansion",
+   "sub": 2
+  },
+  {
+   "path": "Obsidian Mansion/Tame/Spirit",
+   "band": "Obsidian Mansion",
+   "sub": 2
+  },
+  {
+   "path": "Autumn Road/Tame/Flower Lily",
+   "band": "Autumn Road",
+   "sub": 3
+  },
+  {
+   "path": "Autumn Road/Tame/Mino",
+   "band": "Autumn Road",
+   "sub": 3
+  },
+  {
+   "path": "Autumn Road/Tame/Furpy",
+   "band": "Autumn Road",
+   "sub": 4
+  },
+  {
+   "path": "Autumn Road/Tame/Palm Cat",
+   "band": "Autumn Road",
+   "sub": 4
+  },
+  {
+   "path": "Autumn Road/Tame/Tricky Muck",
+   "band": "Autumn Road",
+   "sub": 4
+  },
+  {
+   "path": "Autumn Road/Tame/Red",
+   "band": "Autumn Road",
+   "sub": 6
+  },
+  {
+   "path": "Delirium Lava Ruins/Tame/Buffaloo",
+   "band": "Delirium Lava Ruins",
+   "sub": 4
+  },
+  {
+   "path": "Delirium Lava Ruins/Tame/Flower Lion",
+   "band": "Delirium Lava Ruins",
+   "sub": 4
+  },
+  {
+   "path": "Delirium Lava Ruins/Tame/Gangster Goblin",
+   "band": "Delirium Lava Ruins",
+   "sub": 4
+  },
+  {
+   "path": "Delirium Lava Ruins/Tame/Goblin Pirate",
+   "band": "Delirium Lava Ruins",
+   "sub": 4
+  },
+  {
+   "path": "Delirium Lava Ruins/Tame/Ignis",
+   "band": "Delirium Lava Ruins",
+   "sub": 4
+  },
+  {
+   "path": "Delirium Lava Ruins/Tame/Scorpion",
+   "band": "Delirium Lava Ruins",
+   "sub": 4
+  },
+  {
+   "path": "Delirium Lava Ruins/Tame/Tomato Ghost",
+   "band": "Delirium Lava Ruins",
+   "sub": 4
+  },
+  {
+   "path": "Delirium Lava Ruins/Tame/Troll",
+   "band": "Delirium Lava Ruins",
+   "sub": 4
+  },
+  {
+   "path": "Maya Road/Tame/Airror",
+   "band": "Maya Road",
+   "sub": 6
+  },
+  {
+   "path": "Maya Road/Tame/Blackbird",
+   "band": "Maya Road",
+   "sub": 6
+  },
+  {
+   "path": "Maya Road/Tame/Green",
+   "band": "Maya Road",
+   "sub": 6
+  },
+  {
+   "path": "Maya Road/Tame/Hammer Troll",
+   "band": "Maya Road",
+   "sub": 6
+  },
+  {
+   "path": "Maya Road/Tame/Heracles",
+   "band": "Maya Road",
+   "sub": 6
+  },
+  {
+   "path": "Maya Road/Tame/Hornet Queen",
+   "band": "Maya Road",
+   "sub": 6
+  },
+  {
+   "path": "Maya Road/Tame/Planchoa",
+   "band": "Maya Road",
+   "sub": 6
+  },
+  {
+   "path": "Maya Road/Tame/Boss - Fiergaenger",
+   "band": "Maya Road",
+   "sub": 7
+  }
+ ],
+ "Tames Sechs Territory": [
+  {
+   "path": "Sechs Territory/Tame/Blue",
+   "band": "Sechs Territory",
+   "sub": 6
+  },
+  {
+   "path": "Sechs Territory/Tame/Boss - Crystal Mammoth",
+   "band": "Sechs Territory",
+   "sub": 7
+  },
+  {
+   "path": "Sechs Territory/Tame/Emperor Penguin",
+   "band": "Sechs Territory",
+   "sub": 7
+  },
+  {
+   "path": "Sechs Territory/Tame/Flower Crystal",
+   "band": "Sechs Territory",
+   "sub": 7
+  },
+  {
+   "path": "Sechs Territory/Tame/Hunter Wolf",
+   "band": "Sechs Territory",
+   "sub": 7
+  },
+  {
+   "path": "Sechs Territory/Tame/Little Wizard",
+   "band": "Sechs Territory",
+   "sub": 7
+  },
+  {
+   "path": "Sechs Territory/Tame/Mammoo",
+   "band": "Sechs Territory",
+   "sub": 7
+  },
+  {
+   "path": "Sechs Territory/Tame/Ogre Viking",
+   "band": "Sechs Territory",
+   "sub": 7
+  },
+  {
+   "path": "Sechs Territory/Tame/Orc Viking",
+   "band": "Sechs Territory",
+   "sub": 7
+  },
+  {
+   "path": "Sechs Territory/Tame/Sealy",
+   "band": "Sechs Territory",
+   "sub": 7
+  },
+  {
+   "path": "Sechs Territory/Tame/Snowy",
+   "band": "Sechs Territory",
+   "sub": 7
+  },
+  {
+   "path": "Sechs Territory/Tame/Titan",
+   "band": "Sechs Territory",
+   "sub": 7
+  },
+  {
+   "path": "Sechs Territory/Tame/Tundra",
+   "band": "Sechs Territory",
+   "sub": 7
+  },
+  {
+   "path": "Sechs Territory/Tame/Death Stalker",
+   "band": "Sechs Territory",
+   "sub": 8
+  },
+  {
+   "path": "Sechs Territory/Tame/Boss - Aquameleon",
+   "band": "Sechs Territory",
+   "sub": 9
+  },
+  {
+   "path": "Leon Karnak/Tame/Arch-Daemon",
+   "band": "Leon Karnak",
+   "sub": 9
+  },
+  {
+   "path": "Leon Karnak/Tame/Captain Goblin",
+   "band": "Leon Karnak",
+   "sub": 9
+  },
+  {
+   "path": "Leon Karnak/Tame/Goblin Don",
+   "band": "Leon Karnak",
+   "sub": 9
+  },
+  {
+   "path": "Leon Karnak/Tame/Little Emperor",
+   "band": "Leon Karnak",
+   "sub": 9
+  },
+  {
+   "path": "Leon Karnak/Tame/Malm Tiger",
+   "band": "Leon Karnak",
+   "sub": 9
+  },
+  {
+   "path": "Leon Karnak/Tame/Minotaur King",
+   "band": "Leon Karnak",
+   "sub": 9
+  },
+  {
+   "path": "Leon Karnak/Tame/Nappie",
+   "band": "Leon Karnak",
+   "sub": 9
+  },
+  {
+   "path": "Leon Karnak/Tame/Boss - Grimoire 2",
+   "band": "Leon Karnak",
+   "sub": 10
+  },
+  {
+   "path": "Leon Karnak/Tame/Boss - Sarcophagus",
+   "band": "Leon Karnak",
+   "sub": 10
+  }
+ ],
+ "Tames Sercerezo Hill": [
+  {
+   "path": "Sercerezo Hill/Tame/Elefun",
+   "band": "Sercerezo Hill",
+   "sub": 4
+  },
+  {
+   "path": "Sercerezo Hill/Tame/Flower Blossom",
+   "band": "Sercerezo Hill",
+   "sub": 4
+  },
+  {
+   "path": "Sercerezo Hill/Tame/Yellow",
+   "band": "Sercerezo Hill",
+   "sub": 7
+  },
+  {
+   "path": "Sercerezo Hill/Tame/Typhoon",
+   "band": "Sercerezo Hill",
+   "sub": 9
+  },
+  {
+   "path": "Field Dungeon/Tame/Boss - Greater Demon",
+   "band": "Field Dungeon",
+   "sub": 5
+  },
+  {
+   "path": "Field Dungeon/Tame/Boss - Grimoire",
+   "band": "Field Dungeon",
+   "sub": 8
+  },
+  {
+   "path": "Field Dungeon/Tame/Boss - Octopirate",
+   "band": "Field Dungeon",
+   "sub": 8
+  },
+  {
+   "path": "Idra Cave/Tame/Daemon",
+   "band": "Idra Cave",
+   "sub": 5
+  },
+  {
+   "path": "Idra Cave/Tame/Gaias",
+   "band": "Idra Cave",
+   "sub": 5
+  },
+  {
+   "path": "Idra Cave/Tame/Goblin Sniper",
+   "band": "Idra Cave",
+   "sub": 5
+  },
+  {
+   "path": "Idra Cave/Tame/Hobgoblin",
+   "band": "Idra Cave",
+   "sub": 5
+  },
+  {
+   "path": "Idra Cave/Tame/Little Golem",
+   "band": "Idra Cave",
+   "sub": 5
+  },
+  {
+   "path": "Idra Cave/Tame/Little Mage",
+   "band": "Idra Cave",
+   "sub": 5
+  },
+  {
+   "path": "Idra Cave/Tame/Minotaur",
+   "band": "Idra Cave",
+   "sub": 5
+  },
+  {
+   "path": "Idra Cave/Tame/Necro",
+   "band": "Idra Cave",
+   "sub": 5
+  },
+  {
+   "path": "Idra Cave/Tame/Boss - Terraclone",
+   "band": "Idra Cave",
+   "sub": 7
+  },
+  {
+   "path": "Demons Den/Tame/Boss - Magnuto",
+   "band": "Demons Den",
+   "sub": 6
+  }
+ ],
+ "Tames Floating Empire": [
+  {
+   "path": "Floating Empire/Tame/Blood Panther",
+   "band": "Floating Empire",
+   "sub": 8
+  },
+  {
+   "path": "Floating Empire/Tame/Dark Fairy",
+   "band": "Floating Empire",
+   "sub": 8
+  },
+  {
+   "path": "Floating Empire/West Tame/Dark Slime",
+   "band": "Floating Empire",
+   "sub": 8
+  },
+  {
+   "path": "Floating Empire/Tame/Faust",
+   "band": "Floating Empire",
+   "sub": 8
+  },
+  {
+   "path": "Floating Empire/Tame/Fortoise",
+   "band": "Floating Empire",
+   "sub": 8
+  },
+  {
+   "path": "Floating Empire/Tame/Gigantes",
+   "band": "Floating Empire",
+   "sub": 8
+  },
+  {
+   "path": "Floating Empire/Tame/Golem",
+   "band": "Floating Empire",
+   "sub": 8
+  },
+  {
+   "path": "Floating Empire/Tame/Hell Spider",
+   "band": "Floating Empire",
+   "sub": 8
+  },
+  {
+   "path": "Floating Empire/Tame/Little Dragon",
+   "band": "Floating Empire",
+   "sub": 8
+  },
+  {
+   "path": "Floating Empire/Tame/Master Giant",
+   "band": "Floating Empire",
+   "sub": 8
+  },
+  {
+   "path": "Floating Empire/Tame/Pepper Ghost",
+   "band": "Floating Empire",
+   "sub": 8
+  },
+  {
+   "path": "Floating Empire/Tame/Thunderbird",
+   "band": "Floating Empire",
+   "sub": 8
+  },
+  {
+   "path": "Sharance Maze/Tame/Boss - Terrable",
+   "band": "Sharance Maze",
+   "sub": 10
+  },
+  {
+   "path": "Sharance Maze/Deepwater Shrine Lv 10 Tame/Boss - Aquaticus",
+   "band": "Sharance Maze",
+   "sub": 11
+  },
+  {
+   "path": "Sharance Maze/Tame/Boss - Fiersome",
+   "band": "Sharance Maze",
+   "sub": 11
+  }
+ ],
  "Other": [
   {
    "path": "Selphia/Shipment/Bamboo Sprout",

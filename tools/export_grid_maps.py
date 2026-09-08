@@ -5,18 +5,19 @@
 one pin in the marker band above every tile. Image and pins come out of the same
 pass, so they must be regenerated together or the pins slide off the tiles.
 
-Layout is taken from the pins already on disk -- their order, their grouping into
-labelled bands, and which sheet they belong to. That keeps a rebuild to exactly
-what changed (the tiles themselves) instead of reshuffling a sheet every time.
-Run it after anything that touches images/items/.
+Layout is `generated/grid_layout.json`: which sheet a pin belongs on, its band,
+its place in the order and the ruler under it. Run it after anything that
+touches images/items/.
 
 The tame sheets work the same way but draw `images/monsters/` instead, so run it
-after anything that touches either directory.
+after anything that touches either directory. A tame tile also carries a strip
+of every item that tames it, drawn under the face from `images/gifts/` -- bare
+icons rather than the `images/items/` cards, because at the size four of them
+fit, a card is mostly frame. `generated/tame_gifts.json` says which, in the
+game's own order.
 
     npm install --prefix tools @napi-rs/canvas && python3 tools/export_grid_maps.py
 """
-import collections
-import copy
 import json
 import os
 import re
@@ -27,20 +28,12 @@ import tempfile
 PACK = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + '/'
 SOURCES = ('locations/_Crafting.json', 'locations/_Shipments.json')
 TAMES = ('locations/_Tames.json',)
-
-
-def sheets(sources):
-    """map name -> the pins on it, in order, as (section path, source file)"""
-    out = collections.OrderedDict()
-    for src in sources:
-        doc = json.load(open(PACK + src, encoding='utf-8'))
-        root = doc[0] if isinstance(doc, list) else doc
-        for node in (root.get('children') or []):
-            for ml in (node.get('map_locations') or []):
-                ref = (node.get('sections') or [{}])[0].get('ref')
-                if ref:
-                    out.setdefault(ml['map'], []).append((ref, src))
-    return out
+TAME_PREFIX = 'Tames '
+# 24 columns is what the widest shipment band needs; a tame sheet wrapped that
+# late came out half again as wide as the pane it is shown in
+TAME_COLS = 16
+GIFTS = 'tools/generated/tame_gifts.json'
+CHIPS = 'images/gifts/'
 
 
 def slug(s):
@@ -65,6 +58,29 @@ def item_art():
     return art
 
 
+def gift_art():
+    """section name -> the bare chips for every item that tames it"""
+    gifts = json.load(open(PACK + GIFTS, encoding='utf-8'))
+    items = json.load(open(PACK + 'items/items.json', encoding='utf-8'))
+    items = items if isinstance(items, list) else items['items']
+    code = {i['name']: i['codes'] for i in items
+            if i.get('name') and i.get('codes')}
+    have = set(os.listdir(PACK + CHIPS))
+
+    def art(name):
+        if name.startswith('Boss - '):
+            name = name[len('Boss - '):]
+        out = []
+        for g in gifts.get(name, {}).get('gifts', []):
+            f = (code.get(g['item']) or '') + '.png'
+            if f not in have:
+                raise SystemExit('no chip for the gift %s -- run '
+                                 'tools/gamedata/export_gift_chips.py' % g['item'])
+            out.append(CHIPS + f)
+        return out
+    return art
+
+
 def monster_art():
     """section name -> tile, for the tame sheets"""
     have = set(os.listdir(PACK + 'images/monsters'))
@@ -75,30 +91,30 @@ def monster_art():
     return art
 
 
-def collect(sources, art, prefix, plan=None):
+def collect(plan, art, prefix, cols=None, chips=None):
     """the gen_grid_maps.mjs input for one family of sheets
 
-    A family with a plan -- generated/grid_layout.json -- takes its sheet, its
-    bands and its order from that. One without keeps the order of the pins on
-    disk, so a rebuild moves nothing it was not asked to.
+    Sheet, bands and order all come from the plan -- generated/grid_layout.json
+    -- so a rebuild reshuffles a sheet only when the plan says to.
     """
-    maps, owner = [], {}
-    laid = plan.items() if plan else (
-        (m, [{'path': r, 'band': r.split('/')[0], 'sub': None} for r, _ in p])
-        for m, p in sheets(sources).items())
-    for mapname, pins in laid:
+    maps = []
+    for mapname, pins in plan.items():
         entries = []
         for pin in pins:
             ref = pin['path']
             name = ref.rsplit('/', 1)[-1]
             entries.append({'path': ref, 'name': name, 'group': pin['band'],
-                            'sub': pin['sub'], 'img': art(name)})
+                            'sub': pin['sub'], 'img': art(name),
+                            'glyphs': chips(name) if chips else []})
         missing = [e['name'] for e in entries if not e['img']]
         if missing:
             raise SystemExit('no %s image for %s' % (prefix or 'item', missing[:4]))
         fileslug = re.sub(r'[^a-z0-9]+', '_', mapname.lower()).strip('_')
-        maps.append({'mapName': mapname, 'file': 'grid_%s.png' % fileslug,
-                     'items': entries})
+        entry = {'mapName': mapname, 'file': 'grid_%s.png' % fileslug,
+                 'items': entries}
+        if cols:
+            entry['cols'] = cols
+        maps.append(entry)
         print('%-26s %4d tiles' % (mapname, len(entries)))
     return maps
 
@@ -106,16 +122,14 @@ def collect(sources, art, prefix, plan=None):
 def main():
     plan = json.load(open(PACK + 'tools/generated/grid_layout.json',
                           encoding='utf-8'))
-    maps = (collect(SOURCES, item_art(), 'item', plan)
-            + collect(TAMES, monster_art(), 'monster'))
+    tame = {k: v for k, v in plan.items() if k.startswith(TAME_PREFIX)}
+    item = {k: v for k, v in plan.items() if not k.startswith(TAME_PREFIX)}
+    maps = (collect(item, item_art(), 'item')
+            + collect(tame, monster_art(), 'monster',
+                      cols=TAME_COLS, chips=gift_art()))
 
     # the shipped file names predate this tool, so keep them
-    KNOWN = {'Crafting': 'grid_crafting.png',
-             'Tames Selphia': 'grid_tames_selphia.png',
-             'Tames Selphia Plains': 'grid_tames_selphiaplains.png',
-             'Tames Autumn Road': 'grid_tames_autumnroad.png',
-             'Tames Sercerezo Hill': 'grid_tames_sercerezohill.png',
-             'Tames Anywhere': 'grid_tames_anywhere.png'}
+    KNOWN = {'Crafting': 'grid_crafting.png'}
     for m in maps:
         m['file'] = KNOWN.get(m['mapName'], m['file'])
 

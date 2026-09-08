@@ -24,6 +24,22 @@ Three kinds get their own treatment:
     barn products            Egg, Milk, Fur and Honey are what a tamed monster
                              gives you, so they band by the monster.
 
+The tame sheets were the last family filed by the doorway: five sheets named for
+the overworld hub you reach a place through, so Rune Prana's 32 tames sat under
+a tab called Autumn Road and that one sheet held 86 of the 149. They are six
+sheets now, each named for an area ON it and holding the areas you walk in the
+same stretch of the run, with the area as the band and the tier as the ruler.
+An area is never split across two sheets: cutting strictly on tier balances the
+sheets better and lands the max-shipment-tier cut on a tab boundary, but it
+shreds a dungeon across tabs -- one trial sheet came out eleven bands for 35
+tiles, six of them one tile tall.
+
+What tames a monster is not read from the Tame CSV at all: the game lists up to
+four gifts where the CSV keeps one, so `gamedata/export_monster_presents.py`
+takes them from the game's own tables into `generated/tame_gifts.json`, which
+`export_grid_maps.py` badges onto the tile and `export_tame_gifts.py` names on
+the pin.
+
 The crafted sheets were already grouped by how you make a thing, so they only
 gain bands: one per Subtype, ordered by the crafting Level, with the ruler
 bracketing level decades because a recipe has no tier and its level is
@@ -81,12 +97,28 @@ SEED_CROP = {
 }
 
 
+# The tame sheets, in the order you walk them. An area sits on exactly one, and
+# a sheet is named for an area it holds rather than for the hub that gates it.
+TAME_SHEETS = (
+    ('Selphia Plains', ('Selphia Plains', 'Water Ruins', 'Yokmir Forest',
+                        'Cluck Cluck Nest', 'Anywhere (Rare)')),
+    ('Autumn Road', ('Obsidian Mansion', 'Autumn Road', 'Delirium Lava Ruins',
+                     'Maya Road')),
+    ('Sercerezo Hill', ('Sercerezo Hill', 'Field Dungeon', 'Idra Cave',
+                        'Demons Den')),
+    ('Sechs Territory', ('Sechs Territory', 'Leon Karnak')),
+    ('Floating Empire', ('Floating Empire', 'Sharance Maze')),
+    ('Rune Prana', ('Rune Prana',)),
+)
+
+
 def rows(sheet):
     return csv_rows(sheet, strip_slashes=True, by_name=True)
 
 
 SHIP = rows('Shipments')
 REC = rows('Recipes')
+TAME = rows('Tame')
 # the item panel splits its weapon tabs here, so the sheets match it
 FORGE_I = ('Short Sword', 'Long Sword', 'Dual Blade', 'Spear')
 COOK_I = ('Frying Pan', 'Pot', 'Knife')
@@ -197,6 +229,37 @@ def crafted(out):
                                      nm.lower()), dec, path))
 
 
+def tames(out):
+    """one sheet per stretch of the run, banded by area and ruled by tier"""
+    sheet_of = {area: name for name, areas in TAME_SHEETS for area in areas}
+    order = {name: i for i, (name, _) in enumerate(TAME_SHEETS)}
+    pins = []
+    for path, _ in refs('_Tames.json'):
+        nm = path.rsplit('/', 1)[-1]
+        area = path.split('/')[0]
+        row = TAME.get(nm[len('Boss - '):] if nm.startswith('Boss - ') else nm)
+        if row is None:
+            raise SystemExit('no Tame row for %s' % nm)
+        t = num(row.get('Tier'))
+        pins.append((sheet_of.get(area, 'Rune Prana'), area,
+                     t if t is not None else 99, nm, path))
+    if len(sheet_of) != len({a for _, a, _, _, _ in pins}):
+        stray = {a for _, a, _, _, _ in pins} - set(sheet_of)
+        if stray:
+            raise SystemExit('tame area on no sheet: %s' % sorted(stray))
+
+    # a band sits where the tier you first meet it puts it
+    first = {}
+    for sheet, area, t, _, _ in pins:
+        first[(sheet, area)] = min(first.get((sheet, area), 99), t)
+    for sheet, area, t, nm, path in pins:
+        out['Tames ' + sheet].append(
+            (order[sheet] * 100 + sorted(
+                {a for s, a in first if s == sheet},
+                key=lambda a: (first[(sheet, a)], a)).index(area),
+             area, (t, nm.lower()), t, path))
+
+
 def main():
     crops, seed_of = crop_order()
     hub = hub_of()
@@ -263,6 +326,7 @@ def main():
              None if region == head else region, path))
 
     crafted(out)
+    tames(out)
     doc = {}
     for name in sorted(out, key=lambda k: -len(out[k])):
         doc[name] = [{'path': p, 'band': b, 'sub': s}

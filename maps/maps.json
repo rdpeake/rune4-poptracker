@@ -308,39 +308,46 @@
         "img": "images/maps/grid_other.png"
     },
     {
-        "name": "Tames Selphia",
-        "location_size": 16,
-        "location_border_thickness": 2,
-        "location_shape": "rect",
-        "img": "images/maps/grid_tames_selphia.png"
-    },
-    {
         "name": "Tames Selphia Plains",
         "location_size": 16,
         "location_border_thickness": 2,
         "location_shape": "rect",
-        "img": "images/maps/grid_tames_selphiaplains.png"
+        "img": "images/maps/grid_tames_selphia_plains.png"
     },
     {
         "name": "Tames Autumn Road",
         "location_size": 16,
         "location_border_thickness": 2,
         "location_shape": "rect",
-        "img": "images/maps/grid_tames_autumnroad.png"
+        "img": "images/maps/grid_tames_autumn_road.png"
     },
     {
         "name": "Tames Sercerezo Hill",
         "location_size": 16,
         "location_border_thickness": 2,
         "location_shape": "rect",
-        "img": "images/maps/grid_tames_sercerezohill.png"
+        "img": "images/maps/grid_tames_sercerezo_hill.png"
     },
     {
-        "name": "Tames Anywhere",
+        "name": "Tames Sechs Territory",
         "location_size": 16,
         "location_border_thickness": 2,
         "location_shape": "rect",
-        "img": "images/maps/grid_tames_anywhere.png"
+        "img": "images/maps/grid_tames_sechs_territory.png"
+    },
+    {
+        "name": "Tames Floating Empire",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_tames_floating_empire.png"
+    },
+    {
+        "name": "Tames Rune Prana",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_tames_rune_prana.png"
     },
     {
         "name": "Forge I",
