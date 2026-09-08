@@ -24,7 +24,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 209,
+                        "x": 155,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -48,7 +48,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 259,
+                        "x": 205,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -72,7 +72,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 309,
+                        "x": 255,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -96,7 +96,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 359,
+                        "x": 305,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -120,7 +120,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 409,
+                        "x": 355,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -144,7 +144,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 459,
+                        "x": 405,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -168,7 +168,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 509,
+                        "x": 455,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -192,7 +192,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 559,
+                        "x": 505,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -216,7 +216,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 609,
+                        "x": 555,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -240,7 +240,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 659,
+                        "x": 605,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -264,7 +264,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 709,
+                        "x": 655,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -288,7 +288,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 759,
+                        "x": 705,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -312,7 +312,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 809,
+                        "x": 755,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -336,7 +336,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 859,
+                        "x": 805,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -360,7 +360,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 909,
+                        "x": 855,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -384,7 +384,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 959,
+                        "x": 905,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -408,7 +408,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1009,
+                        "x": 955,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -432,7 +432,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1059,
+                        "x": 1005,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -456,7 +456,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1109,
+                        "x": 1055,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -480,7 +480,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1159,
+                        "x": 1105,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -504,7 +504,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1209,
+                        "x": 1155,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -528,7 +528,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1259,
+                        "x": 1205,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -552,7 +552,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1309,
+                        "x": 1255,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -576,7 +576,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1359,
+                        "x": 1305,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -600,7 +600,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 209,
+                        "x": 155,
                         "y": 92,
                         "size": 16,
                         "shape": "diamond",
@@ -624,7 +624,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 259,
+                        "x": 205,
                         "y": 92,
                         "size": 16,
                         "shape": "diamond",
@@ -648,7 +648,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 309,
+                        "x": 255,
                         "y": 92,
                         "size": 16,
                         "shape": "diamond",
@@ -672,7 +672,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 359,
+                        "x": 305,
                         "y": 92,
                         "size": 16,
                         "shape": "diamond",
@@ -696,7 +696,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 409,
+                        "x": 355,
                         "y": 92,
                         "size": 16,
                         "shape": "diamond",
@@ -720,7 +720,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 459,
+                        "x": 405,
                         "y": 92,
                         "size": 16,
                         "shape": "diamond",
@@ -744,7 +744,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 509,
+                        "x": 455,
                         "y": 92,
                         "size": 16,
                         "shape": "diamond",
@@ -768,7 +768,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 559,
+                        "x": 505,
                         "y": 92,
                         "size": 16,
                         "shape": "diamond",
@@ -792,7 +792,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 209,
+                        "x": 155,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -816,7 +816,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 259,
+                        "x": 205,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -840,7 +840,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 309,
+                        "x": 255,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -864,7 +864,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 359,
+                        "x": 305,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -888,7 +888,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 409,
+                        "x": 355,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -912,7 +912,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 459,
+                        "x": 405,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -936,7 +936,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 509,
+                        "x": 455,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -960,7 +960,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 559,
+                        "x": 505,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -984,7 +984,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 609,
+                        "x": 555,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -1008,7 +1008,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 659,
+                        "x": 605,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -1032,7 +1032,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 709,
+                        "x": 655,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -1056,7 +1056,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 759,
+                        "x": 705,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -1080,7 +1080,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 809,
+                        "x": 755,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -1104,7 +1104,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 859,
+                        "x": 805,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -1128,7 +1128,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 909,
+                        "x": 855,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -1152,7 +1152,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 959,
+                        "x": 905,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -1176,7 +1176,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1009,
+                        "x": 955,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -1200,7 +1200,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1059,
+                        "x": 1005,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -1224,7 +1224,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1109,
+                        "x": 1055,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -1248,7 +1248,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1159,
+                        "x": 1105,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -1272,7 +1272,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1209,
+                        "x": 1155,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -1296,7 +1296,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1259,
+                        "x": 1205,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -1320,7 +1320,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1309,
+                        "x": 1255,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -1344,7 +1344,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1359,
+                        "x": 1305,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -1368,7 +1368,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 209,
+                        "x": 155,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1392,7 +1392,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 259,
+                        "x": 205,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1416,7 +1416,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 309,
+                        "x": 255,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1440,7 +1440,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 359,
+                        "x": 305,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1464,7 +1464,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 409,
+                        "x": 355,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1488,7 +1488,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 459,
+                        "x": 405,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1512,7 +1512,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 509,
+                        "x": 455,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1536,7 +1536,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 559,
+                        "x": 505,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1560,7 +1560,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 609,
+                        "x": 555,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1584,7 +1584,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 659,
+                        "x": 605,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1608,7 +1608,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 709,
+                        "x": 655,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1632,7 +1632,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 759,
+                        "x": 705,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1656,7 +1656,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 809,
+                        "x": 755,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1680,7 +1680,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 859,
+                        "x": 805,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1704,7 +1704,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 909,
+                        "x": 855,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1728,7 +1728,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 959,
+                        "x": 905,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1752,7 +1752,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1009,
+                        "x": 955,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1776,7 +1776,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1059,
+                        "x": 1005,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1800,7 +1800,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1109,
+                        "x": 1055,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1824,7 +1824,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1159,
+                        "x": 1105,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1848,7 +1848,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1209,
+                        "x": 1155,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1872,7 +1872,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1259,
+                        "x": 1205,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1896,7 +1896,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1309,
+                        "x": 1255,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1920,7 +1920,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1359,
+                        "x": 1305,
                         "y": 240,
                         "size": 16,
                         "shape": "diamond",
@@ -1944,7 +1944,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 209,
+                        "x": 155,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -1968,7 +1968,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 259,
+                        "x": 205,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -1992,7 +1992,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 309,
+                        "x": 255,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2016,7 +2016,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 359,
+                        "x": 305,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2040,7 +2040,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 409,
+                        "x": 355,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2064,7 +2064,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 459,
+                        "x": 405,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2088,7 +2088,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 509,
+                        "x": 455,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2112,7 +2112,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 559,
+                        "x": 505,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2136,7 +2136,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 609,
+                        "x": 555,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2160,7 +2160,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 659,
+                        "x": 605,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2184,7 +2184,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 709,
+                        "x": 655,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2208,7 +2208,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 759,
+                        "x": 705,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2232,7 +2232,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 809,
+                        "x": 755,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2256,7 +2256,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 859,
+                        "x": 805,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2280,7 +2280,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 909,
+                        "x": 855,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2304,7 +2304,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 959,
+                        "x": 905,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2328,7 +2328,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1009,
+                        "x": 955,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2352,7 +2352,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1059,
+                        "x": 1005,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2376,7 +2376,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1109,
+                        "x": 1055,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2400,7 +2400,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1159,
+                        "x": 1105,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2424,7 +2424,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1209,
+                        "x": 1155,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2448,7 +2448,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1259,
+                        "x": 1205,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2472,7 +2472,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1309,
+                        "x": 1255,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2496,7 +2496,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1359,
+                        "x": 1305,
                         "y": 309,
                         "size": 16,
                         "shape": "diamond",
@@ -2520,7 +2520,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 209,
+                        "x": 155,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2544,7 +2544,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 259,
+                        "x": 205,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2568,7 +2568,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 309,
+                        "x": 255,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2592,7 +2592,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 359,
+                        "x": 305,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2616,7 +2616,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 409,
+                        "x": 355,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2640,7 +2640,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 459,
+                        "x": 405,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2664,7 +2664,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 509,
+                        "x": 455,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2688,7 +2688,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 559,
+                        "x": 505,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2712,7 +2712,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 609,
+                        "x": 555,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2736,7 +2736,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 659,
+                        "x": 605,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2760,7 +2760,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 709,
+                        "x": 655,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2784,7 +2784,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 759,
+                        "x": 705,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2808,7 +2808,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 809,
+                        "x": 755,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2832,7 +2832,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 859,
+                        "x": 805,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2856,7 +2856,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 909,
+                        "x": 855,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2880,7 +2880,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 959,
+                        "x": 905,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2904,7 +2904,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1009,
+                        "x": 955,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2928,7 +2928,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1059,
+                        "x": 1005,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2952,7 +2952,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1109,
+                        "x": 1055,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -2976,7 +2976,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1159,
+                        "x": 1105,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -3000,7 +3000,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1209,
+                        "x": 1155,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -3024,7 +3024,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1259,
+                        "x": 1205,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -3048,7 +3048,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1309,
+                        "x": 1255,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -3072,7 +3072,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1359,
+                        "x": 1305,
                         "y": 378,
                         "size": 16,
                         "shape": "diamond",
@@ -3096,7 +3096,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 209,
+                        "x": 155,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3120,7 +3120,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 259,
+                        "x": 205,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3144,7 +3144,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 309,
+                        "x": 255,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3168,7 +3168,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 359,
+                        "x": 305,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3192,7 +3192,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 409,
+                        "x": 355,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3216,7 +3216,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 459,
+                        "x": 405,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3240,7 +3240,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 509,
+                        "x": 455,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3264,7 +3264,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 559,
+                        "x": 505,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3288,7 +3288,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 609,
+                        "x": 555,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3312,7 +3312,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 659,
+                        "x": 605,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3336,7 +3336,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 709,
+                        "x": 655,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3360,7 +3360,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 759,
+                        "x": 705,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3384,7 +3384,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 809,
+                        "x": 755,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3408,7 +3408,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 859,
+                        "x": 805,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3432,7 +3432,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 909,
+                        "x": 855,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3456,7 +3456,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 959,
+                        "x": 905,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3480,7 +3480,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1009,
+                        "x": 955,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3504,7 +3504,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1059,
+                        "x": 1005,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3528,7 +3528,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1109,
+                        "x": 1055,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3552,7 +3552,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1159,
+                        "x": 1105,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3576,7 +3576,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1209,
+                        "x": 1155,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3600,7 +3600,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1259,
+                        "x": 1205,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3624,7 +3624,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1309,
+                        "x": 1255,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3648,7 +3648,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1359,
+                        "x": 1305,
                         "y": 447,
                         "size": 16,
                         "shape": "diamond",
@@ -3672,7 +3672,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 209,
+                        "x": 155,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -3696,7 +3696,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 259,
+                        "x": 205,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -3720,7 +3720,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 309,
+                        "x": 255,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -3744,7 +3744,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 359,
+                        "x": 305,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -3768,7 +3768,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 409,
+                        "x": 355,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -3792,7 +3792,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 459,
+                        "x": 405,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -3816,7 +3816,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 509,
+                        "x": 455,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -3840,7 +3840,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 559,
+                        "x": 505,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -3864,7 +3864,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 609,
+                        "x": 555,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -3888,7 +3888,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 659,
+                        "x": 605,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -3912,7 +3912,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 709,
+                        "x": 655,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -3936,7 +3936,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 759,
+                        "x": 705,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -3960,7 +3960,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 809,
+                        "x": 755,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -3984,7 +3984,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 859,
+                        "x": 805,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -4008,7 +4008,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 909,
+                        "x": 855,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -4032,7 +4032,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 959,
+                        "x": 905,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -4056,7 +4056,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1009,
+                        "x": 955,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -4080,7 +4080,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1059,
+                        "x": 1005,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -4104,7 +4104,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1109,
+                        "x": 1055,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -4128,7 +4128,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1159,
+                        "x": 1105,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -4152,7 +4152,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1209,
+                        "x": 1155,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -4176,7 +4176,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1259,
+                        "x": 1205,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -4200,7 +4200,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1309,
+                        "x": 1255,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -4224,7 +4224,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1359,
+                        "x": 1305,
                         "y": 516,
                         "size": 16,
                         "shape": "diamond",
@@ -4248,7 +4248,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 209,
+                        "x": 155,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4272,7 +4272,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 259,
+                        "x": 205,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4296,7 +4296,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 309,
+                        "x": 255,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4320,7 +4320,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 359,
+                        "x": 305,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4344,7 +4344,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 409,
+                        "x": 355,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4368,7 +4368,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 459,
+                        "x": 405,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4392,7 +4392,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 509,
+                        "x": 455,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4416,7 +4416,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 559,
+                        "x": 505,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4440,7 +4440,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 609,
+                        "x": 555,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4464,7 +4464,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 659,
+                        "x": 605,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4488,7 +4488,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 709,
+                        "x": 655,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4512,7 +4512,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 759,
+                        "x": 705,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4536,7 +4536,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 809,
+                        "x": 755,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4560,7 +4560,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 859,
+                        "x": 805,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4584,7 +4584,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 909,
+                        "x": 855,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4608,7 +4608,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 959,
+                        "x": 905,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4632,7 +4632,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1009,
+                        "x": 955,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4656,7 +4656,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1059,
+                        "x": 1005,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4680,7 +4680,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1109,
+                        "x": 1055,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4704,7 +4704,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1159,
+                        "x": 1105,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4728,7 +4728,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1209,
+                        "x": 1155,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4752,7 +4752,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1259,
+                        "x": 1205,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4776,7 +4776,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1309,
+                        "x": 1255,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4800,7 +4800,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 1359,
+                        "x": 1305,
                         "y": 585,
                         "size": 16,
                         "shape": "diamond",
@@ -4824,7 +4824,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 209,
+                        "x": 155,
                         "y": 664,
                         "size": 16,
                         "shape": "diamond",
@@ -4848,7 +4848,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 259,
+                        "x": 205,
                         "y": 664,
                         "size": 16,
                         "shape": "diamond",
@@ -4872,7 +4872,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 309,
+                        "x": 255,
                         "y": 664,
                         "size": 16,
                         "shape": "diamond",
@@ -4896,7 +4896,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 359,
+                        "x": 305,
                         "y": 664,
                         "size": 16,
                         "shape": "diamond",
@@ -4920,7 +4920,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 409,
+                        "x": 355,
                         "y": 664,
                         "size": 16,
                         "shape": "diamond",
@@ -4944,7 +4944,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 459,
+                        "x": 405,
                         "y": 664,
                         "size": 16,
                         "shape": "diamond",
@@ -4968,7 +4968,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 509,
+                        "x": 455,
                         "y": 664,
                         "size": 16,
                         "shape": "diamond",
@@ -4992,7 +4992,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 559,
+                        "x": 505,
                         "y": 664,
                         "size": 16,
                         "shape": "diamond",
@@ -5016,7 +5016,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 609,
+                        "x": 555,
                         "y": 664,
                         "size": 16,
                         "shape": "diamond",
@@ -5040,7 +5040,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia",
-                        "x": 659,
+                        "x": 605,
                         "y": 664,
                         "size": 16,
                         "shape": "diamond",
@@ -5064,7 +5064,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 209,
+                        "x": 160,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -5088,7 +5088,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 209,
+                        "x": 160,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5112,7 +5112,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 259,
+                        "x": 210,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5136,7 +5136,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 309,
+                        "x": 260,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5160,7 +5160,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 359,
+                        "x": 310,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5184,7 +5184,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 409,
+                        "x": 360,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5208,7 +5208,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 459,
+                        "x": 410,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5232,7 +5232,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 509,
+                        "x": 460,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5256,7 +5256,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 559,
+                        "x": 510,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5280,7 +5280,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 609,
+                        "x": 560,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5304,7 +5304,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 659,
+                        "x": 610,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5328,7 +5328,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 709,
+                        "x": 660,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5352,7 +5352,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 759,
+                        "x": 710,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5376,7 +5376,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 809,
+                        "x": 760,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5400,7 +5400,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 859,
+                        "x": 810,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5424,7 +5424,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 909,
+                        "x": 860,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5448,7 +5448,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 959,
+                        "x": 910,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5472,7 +5472,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 1009,
+                        "x": 960,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5496,7 +5496,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 1059,
+                        "x": 1010,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5520,7 +5520,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 1109,
+                        "x": 1060,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5544,7 +5544,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 1159,
+                        "x": 1110,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5568,7 +5568,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 1209,
+                        "x": 1160,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5592,7 +5592,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 1259,
+                        "x": 1210,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5616,7 +5616,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 1309,
+                        "x": 1260,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5640,7 +5640,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 1359,
+                        "x": 1310,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -5664,7 +5664,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 209,
+                        "x": 160,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -5688,7 +5688,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 259,
+                        "x": 210,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -5712,7 +5712,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 309,
+                        "x": 260,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -5736,7 +5736,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 359,
+                        "x": 310,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -5760,7 +5760,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 409,
+                        "x": 360,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -5784,7 +5784,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 459,
+                        "x": 410,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -5808,7 +5808,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 509,
+                        "x": 460,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -5832,7 +5832,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 559,
+                        "x": 510,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -5856,7 +5856,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 609,
+                        "x": 560,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -5880,7 +5880,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 659,
+                        "x": 610,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -5904,7 +5904,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 709,
+                        "x": 660,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -5928,7 +5928,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 759,
+                        "x": 710,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -5952,7 +5952,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 809,
+                        "x": 760,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -5976,7 +5976,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 859,
+                        "x": 810,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -6000,7 +6000,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 909,
+                        "x": 860,
                         "y": 171,
                         "size": 16,
                         "shape": "diamond",
@@ -6024,7 +6024,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 209,
+                        "x": 160,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -6048,7 +6048,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 259,
+                        "x": 210,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -6072,7 +6072,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 309,
+                        "x": 260,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -6096,7 +6096,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 359,
+                        "x": 310,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -6120,7 +6120,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 409,
+                        "x": 360,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -6144,7 +6144,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 459,
+                        "x": 410,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -6168,7 +6168,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 509,
+                        "x": 460,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -6192,7 +6192,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 559,
+                        "x": 510,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -6216,7 +6216,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 609,
+                        "x": 560,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -6240,7 +6240,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 659,
+                        "x": 610,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -6264,7 +6264,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 709,
+                        "x": 660,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -6288,7 +6288,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 759,
+                        "x": 710,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -6312,7 +6312,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 809,
+                        "x": 760,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -6336,7 +6336,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 859,
+                        "x": 810,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -6360,7 +6360,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 909,
+                        "x": 860,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -6384,7 +6384,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 959,
+                        "x": 910,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -6408,7 +6408,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 209,
+                        "x": 160,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6432,7 +6432,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 259,
+                        "x": 210,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6456,7 +6456,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 309,
+                        "x": 260,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6480,7 +6480,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 359,
+                        "x": 310,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6504,7 +6504,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 409,
+                        "x": 360,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6528,7 +6528,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 459,
+                        "x": 410,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6552,7 +6552,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 509,
+                        "x": 460,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6576,7 +6576,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 559,
+                        "x": 510,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6600,7 +6600,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 609,
+                        "x": 560,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6624,7 +6624,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 659,
+                        "x": 610,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6648,7 +6648,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 709,
+                        "x": 660,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6672,7 +6672,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 759,
+                        "x": 710,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6696,7 +6696,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 809,
+                        "x": 760,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6720,7 +6720,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 859,
+                        "x": 810,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6744,7 +6744,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 909,
+                        "x": 860,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6768,7 +6768,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 959,
+                        "x": 910,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6792,7 +6792,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 1009,
+                        "x": 960,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6816,7 +6816,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 1059,
+                        "x": 1010,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6840,7 +6840,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 1109,
+                        "x": 1060,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6864,7 +6864,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 1159,
+                        "x": 1110,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6888,7 +6888,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 1209,
+                        "x": 1160,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6912,7 +6912,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 1259,
+                        "x": 1210,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6936,7 +6936,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 1309,
+                        "x": 1260,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6960,7 +6960,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 1359,
+                        "x": 1310,
                         "y": 329,
                         "size": 16,
                         "shape": "diamond",
@@ -6984,7 +6984,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 209,
+                        "x": 160,
                         "y": 398,
                         "size": 16,
                         "shape": "diamond",
@@ -7008,7 +7008,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 259,
+                        "x": 210,
                         "y": 398,
                         "size": 16,
                         "shape": "diamond",
@@ -7032,7 +7032,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 309,
+                        "x": 260,
                         "y": 398,
                         "size": 16,
                         "shape": "diamond",
@@ -7056,7 +7056,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 359,
+                        "x": 310,
                         "y": 398,
                         "size": 16,
                         "shape": "diamond",
@@ -7080,7 +7080,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 409,
+                        "x": 360,
                         "y": 398,
                         "size": 16,
                         "shape": "diamond",
@@ -7104,7 +7104,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 459,
+                        "x": 410,
                         "y": 398,
                         "size": 16,
                         "shape": "diamond",
@@ -7128,7 +7128,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 509,
+                        "x": 460,
                         "y": 398,
                         "size": 16,
                         "shape": "diamond",
@@ -7152,7 +7152,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Selphia Plains",
-                        "x": 559,
+                        "x": 510,
                         "y": 398,
                         "size": 16,
                         "shape": "diamond",
@@ -7176,7 +7176,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 209,
+                        "x": 183,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7200,7 +7200,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 259,
+                        "x": 233,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7224,7 +7224,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 309,
+                        "x": 283,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7248,7 +7248,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 359,
+                        "x": 333,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7272,7 +7272,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 409,
+                        "x": 383,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7296,7 +7296,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 459,
+                        "x": 433,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7320,7 +7320,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 509,
+                        "x": 483,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7344,7 +7344,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 559,
+                        "x": 533,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7368,7 +7368,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 609,
+                        "x": 583,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7392,7 +7392,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 659,
+                        "x": 633,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7416,7 +7416,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 709,
+                        "x": 683,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7440,7 +7440,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 759,
+                        "x": 733,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7464,7 +7464,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 809,
+                        "x": 783,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7488,7 +7488,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 859,
+                        "x": 833,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7512,7 +7512,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 909,
+                        "x": 883,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7536,7 +7536,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 959,
+                        "x": 933,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7560,7 +7560,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1009,
+                        "x": 983,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7584,7 +7584,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1059,
+                        "x": 1033,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7608,7 +7608,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1109,
+                        "x": 1083,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7632,7 +7632,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1159,
+                        "x": 1133,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7656,7 +7656,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1209,
+                        "x": 1183,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -7680,7 +7680,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 209,
+                        "x": 183,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -7704,7 +7704,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 259,
+                        "x": 233,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -7728,7 +7728,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 309,
+                        "x": 283,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -7752,7 +7752,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 359,
+                        "x": 333,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -7776,7 +7776,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 409,
+                        "x": 383,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -7800,7 +7800,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 459,
+                        "x": 433,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -7824,7 +7824,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 509,
+                        "x": 483,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -7848,7 +7848,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 559,
+                        "x": 533,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -7872,7 +7872,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 609,
+                        "x": 583,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -7896,7 +7896,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 659,
+                        "x": 633,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -7920,7 +7920,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 709,
+                        "x": 683,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -7944,7 +7944,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 759,
+                        "x": 733,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -7968,7 +7968,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 809,
+                        "x": 783,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -7992,7 +7992,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 209,
+                        "x": 183,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -8016,7 +8016,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 259,
+                        "x": 233,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -8040,7 +8040,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 309,
+                        "x": 283,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -8064,7 +8064,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 359,
+                        "x": 333,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -8088,7 +8088,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 409,
+                        "x": 383,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -8112,7 +8112,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 459,
+                        "x": 433,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -8136,7 +8136,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 509,
+                        "x": 483,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -8160,7 +8160,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 559,
+                        "x": 533,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -8184,7 +8184,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 609,
+                        "x": 583,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -8208,7 +8208,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 659,
+                        "x": 633,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -8232,7 +8232,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 709,
+                        "x": 683,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -8256,7 +8256,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 759,
+                        "x": 733,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -8280,7 +8280,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 809,
+                        "x": 783,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -8304,7 +8304,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 859,
+                        "x": 833,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -8328,7 +8328,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 909,
+                        "x": 883,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -8352,7 +8352,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 959,
+                        "x": 933,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -8376,7 +8376,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 209,
+                        "x": 183,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8400,7 +8400,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 259,
+                        "x": 233,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8424,7 +8424,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 309,
+                        "x": 283,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8448,7 +8448,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 359,
+                        "x": 333,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8472,7 +8472,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 409,
+                        "x": 383,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8496,7 +8496,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 459,
+                        "x": 433,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8520,7 +8520,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 509,
+                        "x": 483,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8544,7 +8544,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 559,
+                        "x": 533,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8568,7 +8568,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 609,
+                        "x": 583,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8592,7 +8592,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 659,
+                        "x": 633,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8616,7 +8616,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 709,
+                        "x": 683,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8640,7 +8640,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 759,
+                        "x": 733,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8664,7 +8664,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 809,
+                        "x": 783,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8688,7 +8688,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 859,
+                        "x": 833,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8712,7 +8712,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 909,
+                        "x": 883,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8736,7 +8736,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 959,
+                        "x": 933,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8760,7 +8760,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1009,
+                        "x": 983,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8784,7 +8784,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1059,
+                        "x": 1033,
                         "y": 260,
                         "size": 16,
                         "shape": "diamond",
@@ -8808,7 +8808,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 209,
+                        "x": 183,
                         "y": 339,
                         "size": 16,
                         "shape": "diamond",
@@ -8832,7 +8832,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 259,
+                        "x": 233,
                         "y": 339,
                         "size": 16,
                         "shape": "diamond",
@@ -8856,7 +8856,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 309,
+                        "x": 283,
                         "y": 339,
                         "size": 16,
                         "shape": "diamond",
@@ -8880,7 +8880,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 359,
+                        "x": 333,
                         "y": 339,
                         "size": 16,
                         "shape": "diamond",
@@ -8904,7 +8904,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 409,
+                        "x": 383,
                         "y": 339,
                         "size": 16,
                         "shape": "diamond",
@@ -8928,7 +8928,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 459,
+                        "x": 433,
                         "y": 339,
                         "size": 16,
                         "shape": "diamond",
@@ -8952,7 +8952,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 509,
+                        "x": 483,
                         "y": 339,
                         "size": 16,
                         "shape": "diamond",
@@ -8976,7 +8976,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 559,
+                        "x": 533,
                         "y": 339,
                         "size": 16,
                         "shape": "diamond",
@@ -9000,7 +9000,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 609,
+                        "x": 583,
                         "y": 339,
                         "size": 16,
                         "shape": "diamond",
@@ -9024,7 +9024,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 659,
+                        "x": 633,
                         "y": 339,
                         "size": 16,
                         "shape": "diamond",
@@ -9048,7 +9048,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 709,
+                        "x": 683,
                         "y": 339,
                         "size": 16,
                         "shape": "diamond",
@@ -9072,7 +9072,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 759,
+                        "x": 733,
                         "y": 339,
                         "size": 16,
                         "shape": "diamond",
@@ -9096,7 +9096,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 809,
+                        "x": 783,
                         "y": 339,
                         "size": 16,
                         "shape": "diamond",
@@ -9120,7 +9120,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 209,
+                        "x": 183,
                         "y": 418,
                         "size": 16,
                         "shape": "diamond",
@@ -9144,7 +9144,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 259,
+                        "x": 233,
                         "y": 418,
                         "size": 16,
                         "shape": "diamond",
@@ -9168,7 +9168,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 209,
+                        "x": 183,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9192,7 +9192,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 259,
+                        "x": 233,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9216,7 +9216,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 309,
+                        "x": 283,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9240,7 +9240,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 359,
+                        "x": 333,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9264,7 +9264,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 409,
+                        "x": 383,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9288,7 +9288,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 459,
+                        "x": 433,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9312,7 +9312,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 509,
+                        "x": 483,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9336,7 +9336,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 559,
+                        "x": 533,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9360,7 +9360,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 609,
+                        "x": 583,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9384,7 +9384,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 659,
+                        "x": 633,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9408,7 +9408,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 709,
+                        "x": 683,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9432,7 +9432,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 759,
+                        "x": 733,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9456,7 +9456,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 809,
+                        "x": 783,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9480,7 +9480,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 859,
+                        "x": 833,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9504,7 +9504,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 909,
+                        "x": 883,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9528,7 +9528,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 959,
+                        "x": 933,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9552,7 +9552,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1009,
+                        "x": 983,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9576,7 +9576,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1059,
+                        "x": 1033,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9600,7 +9600,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1109,
+                        "x": 1083,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9624,7 +9624,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1159,
+                        "x": 1133,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9648,7 +9648,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1209,
+                        "x": 1183,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9672,7 +9672,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1259,
+                        "x": 1233,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9696,7 +9696,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1309,
+                        "x": 1283,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9720,7 +9720,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1359,
+                        "x": 1333,
                         "y": 497,
                         "size": 16,
                         "shape": "diamond",
@@ -9744,7 +9744,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 209,
+                        "x": 183,
                         "y": 566,
                         "size": 16,
                         "shape": "diamond",
@@ -9768,7 +9768,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 259,
+                        "x": 233,
                         "y": 566,
                         "size": 16,
                         "shape": "diamond",
@@ -9792,7 +9792,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 309,
+                        "x": 283,
                         "y": 566,
                         "size": 16,
                         "shape": "diamond",
@@ -9816,7 +9816,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 359,
+                        "x": 333,
                         "y": 566,
                         "size": 16,
                         "shape": "diamond",
@@ -9840,7 +9840,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 409,
+                        "x": 383,
                         "y": 566,
                         "size": 16,
                         "shape": "diamond",
@@ -9864,7 +9864,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 209,
+                        "x": 183,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -9888,7 +9888,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 259,
+                        "x": 233,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -9912,7 +9912,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 309,
+                        "x": 283,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -9936,7 +9936,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 359,
+                        "x": 333,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -9960,7 +9960,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 409,
+                        "x": 383,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -9984,7 +9984,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 459,
+                        "x": 433,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10008,7 +10008,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 509,
+                        "x": 483,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10032,7 +10032,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 559,
+                        "x": 533,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10056,7 +10056,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 609,
+                        "x": 583,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10080,7 +10080,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 659,
+                        "x": 633,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10104,7 +10104,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 709,
+                        "x": 683,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10128,7 +10128,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 759,
+                        "x": 733,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10152,7 +10152,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 809,
+                        "x": 783,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10176,7 +10176,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 859,
+                        "x": 833,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10200,7 +10200,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 909,
+                        "x": 883,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10224,7 +10224,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 959,
+                        "x": 933,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10248,7 +10248,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1009,
+                        "x": 983,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10272,7 +10272,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1059,
+                        "x": 1033,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10296,7 +10296,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1109,
+                        "x": 1083,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10320,7 +10320,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1159,
+                        "x": 1133,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10344,7 +10344,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1209,
+                        "x": 1183,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10368,7 +10368,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1259,
+                        "x": 1233,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10392,7 +10392,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1309,
+                        "x": 1283,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10416,7 +10416,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 1359,
+                        "x": 1333,
                         "y": 645,
                         "size": 16,
                         "shape": "diamond",
@@ -10440,7 +10440,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 209,
+                        "x": 183,
                         "y": 714,
                         "size": 16,
                         "shape": "diamond",
@@ -10464,7 +10464,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Autumn Road",
-                        "x": 259,
+                        "x": 233,
                         "y": 714,
                         "size": 16,
                         "shape": "diamond",
@@ -10488,7 +10488,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 209,
+                        "x": 141,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -10512,7 +10512,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 259,
+                        "x": 191,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -10536,7 +10536,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 309,
+                        "x": 241,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -10560,7 +10560,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 359,
+                        "x": 291,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -10584,7 +10584,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 409,
+                        "x": 341,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -10608,7 +10608,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 459,
+                        "x": 391,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -10632,7 +10632,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 209,
+                        "x": 141,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -10656,7 +10656,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 259,
+                        "x": 191,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -10680,7 +10680,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 309,
+                        "x": 241,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -10704,7 +10704,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 359,
+                        "x": 291,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -10728,7 +10728,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 409,
+                        "x": 341,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -10752,7 +10752,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 459,
+                        "x": 391,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -10776,7 +10776,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 509,
+                        "x": 441,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -10800,7 +10800,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 559,
+                        "x": 491,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -10824,7 +10824,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 609,
+                        "x": 541,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -10848,7 +10848,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 659,
+                        "x": 591,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -10872,7 +10872,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 709,
+                        "x": 641,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -10896,7 +10896,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 759,
+                        "x": 691,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -10920,7 +10920,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 809,
+                        "x": 741,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -10944,7 +10944,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 859,
+                        "x": 791,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -10968,7 +10968,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 909,
+                        "x": 841,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -10992,7 +10992,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 959,
+                        "x": 891,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -11016,7 +11016,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 1009,
+                        "x": 941,
                         "y": 102,
                         "size": 16,
                         "shape": "diamond",
@@ -11040,7 +11040,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 209,
+                        "x": 141,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11064,7 +11064,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 259,
+                        "x": 191,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11088,7 +11088,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 309,
+                        "x": 241,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11112,7 +11112,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 359,
+                        "x": 291,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11136,7 +11136,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 409,
+                        "x": 341,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11160,7 +11160,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 459,
+                        "x": 391,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11184,7 +11184,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 509,
+                        "x": 441,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11208,7 +11208,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 559,
+                        "x": 491,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11232,7 +11232,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 609,
+                        "x": 541,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11256,7 +11256,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 659,
+                        "x": 591,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11280,7 +11280,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 709,
+                        "x": 641,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11304,7 +11304,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 759,
+                        "x": 691,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11328,7 +11328,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 809,
+                        "x": 741,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11352,7 +11352,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 859,
+                        "x": 791,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11376,7 +11376,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 909,
+                        "x": 841,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11400,7 +11400,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 959,
+                        "x": 891,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11424,7 +11424,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 1009,
+                        "x": 941,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11448,7 +11448,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 1059,
+                        "x": 991,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11472,7 +11472,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 1109,
+                        "x": 1041,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11496,7 +11496,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 1159,
+                        "x": 1091,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11520,7 +11520,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 1209,
+                        "x": 1141,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11544,7 +11544,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 1259,
+                        "x": 1191,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11568,7 +11568,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 1309,
+                        "x": 1241,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11592,7 +11592,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 1359,
+                        "x": 1291,
                         "y": 181,
                         "size": 16,
                         "shape": "diamond",
@@ -11616,7 +11616,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 209,
+                        "x": 141,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -11640,7 +11640,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 259,
+                        "x": 191,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -11664,7 +11664,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 309,
+                        "x": 241,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -11688,7 +11688,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 359,
+                        "x": 291,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -11712,7 +11712,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Sercerezo Hill",
-                        "x": 409,
+                        "x": 341,
                         "y": 250,
                         "size": 16,
                         "shape": "diamond",
@@ -11736,7 +11736,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Anywhere",
-                        "x": 209,
+                        "x": 162,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -11760,7 +11760,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Anywhere",
-                        "x": 259,
+                        "x": 212,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -11784,7 +11784,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Anywhere",
-                        "x": 309,
+                        "x": 262,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",
@@ -11808,7 +11808,7 @@
                 "map_locations": [
                     {
                         "map": "Shipments Anywhere",
-                        "x": 359,
+                        "x": 312,
                         "y": 23,
                         "size": 16,
                         "shape": "diamond",

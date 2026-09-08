@@ -21,6 +21,7 @@ import json
 import os
 import re
 import subprocess
+import sys
 import tempfile
 
 PACK = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + '/'
@@ -121,17 +122,17 @@ def main():
     split = json.load(open(PACK + 'images/maps/grid_split.json', encoding='utf-8'))
     os.remove(PACK + 'images/maps/grid_split.json')
 
-    # The pins are tied to marker positions, so this must not move them. Feeding
-    # the existing order back in should reproduce them exactly -- check that it
-    # did, and refuse rather than write if anything shifted.
+    # The pins are tied to marker positions, so a rerun must not move them.
+    # Feeding the existing order back in should reproduce them exactly -- check
+    # that it did, and refuse rather than write unless a move is the point.
     placed = {}
     for grid in split:
         for pin in grid['pins']:
             placed[pin['path']] = (grid['mapName'], pin['x'], pin['y'])
-    moved, checked = [], 0
+    moved, checked, docs = [], 0, {}
     for src in SOURCES + TAMES:
-        doc = json.load(open(PACK + src, encoding='utf-8'))
-        root = doc[0] if isinstance(doc, list) else doc
+        docs[src] = json.load(open(PACK + src, encoding='utf-8'))
+        root = docs[src][0] if isinstance(docs[src], list) else docs[src]
         for node in (root.get('children') or []):
             ref = (node.get('sections') or [{}])[0].get('ref')
             if ref not in placed or not node.get('map_locations'):
@@ -141,11 +142,18 @@ def main():
             want = placed[ref]
             if (ml['map'], ml['x'], ml['y']) != want:
                 moved.append((ref, (ml['map'], ml['x'], ml['y']), want))
-    if moved:
+                ml['map'], ml['x'], ml['y'] = want
+    if moved and '--relayout' not in sys.argv:
         raise SystemExit('%d pins would move, e.g. %s -- images written but pins '
-                         'left alone; investigate before rerunning'
+                         'left alone. Rerun with --relayout if that is the point.'
                          % (len(moved), moved[:3]))
-    print('%d pins checked, every one still in place' % checked)
+    if moved:
+        for src, doc in docs.items():
+            with open(PACK + src, 'w', encoding='utf-8', newline='\n') as fh:
+                fh.write(json.dumps(doc, indent=4, ensure_ascii=False) + '\n')
+        print('%d pins moved with their tiles' % len(moved))
+    else:
+        print('%d pins checked, every one still in place' % checked)
 
 
 if __name__ == '__main__':

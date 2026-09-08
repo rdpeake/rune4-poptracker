@@ -5,7 +5,7 @@ GlobalFonts.registerFromPath('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf','
 const REPO = process.argv[4] || '/mnt/c/Users/Russell/source/repos/rune4-poptracker'
 const maps = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'))
 const outdir = process.argv[3]
-const TILE=46, MARK=16, BAND=MARK+3, GAP=4, P=TILE+BAND+GAP, PW=TILE+GAP, COLS=24, GUT=186, PAD=14
+const TILE=46, MARK=16, BAND=MARK+3, GAP=4, P=TILE+BAND+GAP, PW=TILE+GAP, COLS=24, PAD=14
 const cache = new Map()
 async function img (p) {
   if (!p) return null
@@ -37,6 +37,13 @@ function textTile (x, ox, oy, label) {
   lines.forEach((l, i) => x.fillText(l, ox + TILE / 2, top + i * lh))
 }
 async function build (mapName, file, items) {
+  // The gutter is only as wide as this sheet's own band labels need, and the
+  // canvas stops at the widest row: a sheet of ten tiles was reserving the full
+  // 24 columns and a gutter sized for the longest label in the pack.
+  const probe = createCanvas(10, 10).getContext('2d')
+  probe.font = 'bold 12px DVB'
+  const GUT = Math.max(46, ...items.map(it =>
+    Math.ceil(probe.measureText(String(it.group)).width) + 24))
   const groups = new Map()
   for (const it of items) {
     const g = it.group
@@ -45,7 +52,9 @@ async function build (mapName, file, items) {
   }
   let H = PAD
   for (const [, v] of groups) H += Math.ceil(v.length / COLS) * P + 10
-  const W = GUT + COLS * PW + PAD
+  let used = 0
+  for (const [, v] of groups) used = Math.max(used, Math.min(v.length, COLS))
+  const W = GUT + used * PW + PAD
   const c = createCanvas(W, H + PAD), x = c.getContext('2d')
   const g = x.createLinearGradient(0, 0, 0, H)
   g.addColorStop(0, '#f7f0d6'); g.addColorStop(1, '#eadfb4')

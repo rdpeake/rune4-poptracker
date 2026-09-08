@@ -24,7 +24,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 209,
+                        "x": 86,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -48,7 +48,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 259,
+                        "x": 136,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -72,7 +72,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 309,
+                        "x": 186,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -96,7 +96,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 359,
+                        "x": 236,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -120,7 +120,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 409,
+                        "x": 286,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -144,7 +144,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 459,
+                        "x": 336,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -168,7 +168,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 509,
+                        "x": 386,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -192,7 +192,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 559,
+                        "x": 436,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -216,7 +216,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 609,
+                        "x": 486,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -240,7 +240,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 659,
+                        "x": 536,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -264,7 +264,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 709,
+                        "x": 586,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -288,7 +288,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 759,
+                        "x": 636,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -312,7 +312,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 809,
+                        "x": 686,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -336,7 +336,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 859,
+                        "x": 736,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -360,7 +360,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 909,
+                        "x": 786,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -384,7 +384,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 959,
+                        "x": 836,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -408,7 +408,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1009,
+                        "x": 886,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -432,7 +432,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1059,
+                        "x": 936,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -456,7 +456,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1109,
+                        "x": 986,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -480,7 +480,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1159,
+                        "x": 1036,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -504,7 +504,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1209,
+                        "x": 1086,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -528,7 +528,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1259,
+                        "x": 1136,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -552,7 +552,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1309,
+                        "x": 1186,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -576,7 +576,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1359,
+                        "x": 1236,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -600,7 +600,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 209,
+                        "x": 86,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -624,7 +624,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 259,
+                        "x": 136,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -648,7 +648,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 309,
+                        "x": 186,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -672,7 +672,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 359,
+                        "x": 236,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -696,7 +696,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 409,
+                        "x": 286,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -720,7 +720,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 459,
+                        "x": 336,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -744,7 +744,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 509,
+                        "x": 386,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -768,7 +768,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 559,
+                        "x": 436,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -792,7 +792,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 609,
+                        "x": 486,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -816,7 +816,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 659,
+                        "x": 536,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -840,7 +840,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 709,
+                        "x": 586,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -864,7 +864,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 759,
+                        "x": 636,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -888,7 +888,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 809,
+                        "x": 686,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -912,7 +912,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 859,
+                        "x": 736,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -936,7 +936,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 909,
+                        "x": 786,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -960,7 +960,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 959,
+                        "x": 836,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -984,7 +984,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1009,
+                        "x": 886,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -1008,7 +1008,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1059,
+                        "x": 936,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -1032,7 +1032,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1109,
+                        "x": 986,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -1056,7 +1056,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1159,
+                        "x": 1036,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -1080,7 +1080,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1209,
+                        "x": 1086,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -1104,7 +1104,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1259,
+                        "x": 1136,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -1128,7 +1128,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1309,
+                        "x": 1186,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -1152,7 +1152,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1359,
+                        "x": 1236,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -1176,7 +1176,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 209,
+                        "x": 86,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1200,7 +1200,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 259,
+                        "x": 136,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1224,7 +1224,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 309,
+                        "x": 186,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1248,7 +1248,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 359,
+                        "x": 236,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1272,7 +1272,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 409,
+                        "x": 286,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1296,7 +1296,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 459,
+                        "x": 336,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1320,7 +1320,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 509,
+                        "x": 386,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1344,7 +1344,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 559,
+                        "x": 436,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1368,7 +1368,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 609,
+                        "x": 486,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1392,7 +1392,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 659,
+                        "x": 536,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1416,7 +1416,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 709,
+                        "x": 586,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1440,7 +1440,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 759,
+                        "x": 636,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1464,7 +1464,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 809,
+                        "x": 686,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1488,7 +1488,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 859,
+                        "x": 736,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1512,7 +1512,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 909,
+                        "x": 786,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1536,7 +1536,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 959,
+                        "x": 836,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1560,7 +1560,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1009,
+                        "x": 886,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1584,7 +1584,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1059,
+                        "x": 936,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1608,7 +1608,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1109,
+                        "x": 986,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1632,7 +1632,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1159,
+                        "x": 1036,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1656,7 +1656,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1209,
+                        "x": 1086,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1680,7 +1680,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1259,
+                        "x": 1136,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1704,7 +1704,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1309,
+                        "x": 1186,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1728,7 +1728,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1359,
+                        "x": 1236,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -1752,7 +1752,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 209,
+                        "x": 86,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -1776,7 +1776,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 259,
+                        "x": 136,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -1800,7 +1800,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 309,
+                        "x": 186,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -1824,7 +1824,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 359,
+                        "x": 236,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -1848,7 +1848,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 409,
+                        "x": 286,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -1872,7 +1872,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 459,
+                        "x": 336,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -1896,7 +1896,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 509,
+                        "x": 386,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -1920,7 +1920,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 559,
+                        "x": 436,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -1944,7 +1944,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 609,
+                        "x": 486,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -1968,7 +1968,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 659,
+                        "x": 536,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -1992,7 +1992,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 709,
+                        "x": 586,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -2016,7 +2016,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 759,
+                        "x": 636,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -2040,7 +2040,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 809,
+                        "x": 686,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -2064,7 +2064,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 859,
+                        "x": 736,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -2088,7 +2088,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 909,
+                        "x": 786,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -2112,7 +2112,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 959,
+                        "x": 836,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -2136,7 +2136,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1009,
+                        "x": 886,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -2160,7 +2160,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1059,
+                        "x": 936,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -2184,7 +2184,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1109,
+                        "x": 986,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -2208,7 +2208,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1159,
+                        "x": 1036,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -2232,7 +2232,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1209,
+                        "x": 1086,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -2256,7 +2256,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1259,
+                        "x": 1136,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -2280,7 +2280,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1309,
+                        "x": 1186,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -2304,7 +2304,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1359,
+                        "x": 1236,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -2328,7 +2328,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 209,
+                        "x": 86,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2352,7 +2352,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 259,
+                        "x": 136,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2376,7 +2376,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 309,
+                        "x": 186,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2400,7 +2400,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 359,
+                        "x": 236,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2424,7 +2424,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 409,
+                        "x": 286,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2448,7 +2448,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 459,
+                        "x": 336,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2472,7 +2472,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 509,
+                        "x": 386,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2496,7 +2496,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 559,
+                        "x": 436,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2520,7 +2520,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 609,
+                        "x": 486,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2544,7 +2544,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 659,
+                        "x": 536,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2568,7 +2568,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 709,
+                        "x": 586,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2592,7 +2592,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 759,
+                        "x": 636,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2616,7 +2616,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 809,
+                        "x": 686,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2640,7 +2640,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 859,
+                        "x": 736,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2664,7 +2664,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 909,
+                        "x": 786,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2688,7 +2688,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 959,
+                        "x": 836,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2712,7 +2712,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1009,
+                        "x": 886,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2736,7 +2736,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1059,
+                        "x": 936,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2760,7 +2760,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1109,
+                        "x": 986,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2784,7 +2784,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1159,
+                        "x": 1036,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2808,7 +2808,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1209,
+                        "x": 1086,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2832,7 +2832,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1259,
+                        "x": 1136,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2856,7 +2856,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1309,
+                        "x": 1186,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2880,7 +2880,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1359,
+                        "x": 1236,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -2904,7 +2904,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 209,
+                        "x": 86,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -2928,7 +2928,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 259,
+                        "x": 136,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -2952,7 +2952,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 309,
+                        "x": 186,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -2976,7 +2976,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 359,
+                        "x": 236,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3000,7 +3000,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 409,
+                        "x": 286,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3024,7 +3024,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 459,
+                        "x": 336,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3048,7 +3048,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 509,
+                        "x": 386,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3072,7 +3072,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 559,
+                        "x": 436,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3096,7 +3096,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 609,
+                        "x": 486,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3120,7 +3120,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 659,
+                        "x": 536,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3144,7 +3144,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 709,
+                        "x": 586,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3168,7 +3168,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 759,
+                        "x": 636,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3192,7 +3192,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 809,
+                        "x": 686,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3216,7 +3216,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 859,
+                        "x": 736,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3240,7 +3240,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 909,
+                        "x": 786,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3264,7 +3264,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 959,
+                        "x": 836,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3288,7 +3288,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1009,
+                        "x": 886,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3312,7 +3312,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1059,
+                        "x": 936,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3336,7 +3336,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1109,
+                        "x": 986,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3360,7 +3360,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1159,
+                        "x": 1036,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3384,7 +3384,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1209,
+                        "x": 1086,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3408,7 +3408,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1259,
+                        "x": 1136,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3432,7 +3432,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1309,
+                        "x": 1186,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3456,7 +3456,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1359,
+                        "x": 1236,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -3480,7 +3480,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 209,
+                        "x": 86,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3504,7 +3504,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 259,
+                        "x": 136,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3528,7 +3528,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 309,
+                        "x": 186,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3552,7 +3552,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 359,
+                        "x": 236,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3576,7 +3576,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 409,
+                        "x": 286,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3600,7 +3600,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 459,
+                        "x": 336,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3624,7 +3624,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 509,
+                        "x": 386,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3648,7 +3648,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 559,
+                        "x": 436,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3672,7 +3672,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 609,
+                        "x": 486,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3696,7 +3696,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 659,
+                        "x": 536,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3720,7 +3720,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 709,
+                        "x": 586,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3744,7 +3744,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 759,
+                        "x": 636,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3768,7 +3768,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 809,
+                        "x": 686,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3792,7 +3792,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 859,
+                        "x": 736,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3816,7 +3816,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 909,
+                        "x": 786,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3840,7 +3840,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 959,
+                        "x": 836,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3864,7 +3864,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1009,
+                        "x": 886,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3888,7 +3888,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1059,
+                        "x": 936,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3912,7 +3912,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1109,
+                        "x": 986,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3936,7 +3936,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1159,
+                        "x": 1036,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3960,7 +3960,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1209,
+                        "x": 1086,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -3984,7 +3984,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1259,
+                        "x": 1136,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -4008,7 +4008,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1309,
+                        "x": 1186,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -4032,7 +4032,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1359,
+                        "x": 1236,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -4056,7 +4056,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 209,
+                        "x": 86,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4080,7 +4080,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 259,
+                        "x": 136,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4104,7 +4104,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 309,
+                        "x": 186,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4128,7 +4128,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 359,
+                        "x": 236,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4152,7 +4152,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 409,
+                        "x": 286,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4176,7 +4176,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 459,
+                        "x": 336,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4200,7 +4200,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 509,
+                        "x": 386,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4224,7 +4224,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 559,
+                        "x": 436,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4248,7 +4248,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 609,
+                        "x": 486,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4272,7 +4272,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 659,
+                        "x": 536,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4296,7 +4296,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 709,
+                        "x": 586,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4320,7 +4320,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 759,
+                        "x": 636,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4344,7 +4344,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 809,
+                        "x": 686,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4368,7 +4368,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 859,
+                        "x": 736,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4392,7 +4392,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 909,
+                        "x": 786,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4416,7 +4416,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 959,
+                        "x": 836,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4440,7 +4440,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1009,
+                        "x": 886,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4464,7 +4464,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1059,
+                        "x": 936,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4488,7 +4488,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1109,
+                        "x": 986,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4512,7 +4512,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1159,
+                        "x": 1036,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4536,7 +4536,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1209,
+                        "x": 1086,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4560,7 +4560,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1259,
+                        "x": 1136,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4584,7 +4584,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1309,
+                        "x": 1186,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4608,7 +4608,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1359,
+                        "x": 1236,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -4632,7 +4632,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 209,
+                        "x": 86,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4656,7 +4656,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 259,
+                        "x": 136,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4680,7 +4680,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 309,
+                        "x": 186,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4704,7 +4704,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 359,
+                        "x": 236,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4728,7 +4728,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 409,
+                        "x": 286,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4752,7 +4752,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 459,
+                        "x": 336,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4776,7 +4776,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 509,
+                        "x": 386,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4800,7 +4800,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 559,
+                        "x": 436,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4824,7 +4824,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 609,
+                        "x": 486,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4848,7 +4848,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 659,
+                        "x": 536,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4872,7 +4872,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 709,
+                        "x": 586,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4896,7 +4896,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 759,
+                        "x": 636,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4920,7 +4920,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 809,
+                        "x": 686,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4944,7 +4944,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 859,
+                        "x": 736,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4968,7 +4968,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 909,
+                        "x": 786,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -4992,7 +4992,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 959,
+                        "x": 836,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5016,7 +5016,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1009,
+                        "x": 886,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5040,7 +5040,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1059,
+                        "x": 936,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5064,7 +5064,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1109,
+                        "x": 986,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5088,7 +5088,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1159,
+                        "x": 1036,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5112,7 +5112,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1209,
+                        "x": 1086,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5136,7 +5136,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1259,
+                        "x": 1136,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5160,7 +5160,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1309,
+                        "x": 1186,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5184,7 +5184,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1359,
+                        "x": 1236,
                         "y": 575,
                         "size": 16,
                         "shape": "rect",
@@ -5208,7 +5208,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 209,
+                        "x": 86,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5232,7 +5232,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 259,
+                        "x": 136,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5256,7 +5256,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 309,
+                        "x": 186,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5280,7 +5280,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 359,
+                        "x": 236,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5304,7 +5304,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 409,
+                        "x": 286,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5328,7 +5328,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 459,
+                        "x": 336,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5352,7 +5352,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 509,
+                        "x": 386,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5376,7 +5376,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 559,
+                        "x": 436,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5400,7 +5400,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 609,
+                        "x": 486,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5424,7 +5424,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 659,
+                        "x": 536,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5448,7 +5448,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 709,
+                        "x": 586,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5472,7 +5472,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 759,
+                        "x": 636,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5496,7 +5496,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 809,
+                        "x": 686,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5520,7 +5520,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 859,
+                        "x": 736,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5544,7 +5544,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 909,
+                        "x": 786,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5568,7 +5568,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 959,
+                        "x": 836,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5592,7 +5592,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1009,
+                        "x": 886,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5616,7 +5616,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1059,
+                        "x": 936,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5640,7 +5640,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1109,
+                        "x": 986,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5664,7 +5664,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1159,
+                        "x": 1036,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5688,7 +5688,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1209,
+                        "x": 1086,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5712,7 +5712,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1259,
+                        "x": 1136,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5736,7 +5736,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1309,
+                        "x": 1186,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5760,7 +5760,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1359,
+                        "x": 1236,
                         "y": 644,
                         "size": 16,
                         "shape": "rect",
@@ -5784,7 +5784,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 209,
+                        "x": 86,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -5808,7 +5808,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 259,
+                        "x": 136,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -5832,7 +5832,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 309,
+                        "x": 186,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -5856,7 +5856,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 359,
+                        "x": 236,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -5880,7 +5880,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 409,
+                        "x": 286,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -5904,7 +5904,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 459,
+                        "x": 336,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -5928,7 +5928,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 509,
+                        "x": 386,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -5952,7 +5952,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 559,
+                        "x": 436,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -5976,7 +5976,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 609,
+                        "x": 486,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6000,7 +6000,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 659,
+                        "x": 536,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6024,7 +6024,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 709,
+                        "x": 586,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6048,7 +6048,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 759,
+                        "x": 636,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6072,7 +6072,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 809,
+                        "x": 686,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6096,7 +6096,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 859,
+                        "x": 736,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6120,7 +6120,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 909,
+                        "x": 786,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6144,7 +6144,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 959,
+                        "x": 836,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6168,7 +6168,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1009,
+                        "x": 886,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6192,7 +6192,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1059,
+                        "x": 936,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6216,7 +6216,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1109,
+                        "x": 986,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6240,7 +6240,7 @@
                 "map_locations": [
                     {
                         "map": "Forge",
-                        "x": 1159,
+                        "x": 1036,
                         "y": 713,
                         "size": 16,
                         "shape": "rect",
@@ -6264,7 +6264,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 209,
+                        "x": 103,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6288,7 +6288,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 259,
+                        "x": 153,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6312,7 +6312,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 309,
+                        "x": 203,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6336,7 +6336,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 359,
+                        "x": 253,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6360,7 +6360,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 409,
+                        "x": 303,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6384,7 +6384,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 459,
+                        "x": 353,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6408,7 +6408,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 509,
+                        "x": 403,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6432,7 +6432,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 559,
+                        "x": 453,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6456,7 +6456,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 609,
+                        "x": 503,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6480,7 +6480,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 659,
+                        "x": 553,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6504,7 +6504,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 709,
+                        "x": 603,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6528,7 +6528,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 759,
+                        "x": 653,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6552,7 +6552,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 809,
+                        "x": 703,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6576,7 +6576,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 859,
+                        "x": 753,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6600,7 +6600,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 909,
+                        "x": 803,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6624,7 +6624,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 959,
+                        "x": 853,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6648,7 +6648,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1009,
+                        "x": 903,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6672,7 +6672,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1059,
+                        "x": 953,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6696,7 +6696,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1109,
+                        "x": 1003,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6720,7 +6720,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1159,
+                        "x": 1053,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6744,7 +6744,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1209,
+                        "x": 1103,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6768,7 +6768,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1259,
+                        "x": 1153,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6792,7 +6792,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1309,
+                        "x": 1203,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6816,7 +6816,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1359,
+                        "x": 1253,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -6840,7 +6840,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 209,
+                        "x": 103,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -6864,7 +6864,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 259,
+                        "x": 153,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -6888,7 +6888,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 309,
+                        "x": 203,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -6912,7 +6912,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 359,
+                        "x": 253,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -6936,7 +6936,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 409,
+                        "x": 303,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -6960,7 +6960,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 459,
+                        "x": 353,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -6984,7 +6984,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 509,
+                        "x": 403,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7008,7 +7008,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 559,
+                        "x": 453,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7032,7 +7032,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 609,
+                        "x": 503,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7056,7 +7056,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 659,
+                        "x": 553,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7080,7 +7080,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 709,
+                        "x": 603,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7104,7 +7104,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 759,
+                        "x": 653,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7128,7 +7128,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 809,
+                        "x": 703,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7152,7 +7152,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 859,
+                        "x": 753,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7176,7 +7176,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 909,
+                        "x": 803,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7200,7 +7200,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 959,
+                        "x": 853,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7224,7 +7224,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1009,
+                        "x": 903,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7248,7 +7248,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1059,
+                        "x": 953,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7272,7 +7272,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1109,
+                        "x": 1003,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7296,7 +7296,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1159,
+                        "x": 1053,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7320,7 +7320,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1209,
+                        "x": 1103,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7344,7 +7344,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1259,
+                        "x": 1153,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7368,7 +7368,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1309,
+                        "x": 1203,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7392,7 +7392,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1359,
+                        "x": 1253,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -7416,7 +7416,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 209,
+                        "x": 103,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7440,7 +7440,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 259,
+                        "x": 153,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7464,7 +7464,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 309,
+                        "x": 203,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7488,7 +7488,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 359,
+                        "x": 253,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7512,7 +7512,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 409,
+                        "x": 303,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7536,7 +7536,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 459,
+                        "x": 353,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7560,7 +7560,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 509,
+                        "x": 403,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7584,7 +7584,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 559,
+                        "x": 453,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7608,7 +7608,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 609,
+                        "x": 503,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7632,7 +7632,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 659,
+                        "x": 553,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7656,7 +7656,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 709,
+                        "x": 603,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7680,7 +7680,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 759,
+                        "x": 653,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7704,7 +7704,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 809,
+                        "x": 703,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7728,7 +7728,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 859,
+                        "x": 753,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7752,7 +7752,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 909,
+                        "x": 803,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7776,7 +7776,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 959,
+                        "x": 853,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7800,7 +7800,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1009,
+                        "x": 903,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7824,7 +7824,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1059,
+                        "x": 953,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7848,7 +7848,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1109,
+                        "x": 1003,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7872,7 +7872,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1159,
+                        "x": 1053,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7896,7 +7896,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1209,
+                        "x": 1103,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7920,7 +7920,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1259,
+                        "x": 1153,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7944,7 +7944,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1309,
+                        "x": 1203,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7968,7 +7968,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1359,
+                        "x": 1253,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -7992,7 +7992,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 209,
+                        "x": 103,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8016,7 +8016,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 259,
+                        "x": 153,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8040,7 +8040,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 309,
+                        "x": 203,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8064,7 +8064,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 359,
+                        "x": 253,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8088,7 +8088,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 409,
+                        "x": 303,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8112,7 +8112,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 459,
+                        "x": 353,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8136,7 +8136,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 509,
+                        "x": 403,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8160,7 +8160,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 559,
+                        "x": 453,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8184,7 +8184,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 609,
+                        "x": 503,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8208,7 +8208,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 659,
+                        "x": 553,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8232,7 +8232,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 709,
+                        "x": 603,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8256,7 +8256,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 759,
+                        "x": 653,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8280,7 +8280,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 809,
+                        "x": 703,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8304,7 +8304,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 859,
+                        "x": 753,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8328,7 +8328,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 909,
+                        "x": 803,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8352,7 +8352,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 959,
+                        "x": 853,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8376,7 +8376,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1009,
+                        "x": 903,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8400,7 +8400,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1059,
+                        "x": 953,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8424,7 +8424,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1109,
+                        "x": 1003,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8448,7 +8448,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1159,
+                        "x": 1053,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8472,7 +8472,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1209,
+                        "x": 1103,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8496,7 +8496,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1259,
+                        "x": 1153,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8520,7 +8520,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1309,
+                        "x": 1203,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8544,7 +8544,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1359,
+                        "x": 1253,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -8568,7 +8568,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 209,
+                        "x": 103,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8592,7 +8592,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 259,
+                        "x": 153,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8616,7 +8616,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 309,
+                        "x": 203,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8640,7 +8640,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 359,
+                        "x": 253,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8664,7 +8664,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 409,
+                        "x": 303,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8688,7 +8688,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 459,
+                        "x": 353,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8712,7 +8712,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 509,
+                        "x": 403,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8736,7 +8736,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 559,
+                        "x": 453,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8760,7 +8760,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 609,
+                        "x": 503,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8784,7 +8784,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 659,
+                        "x": 553,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8808,7 +8808,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 709,
+                        "x": 603,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8832,7 +8832,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 759,
+                        "x": 653,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8856,7 +8856,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 809,
+                        "x": 703,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8880,7 +8880,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 859,
+                        "x": 753,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8904,7 +8904,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 909,
+                        "x": 803,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8928,7 +8928,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 959,
+                        "x": 853,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8952,7 +8952,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1009,
+                        "x": 903,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -8976,7 +8976,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1059,
+                        "x": 953,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -9000,7 +9000,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1109,
+                        "x": 1003,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -9024,7 +9024,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1159,
+                        "x": 1053,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -9048,7 +9048,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1209,
+                        "x": 1103,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -9072,7 +9072,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1259,
+                        "x": 1153,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -9096,7 +9096,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1309,
+                        "x": 1203,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -9120,7 +9120,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1359,
+                        "x": 1253,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -9144,7 +9144,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 209,
+                        "x": 103,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9168,7 +9168,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 259,
+                        "x": 153,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9192,7 +9192,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 309,
+                        "x": 203,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9216,7 +9216,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 359,
+                        "x": 253,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9240,7 +9240,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 409,
+                        "x": 303,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9264,7 +9264,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 459,
+                        "x": 353,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9288,7 +9288,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 509,
+                        "x": 403,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9312,7 +9312,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 559,
+                        "x": 453,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9336,7 +9336,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 609,
+                        "x": 503,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9360,7 +9360,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 659,
+                        "x": 553,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9384,7 +9384,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 709,
+                        "x": 603,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9408,7 +9408,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 759,
+                        "x": 653,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9432,7 +9432,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 809,
+                        "x": 703,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9456,7 +9456,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 859,
+                        "x": 753,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9480,7 +9480,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 909,
+                        "x": 803,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9504,7 +9504,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 959,
+                        "x": 853,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9528,7 +9528,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1009,
+                        "x": 903,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9552,7 +9552,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1059,
+                        "x": 953,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9576,7 +9576,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1109,
+                        "x": 1003,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9600,7 +9600,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1159,
+                        "x": 1053,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9624,7 +9624,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1209,
+                        "x": 1103,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9648,7 +9648,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1259,
+                        "x": 1153,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9672,7 +9672,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1309,
+                        "x": 1203,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9696,7 +9696,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 1359,
+                        "x": 1253,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -9720,7 +9720,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 209,
+                        "x": 103,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9744,7 +9744,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 259,
+                        "x": 153,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9768,7 +9768,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 309,
+                        "x": 203,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9792,7 +9792,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 359,
+                        "x": 253,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9816,7 +9816,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 409,
+                        "x": 303,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9840,7 +9840,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 459,
+                        "x": 353,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9864,7 +9864,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 509,
+                        "x": 403,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9888,7 +9888,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 559,
+                        "x": 453,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9912,7 +9912,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 609,
+                        "x": 503,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9936,7 +9936,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 659,
+                        "x": 553,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9960,7 +9960,7 @@
                 "map_locations": [
                     {
                         "map": "Crafting",
-                        "x": 709,
+                        "x": 603,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -9984,7 +9984,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 209,
+                        "x": 102,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10008,7 +10008,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 259,
+                        "x": 152,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10032,7 +10032,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 309,
+                        "x": 202,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10056,7 +10056,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 359,
+                        "x": 252,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10080,7 +10080,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 409,
+                        "x": 302,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10104,7 +10104,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 459,
+                        "x": 352,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10128,7 +10128,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 509,
+                        "x": 402,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10152,7 +10152,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 559,
+                        "x": 452,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10176,7 +10176,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 609,
+                        "x": 502,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10200,7 +10200,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 659,
+                        "x": 552,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10224,7 +10224,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 709,
+                        "x": 602,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10248,7 +10248,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 759,
+                        "x": 652,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10272,7 +10272,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 809,
+                        "x": 702,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10296,7 +10296,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 859,
+                        "x": 752,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10320,7 +10320,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 909,
+                        "x": 802,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10344,7 +10344,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 959,
+                        "x": 852,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10368,7 +10368,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1009,
+                        "x": 902,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10392,7 +10392,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1059,
+                        "x": 952,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10416,7 +10416,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1109,
+                        "x": 1002,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10440,7 +10440,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1159,
+                        "x": 1052,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10464,7 +10464,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1209,
+                        "x": 1102,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10488,7 +10488,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1259,
+                        "x": 1152,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10512,7 +10512,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1309,
+                        "x": 1202,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10536,7 +10536,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1359,
+                        "x": 1252,
                         "y": 23,
                         "size": 16,
                         "shape": "rect",
@@ -10560,7 +10560,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 209,
+                        "x": 102,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10584,7 +10584,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 259,
+                        "x": 152,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10608,7 +10608,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 309,
+                        "x": 202,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10632,7 +10632,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 359,
+                        "x": 252,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10656,7 +10656,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 409,
+                        "x": 302,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10680,7 +10680,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 459,
+                        "x": 352,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10704,7 +10704,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 509,
+                        "x": 402,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10728,7 +10728,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 559,
+                        "x": 452,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10752,7 +10752,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 609,
+                        "x": 502,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10776,7 +10776,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 659,
+                        "x": 552,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10800,7 +10800,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 709,
+                        "x": 602,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10824,7 +10824,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 759,
+                        "x": 652,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10848,7 +10848,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 809,
+                        "x": 702,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10872,7 +10872,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 859,
+                        "x": 752,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10896,7 +10896,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 909,
+                        "x": 802,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10920,7 +10920,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 959,
+                        "x": 852,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10944,7 +10944,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1009,
+                        "x": 902,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10968,7 +10968,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1059,
+                        "x": 952,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -10992,7 +10992,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1109,
+                        "x": 1002,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -11016,7 +11016,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1159,
+                        "x": 1052,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -11040,7 +11040,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1209,
+                        "x": 1102,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -11064,7 +11064,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1259,
+                        "x": 1152,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -11088,7 +11088,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1309,
+                        "x": 1202,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -11112,7 +11112,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1359,
+                        "x": 1252,
                         "y": 92,
                         "size": 16,
                         "shape": "rect",
@@ -11136,7 +11136,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 209,
+                        "x": 102,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11160,7 +11160,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 259,
+                        "x": 152,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11184,7 +11184,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 309,
+                        "x": 202,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11208,7 +11208,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 359,
+                        "x": 252,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11232,7 +11232,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 409,
+                        "x": 302,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11256,7 +11256,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 459,
+                        "x": 352,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11280,7 +11280,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 509,
+                        "x": 402,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11304,7 +11304,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 559,
+                        "x": 452,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11328,7 +11328,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 609,
+                        "x": 502,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11352,7 +11352,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 659,
+                        "x": 552,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11376,7 +11376,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 709,
+                        "x": 602,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11400,7 +11400,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 759,
+                        "x": 652,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11424,7 +11424,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 809,
+                        "x": 702,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11448,7 +11448,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 859,
+                        "x": 752,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11472,7 +11472,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 909,
+                        "x": 802,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11496,7 +11496,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 959,
+                        "x": 852,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11520,7 +11520,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1009,
+                        "x": 902,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11544,7 +11544,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1059,
+                        "x": 952,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11568,7 +11568,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1109,
+                        "x": 1002,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11592,7 +11592,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1159,
+                        "x": 1052,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11616,7 +11616,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1209,
+                        "x": 1102,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11640,7 +11640,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1259,
+                        "x": 1152,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11664,7 +11664,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1309,
+                        "x": 1202,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11688,7 +11688,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1359,
+                        "x": 1252,
                         "y": 161,
                         "size": 16,
                         "shape": "rect",
@@ -11712,7 +11712,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 209,
+                        "x": 102,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -11736,7 +11736,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 259,
+                        "x": 152,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -11760,7 +11760,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 309,
+                        "x": 202,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -11784,7 +11784,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 359,
+                        "x": 252,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -11808,7 +11808,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 409,
+                        "x": 302,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -11832,7 +11832,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 459,
+                        "x": 352,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -11856,7 +11856,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 509,
+                        "x": 402,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -11880,7 +11880,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 559,
+                        "x": 452,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -11904,7 +11904,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 609,
+                        "x": 502,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -11928,7 +11928,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 659,
+                        "x": 552,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -11952,7 +11952,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 709,
+                        "x": 602,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -11976,7 +11976,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 759,
+                        "x": 652,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -12000,7 +12000,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 809,
+                        "x": 702,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -12024,7 +12024,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 859,
+                        "x": 752,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -12048,7 +12048,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 909,
+                        "x": 802,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -12072,7 +12072,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 959,
+                        "x": 852,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -12096,7 +12096,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1009,
+                        "x": 902,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -12120,7 +12120,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1059,
+                        "x": 952,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -12144,7 +12144,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1109,
+                        "x": 1002,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -12168,7 +12168,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1159,
+                        "x": 1052,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -12192,7 +12192,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1209,
+                        "x": 1102,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -12216,7 +12216,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1259,
+                        "x": 1152,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -12240,7 +12240,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1309,
+                        "x": 1202,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -12264,7 +12264,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1359,
+                        "x": 1252,
                         "y": 230,
                         "size": 16,
                         "shape": "rect",
@@ -12288,7 +12288,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 209,
+                        "x": 102,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12312,7 +12312,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 259,
+                        "x": 152,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12336,7 +12336,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 309,
+                        "x": 202,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12360,7 +12360,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 359,
+                        "x": 252,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12384,7 +12384,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 409,
+                        "x": 302,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12408,7 +12408,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 459,
+                        "x": 352,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12432,7 +12432,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 509,
+                        "x": 402,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12456,7 +12456,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 559,
+                        "x": 452,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12480,7 +12480,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 609,
+                        "x": 502,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12504,7 +12504,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 659,
+                        "x": 552,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12528,7 +12528,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 709,
+                        "x": 602,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12552,7 +12552,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 759,
+                        "x": 652,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12576,7 +12576,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 809,
+                        "x": 702,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12600,7 +12600,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 859,
+                        "x": 752,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12624,7 +12624,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 909,
+                        "x": 802,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12648,7 +12648,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 959,
+                        "x": 852,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12672,7 +12672,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1009,
+                        "x": 902,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12696,7 +12696,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1059,
+                        "x": 952,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12720,7 +12720,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1109,
+                        "x": 1002,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12744,7 +12744,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1159,
+                        "x": 1052,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12768,7 +12768,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1209,
+                        "x": 1102,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12792,7 +12792,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1259,
+                        "x": 1152,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12816,7 +12816,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1309,
+                        "x": 1202,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12840,7 +12840,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1359,
+                        "x": 1252,
                         "y": 299,
                         "size": 16,
                         "shape": "rect",
@@ -12864,7 +12864,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 209,
+                        "x": 102,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -12888,7 +12888,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 259,
+                        "x": 152,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -12912,7 +12912,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 309,
+                        "x": 202,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -12936,7 +12936,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 359,
+                        "x": 252,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -12960,7 +12960,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 409,
+                        "x": 302,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -12984,7 +12984,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 459,
+                        "x": 352,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13008,7 +13008,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 509,
+                        "x": 402,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13032,7 +13032,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 559,
+                        "x": 452,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13056,7 +13056,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 609,
+                        "x": 502,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13080,7 +13080,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 659,
+                        "x": 552,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13104,7 +13104,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 709,
+                        "x": 602,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13128,7 +13128,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 759,
+                        "x": 652,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13152,7 +13152,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 809,
+                        "x": 702,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13176,7 +13176,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 859,
+                        "x": 752,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13200,7 +13200,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 909,
+                        "x": 802,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13224,7 +13224,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 959,
+                        "x": 852,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13248,7 +13248,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1009,
+                        "x": 902,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13272,7 +13272,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1059,
+                        "x": 952,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13296,7 +13296,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1109,
+                        "x": 1002,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13320,7 +13320,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1159,
+                        "x": 1052,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13344,7 +13344,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1209,
+                        "x": 1102,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13368,7 +13368,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1259,
+                        "x": 1152,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13392,7 +13392,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1309,
+                        "x": 1202,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13416,7 +13416,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1359,
+                        "x": 1252,
                         "y": 368,
                         "size": 16,
                         "shape": "rect",
@@ -13440,7 +13440,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 209,
+                        "x": 102,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13464,7 +13464,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 259,
+                        "x": 152,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13488,7 +13488,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 309,
+                        "x": 202,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13512,7 +13512,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 359,
+                        "x": 252,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13536,7 +13536,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 409,
+                        "x": 302,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13560,7 +13560,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 459,
+                        "x": 352,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13584,7 +13584,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 509,
+                        "x": 402,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13608,7 +13608,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 559,
+                        "x": 452,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13632,7 +13632,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 609,
+                        "x": 502,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13656,7 +13656,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 659,
+                        "x": 552,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13680,7 +13680,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 709,
+                        "x": 602,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13704,7 +13704,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 759,
+                        "x": 652,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13728,7 +13728,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 809,
+                        "x": 702,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13752,7 +13752,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 859,
+                        "x": 752,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13776,7 +13776,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 909,
+                        "x": 802,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13800,7 +13800,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 959,
+                        "x": 852,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13824,7 +13824,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1009,
+                        "x": 902,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13848,7 +13848,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1059,
+                        "x": 952,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13872,7 +13872,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1109,
+                        "x": 1002,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13896,7 +13896,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1159,
+                        "x": 1052,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13920,7 +13920,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1209,
+                        "x": 1102,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13944,7 +13944,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1259,
+                        "x": 1152,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13968,7 +13968,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1309,
+                        "x": 1202,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -13992,7 +13992,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 1359,
+                        "x": 1252,
                         "y": 437,
                         "size": 16,
                         "shape": "rect",
@@ -14016,7 +14016,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 209,
+                        "x": 102,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -14040,7 +14040,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 259,
+                        "x": 152,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
@@ -14064,7 +14064,7 @@
                 "map_locations": [
                     {
                         "map": "Cooking",
-                        "x": 309,
+                        "x": 202,
                         "y": 506,
                         "size": 16,
                         "shape": "rect",
