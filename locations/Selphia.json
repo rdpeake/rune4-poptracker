@@ -1962,7 +1962,7 @@
                         "chest_opened_img": "/images/items/open/brush.png"
                     },
                     {
-                        "name": "progression",
+                        "name": "Clippers",
                         "access_rules": [
                             "^$RF4Access|1851118"
                         ],

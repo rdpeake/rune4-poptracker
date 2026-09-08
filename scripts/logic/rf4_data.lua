@@ -1024,6 +1024,7 @@ RF4_SHIPMENTS = {
     ["Chub"] = {0,"Yokmir Forest"},
     ["Claws and Fangs"] = {0,"Selphia"},
     ["Claymore"] = {0,"Forge"},
+    ["Clippers"] = {0,"Selphia"},
     ["Cloths and Skins"] = {0,"Selphia"},
     ["Clover Seeds"] = {6,"Selphia"},
     ["Cold Medicine"] = {0,"Selphia"},
@@ -1950,7 +1951,6 @@ RF4_SHIPMENTS = {
     ["Yogurt"] = {0,"Pro Cooking"},
     ["Zweihaender"] = {0,"Forge"},
     ["Zweihaender+"] = {0,"Forge"},
-    ["progression"] = {0,"Selphia"},
 }
 
 RF4_TOTAL_SHIPMENTS = 1076

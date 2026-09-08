@@ -1139,7 +1139,7 @@
         "img": "images/items/clippers.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "progression"
+        "codes": "clippers"
     },
     {
         "name": "Blossoms Furniture",

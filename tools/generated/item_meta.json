@@ -569,6 +569,9 @@
   "claymore": {
    "cat": "Forge"
   },
+  "clippers": {
+   "cat": "Tool"
+  },
   "cloricaspillow": {
    "cat": "Powerup",
    "cls": "useful"
@@ -2397,9 +2400,6 @@
   },
   "procookinglicense": {
    "cat": "License",
-   "cls": "progression"
-  },
-  "progression": {
    "cls": "progression"
   },
   "progressiveaccessory": {

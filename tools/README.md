@@ -270,12 +270,12 @@ and Sechs Territory's, so no letter code could match.
 ## Upstream data bugs the export matches
 
 `parse_csv` keys its rows by `Name`, so where a sheet holds two rows with the
-same name the later one silently wins. Shipments has five such pairs — `Gloves`
-is both a Craft worth 170 (line 125) and a Forge worth 380 (line 693), and
-`Turnip`, `Squid` and `Battle Turnip` each carry a stray "Category" row.
-`export_location_meta.py` collapses them the same way, because the seed was
-generated from the collapsed table; reading both rows would put 1078 sell
-values in the pack against the 1077 generation used.
+same name the later one silently wins. Shipments has four such pairs — `Turnip`,
+`Squid` and `Battle Turnip` each carry a stray "Category" row, and `Venti's
+Charm` is in twice as a Craft. None of them costs anything today: the row that
+wins is the real one in each case, and the shadowed row is non-shipable, so no
+location and no sell value is lost. `Gloves` was the pair that did cost one, and
+upstream split it into `Gloves (Accessory)` and `Gloves (Weapon)`.
 
 ## Artwork
 
@@ -537,9 +537,11 @@ gives the same bytes back.
 across seven files. The map tab trees must match exactly, titles and order
 included. The item and request grids must hold the same items in the same
 order, but not the same rows -- they are reflowed. The roots in `tracker.json`,
-`chroma_on.json` and `chroma_off.json` must agree bar the background. And no
+`chroma_on.json` and `chroma_off.json` must agree bar the background. No
 `{"type": "layout", "key": ...}` anywhere may name a key nothing defines,
-which is what catches a body or panel renamed in one file only.
+which is what catches a body or panel renamed in one file only. And no itemgrid
+cell may name an item code `items/` does not define -- such a cell draws as a
+blank square and says nothing, which is how half of an item rename hides.
 
 `check_maps.py` answers two questions. Does re-rendering still produce the
 images that are committed? It copies the pack's maps into `_baseline/`, renders
@@ -563,15 +565,65 @@ test is comparing against a release the pack no longer follows.
 
 ## Known upstream data issues
 
-These are worked around in `apworld/export_logic.py`; they are bugs in the apworld, not
-in the pack.
+Bugs in the apworld, not in the pack, confirmed by reading the source at HEAD
+(2026-09-08). Where the pack has to do something about one it is worked around
+in `apworld/export_logic.py`, and the pack matches generation's actual behaviour
+rather than its intent -- a tracker stricter than AP would show reachable checks
+as unreachable.
 
 - `Rules.get_location_rules()` returns a 1-tuple (trailing comma), so the
   `if name in location_rules` test in `set_rules` is never true and none of
   those 12 location rules are applied during generation. Matched deliberately.
-- Five region names referenced by locations do not exist in `region_data_table`:
-  `Floating Empire: West` (colon, should be a hyphen), `Field Dungeon (Boss)`,
-  `First Task!`, `How to place furniture!` and `Not implemented`.
+  Two more faults sit behind it, so the comma cannot be fixed on its own: the
+  bodies call `state.has("X", state, player)`, which evaluates against an empty
+  counter and is False with every item held, and the keys are not the names
+  generation builds -- `Accessory Bread` for `Selphia Shipment - Accessory
+  Bread`, and the two chest keys for `Rune Prana F2 B3 Chest - <items>` -- so
+  they would still match nothing.
+- Three region names referenced by data are absent from `region_data_table`, and
+  `create_regions` silently drops any location in a region it does not know:
+  `Floating Empire: West` (colon, should be a hyphen -- Dark Slime, in Tame.csv),
+  `Field Dungeon (Boss)` (Greater Demon, Grimoire, Octopirate) and
+  `Not implemented` (Handonetta). All five are tames, so nothing is lost unless
+  tamesanity is on, and Dark Slime is tier 8, so a `max_ship_tier` under 8 drops
+  it anyway. `export_logic.py` aliases the first and drops the rest.
 - `Grape Tree Seeds` and `Orange Tree Seeds` are required by the
-  `Harvest 50 Grapes!` and `Harvest 20 Oranges!` requests but are not items, so
-  those requests cannot be satisfied.
+  `Harvest 50 Grapes!` and `Harvest 20 Oranges!` requests, but the items are
+  singular -- `Grape Tree Seed` and `Orange Tree Seed`, which is what the game's
+  own string table calls ids 0x31E and 0x31D. The requirement falls through to
+  `state.has()` on a name no item has, so neither request can be satisfied. The
+  fix belongs in the request row: the shipment names are transcribed correctly,
+  and renaming them would move an AP item and location name and cost the two
+  items their game art, which `export_item_tiles.py` looks up by name.
+- `bugged_locs` reads `Mystery Potion x x3`, with a doubled `x`, so it matches no
+  location and the Sechs Territory F1 I2 chest the sheet now marks "Not present
+  in AP" still generates.
+- The shipment caps compare with `>=` where the tame cap uses `>`, so the 16
+  tier-11 shipments and Gold Juice (sell 800000) can never be a check in any
+  seed: `MaxItemTier` stops at 11 and `MaxSell` at 800000. The pack hides them,
+  which is why Emery Flower and every Sharance Maze boss drop but Earthwyrm
+  Scale never appear.
+- `parse_csv` reads its CSV as `str(bytes)`, so the two non-ASCII names arrive as
+  their UTF-8 escapes: `No Rot α` is `No Rot \xce\xb1` in AP. The pack's item
+  slugs carry the escape for the same reason.
+- The Searchsanity block builds its locations with `loc_type = "box"`, a copy of
+  the block above it, so all 28 come back typed as boxes. Nothing upstream reads
+  `loc_type`, so it costs only telling them apart; `load.py` retypes them.
+
+Fixed upstream, recorded so the old workarounds are not put back: `requestsanity`
+is honoured, the duplicate `Gloves` shipment is split in two, the `Clippers` tool
+no longer carries `progression` as its name, and `fill_slot_data` sends six of
+the sanity options. `grocerysanity`, `max_ship_tier`, `max_sell_value` and
+`max_friendship` still never arrive and are inferred from the room's location
+list.
+
+The `Clippers` rename cost three workarounds, all now gone. Its shipment row is
+back in `shipment_data_table` under its own name, so `can_get_item` can answer
+for it and `Selphia Plains - East Tame - Shmooly` -- which likes Clippers -- is
+in logic again; `UPSTREAM_UNREACHABLE` in `tests/rf4_logic_test.lua` is empty.
+The pack item's code was the slug of the broken name and is now `clippers`, and
+the check under `Selphia/Shipment` is named `Clippers` rather than
+`progression`. And `export_item_meta.py` no longer forces a classification onto
+it: the word in that cell was the Name column's corruption, not a
+classification, and `Items.py` builds every shipable shipment as
+`ItemClassification.filler`, so the tile loses its progression rim.

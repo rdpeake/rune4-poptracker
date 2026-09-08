@@ -60,11 +60,11 @@ end
 -- Locations the apworld's own data leaves permanently out of logic: the real
 -- Rules.can_get_item returns false for them with every item held, so matching
 -- that is the point. Listed so that one going green upstream fails here.
-local UPSTREAM_UNREACHABLE = {
-    -- Shmooly's liked item is "Clippers", which is in neither recipe_data_table
-    -- nor shipment_data_table, so can_get_item can never answer true for it.
-    [1852830] = "Selphia Plains - East Tame - Shmooly",
-}
+--
+-- Empty since the Clippers shipment row got its name back. It had held
+-- "progression", so Shmooly's liked item was in neither recipe_data_table nor
+-- shipment_data_table and can_get_item could never answer true for it.
+local UPSTREAM_UNREACHABLE = {}
 
 -- every location's rule must at least evaluate without error, and a full state
 -- must put every location in logic

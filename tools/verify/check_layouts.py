@@ -13,7 +13,13 @@ portrait ones only much later.
     events.json  event_grid*              same items, reflowed 21/11/9 wide
     tracker.json vs chroma_on/chroma_off  the same roots, bar the background
     every layouts/*.json                  no reference to a key nothing defines
+    every itemgrid                        no code items/ does not define
     maps.json                             every map on a tab, every tab a map
+
+A grid cell naming a code nothing defines draws as a blank square and says
+nothing, which is how half of an item rename hides: `Clippers` carried the code
+`progression` until upstream fixed its name, and four hand-maintained files had
+to move together.
 
 The map tab trees must match exactly, titles and order included: they show the
 same maps, only in a differently shaped pane. The grids must hold the same
@@ -26,6 +32,7 @@ Non-zero exit if any of them drift.
 import glob
 import json
 import os
+import re
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -33,6 +40,9 @@ PACK = os.path.dirname(os.path.dirname(HERE)) + '/'
 
 ROOTS = ('tracker_default', 'tracker_horizontal', 'tracker_vertical',
          'tracker_broadcast')
+ITEM_FILES = ('items/items.json', 'items/events.json', 'items/options.json')
+# scripts/logic_info.lua builds this one at runtime, so no items/ file has it
+LUA_CODES = ('LOGIC_INFO_CODE',)
 
 
 def walk(node, out, path=''):
@@ -162,6 +172,27 @@ def main():
         bad += 1
     if not set(wanted) - defined:
         print('  %-24s %d, all defined' % ('keys referenced', len(wanted)))
+
+    print('Item codes')
+    codes = set()
+    for path in ITEM_FILES:
+        loaded = load(path)
+        for item in (loaded if isinstance(loaded, list) else loaded['items']):
+            codes |= {c.strip() for c in (item.get('codes') or '').split(',')
+                      if c.strip()}
+    lua = open(PACK + 'scripts/logic_info.lua', encoding='utf-8').read()
+    for name in LUA_CODES:
+        found = re.search(r'%s = "([^"]+)"' % name, lua)
+        if found:
+            codes.add(found.group(1))
+    drawn = {name for layout in (items, events)
+             for key in layout
+             for _, name in leaves(layout[key], 'item')}
+    for code in sorted(drawn - codes):
+        print('  NO SUCH ITEM             %s' % code)
+    bad += len(drawn - codes)
+    if not drawn - codes:
+        print('  %-24s %d drawn, all defined' % ('item codes', len(drawn)))
 
     print('Maps')
     declared = {m['name'] for m in load('maps/maps.json')}

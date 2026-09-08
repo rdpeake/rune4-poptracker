@@ -6072,6 +6072,11 @@
    "sub": 0
   },
   {
+   "path": "Selphia/Shipment/Clippers",
+   "band": "Tool",
+   "sub": 0
+  },
+  {
    "path": "Selphia/Shipment/Lumber",
    "band": "Other",
    "sub": 0
@@ -6084,11 +6089,6 @@
   {
    "path": "Selphia/Shipment/Material Stone",
    "band": "Other",
-   "sub": 0
-  },
-  {
-   "path": "Selphia/Shipment/progression",
-   "band": "Tool",
    "sub": 0
   },
   {

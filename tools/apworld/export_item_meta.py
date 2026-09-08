@@ -44,14 +44,6 @@ SHEET = '1YU6grqkNfm-fRCV1gIQCDBU466W79-UGnRhtYPxam4Q'
 GID = {'Items': '1720142906', 'Shipments': '2037917468', 'Tame': '1539295810'}
 EXPORT = 'https://docs.google.com/spreadsheets/d/%s/export?format=csv&gid=%s'
 
-# Known upstream remap. Clippers carries the pack item code "progression" and
-# is in neither sheet, so nothing here would colour it; it is a progression
-# item and takes a progression item's rim.
-REMAP = {
-    'progression': {'cls': 'progression'},       # Clippers / Shears
-}
-
-
 def download(name):
     """One tab of the workbook, as CSV text."""
     request = urllib.request.Request(EXPORT % (SHEET, GID[name]),
@@ -106,9 +98,6 @@ def main():
         tier = (row.get('Tier') or '').strip()
         if name and tier.isdigit():
             tiers[slug(name)] = int(tier)
-
-    for code, fix in REMAP.items():
-        meta.setdefault(code, {}).update(fix)
 
     palette = json.load(open(PACK + 'tools/item_palette.json', encoding='utf-8'))
     unknown = sorted({m['cat'] for m in meta.values()

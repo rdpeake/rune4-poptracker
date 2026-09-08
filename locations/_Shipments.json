@@ -840,7 +840,7 @@
                 "map_locations": [
                     {
                         "map": "Other",
-                        "x": 146,
+                        "x": 196,
                         "y": 136,
                         "size": 16,
                         "shape": "diamond",
@@ -849,7 +849,7 @@
                 ]
             },
             {
-                "name": "Selphia › Shipment › progression",
+                "name": "Selphia › Shipment › Clippers",
                 "chest_unopened_img": "/images/items/ship_closed.png",
                 "chest_opened_img": "/images/items/ship_open.png",
                 "overlay_background": "#000000",
@@ -858,13 +858,13 @@
                 ],
                 "sections": [
                     {
-                        "ref": "Selphia/Shipment/progression"
+                        "ref": "Selphia/Shipment/Clippers"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Other",
-                        "x": 196,
+                        "x": 146,
                         "y": 136,
                         "size": 16,
                         "shape": "diamond",
