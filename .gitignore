@@ -8,9 +8,8 @@ _roomsheets/
 # tool inputs, neither ours to redistribute
 tools/*/_input/
 
-# the map snapshots check_maps takes and compares against
+# the map snapshot check_maps takes and compares against
 tools/verify/_baseline/
-tools/verify/_original/
 tools/__pycache__/
 tools/*/__pycache__/
 

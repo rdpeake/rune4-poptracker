@@ -1,27 +1,22 @@
 """Check the maps the tools make still match the ones the pack ships.
 
-Two questions against two folders, both gitignored:
+Two questions against one gitignored folder, `_baseline/`: the pack's own maps,
+copied in on each run.
 
-    _baseline/   the pack's own maps, copied in on each run. Re-rendering them
-                 must come out byte-identical, or the art has drifted.
-    _original/   the screen-capture maps the game art replaced, if you want the
-                 stronger check. A pin that sat on drawn road there and does not
-                 now is a REGRESSION; one that was already off it is not.
+    Does re-rendering come out byte-identical, or has the art drifted?
+    Do the pins and room labels land on drawn road?
 
-Only _baseline is automatic. Seed _original once, from the pack as it was
-before the game art landed:
-
-    git ls-tree --name-only main-with-art images/maps/ \\
-      | while read f; do git show main-with-art:"$f" \\
-          > tools/verify/_original/"${f#images/maps/}"; done
-
-Without it the point check still runs, and reports anything off the art against
-the list it recorded last time instead.
+A point that does not is recorded in `accepted_off_art.json`, which IS
+committed, so a later run reports only what is NEW. Some are off the road for good reasons -- an
+area-transition pin on its entrance icon, a bridge narrower than the word, a
+room whose water is not road -- and accepting them once is how they stop being
+reported.
 
     python3 tools/verify/check_maps.py            snapshot, then compare
     python3 tools/verify/check_maps.py --skip-copy   keep the snapshot as it is
     python3 tools/verify/check_maps.py --yes      overwrite it without asking
     python3 tools/verify/check_maps.py --mark DIR ring the offending points
+    python3 tools/verify/check_maps.py --accept    record what is off as expected
 
 Replacing an existing snapshot asks first: it is the record of what the pack
 looked like before, so overwriting it silently throws the comparison away.
@@ -32,26 +27,23 @@ import os
 import shutil
 import subprocess
 import sys
-from collections import deque
-
-# ImageMagick stamps a tIME chunk into every PNG it writes, so an
-# identical rebuild produces different bytes and every icon shows as
-# changed. SOURCE_DATE_EPOCH makes it leave the chunk out.
-os.environ.setdefault('SOURCE_DATE_EPOCH', '0')
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 PACK = os.path.dirname(os.path.dirname(HERE)) + '/'
 sys.path.insert(0, PACK + 'tools')
 sys.path.insert(0, PACK + 'tools/gamedata')
-from map_art import BOX, CONVERT, GM_ART, _dilate, bbox, solid_box  # noqa: E402
+# paths, reached through map_art, pins SOURCE_DATE_EPOCH so ImageMagick
+# leaves the tIME chunk out and an identical rebuild is identical bytes
+from map_art import CONVERT, GM_ART, solid_box            # noqa: E402
 
 BASELINE = os.path.join(HERE, '_baseline') + '/'
-ORIGINAL = os.path.join(HERE, '_original') + '/'
-ACCEPTED = BASELINE + 'accepted_off_art.json'
+ACCEPTED = os.path.join(HERE, 'accepted_off_art.json')
 MAPS_DIR = PACK + 'images/maps/'
-TEMPLATE = 'Blank.png'      # the frame with no map on it, for _brown
+TEMPLATE = 'Blank.png'      # the frame with no map on it
 
-PARKED_X = 34            # aggregate pins are stacked in this column, off-map
+# An aggregate has no one room to sit in, so it is parked off the art: a region's
+# shipment and tame pins carry a marker shape, and an area pin's sections are all
+# refs into the place it leads to. Neither is a point that can be on the road.
 
 # Points that sit off the road and are meant to: a pin with no room to sit in,
 # on an entrance icon or a bridge narrower than the word. An off-centre LABEL is
@@ -61,93 +53,6 @@ OFF_PATH = {
     'Selphia_plains.png': {'D5', 'F3'},
     'Sercerezo Hill.png': {(209, 294), (244, 341)},
 }
-
-
-def _raw(args, n):
-    d = subprocess.run(args, capture_output=True).stdout
-    assert len(d) == n, (len(d), n, args[1])
-    return d
-
-
-_TEMPLATE = None
-
-
-def _brown(path):
-    """pixels of the drawn map: the path outline's hue, and darker than the page"""
-    x, y, w, h = BOX
-    d = _raw([CONVERT, path, '-crop', '%dx%d+%d+%d' % (w, h, x, y), '+repage',
-              '-depth', '8', 'rgb:-'], w * h * 3)
-    m = bytearray(w * h)
-    for i in range(w * h):
-        r, g, b = d[3 * i], d[3 * i + 1], d[3 * i + 2]
-        if r - b > 45 and (r * 299 + g * 587 + b * 114) // 1000 < 195:
-            m[i] = 1
-    return m, w, h
-
-
-def pack_silhouette(path):
-    """the drawn road network of a pack map, as a filled mask over BOX
-
-    The dashed grid lines are the same hue as the outline and only a shade
-    lighter, so a threshold cannot separate them -- but they are printed from a
-    fixed template, and `Blank.png` IS that template with no map on it. Subtract
-    it (dilated a pixel, for the resampling) and only the map is left.
-    """
-    global _TEMPLATE
-    m, w, h = _brown(path)
-    if _TEMPLATE is None:
-        t, tw, th = _brown(ORIGINAL + TEMPLATE)
-        _TEMPLATE = _dilate(t, tw, th, 1)
-    for i in range(w * h):
-        if _TEMPLATE[i]:
-            m[i] = 0
-    return _despeckle(_fill(_dilate(m, w, h, 2), w, h), w, h), w, h
-
-
-def _fill(m, w, h):
-    out = bytearray(w * h)
-    q = deque()
-
-    def seed(i):
-        if not m[i] and not out[i]:
-            out[i] = 1
-            q.append(i)
-
-    for x in range(w):
-        seed(x); seed((h - 1) * w + x)
-    for y in range(h):
-        seed(y * w); seed(y * w + w - 1)
-    while q:
-        i = q.popleft()
-        x = i % w
-        if x:         seed(i - 1)
-        if x < w - 1: seed(i + 1)
-        if i >= w:            seed(i - w)
-        if i < (h - 1) * w:   seed(i + w)
-    return bytearray(0 if out[i] else 1 for i in range(w * h))
-
-
-def _despeckle(m, w, h, least=60):
-    """drop blobs too small to be a room -- grid dashes the template missed"""
-    seen = bytearray(w * h)
-    for i in range(w * h):
-        if not m[i] or seen[i]:
-            continue
-        blob, q = [], deque([i])
-        seen[i] = 1
-        while q:
-            j = q.popleft()
-            blob.append(j)
-            x = j % w
-            for k, ok in ((j - 1, x), (j + 1, x < w - 1), (j - w, j >= w),
-                          (j + w, j < (h - 1) * w)):
-                if ok and m[k] and not seen[k]:
-                    seen[k] = 1
-                    q.append(k)
-        if len(blob) < least:
-            for j in blob:
-                m[j] = 0
-    return m
 
 
 def art_mask(cfg, w=670, h=600, slack=2):
@@ -189,10 +94,13 @@ def points():
     for f in glob.glob(PACK + 'locations/*.json'):
         def walk(nodes):
             for x in nodes:
+                secs = x.get('sections') or []
+                aggregate = bool(secs) and all('ref' in s for s in secs)
                 for mp in x.get('map_locations') or []:
                     img = maps.get(mp['map'])
                     if img:
-                        pts.setdefault(img, []).append(('pin', mp['x'], mp['y']))
+                        kind = 'parked' if (aggregate or mp.get('shape')) else 'pin'
+                        pts.setdefault(img, []).append((kind, mp['x'], mp['y']))
                 walk(x.get('children') or [])
         walk(json.load(open(f)))
     rooms = json.load(open(os.environ.get('ROOM_POS', PACK + 'tools/generated/room_positions.json')))
@@ -286,9 +194,8 @@ def accepted():
 def check_points(out=None, record=False):
     """Do the pins and room labels land on drawn art?
 
-    Where _original holds the map this replaced, a point off the new art is a
-    REGRESSION only if it was on drawn road there. Without it, the recorded
-    list from the last run stands in, so a run only reports what is new.
+    A point off it is a regression unless the last run recorded it, so what
+    gets reported is what changed.
     """
     cfg = json.load(open(os.environ.get(
         'MAP_LAYOUT', PACK + 'tools/generated/map_layout.json')))
@@ -306,26 +213,15 @@ def check_points(out=None, record=False):
                         if kind.startswith('room ') and kind[5:] in exempt}
         mask, w, h = art_mask(cfg[img])
         was = known.get(img, set())
-        before = None
-        if os.path.exists(ORIGINAL + img) and os.path.exists(ORIGINAL + TEMPLATE):
-            before = pack_silhouette(ORIGINAL + img)
         fresh = []
         for kind, x, y in got:
             total += 1
-            if kind == 'pin' and x == PARKED_X:
+            if kind == 'parked':
                 parked += 1
             elif 0 <= x < w and 0 <= y < h and mask[y * w + x]:
                 pass
             elif (x, y) in exempt or (x, y) in exempt_spots or kind[5:] in exempt:
                 beside += 1
-            elif before is not None:
-                old, ow, oh = before
-                ox, oy = x - BOX[0], y - BOX[1]
-                if 0 <= ox < ow and 0 <= oy < oh and old[oy * ow + ox]:
-                    fresh.append((kind, x, y))   # was on drawn road, is not now
-                    new_off += 1
-                else:
-                    old_off += 1
             else:
                 off_now.setdefault(img, set()).add((x, y))
                 if (x, y) in was:
@@ -337,22 +233,16 @@ def check_points(out=None, record=False):
             print('%-30s %d NEW points off the art: %s' % (img, len(fresh), fresh[:6]))
             if out:
                 mark(img, fresh, out)
-    against = 'the original maps' if os.path.isdir(ORIGINAL) and os.listdir(ORIGINAL) \
-        else 'the list recorded last run'
-    print('points: %d checked against %s -- %d parked aggregates, %d beside '
-          'their corridor, %d already off, %d NEW'
-          % (total, against, parked, beside, old_off, new_off))
-    # Only worth recording when there is nothing better to compare against;
-    # with _original present the silhouette is the authority.
-    if record and not off_now:
-        record = False
+    print('points: %d checked -- %d parked aggregates, %d beside their corridor, '
+          '%d accepted, %d NEW'
+          % (total, parked, beside, old_off, new_off))
     if record:
-        os.makedirs(BASELINE, exist_ok=True)
         with open(ACCEPTED, 'w', encoding='utf-8', newline='\n') as fh:
             json.dump({k: sorted(v) for k, v in sorted(off_now.items())},
                       fh, indent=1)
-        print('  recorded %d accepted points alongside the snapshot'
-              % sum(len(v) for v in off_now.values()))
+        print('  recorded %d accepted points in %s'
+              % (sum(len(v) for v in off_now.values()),
+                 os.path.relpath(ACCEPTED, PACK)))
     return new_off
 
 
@@ -371,7 +261,7 @@ def main():
         bad_art = compare_art(fresh)
     finally:
         shutil.rmtree(fresh, ignore_errors=True)
-    bad_points = check_points(out, record=took)
+    bad_points = check_points(out, record='--accept' in args)
     return 1 if (bad_art or bad_points) else 0
 
 
