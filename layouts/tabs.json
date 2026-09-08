@@ -498,11 +498,20 @@
                     "type": "tabbed",
                     "tabs": [
                         {
-                            "title": "Forge",
+                            "title": "Forge I",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Forge"
+                                    "Forge I"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Forge II",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Forge II"
                                 ]
                             }
                         },
@@ -516,11 +525,20 @@
                             }
                         },
                         {
-                            "title": "Cooking",
+                            "title": "Cooking I",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Cooking"
+                                    "Cooking I"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Cooking II",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Cooking II"
                                 ]
                             }
                         }
@@ -1152,11 +1170,20 @@
                     "type": "tabbed",
                     "tabs": [
                         {
-                            "title": "Forge",
+                            "title": "Forge I",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Forge"
+                                    "Forge I"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Forge II",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Forge II"
                                 ]
                             }
                         },
@@ -1170,11 +1197,20 @@
                             }
                         },
                         {
-                            "title": "Cooking",
+                            "title": "Cooking I",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Cooking"
+                                    "Cooking I"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Cooking II",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Cooking II"
                                 ]
                             }
                         }

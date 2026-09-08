@@ -343,11 +343,18 @@
         "img": "images/maps/grid_tames_anywhere.png"
     },
     {
-        "name": "Forge",
+        "name": "Forge I",
         "location_size": 16,
         "location_border_thickness": 2,
         "location_shape": "rect",
-        "img": "images/maps/grid_forge.png"
+        "img": "images/maps/grid_forge_i.png"
+    },
+    {
+        "name": "Forge II",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_forge_ii.png"
     },
     {
         "name": "Crafting",
@@ -357,10 +364,17 @@
         "img": "images/maps/grid_crafting.png"
     },
     {
-        "name": "Cooking",
+        "name": "Cooking I",
         "location_size": 16,
         "location_border_thickness": 2,
         "location_shape": "rect",
-        "img": "images/maps/grid_cooking.png"
+        "img": "images/maps/grid_cooking_i.png"
+    },
+    {
+        "name": "Cooking II",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_cooking_ii.png"
     }
 ]

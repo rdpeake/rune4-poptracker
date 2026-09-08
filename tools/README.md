@@ -288,17 +288,17 @@ enough. They need node and one package, which is gitignored:
 the background keyed to the item's category family and a rim keyed to its
 classification. Input is a JSON list of `{slug, label, cat, cls}`.
 
-`export_grid_maps.py` (which calls `gen_grid_maps.mjs`) rebuilds all sixteen
-sheets — eight shipment, three crafting and five tame — **and** checks the pins on
+`export_grid_maps.py` (which calls `gen_grid_maps.mjs`) rebuilds all eighteen
+sheets — eight shipment, five crafting and five tame — **and** checks the pins on
 them in `locations/_Crafting.json`, `_Shipments.json` and `_Tames.json`. Image and
 pins come out of the same pass, so they must be regenerated together or every pin
 slides off its tile. Run it after anything that touches `images/items/` or
 `images/monsters/`.
 
-The shipment sheets are laid out from `generated/grid_layout.json`
+The shipment and crafting sheets are laid out from `generated/grid_layout.json`
 (`apworld/export_grid_layout.py`): which sheet a check belongs on, which band
-inside it, and in what order. The crafting and tame sheets have no plan, so they
-keep the order of the pins already on disk and a rebuild changes only the tiles.
+inside it, and in what order. The tame sheets have no plan, so they keep the
+order of the pins already on disk and a rebuild changes only the tiles.
 Either way the pins are tied to marker positions, so the tool recomputes them and
 **refuses to write if any would move** — pass `--relayout` when moving them is the
 point.
@@ -364,10 +364,16 @@ knowing about, written up here:
 `check_maps.py` answers two questions. Does re-rendering still produce the
 images that are committed? It copies the pack's maps into `_baseline/`, renders
 them fresh and compares. And is every pin and room label on drawn road? It walks
-them against the art and separates four cases: aggregates parked off-map at
-x=34, points off the road on purpose, points that were already off the road in
-the captures the game art replaced (put those in `_original/`), and regressions.
-`--mark` writes out any map that still has one, with the offending point ringed.
+them against the art, skipping the aggregates -- a region's shipment and tame
+pins, and the area pins, none of which sit in one room -- and reports anything
+else that is off it.
+
+The 26 that are off it for good reasons are listed in
+`tools/verify/accepted_off_art.json`, which IS committed: a room label nudged
+onto the frame, a villager column beside the town, an entrance pin on its icon.
+`--accept` rewrites that list from what the current run found, so read what it
+reports before running it. `--mark DIR` writes out any map with a new one, the
+offending point ringed.
 
 The expectations in `tests/rf4_logic_cases.lua` come from executing the apworld's
 *own* `Rules.py` functions over the same item states, so the test compares the

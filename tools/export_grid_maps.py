@@ -106,13 +106,11 @@ def collect(sources, art, prefix, plan=None):
 def main():
     plan = json.load(open(PACK + 'tools/generated/grid_layout.json',
                           encoding='utf-8'))
-    maps = (collect(('locations/_Shipments.json',), item_art(), 'item', plan)
-            + collect(('locations/_Crafting.json',), item_art(), 'item')
+    maps = (collect(SOURCES, item_art(), 'item', plan)
             + collect(TAMES, monster_art(), 'monster'))
 
     # the shipped file names predate this tool, so keep them
-    KNOWN = {'Forge': 'grid_forge.png', 'Crafting': 'grid_crafting.png',
-             'Cooking': 'grid_cooking.png',
+    KNOWN = {'Crafting': 'grid_crafting.png',
              'Tames Selphia': 'grid_tames_selphia.png',
              'Tames Selphia Plains': 'grid_tames_selphiaplains.png',
              'Tames Autumn Road': 'grid_tames_autumnroad.png',

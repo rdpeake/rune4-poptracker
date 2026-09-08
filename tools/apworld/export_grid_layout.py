@@ -24,6 +24,13 @@ Three kinds get their own treatment:
     barn products            Egg, Milk, Fur and Honey are what a tamed monster
                              gives you, so they band by the monster.
 
+The crafted sheets were already grouped by how you make a thing, so they only
+gain bands: one per Subtype, ordered by the crafting Level, with the ruler
+bracketing level decades because a recipe has no tier and its level is
+near-unique. Forge and Cooking are split in two so a sheet fits its pane
+without shrinking the tiles to read them -- Forge on the same boundary the item
+panel's weapon tabs already use.
+
 Writes tools/generated/grid_layout.json: sheet -> the pins on it, in order.
 """
 import collections
@@ -79,6 +86,10 @@ def rows(sheet):
 
 
 SHIP = rows('Shipments')
+REC = rows('Recipes')
+# the item panel splits its weapon tabs here, so the sheets match it
+FORGE_I = ('Short Sword', 'Long Sword', 'Dual Blade', 'Spear')
+COOK_I = ('Frying Pan', 'Pot', 'Knife')
 
 
 def num(s):
@@ -161,13 +172,29 @@ def crop_order():
     return crops, seed_of
 
 
-def refs():
-    doc = json.load(open(PACK + 'locations/_Shipments.json', encoding='utf-8'))
+def refs(src):
+    doc = json.load(open(PACK + 'locations/' + src, encoding='utf-8'))
     root = doc[0] if isinstance(doc, list) else doc
     for n in (root.get('children') or []):
         r = (n.get('sections') or [{}])[0].get('ref')
         if r:
-            yield r
+            yield r, (n.get('map_locations') or [{}])[0].get('map')
+
+
+def crafted(out):
+    """one band per Subtype, ordered by crafting level"""
+    for path, sheet in refs('_Crafting.json'):
+        nm = path.rsplit('/', 1)[-1]
+        r = REC.get(nm)
+        band = (r.get('Subtype') or 'Other').strip() if r else 'Other'
+        lv = num(r.get('Level')) if r else None
+        if sheet == 'Forge':
+            sheet = 'Forge I' if band in FORGE_I else 'Forge II'
+        elif sheet == 'Cooking':
+            sheet = 'Cooking I' if band in COOK_I else 'Cooking II'
+        dec = None if lv is None else '%d-%d' % (lv // 10 * 10, lv // 10 * 10 + 9)
+        out[sheet].append((0, band, (band, lv if lv is not None else 999,
+                                     nm.lower()), dec, path))
 
 
 def main():
@@ -183,7 +210,7 @@ def main():
 
     out = collections.defaultdict(list)
     own = []
-    for path in refs():
+    for path, _ in refs('_Shipments.json'):
         nm = path.rsplit('/', 1)[-1]
         area = path.split('/')[0]
         boss = nm.startswith('Boss - ')
@@ -235,6 +262,7 @@ def main():
             (heads[head], head, (rank.get(region, 99), region, kind, nm.lower()),
              None if region == head else region, path))
 
+    crafted(out)
     doc = {}
     for name in sorted(out, key=lambda k: -len(out[k])):
         doc[name] = [{'path': p, 'band': b, 'sub': s}

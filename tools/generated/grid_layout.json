@@ -1,4 +1,781 @@
 {
+ "Crafting": [
+  {
+   "path": "Crafting/Shipment/Charm",
+   "band": "Accessories",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Work Gloves",
+   "band": "Accessories",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Cheap Bracelet",
+   "band": "Accessories",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Badge",
+   "band": "Accessories",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Yarn",
+   "band": "Accessories",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Earrings",
+   "band": "Accessories",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Bronze Bracelet",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Leather Belt",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Amethyst Ring",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Aquamarine Ring",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Cursed Ring",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Emerald Ring",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Ruby Ring",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Sapphire Ring",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Gloves (Accessory)",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Earth Pendant",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Engagement Ring",
+   "band": "Accessories",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Silver Pendant",
+   "band": "Accessories",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Silver Ring",
+   "band": "Accessories",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Silver Bracelet",
+   "band": "Accessories",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Poison Ring",
+   "band": "Accessories",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Dew Pendant",
+   "band": "Accessories",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Paralysis Ring",
+   "band": "Accessories",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Silent Ring",
+   "band": "Accessories",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Critical Ring",
+   "band": "Accessories",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Happy Ring",
+   "band": "Accessories",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Witch Earrings",
+   "band": "Accessories",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Throwing Ring",
+   "band": "Accessories",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Field Pendant",
+   "band": "Accessories",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Gold Bracelet",
+   "band": "Accessories",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Heart Pendant",
+   "band": "Accessories",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Star Pendant",
+   "band": "Accessories",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Power Gloves",
+   "band": "Accessories",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Hand-Knit Scarf",
+   "band": "Accessories",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Shield Ring",
+   "band": "Accessories",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Magic Earrings",
+   "band": "Accessories",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Sun Pendant",
+   "band": "Accessories",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Stay-up Ring",
+   "band": "Accessories",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Platinum Bracelet",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Magic Ring",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Amethyst Brooch",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Aquamarine Brooch",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Emerald Brooch",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Holy Amulet",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Ruby Brooch",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Sapphire Brooch",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Champ Belt",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Diamond Ring",
+   "band": "Accessories",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Gold Ring",
+   "band": "Accessories",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Magic Charm",
+   "band": "Accessories",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Rosary",
+   "band": "Accessories",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Talisman",
+   "band": "Accessories",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Hero's Proof",
+   "band": "Accessories",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Proof of Wisdom",
+   "band": "Accessories",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Platinum Ring",
+   "band": "Accessories",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Diamond Brooch",
+   "band": "Accessories",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Lucky Strike",
+   "band": "Accessories",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Anette's Necklace",
+   "band": "Accessories",
+   "sub": "80-89"
+  },
+  {
+   "path": "Crafting/Shipment/Strange Pendant",
+   "band": "Accessories",
+   "sub": "80-89"
+  },
+  {
+   "path": "Crafting/Shipment/Dolphin Brooch",
+   "band": "Accessories",
+   "sub": "80-89"
+  },
+  {
+   "path": "Crafting/Shipment/Art of Defense",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Art of Attack",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Art of Magic",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Wind Ring",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Earth Ring",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Fire Ring",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Fluffy Scarf",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Water Ring",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Courage Badge",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Shirt",
+   "band": "Armor",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Vest",
+   "band": "Armor",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Cotton Cloth",
+   "band": "Armor",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Mail",
+   "band": "Armor",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Chain Mail",
+   "band": "Armor",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Scale Vest",
+   "band": "Armor",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Sparkling Shirt",
+   "band": "Armor",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Wind Cloak",
+   "band": "Armor",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Protector",
+   "band": "Armor",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Platinum Mail",
+   "band": "Armor",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Lamellar Vest",
+   "band": "Armor",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Mercenary's Cloak",
+   "band": "Armor",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Wooly Shirt",
+   "band": "Armor",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Elvish Cloak",
+   "band": "Armor",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Dragon Cloak",
+   "band": "Armor",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Power Protector",
+   "band": "Armor",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Rune Vest",
+   "band": "Armor",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Royal Garter",
+   "band": "Armor",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Four Dragons' Vest",
+   "band": "Armor",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Headband",
+   "band": "Headgear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Blue Ribbon",
+   "band": "Headgear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Green Ribbon",
+   "band": "Headgear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Purple Ribbon",
+   "band": "Headgear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Spectacles",
+   "band": "Headgear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Straw Hat",
+   "band": "Headgear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Fancy Hat",
+   "band": "Headgear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Brand Glasses",
+   "band": "Headgear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Cute Knitting",
+   "band": "Headgear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Intelligent Glasses",
+   "band": "Headgear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Fireproof Hood",
+   "band": "Headgear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Silk Hat",
+   "band": "Headgear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Black Ribbon",
+   "band": "Headgear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Lolita Headdress",
+   "band": "Headgear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Headdress",
+   "band": "Headgear",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Pumpkin Headgear",
+   "band": "Headgear",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Yellow Ribbon",
+   "band": "Headgear",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Cat Ears",
+   "band": "Headgear",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Silver Hairpin",
+   "band": "Headgear",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Red Ribbon",
+   "band": "Headgear",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Turnip Headgear",
+   "band": "Headgear",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Orange Ribbon",
+   "band": "Headgear",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/White Ribbon",
+   "band": "Headgear",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Four Seasons",
+   "band": "Headgear",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Feathered Hat",
+   "band": "Headgear",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Gold Hairpin",
+   "band": "Headgear",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Indigo Ribbon",
+   "band": "Headgear",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Crown",
+   "band": "Headgear",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Small Shield",
+   "band": "Shield",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Umbrella",
+   "band": "Shield",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Iron Shield",
+   "band": "Shield",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Monkey Plush",
+   "band": "Shield",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Round Shield",
+   "band": "Shield",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Turtle Shield",
+   "band": "Shield",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Chaos Shield",
+   "band": "Shield",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Bone Shield",
+   "band": "Shield",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Magic Shield",
+   "band": "Shield",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Heavy Shield",
+   "band": "Shield",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Platinum Shield",
+   "band": "Shield",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Kite Shield",
+   "band": "Shield",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Knight Shield",
+   "band": "Shield",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Element Shield",
+   "band": "Shield",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Magical Shield",
+   "band": "Shield",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Prism Shield",
+   "band": "Shield",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Rune Shield",
+   "band": "Shield",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Leather Boots",
+   "band": "Shoes",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Free Farming Shoes",
+   "band": "Shoes",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Piyo Sandals",
+   "band": "Shoes",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Secret Shoes",
+   "band": "Shoes",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Silver Boots",
+   "band": "Shoes",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Heavy Boots",
+   "band": "Shoes",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Wet Boots",
+   "band": "Shoes",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Sneaking Boots",
+   "band": "Shoes",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Fast Step Boots",
+   "band": "Shoes",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Gold Boots",
+   "band": "Shoes",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Bone Boots",
+   "band": "Shoes",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Snow Boots",
+   "band": "Shoes",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Strider Boots",
+   "band": "Shoes",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Step-In Boots",
+   "band": "Shoes",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Feather Boots",
+   "band": "Shoes",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Ghost Boots",
+   "band": "Shoes",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Iron Geta",
+   "band": "Shoes",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Water Shoes",
+   "band": "Shoes",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Ice Skates",
+   "band": "Shoes",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Knight Boots",
+   "band": "Shoes",
+   "sub": "80-89"
+  },
+  {
+   "path": "Crafting/Shipment/Fairy Boots",
+   "band": "Shoes",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Rocket Wing",
+   "band": "Shoes",
+   "sub": "90-99"
+  }
+ ],
  "Crops & Seeds": [
   {
    "path": "Selphia/Shipment/Turnip Seeds",
@@ -694,6 +1471,1842 @@
    "path": "Selphia/Shipment/Great Emery Flower",
    "band": "Crops & Seeds",
    "sub": 11
+  }
+ ],
+ "Forge I": [
+  {
+   "path": "Forge/Shipment/Short Dagger",
+   "band": "Dual Blade",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Steel Edge",
+   "band": "Dual Blade",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Double Scratch",
+   "band": "Dual Blade",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Frost Edge",
+   "band": "Dual Blade",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Iron Edge",
+   "band": "Dual Blade",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Acutorimass",
+   "band": "Dual Blade",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Thief Knife",
+   "band": "Dual Blade",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Wind Edge",
+   "band": "Dual Blade",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Gorgeous Lx",
+   "band": "Dual Blade",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Steel Katana",
+   "band": "Dual Blade",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Twin Blade",
+   "band": "Dual Blade",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Rampage",
+   "band": "Dual Blade",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Salamander",
+   "band": "Dual Blade",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Platinum Edge",
+   "band": "Dual Blade",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Sonic Dagger",
+   "band": "Dual Blade",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Twin Leeks",
+   "band": "Dual Blade",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Chaos Edge",
+   "band": "Dual Blade",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Desert Wind",
+   "band": "Dual Blade",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Broken Wall",
+   "band": "Dual Blade",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Force Divide",
+   "band": "Dual Blade",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Heart Fire",
+   "band": "Dual Blade",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Orcus Sword",
+   "band": "Dual Blade",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Deep Blizzard",
+   "band": "Dual Blade",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Dark Invitation",
+   "band": "Dual Blade",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Priest Saber",
+   "band": "Dual Blade",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Efreet",
+   "band": "Dual Blade",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Dragoon Claw",
+   "band": "Dual Blade",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Emerald Edge",
+   "band": "Dual Blade",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Rune Edge",
+   "band": "Dual Blade",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Earnest Edge",
+   "band": "Dual Blade",
+   "sub": "90-99"
+  },
+  {
+   "path": "Forge/Shipment/Twin Justice",
+   "band": "Dual Blade",
+   "sub": "90-99"
+  },
+  {
+   "path": "Forge/Shipment/Claymore",
+   "band": "Long Sword",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Zweihaender",
+   "band": "Long Sword",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Zweihaender+",
+   "band": "Long Sword",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Great Sword",
+   "band": "Long Sword",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Sea Cutter",
+   "band": "Long Sword",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Cyclone Blade",
+   "band": "Long Sword",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Poison Blade",
+   "band": "Long Sword",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Daicone",
+   "band": "Long Sword",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Katzbalger",
+   "band": "Long Sword",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Earth Shade",
+   "band": "Long Sword",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Big Knife",
+   "band": "Long Sword",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Katana",
+   "band": "Long Sword",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Flame Saber",
+   "band": "Long Sword",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Bio Smasher",
+   "band": "Long Sword",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Dekash",
+   "band": "Long Sword",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Snow Crown",
+   "band": "Long Sword",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Dancing Dicer",
+   "band": "Long Sword",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Flamberge",
+   "band": "Long Sword",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Flamberge+",
+   "band": "Long Sword",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Volcanon",
+   "band": "Long Sword",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Psycho",
+   "band": "Long Sword",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Shine Blade",
+   "band": "Long Sword",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Grand Smasher",
+   "band": "Long Sword",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Belzebuth",
+   "band": "Long Sword",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Orochi",
+   "band": "Long Sword",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Punisher",
+   "band": "Long Sword",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Steel Slicer",
+   "band": "Long Sword",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Moon Shadow",
+   "band": "Long Sword",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Blue-Eyed Blade",
+   "band": "Long Sword",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Balmung",
+   "band": "Long Sword",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Braveheart",
+   "band": "Long Sword",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Force Element",
+   "band": "Long Sword",
+   "sub": "90-99"
+  },
+  {
+   "path": "Forge/Shipment/Heaven Asunder",
+   "band": "Long Sword",
+   "sub": "90-99"
+  },
+  {
+   "path": "Forge/Shipment/Caliburn",
+   "band": "Long Sword",
+   "sub": "90-99"
+  },
+  {
+   "path": "Forge/Shipment/Broadsword",
+   "band": "Short Sword",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Steel Sword",
+   "band": "Short Sword",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Steel Sword+",
+   "band": "Short Sword",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Cutlass",
+   "band": "Short Sword",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Aqua Sword",
+   "band": "Short Sword",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Invisiblade",
+   "band": "Short Sword",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Defender",
+   "band": "Short Sword",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Back Scratcher",
+   "band": "Short Sword",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Burning Sword",
+   "band": "Short Sword",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Gorgeous Sword",
+   "band": "Short Sword",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Spoon",
+   "band": "Short Sword",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Gaia Sword",
+   "band": "Short Sword",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Snakesword",
+   "band": "Short Sword",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Veggieblade",
+   "band": "Short Sword",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Luck Blade",
+   "band": "Short Sword",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Platinum Sword",
+   "band": "Short Sword",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Wind Sword",
+   "band": "Short Sword",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Chaos Blade",
+   "band": "Short Sword",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Sakura",
+   "band": "Short Sword",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Sunspot",
+   "band": "Short Sword",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Durendal",
+   "band": "Short Sword",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Aerial Blade",
+   "band": "Short Sword",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Grantale",
+   "band": "Short Sword",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Smash Blade",
+   "band": "Short Sword",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Icifier",
+   "band": "Short Sword",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Soul Eater",
+   "band": "Short Sword",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Raventine",
+   "band": "Short Sword",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Star Saber",
+   "band": "Short Sword",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Platinum Sword+",
+   "band": "Short Sword",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Dragon Slayer",
+   "band": "Short Sword",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Rune Blade",
+   "band": "Short Sword",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Gladius",
+   "band": "Short Sword",
+   "sub": "90-99"
+  },
+  {
+   "path": "Forge/Shipment/Rune Legend",
+   "band": "Short Sword",
+   "sub": "90-99"
+  },
+  {
+   "path": "Forge/Shipment/Spear",
+   "band": "Spear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Wood Staff",
+   "band": "Spear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Lance",
+   "band": "Spear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Lance+",
+   "band": "Spear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Safety Lance",
+   "band": "Spear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Pitchfork",
+   "band": "Spear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Needle Spear",
+   "band": "Spear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Trident",
+   "band": "Spear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Water Spear",
+   "band": "Spear",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Halberd",
+   "band": "Spear",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Corsesca",
+   "band": "Spear",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Corsesca+",
+   "band": "Spear",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Poison Spear",
+   "band": "Spear",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Fivestaff",
+   "band": "Spear",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Heavy Lance",
+   "band": "Spear",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Feather Lance",
+   "band": "Spear",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Pine Club",
+   "band": "Spear",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Iceberg",
+   "band": "Spear",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Blood Lance",
+   "band": "Spear",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Magical Lance",
+   "band": "Spear",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Flare Lance",
+   "band": "Spear",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Brionac",
+   "band": "Spear",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Poison Queen",
+   "band": "Spear",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Monk Staff",
+   "band": "Spear",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Metus",
+   "band": "Spear",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Silent Grave",
+   "band": "Spear",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Overbreak",
+   "band": "Spear",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Bjor",
+   "band": "Spear",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Belvarose",
+   "band": "Spear",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Gae Bolg",
+   "band": "Spear",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Dragon's Fang",
+   "band": "Spear",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Gungnir",
+   "band": "Spear",
+   "sub": "90-99"
+  },
+  {
+   "path": "Forge/Shipment/Legion",
+   "band": "Spear",
+   "sub": "90-99"
+  }
+ ],
+ "Forge II": [
+  {
+   "path": "Forge/Shipment/Battle Hammer",
+   "band": "Axe/Hammer",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Battle Axe",
+   "band": "Axe/Hammer",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Hammer",
+   "band": "Axe/Hammer",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Toy Hammer",
+   "band": "Axe/Hammer",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Axe",
+   "band": "Axe/Hammer",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Bat",
+   "band": "Axe/Hammer",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/War Hammer",
+   "band": "Axe/Hammer",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Battle Scythe",
+   "band": "Axe/Hammer",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/War Hammer+",
+   "band": "Axe/Hammer",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Pole Axe",
+   "band": "Axe/Hammer",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Iron Bat",
+   "band": "Axe/Hammer",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Pole Axe+",
+   "band": "Axe/Hammer",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Great Hammer",
+   "band": "Axe/Hammer",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Great Axe",
+   "band": "Axe/Hammer",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Ice Hammer",
+   "band": "Axe/Hammer",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Lollipop",
+   "band": "Axe/Hammer",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Tomahawk",
+   "band": "Axe/Hammer",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Basilisk Fang",
+   "band": "Axe/Hammer",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Bone Hammer",
+   "band": "Axe/Hammer",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Rock Axe",
+   "band": "Axe/Hammer",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Strong Stone",
+   "band": "Axe/Hammer",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Demon Axe",
+   "band": "Axe/Hammer",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Flame Hammer",
+   "band": "Axe/Hammer",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Gigant Hammer",
+   "band": "Axe/Hammer",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Sky Hammer",
+   "band": "Axe/Hammer",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Frost Axe",
+   "band": "Axe/Hammer",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Crescent Axe",
+   "band": "Axe/Hammer",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Crescent Axe+",
+   "band": "Axe/Hammer",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Graviton Hammer",
+   "band": "Axe/Hammer",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Spiked Hammer",
+   "band": "Axe/Hammer",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Heat Axe",
+   "band": "Axe/Hammer",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Crystal Hammer",
+   "band": "Axe/Hammer",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Schnabel",
+   "band": "Axe/Hammer",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Double Edge",
+   "band": "Axe/Hammer",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Alldale",
+   "band": "Axe/Hammer",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Gigant Hammer+",
+   "band": "Axe/Hammer",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Devil Finger",
+   "band": "Axe/Hammer",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Kongo",
+   "band": "Axe/Hammer",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Executioner",
+   "band": "Axe/Hammer",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Mjolnir",
+   "band": "Axe/Hammer",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Fatal Crush",
+   "band": "Axe/Hammer",
+   "sub": "90-99"
+  },
+  {
+   "path": "Forge/Shipment/Saint Axe",
+   "band": "Axe/Hammer",
+   "sub": "90-99"
+  },
+  {
+   "path": "Forge/Shipment/Splash Star",
+   "band": "Axe/Hammer",
+   "sub": "90-99"
+  },
+  {
+   "path": "Forge/Shipment/Cheap Axe",
+   "band": "Farm Tool",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Cheap Hammer",
+   "band": "Farm Tool",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Cheap Hoe",
+   "band": "Farm Tool",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Cheap Pole",
+   "band": "Farm Tool",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Cheap Sickle",
+   "band": "Farm Tool",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Cheap Waterpot",
+   "band": "Farm Tool",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Beginner's Pole",
+   "band": "Farm Tool",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Chopping Axe",
+   "band": "Farm Tool",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Iron Hammer",
+   "band": "Farm Tool",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Iron Sickle",
+   "band": "Farm Tool",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Sturdy Hoe",
+   "band": "Farm Tool",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Tin Waterpot",
+   "band": "Farm Tool",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Lion Waterpot",
+   "band": "Farm Tool",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Lumber Axe",
+   "band": "Farm Tool",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Quality Sickle",
+   "band": "Farm Tool",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Seasoned Hoe",
+   "band": "Farm Tool",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Silver Hammer",
+   "band": "Farm Tool",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Skilled Pole",
+   "band": "Farm Tool",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Famous Pole",
+   "band": "Farm Tool",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Golden Hammer",
+   "band": "Farm Tool",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Mountain Axe",
+   "band": "Farm Tool",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Rainbow Waterpot",
+   "band": "Farm Tool",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Shiny Hoe",
+   "band": "Farm Tool",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Super Sickle",
+   "band": "Farm Tool",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Blessed Hoe",
+   "band": "Farm Tool",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Joy Waterpot",
+   "band": "Farm Tool",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Legendary Sickle",
+   "band": "Farm Tool",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Miracle Axe",
+   "band": "Farm Tool",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Platinum Hammer",
+   "band": "Farm Tool",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Sacred Pole",
+   "band": "Farm Tool",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Leather Gloves",
+   "band": "Fist",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Brass Knuckles",
+   "band": "Fist",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Kote",
+   "band": "Fist",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Gloves (Weapon)",
+   "band": "Fist",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Bear Claws",
+   "band": "Fist",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Fists of the Earth",
+   "band": "Fist",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Fists of Fire",
+   "band": "Fist",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Fists of Water",
+   "band": "Fist",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Dragon Claws",
+   "band": "Fist",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Fists of Dark",
+   "band": "Fist",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Fists of Wind",
+   "band": "Fist",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Fists of Light",
+   "band": "Fist",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Cat Punch",
+   "band": "Fist",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Animal Puppets",
+   "band": "Fist",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Ironleaf Fists",
+   "band": "Fist",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Caestus",
+   "band": "Fist",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Golem Punch",
+   "band": "Fist",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Hand of God",
+   "band": "Fist",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Bazal Katar",
+   "band": "Fist",
+   "sub": "90-99"
+  },
+  {
+   "path": "Forge/Shipment/Fenrir",
+   "band": "Fist",
+   "sub": "90-99"
+  },
+  {
+   "path": "Forge/Shipment/Rod",
+   "band": "Staff",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Basket",
+   "band": "Staff",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Amethyst Rod",
+   "band": "Staff",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Aquamarine Rod",
+   "band": "Staff",
+   "sub": "0-9"
+  },
+  {
+   "path": "Forge/Shipment/Sweet Potato Staff",
+   "band": "Staff",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Friendly Rod",
+   "band": "Staff",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Love-Love Rod",
+   "band": "Staff",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Staff",
+   "band": "Staff",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Emerald Rod",
+   "band": "Staff",
+   "sub": "10-19"
+  },
+  {
+   "path": "Forge/Shipment/Silver Staff",
+   "band": "Staff",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Flare Staff",
+   "band": "Staff",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Ruby Rod",
+   "band": "Staff",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Elvish Harp",
+   "band": "Staff",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Sapphire Rod",
+   "band": "Staff",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Earth Staff",
+   "band": "Staff",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Syringe",
+   "band": "Staff",
+   "sub": "20-29"
+  },
+  {
+   "path": "Forge/Shipment/Lightning Wand",
+   "band": "Staff",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Ice Staff",
+   "band": "Staff",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Diamond Rod",
+   "band": "Staff",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Wizard's Staff",
+   "band": "Staff",
+   "sub": "30-39"
+  },
+  {
+   "path": "Forge/Shipment/Mage's Staff",
+   "band": "Staff",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Shooting Star Staff",
+   "band": "Staff",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Hell Branch",
+   "band": "Staff",
+   "sub": "40-49"
+  },
+  {
+   "path": "Forge/Shipment/Crimson Staff",
+   "band": "Staff",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Bubble Staff",
+   "band": "Staff",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Gaia Rod",
+   "band": "Staff",
+   "sub": "50-59"
+  },
+  {
+   "path": "Forge/Shipment/Cyclone Rod",
+   "band": "Staff",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Storm Wand",
+   "band": "Staff",
+   "sub": "60-69"
+  },
+  {
+   "path": "Forge/Shipment/Rune Staff",
+   "band": "Staff",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Mage's Staff+",
+   "band": "Staff",
+   "sub": "70-79"
+  },
+  {
+   "path": "Forge/Shipment/Golden Turnip Staff",
+   "band": "Staff",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Magic Broom",
+   "band": "Staff",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Magic Shot",
+   "band": "Staff",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Hell Curse",
+   "band": "Staff",
+   "sub": "80-89"
+  },
+  {
+   "path": "Forge/Shipment/Algernon",
+   "band": "Staff",
+   "sub": "90-99"
+  },
+  {
+   "path": "Forge/Shipment/Sorcerer's Wand",
+   "band": "Staff",
+   "sub": "90-99"
+  }
+ ],
+ "Cooking I": [
+  {
+   "path": "Cooking/EZ/Shipment/Salted Pond Smelt",
+   "band": "Frying Pan",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Salted Pike",
+   "band": "Frying Pan",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Baked Apple",
+   "band": "Frying Pan",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Salted Masu Trout",
+   "band": "Frying Pan",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled Needlefish",
+   "band": "Frying Pan",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Salted C. Salmon",
+   "band": "Frying Pan",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled Squid",
+   "band": "Frying Pan",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled C. Carp",
+   "band": "Frying Pan",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled S.Flounder",
+   "band": "Frying Pan",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled Girella",
+   "band": "Frying Pan",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled Mackerel",
+   "band": "Frying Pan",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Salted Salmon",
+   "band": "Frying Pan",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled Shrimp",
+   "band": "Frying Pan",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled Gibelio",
+   "band": "Frying Pan",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Salted Char",
+   "band": "Frying Pan",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Fried Eggs",
+   "band": "Frying Pan",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled Turbot",
+   "band": "Frying Pan",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Salted Chub",
+   "band": "Frying Pan",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Dried Sardines",
+   "band": "Frying Pan",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/French Fries",
+   "band": "Frying Pan",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Salted R. Trout",
+   "band": "Frying Pan",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Omelet",
+   "band": "Frying Pan",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Fried Rice",
+   "band": "Frying Pan",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/French Toast",
+   "band": "Frying Pan",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled Flounder",
+   "band": "Frying Pan",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Miso Eggplant",
+   "band": "Frying Pan",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Croquettes",
+   "band": "Frying Pan",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Tempura",
+   "band": "Frying Pan",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled Skipjack",
+   "band": "Frying Pan",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled Lobster",
+   "band": "Frying Pan",
+   "sub": "40-49"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Donut",
+   "band": "Frying Pan",
+   "sub": "40-49"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Risotto",
+   "band": "Frying Pan",
+   "sub": "40-49"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Pancakes",
+   "band": "Frying Pan",
+   "sub": "40-49"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled Snapper",
+   "band": "Frying Pan",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Popcorn",
+   "band": "Frying Pan",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Corn Cereal",
+   "band": "Frying Pan",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled Lamp Squid",
+   "band": "Frying Pan",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled F.Flounder",
+   "band": "Frying Pan",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Curry Bread",
+   "band": "Frying Pan",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Omelet Rice",
+   "band": "Frying Pan",
+   "sub": "60-69"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Fried Veggies",
+   "band": "Frying Pan",
+   "sub": "60-69"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Cabbage Cakes",
+   "band": "Frying Pan",
+   "sub": "60-69"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled L. Snapper",
+   "band": "Frying Pan",
+   "sub": "60-69"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled Yellowtail",
+   "band": "Frying Pan",
+   "sub": "60-69"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled Blowfish",
+   "band": "Frying Pan",
+   "sub": "70-79"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Tuna Teriyaki",
+   "band": "Frying Pan",
+   "sub": "70-79"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled Sunsquid",
+   "band": "Frying Pan",
+   "sub": "70-79"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Salted Taimen",
+   "band": "Frying Pan",
+   "sub": "80-89"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Dry Curry",
+   "band": "Frying Pan",
+   "sub": "80-89"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Gyoza",
+   "band": "Frying Pan",
+   "sub": "80-89"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grilled G. Snapper",
+   "band": "Frying Pan",
+   "sub": "90-99"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Fried Udon",
+   "band": "Frying Pan",
+   "sub": "90-99"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Pike Sashimi",
+   "band": "Knife",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Trout Sashimi",
+   "band": "Knife",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Cherry Sashimi",
+   "band": "Knife",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Needlefish Sashimi",
+   "band": "Knife",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Squid Sashimi",
+   "band": "Knife",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Girella Sashimi",
+   "band": "Knife",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Sardine Sashimi",
+   "band": "Knife",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Salmon Sashimi",
+   "band": "Knife",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Shrimp Sashimi",
+   "band": "Knife",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Char Sashimi",
+   "band": "Knife",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Turbot Sashimi",
+   "band": "Knife",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Rainbow Sashimi",
+   "band": "Knife",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Flounder Sashimi",
+   "band": "Knife",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Skipjack Sashimi",
+   "band": "Knife",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Lobster Sashimi",
+   "band": "Knife",
+   "sub": "40-49"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Snapper Sashimi",
+   "band": "Knife",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Lamp Squid Sashimi",
+   "band": "Knife",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Fall Sashimi",
+   "band": "Knife",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Lover Sashimi",
+   "band": "Knife",
+   "sub": "60-69"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Yellowtail Sashimi",
+   "band": "Knife",
+   "sub": "60-69"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Blowfish Sashimi",
+   "band": "Knife",
+   "sub": "70-79"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Tuna Sashimi",
+   "band": "Knife",
+   "sub": "70-79"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Sunsquid Sashimi",
+   "band": "Knife",
+   "sub": "70-79"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Taimen Sashimi",
+   "band": "Knife",
+   "sub": "70-79"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Glitter Sashimi",
+   "band": "Knife",
+   "sub": "90-99"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Rice Porridge",
+   "band": "Pot",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Marmalade",
+   "band": "Pot",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Udon",
+   "band": "Pot",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Grape Jam",
+   "band": "Pot",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Apple Jam",
+   "band": "Pot",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Hot Chocolate",
+   "band": "Pot",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Boiled Spinach",
+   "band": "Pot",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Hot Milk",
+   "band": "Pot",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Boiled Egg",
+   "band": "Pot",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Yogurt",
+   "band": "Pot",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Milk Porridge",
+   "band": "Pot",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Egg Bowl",
+   "band": "Pot",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Boiled Pumpkin",
+   "band": "Pot",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Strawberry Jam",
+   "band": "Pot",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Glazed Yam",
+   "band": "Pot",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Grilled Miso",
+   "band": "Pot",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Cheese Fondue",
+   "band": "Pot",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Grape Liqueur",
+   "band": "Pot",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Rockfish Stew",
+   "band": "Pot",
+   "sub": "40-49"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Tempura Udon",
+   "band": "Pot",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Curry Rice",
+   "band": "Pot",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Curry Udon",
+   "band": "Pot",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Tempura Bowl",
+   "band": "Pot",
+   "sub": "70-79"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Relax Tea",
+   "band": "Pot",
+   "sub": "70-79"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Stew",
+   "band": "Pot",
+   "sub": "80-89"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Boiled Gyoza",
+   "band": "Pot",
+   "sub": "80-89"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Union Stew",
+   "band": "Pot",
+   "sub": "90-99"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Ultimate Curry",
+   "band": "Pot",
+   "sub": "90-99"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Royal Curry",
+   "band": "Pot",
+   "sub": "90-99"
   }
  ],
  "Drops - Autumn Road": [
@@ -1633,6 +4246,333 @@
    "path": "Anywhere (Rare)/Shipment/Small Crystal",
    "band": "Anywhere",
    "sub": "Anywhere (Rare)"
+  }
+ ],
+ "Cooking II": [
+  {
+   "path": "Cooking/Shipment/Onigiri",
+   "band": "Handmade",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/Shipment/Pickled Turnip",
+   "band": "Handmade",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/Shipment/Bamboo Rice",
+   "band": "Handmade",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/Shipment/Pickles",
+   "band": "Handmade",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/Shipment/Salmon Onigiri",
+   "band": "Handmade",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/Shipment/Cheese",
+   "band": "Handmade",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/Shipment/Sandwich",
+   "band": "Handmade",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/Shipment/Fruit Sandwich",
+   "band": "Handmade",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/Shipment/Pickle Mix",
+   "band": "Handmade",
+   "sub": "40-49"
+  },
+  {
+   "path": "Cooking/Shipment/Relax Tea Leaves",
+   "band": "Handmade",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/Shipment/Salad",
+   "band": "Handmade",
+   "sub": "60-69"
+  },
+  {
+   "path": "Cooking/Shipment/Turnip Heaven",
+   "band": "Handmade",
+   "sub": "90-99"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Orange Juice",
+   "band": "Mixer",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Grape Juice",
+   "band": "Mixer",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Apple Juice",
+   "band": "Mixer",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Butter",
+   "band": "Mixer",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Fruit Juice",
+   "band": "Mixer",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Ice Cream",
+   "band": "Mixer",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Mayonnaise",
+   "band": "Mixer",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Strawberry Milk",
+   "band": "Mixer",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Tomato Juice",
+   "band": "Mixer",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Fruit Smoothie",
+   "band": "Mixer",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Ketchup",
+   "band": "Mixer",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Vegetable Juice",
+   "band": "Mixer",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Prelude to Love",
+   "band": "Mixer",
+   "sub": "60-69"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Veggie Smoothie",
+   "band": "Mixer",
+   "sub": "60-69"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Hot Juice",
+   "band": "Mixer",
+   "sub": "70-79"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Pineapple Juice",
+   "band": "Mixer",
+   "sub": "80-89"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Mixed Juice",
+   "band": "Mixer",
+   "sub": "80-89"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Mixed Smoothie",
+   "band": "Mixer",
+   "sub": "90-99"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Gold Juice",
+   "band": "Mixer",
+   "sub": "90-99"
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Disastrous Dish",
+   "band": "Other",
+   "sub": null
+  },
+  {
+   "path": "Cooking/EZ/Shipment/Failed Dish",
+   "band": "Other",
+   "sub": null
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Bread",
+   "band": "Oven",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Baked Onigiri",
+   "band": "Oven",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Sweet Potato",
+   "band": "Oven",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Toast",
+   "band": "Oven",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Raisin Bread",
+   "band": "Oven",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Jam Roll",
+   "band": "Oven",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Apple Pie",
+   "band": "Oven",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Cookie",
+   "band": "Oven",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Seafood Doria",
+   "band": "Oven",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Seafood Gratin",
+   "band": "Oven",
+   "sub": "40-49"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Butter Roll",
+   "band": "Oven",
+   "sub": "40-49"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Choco Cookie",
+   "band": "Oven",
+   "sub": "40-49"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Cheesecake",
+   "band": "Oven",
+   "sub": "40-49"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Yam of the Ages",
+   "band": "Oven",
+   "sub": "40-49"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Chocolate Cake",
+   "band": "Oven",
+   "sub": "40-49"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Corn on the Cob",
+   "band": "Oven",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Cake",
+   "band": "Oven",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Seafood Pizza",
+   "band": "Oven",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Pizza",
+   "band": "Oven",
+   "sub": "60-69"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Doria",
+   "band": "Oven",
+   "sub": "80-89"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Gratin",
+   "band": "Oven",
+   "sub": "80-89"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Dumplings",
+   "band": "Steamer",
+   "sub": "0-9"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Chinese Manju",
+   "band": "Steamer",
+   "sub": "10-19"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Pound Cake",
+   "band": "Steamer",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Flan",
+   "band": "Steamer",
+   "sub": "20-29"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Steamed Bread",
+   "band": "Steamer",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Chocolate Sponge",
+   "band": "Steamer",
+   "sub": "30-39"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Cheese Bread",
+   "band": "Steamer",
+   "sub": "40-49"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Pumpkin Flan",
+   "band": "Steamer",
+   "sub": "40-49"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Curry Manju",
+   "band": "Steamer",
+   "sub": "50-59"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Meat Dumpling",
+   "band": "Steamer",
+   "sub": "80-89"
+  },
+  {
+   "path": "Cooking/Pro/Shipment/Steamed Gyoza",
+   "band": "Steamer",
+   "sub": "90-99"
   }
  ],
  "Spells": [
