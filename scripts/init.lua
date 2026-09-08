@@ -1,5 +1,3 @@
-local variant = Tracker.ActiveVariantUID
-
 -- Items
 require("scripts.items_import")
 

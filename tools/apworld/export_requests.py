@@ -87,9 +87,11 @@ def main():
     print("wrote %s" % out2)
 
     # The grid, in chain order, sized to fill the box the panel reserves for it
-    # (layouts/item_panel*.json): 408x748 vertical, 1020x306 horizontal.
+    # (layouts/item_panel*.json): 408x748 vertical, 544x525 narrow,
+    # 1020x306 horizontal.
     #
     #   vertical    9 x 44px cells = 396 of ~398 usable, 11 rows = 484 of 748
+    #   narrow     11 x 48px cells = 528 of ~534 usable,  9 rows = 432 of 525
     #   horizontal 21 x 48px cells = 1008 of ~1010 usable, 5 rows = 240 of 306
     MARGIN = 2
 
@@ -114,14 +116,17 @@ def main():
             }],
         }
 
-    grid = {"event_grid": build(9, 40), "event_grid_horizontal": build(21, 44)}
+    grid = {"event_grid": build(9, 40), "event_grid_narrow": build(11, 44),
+            "event_grid_horizontal": build(21, 44)}
     out3 = PACK + 'layouts/events.json'
     with open(out3, 'w', encoding='utf-8', newline='\n') as f:
         json.dump(grid, f, indent=4, ensure_ascii=False)
         f.write("\n")
-    print("wrote %s  (%d rows of 9 at 40px / %d rows of 21 at 44px)"
-          % (out3, len(grid["event_grid"]["content"][0]["rows"]),
-             len(grid["event_grid_horizontal"]["content"][0]["rows"])))
+    print("wrote %s  (%s)"
+          % (out3, " / ".join(
+              "%d rows of %d" % (len(grid[key]["content"][0]["rows"]), width)
+              for key, width in (("event_grid", 9), ("event_grid_narrow", 11),
+                                 ("event_grid_horizontal", 21)))))
 
 
 if __name__ == '__main__':

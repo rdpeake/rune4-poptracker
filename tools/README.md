@@ -76,7 +76,8 @@ Every script finds the pack root from its own path, so they run from anywhere.
 ## Request events
 
 `tools/apworld/export_requests.py` emits one toggle per request into `items/events.json`,
-the `Requests` tab grid into `layouts/events.json`, and the region-to-code table
+the `Requests` tab grid into `layouts/events.json` -- once per panel shape, 9,
+11 and 21 items to a row -- and the region-to-code table
 into `scripts/logic/request_events.lua`. A toggled request seeds the
 reachability sweeps directly, because a request you have handed in is somewhere
 you have already stood -- its predecessors may be unreachable by rule and it
@@ -482,19 +483,63 @@ knowing about, written up here:
   re-sharpened (`-channel A -level 46%,54%`) or the outline goes blobby.
 
 
+## The panel, four ways
+
+PopTracker picks a root layout by window shape: `tracker_horizontal` when the
+window is wider than it is tall, `tracker_vertical` when it is not, and
+`tracker_default` only if the one it wants is missing. On top of that the
+Items Only variant drops the maps and the chroma option repaints the
+background, so the same tabs and items are drawn four ways.
+
+Two swaps write layouts at runtime by re-calling `AddLayouts`, the way the
+Pokemon FRLG tracker switches its own variants, and they would fight over one
+key each. So a root is only a background around a body:
+
+    tracker_default/_horizontal/_vertical/_broadcast   tracker.json, chroma_*
+        -> tracker_body_horizontal / _vertical / _broadcast   tracker.json
+
+`chroma_on.json` and `chroma_off.json` redefine the four roots and nothing
+else; `items_only.json` redefines the bodies and nothing else, so the two
+compose in either order. `scripts/layouts_import.lua` loads the Items Only
+bodies for that variant, `scripts/chroma.lua` swaps the roots on the option.
+
+The map pane is what portrait buys. Docking the item panel at the bottom
+rather than down the left side takes the pane from 592x1400 to the full window
+width, which is what the wide shipment and craft sheets need -- at 5.2:1 they
+are drawn to whatever width there is. So the portrait panel is a bottom strip
+like the landscape one, with the grid reflowed 16 items to a row instead of
+30, and the whole tracker settles at 742px wide instead of 1016.
+
+    landscape   item_panel_horizontal   1020x306 canvas, 30 wide
+    portrait    item_panel_narrow        544x525 canvas, 16 wide
+    Items Only  item_panel_vertical      408x748 canvas, 12 wide, no maps
+
+A size MUST be on the `canvas`, not the `group` around it: `trackerview.cpp`
+sizes a group to its children and ignores width/height. The grid has to fill
+its canvas almost exactly -- a column too many is clipped once the group's
+padding counts, one too few leaves the header running on past the icons --
+which `tests/item_panel_test.lua` checks.
+
+    python3 tools/reflow_item_grids.py
+
+rewrites the 16- and 12-wide item grids from the 30-wide one, so an item is
+added in one place. It is a pure rewrap: run over grids it has not changed, it
+gives the same bytes back.
+
 ## Verifying
 
     lua tests/*_test.lua                     the logic port and the Lua scripts
     python3 tools/verify/check_maps.py       the maps and where the pins sit
-    python3 tools/verify/check_layouts.py    portrait shows what landscape does
+    python3 tools/verify/check_layouts.py    every layout shows the same things
+    python3 tools/reflow_item_grids.py --check   the item grids are in step
 
-`check_layouts.py` compares the two arrangements the pack draws. PopTracker
-picks `tracker_horizontal` for a window wider than it is tall and falls back to
-`tracker_default` -- this pack's portrait one -- otherwise, and the two tab
-trees are hand-written in different halves of `layouts/tabs.json`, so a map
-added to one is easy to leave out of the other. The map tabs must match
-exactly; the item grids must hold the same items, reflowed 30 columns wide for
-landscape and 12 for portrait, so only the flattened set is compared.
+`check_layouts.py` compares the four arrangements above, which are hand-written
+across seven files. The map tab trees must match exactly, titles and order
+included. The item and request grids must hold the same items in the same
+order, but not the same rows -- they are reflowed. The roots in `tracker.json`,
+`chroma_on.json` and `chroma_off.json` must agree bar the background. And no
+`{"type": "layout", "key": ...}` anywhere may name a key nothing defines,
+which is what catches a body or panel renamed in one file only.
 
 `check_maps.py` answers two questions. Does re-rendering still produce the
 images that are committed? It copies the pack's maps into `_baseline/`, renders

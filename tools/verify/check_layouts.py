@@ -1,24 +1,29 @@
-"""Check the portrait layout still shows everything the landscape one does.
+"""Check the pack's four arrangements still show the same things.
 
-The pack draws the same tracker twice: PopTracker picks `tracker_horizontal`
-for a window wider than it is tall and falls back to `tracker_default` --
-this pack's portrait arrangement -- otherwise. The two are hand-written and
-sit in different halves of the same file, so a map or an item added to one is
-easy to leave out of the other. `Forest of Beginnings` was added to the
-landscape map tabs in 35541f2 and missing from portrait until this check.
+PopTracker picks `tracker_horizontal` for a window wider than it is tall and
+`tracker_vertical` otherwise, the Items Only variant swaps the body inside
+whichever it picked, and the chroma option swaps the background around it.
+That is one set of tabs and items drawn four ways, hand-written across seven
+files, so a map or an item added to one is easy to leave out of another --
+`Forest of Beginnings` reached the landscape map tabs in 35541f2 and the
+portrait ones only much later.
 
-    tabs.json     tabbed_maps_horizontal   vs  tabbed_maps_vertical
-    items.json    shared_item_grid_*       same items, reflowed 30 or 12 wide
-    maps.json     every map reachable from a tab, every tab's map declared
+    tabs.json    tabbed_maps_horizontal   vs  tabbed_maps_vertical
+    items.json   shared_item_grid_*       same items, reflowed 30/16/12 wide
+    events.json  event_grid*              same items, reflowed 21/11/9 wide
+    tracker.json vs chroma_on/chroma_off  the same roots, bar the background
+    every layouts/*.json                  no reference to a key nothing defines
+    maps.json                             every map on a tab, every tab a map
 
-The map tab trees must match exactly, titles and order included: they show
-the same maps, only in a differently shaped pane. The item grids must hold
-the same items in the same tabs, but NOT the same rows -- portrait wraps at
-12 columns and landscape at 30, so only the flattened set is compared.
+The map tab trees must match exactly, titles and order included: they show the
+same maps, only in a differently shaped pane. The grids must hold the same
+items in the same order, but NOT the same rows -- `tools/reflow_item_grids.py`
+wraps them at each layout's own width.
 
 Usage:  python3 tools/verify/check_layouts.py
-Non-zero exit if the two drift.
+Non-zero exit if any of them drift.
 """
+import glob
 import json
 import os
 import sys
@@ -26,9 +31,12 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 PACK = os.path.dirname(os.path.dirname(HERE)) + '/'
 
+ROOTS = ('tracker_default', 'tracker_horizontal', 'tracker_vertical',
+         'tracker_broadcast')
+
 
 def walk(node, out, path=''):
-    """Depth-first over a layout, collecting the tabbed leaves it draws."""
+    """Depth-first over a layout, collecting the leaves it draws."""
     if isinstance(node, list):
         for child in node:
             walk(child, out, path)
@@ -48,65 +56,123 @@ def walk(node, out, path=''):
         for row in node.get('rows', []):
             for code in row:
                 out.append(('item', path, code))
+    if node.get('type') == 'layout':
+        out.append(('ref', path, node.get('key')))
     for key in ('content', 'tabs'):
         if key in node:
             walk(node[key], out, path)
     return out
 
 
-def report(what, tall, wide, ordered):
-    """Print one comparison; return the number of differences."""
-    if ordered and tall == wide:
-        print('  %-22s %d, in the same order' % (what, len(tall)))
-        return 0
-    only_wide = [x for x in wide if x not in tall]
-    only_tall = [x for x in tall if x not in wide]
-    if not only_wide and not only_tall:
-        print('  %-22s %d, same set in a different order'
-              % (what, len(set(tall))))
-        return 0 if not ordered else 1
-    for path, name in only_wide:
-        print('  MISSING FROM PORTRAIT  %s%s'
-              % (path, ' -> ' + name if name else ''))
-    for path, name in only_tall:
-        print('  MISSING FROM LANDSCAPE %s%s'
-              % (path, ' -> ' + name if name else ''))
-    return len(only_wide) + len(only_tall)
+def leaves(layout, kind):
+    return [(path, name) for k, path, name in walk(layout, []) if k == kind]
+
+
+def agree(what, kind, named, ordered=True):
+    """Print how a set of layouts compare; return the number of differences."""
+    first, want = named[0][0], leaves(named[0][1], kind)
+    bad = 0
+    for name, layout in named[1:]:
+        got = leaves(layout, kind)
+        if got == want:
+            continue
+        if not ordered and sorted(got) == sorted(want):
+            continue
+        for path, item in [x for x in want if x not in got]:
+            print('  MISSING FROM %-14s %s%s'
+                  % (name, path, ' -> ' + item if item else ''))
+        for path, item in [x for x in got if x not in want]:
+            print('  ONLY IN %-19s %s%s'
+                  % (name, path, ' -> ' + item if item else ''))
+        if got != want and sorted(got) == sorted(want):
+            print('  %s holds the same %s as %s in a different order'
+                  % (name, kind, first))
+        bad += 1
+    if not bad:
+        print('  %-24s %d, same in all %d' % (what, len(want), len(named)))
+    return bad
+
+
+def named(layouts, keys):
+    return [(key, layouts[key]) for key in keys if key in layouts]
+
+
+def load(path):
+    return json.load(open(PACK + path, encoding='utf-8'))
 
 
 def main():
-    tabs = json.load(open(PACK + 'layouts/tabs.json', encoding='utf-8'))
-    items = json.load(open(PACK + 'layouts/items.json', encoding='utf-8'))
-    maps = json.load(open(PACK + 'maps/maps.json', encoding='utf-8'))
-
-    tall = walk(tabs['tabbed_maps_vertical'], [])
-    wide = walk(tabs['tabbed_maps_horizontal'], [])
     bad = 0
-    print('Map tabs')
-    for kind, ordered in (('tab', True), ('map', True)):
-        bad += report(kind + 's',
-                      [(p, n) for k, p, n in tall if k == kind],
-                      [(p, n) for k, p, n in wide if k == kind], ordered)
+    tabs = load('layouts/tabs.json')
+    items = load('layouts/items.json')
+    events = load('layouts/events.json')
 
-    tall = walk(items['shared_item_grid_vertical'], [])
-    wide = walk(items['shared_item_grid_horizontal'], [])
+    print('Map tabs')
+    maps = named(tabs, ('tabbed_maps_horizontal', 'tabbed_maps_vertical'))
+    bad += agree('tabs', 'tab', maps)
+    bad += agree('maps', 'map', maps)
+
     print('Item grid')
-    bad += report('tabs', [(p, n) for k, p, n in tall if k == 'tab'],
-                  [(p, n) for k, p, n in wide if k == 'tab'], True)
-    bad += report('items', [(p, n) for k, p, n in tall if k == 'item'],
-                  [(p, n) for k, p, n in wide if k == 'item'], False)
+    grids = named(items, ('shared_item_grid_horizontal',
+                          'shared_item_grid_narrow',
+                          'shared_item_grid_vertical'))
+    bad += agree('tabs', 'tab', grids)
+    bad += agree('items', 'item', grids, ordered=False)
+
+    print('Request grid')
+    bad += agree('items', 'item',
+                 named(events, ('event_grid_horizontal', 'event_grid_narrow',
+                                'event_grid')), ordered=False)
+
+    print('Tracker roots')
+    files = ['layouts/tracker.json', 'layouts/chroma_off.json',
+             'layouts/chroma_on.json']
+    plain = []
+    for path in files:
+        loaded = load(path)
+        plain.append({root: json.dumps(
+            {k: v for k, v in loaded[root].items() if k != 'background'},
+            sort_keys=True) for root in ROOTS if root in loaded})
+    for path, roots in zip(files[1:], plain[1:]):
+        for root in ROOTS:
+            if roots.get(root) != plain[0].get(root):
+                print('  %-24s %s differs from tracker.json'
+                      % (os.path.basename(path), root))
+                bad += 1
+    missing = [root for root in ROOTS if root not in plain[0]]
+    for root in missing:
+        print('  NOT DEFINED              %s' % root)
+    bad += len(missing)
+    if not missing and all(roots == plain[0] for roots in plain):
+        print('  %-24s %d, same in all %d bar the background'
+              % ('roots', len(ROOTS), len(files)))
+
+    print('Layout references')
+    defined, wanted = set(), {}
+    for path in sorted(glob.glob(PACK + 'layouts/*.json')):
+        loaded = json.load(open(path, encoding='utf-8'))
+        defined |= set(loaded)
+        for key, layout in loaded.items():
+            for _, ref in leaves(layout, 'ref'):
+                wanted.setdefault(ref, set()).add(
+                    '%s/%s' % (os.path.basename(path), key))
+    for ref in sorted(set(wanted) - defined):
+        print('  NOTHING DEFINES          %s, wanted by %s'
+              % (ref, ', '.join(sorted(wanted[ref]))))
+        bad += 1
+    if not set(wanted) - defined:
+        print('  %-24s %d, all defined' % ('keys referenced', len(wanted)))
 
     print('Maps')
-    declared = {m['name'] for m in maps}
-    shown = {n for k, _, n in walk(tabs['tabbed_maps_horizontal'], [])
-             if k == 'map'}
+    declared = {m['name'] for m in load('maps/maps.json')}
+    shown = {name for _, name in leaves(tabs['tabbed_maps_horizontal'], 'map')}
     for name in sorted(shown - declared):
-        print('  NO SUCH MAP            %s' % name)
+        print('  NO SUCH MAP              %s' % name)
     for name in sorted(declared - shown):
-        print('  ON NO TAB              %s' % name)
+        print('  ON NO TAB                %s' % name)
     bad += len(shown ^ declared)
     if not shown ^ declared:
-        print('  %-22s %d, each on a tab' % ('declared maps', len(declared)))
+        print('  %-24s %d, each on a tab' % ('declared maps', len(declared)))
     return 1 if bad else 0
 
 

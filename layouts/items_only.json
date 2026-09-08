@@ -1,0 +1,24 @@
+{
+    "tracker_body_horizontal": {
+        "type": "dock",
+        "dropshadow": true,
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "layout",
+                "key": "item_panel_horizontal"
+            }
+        ]
+    },
+    "tracker_body_vertical": {
+        "type": "dock",
+        "dropshadow": true,
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "layout",
+                "key": "item_panel_vertical"
+            }
+        ]
+    }
+}

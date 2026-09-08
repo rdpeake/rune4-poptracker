@@ -65,21 +65,23 @@ local function occurrences(hay, needle)
         n = n + 1; from = i + 1
     end
 end
--- two layouts (vertical and horizontal) x two tabs each
-check("options appear on every tab", 4, occurrences(req, "Location Options / Logic"))
-check("pinned locations appear on every tab", 4, occurrences(req, "Pinned Locations"))
+-- three layouts (vertical, horizontal and narrow) x two tabs each
+check("options appear on every tab", 6, occurrences(req, "Location Options / Logic"))
+check("pinned locations appear on every tab", 6, occurrences(req, "Pinned Locations"))
 -- and the wide grid is used where there is room for it
 check("the horizontal panel uses the wide grid", true,
       req:find("event_grid_horizontal", 1, true) ~= nil)
 local ev = panel_bodies("layouts/events.json")
-check("both grid shapes exist", true,
+check("all three grid shapes exist", true,
       ev:find('"event_grid"', 1, true) ~= nil and
-      ev:find('"event_grid_horizontal"', 1, true) ~= nil)
+      ev:find('"event_grid_horizontal"', 1, true) ~= nil and
+      ev:find('"event_grid_narrow"', 1, true) ~= nil)
 
 -- Each grid has to fit the fixed box it is drawn in, and very nearly fill it:
 -- too wide and the last column is clipped once the group's padding counts, too
 -- narrow and the group header runs on past the icons.
-local BOX = { event_grid = {408, 748}, event_grid_horizontal = {1020, 306} }
+local BOX = { event_grid = {408, 748}, event_grid_horizontal = {1020, 306},
+              event_grid_narrow = {544, 525} }
 for key, box in pairs(BOX) do
     local body = ev:match('"' .. key .. '".-"rows": %[(.-)%]%s*}')
     local grid = ev:match('"' .. key .. '":.-"item_size": "(%d+)')
@@ -112,7 +114,7 @@ local function sizes(path)
     return out
 end
 local s = sizes("layouts/item_panel_requests.json")
-check("every tab pins its grid slot", 4, #s)
+check("every tab pins its grid slot", 6, #s)
 local all_canvas = true
 for _, v in ipairs(s) do
     if v:sub(1, 7) ~= "canvas:" then all_canvas = false end
@@ -120,9 +122,11 @@ end
 check("and every one is a canvas, not a group", true, all_canvas)
 check("both vertical tabs match", true, s[1] == s[2])
 check("both horizontal tabs match", true, s[3] == s[4])
+check("both narrow tabs match", true, s[5] == s[6])
 local plain = sizes("layouts/item_panel.json")
-check("the no-tab panel pins it too", 2, #plain)
-check("and to the same sizes", true, plain[1] == s[1] and plain[2] == s[3])
+check("the no-tab panel pins it too", 3, #plain)
+check("and to the same sizes", true,
+      plain[1] == s[1] and plain[2] == s[3] and plain[3] == s[5])
 
 -- both files must define the same keys, or a swap would leave a dangling
 -- layout reference and the panel would render empty
@@ -137,7 +141,7 @@ local same = true
 for k in pairs(a) do if not b[k] then same = false end end
 for k in pairs(b) do if not a[k] then same = false end end
 check("both layout files define the same panel keys", true, same)
-check("and there are two of them", 2, (function()
+check("and there are three of them", 3, (function()
     local n = 0; for _ in pairs(a) do n = n + 1 end; return n end)())
 
 print()

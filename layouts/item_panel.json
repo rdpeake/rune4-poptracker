@@ -85,5 +85,55 @@
                 }
             }
         ]
+    },
+    "item_panel_narrow": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "dock": "top",
+                "content": [
+                    {
+                        "type": "canvas",
+                        "width": 544,
+                        "height": 525,
+                        "margin": "0,0",
+                        "content": [
+                            {
+                                "type": "group",
+                                "dock": "left",
+                                "margin": "0,0,3,0",
+                                "content": {
+                                    "type": "layout",
+                                    "key": "shared_item_grid_narrow"
+                                },
+                                "header": "Items"
+                            }
+                        ],
+                        "dock": "left"
+                    },
+                    {
+                        "type": "group",
+                        "header": "Location Options / Logic",
+                        "content": {
+                            "type": "layout",
+                            "key": "setting_grid"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "Pinned Locations",
+                "content": {
+                    "style": "wrap",
+                    "type": "recentpins",
+                    "orientation": "horizontal",
+                    "compact": true
+                }
+            }
+        ]
     }
 }
