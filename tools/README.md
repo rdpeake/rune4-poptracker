@@ -486,6 +486,15 @@ knowing about, written up here:
 
     lua tests/*_test.lua                     the logic port and the Lua scripts
     python3 tools/verify/check_maps.py       the maps and where the pins sit
+    python3 tools/verify/check_layouts.py    portrait shows what landscape does
+
+`check_layouts.py` compares the two arrangements the pack draws. PopTracker
+picks `tracker_horizontal` for a window wider than it is tall and falls back to
+`tracker_default` -- this pack's portrait one -- otherwise, and the two tab
+trees are hand-written in different halves of `layouts/tabs.json`, so a map
+added to one is easy to leave out of the other. The map tabs must match
+exactly; the item grids must hold the same items, reflowed 30 columns wide for
+landscape and 12 for portrait, so only the flattened set is compared.
 
 `check_maps.py` answers two questions. Does re-rendering still produce the
 images that are committed? It copies the pack's maps into `_baseline/`, renders

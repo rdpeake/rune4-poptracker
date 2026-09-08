@@ -965,6 +965,15 @@
                                                 }
                                             ]
                                         }
+                                    },
+                                    {
+                                        "title": "Forest of Beginnings",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Forest of Beginnings"
+                                            ]
+                                        }
                                     }
                                 ]
                             }
