@@ -6,10 +6,24 @@ const REPO = process.argv[4] || '/mnt/c/Users/Russell/source/repos/rune4-poptrac
 const maps = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'))
 const outdir = process.argv[3]
 const TILE=46, MARK=16, BAND=MARK+3, GAP=4, RULE=34, PW=TILE+GAP, PAD=14
-// the items that tame a monster, in a strip under its face. They are bare
-// icons, so four fit where four cards would not, and the strip never covers
-// the face -- a chip riding the tile's edge reads as its neighbour's.
+// what tames a monster, or what a recipe is made of, in a strip under the tile.
+// They are bare icons, so four fit where four cards would not, and the strip
+// never covers the face -- a chip riding the tile's edge reads as its
+// neighbour's. Four is what a tile's width can show at a readable size, so a
+// fifth and sixth wrap to a second row of three rather than shrinking all six
+// to 7px.
+//
+// A sheet that is already paying for that second row then wraps at THREE, not
+// four: the second row is bought and spent, so a four-chip tile has nothing to
+// gain by cramming its four into one line at 11px beside a neighbour drawing
+// three at 14. Wrapping it 3+1 costs no height and leaves the sheet two chip
+// sizes -- 18 for one or two, 14 for three to six -- instead of four.
 const CHIP=18
+function strip (n, wrapAt) {
+  const per = Math.min(n, wrapAt)
+  const sz = Math.min(CHIP, Math.floor((TILE - 2) / per))
+  return { per, sz, h: Math.ceil(n / per) * sz }
+}
 const cache = new Map()
 async function img (p) {
   if (!p) return null
@@ -40,7 +54,15 @@ function textTile (x, ox, oy, label) {
   const lh = size + 1, top = oy + TILE / 2 - ((lines.length - 1) * lh) / 2
   lines.forEach((l, i) => x.fillText(l, ox + TILE / 2, top + i * lh))
 }
-async function build (mapName, file, items, COLS) {
+// PopTracker scales a sheet to fit its map pane, and the pane is WIDE: with
+// the horizontal layout in a 1500x950 window it measures 1490x560, so a tall
+// narrow sheet is shrunk by its height and leaves two thirds of the pane
+// empty. Measured, not guessed -- Forge I came out at half size with 800px of
+// pane unused either side of it. A sheet that says `fit` picks the column
+// count that draws its tiles biggest there, and stops at native size rather
+// than ask for an upscale.
+const PANE_W=1490, PANE_H=560, FIT_LO=16, FIT_HI=40
+async function build (mapName, file, items, COLS, fit) {
   // The gutter is only as wide as this sheet's own band labels need, and the
   // canvas stops at the widest row: a sheet of ten tiles was reserving the full
   // 24 columns and a gutter sized for the longest label in the pack.
@@ -51,8 +73,15 @@ async function build (mapName, file, items, COLS) {
   // no room for a ruler on a sheet with nothing to put in it
   const rule = items.some(it => it.sub !== null && it.sub !== undefined) ? RULE : 0
   // only a sheet that has chips reserves the strip; the shipment sheets have
-  // none and must keep the row pitch, and the pins, they already had
-  const chip = items.some(it => (it.glyphs || []).length) ? CHIP : 0
+  // none and must keep the row pitch, and the pins, they already had. A sheet
+  // pays for a second row only if something on it needs one.
+  // decided at four, never at the answer: wrapping at three because something
+  // wraps at three is circular, and would walk every sheet down to one column
+  const wrapAt = items.some(it => (it.glyphs || []).length > 4) ? 3 : 4
+  const chip = items.some(it => (it.glyphs || []).length)
+    ? Math.max(CHIP, ...items.map(it =>
+        strip((it.glyphs || []).length || 1, wrapAt).h))
+    : 0
   const P = TILE + chip + BAND + rule + GAP
   const groups = new Map()
   for (const it of items) {
@@ -63,7 +92,7 @@ async function build (mapName, file, items, COLS) {
   // Place each group into slots rather than straight down the list: a run that
   // would leave one or two of its items stranded on the far side of a row break
   // starts on the next row instead.
-  function layout (v) {
+  function layout (v, COLS) {
     const slot = []
     let at = 0, i = 0
     while (i < v.length) {
@@ -79,15 +108,26 @@ async function build (mapName, file, items, COLS) {
     }
     return slot
   }
-  const slots = new Map()
-  for (const [g, v] of groups) slots.set(g, layout(v))
-  let H = PAD
-  for (const [g, v] of groups) {
-    H += Math.ceil((slots.get(g)[v.length - 1] + 1) / COLS) * P + 10
+  function geom (COLS) {
+    const slots = new Map()
+    for (const [g, v] of groups) slots.set(g, layout(v, COLS))
+    let H = PAD, used = 0
+    for (const [g, v] of groups) {
+      H += Math.ceil((slots.get(g)[v.length - 1] + 1) / COLS) * P + 10
+      for (const sl of slots.get(g)) used = Math.max(used, sl % COLS + 1)
+    }
+    return { slots, H, W: GUT + used * PW + PAD }
   }
-  let used = 0
-  for (const [g, v] of groups) for (const sl of slots.get(g)) used = Math.max(used, sl % COLS + 1)
-  const W = GUT + used * PW + PAD
+  if (fit) {
+    let best = -1
+    for (let C = FIT_LO; C <= FIT_HI; C++) {
+      const g = geom(C)
+      // ties go to the wider sheet: it is the one that uses the pane
+      const s = Math.min(PANE_W / g.W, PANE_H / (g.H + PAD), 1)
+      if (s >= best - 1e-9) { best = s; COLS = C }
+    }
+  }
+  const { slots, H, W } = geom(COLS)
   const c = createCanvas(W, H + PAD), x = c.getContext('2d')
   const g = x.createLinearGradient(0, 0, 0, H)
   g.addColorStop(0, '#f7f0d6'); g.addColorStop(1, '#eadfb4')
@@ -108,13 +148,14 @@ async function build (mapName, file, items, COLS) {
       if (im) x.drawImage(im, ox, ay, TILE, TILE); else textTile(x, ox, ay, v[i].name)
       const gs = v[i].glyphs || []
       if (gs.length) {
-        // one gift keeps the size a single badge had; only four pay for four
-        const n = Math.min(gs.length, 4)
-        const sz = Math.min(CHIP, Math.floor((TILE - 2) / n))
-        const sx = ox + Math.round((TILE - n * sz) / 2), sy = ay + TILE + 1
-        for (let k = 0; k < n; k++) {
+        // one chip keeps the size a single badge had; only four pay for four
+        const { per, sz } = strip(gs.length, wrapAt)
+        for (let k = 0; k < gs.length; k++) {
+          const r = Math.floor(k / per), c = k % per
+          const wide = Math.min(per, gs.length - r * per)
           const gi = await img(gs[k])
-          if (gi) x.drawImage(gi, sx + k * sz, sy, sz, sz)
+          if (gi) x.drawImage(gi, ox + Math.round((TILE - wide * sz) / 2) + c * sz,
+                              ay + TILE + 1 + r * sz, sz, sz)
         }
       }
       x.fillStyle = 'rgba(70,55,20,.13)'; x.fillRect(ox, oy, TILE, BAND - 2)
@@ -173,6 +214,6 @@ async function build (mapName, file, items, COLS) {
   return { mapName, file, W, H: H + PAD, pins }
 }
 const out = []
-for (const m of maps) out.push(await build(m.mapName, m.file, m.items, m.cols || 24))
+for (const m of maps) out.push(await build(m.mapName, m.file, m.items, m.cols || 24, m.fit))
 fs.writeFileSync(outdir + '/grid_split.json', JSON.stringify(out))
 for (const o of out) console.log(`${o.mapName.padEnd(26)} ${o.W}x${o.H}  ${o.pins.length} tiles`)

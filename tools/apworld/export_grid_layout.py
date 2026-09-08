@@ -43,9 +43,12 @@ the pin.
 The crafted sheets were already grouped by how you make a thing, so they only
 gain bands: one per Subtype, ordered by the crafting Level, with the ruler
 bracketing level decades because a recipe has no tier and its level is
-near-unique. Forge and Cooking are split in two so a sheet fits its pane
-without shrinking the tiles to read them -- Forge on the same boundary the item
-panel's weapon tabs already use.
+near-unique. Forge, Crafting and Cooking are each split in two so a sheet fits
+its pane without shrinking the tiles to read them -- Forge on the same boundary
+the item panel's weapon tabs already use, Crafting with Accessories on its own
+because it is 69 of the 155. The pane is far wider than it is tall, so how many
+columns a crafted sheet wraps at is chosen to fit it and is not fixed here; see
+gen_grid_maps.mjs.
 
 Writes tools/generated/grid_layout.json: sheet -> the pins on it, in order.
 """
@@ -122,6 +125,9 @@ TAME = rows('Tame')
 # the item panel splits its weapon tabs here, so the sheets match it
 FORGE_I = ('Short Sword', 'Long Sword', 'Dual Blade', 'Spear')
 COOK_I = ('Frying Pan', 'Pot', 'Knife')
+# Accessories alone is 69 of the crafting sheet's 155 and three of its eight
+# rows; on its own it fits the pane at full size, and what is left fits beside it
+CRAFT_I = ('Accessories',)
 
 
 def num(s):
@@ -224,6 +230,8 @@ def crafted(out):
             sheet = 'Forge I' if band in FORGE_I else 'Forge II'
         elif sheet == 'Cooking':
             sheet = 'Cooking I' if band in COOK_I else 'Cooking II'
+        elif sheet == 'Crafting':
+            sheet = 'Crafting I' if band in CRAFT_I else 'Crafting II'
         dec = None if lv is None else '%d-%d' % (lv // 10 * 10, lv // 10 * 10 + 9)
         out[sheet].append((0, band, (band, lv if lv is not None else 999,
                                      nm.lower()), dec, path))

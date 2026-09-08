@@ -364,11 +364,18 @@
         "img": "images/maps/grid_forge_ii.png"
     },
     {
-        "name": "Crafting",
+        "name": "Crafting I",
         "location_size": 16,
         "location_border_thickness": 2,
         "location_shape": "rect",
-        "img": "images/maps/grid_crafting.png"
+        "img": "images/maps/grid_crafting_i.png"
+    },
+    {
+        "name": "Crafting II",
+        "location_size": 16,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/grid_crafting_ii.png"
     },
     {
         "name": "Cooking I",

@@ -11,10 +11,17 @@ touches images/items/.
 
 The tame sheets work the same way but draw `images/monsters/` instead, so run it
 after anything that touches either directory. A tame tile also carries a strip
-of every item that tames it, drawn under the face from `images/gifts/` -- bare
+of every item that tames it, drawn under the face from `images/chips/` -- bare
 icons rather than the `images/items/` cards, because at the size four of them
 fit, a card is mostly frame. `generated/tame_gifts.json` says which, in the
 game's own order.
+
+A crafted tile carries the same strip, saying what the recipe is made of. Its
+slots come from the game's own tables (`generated/recipes.json`), not from the
+Recipes CSV, because a slot is often a CLASS of item -- any Strings, any
+Minerals -- where the CSV names one example. A class chip is the icon the game
+itself puts on that class. Quantities are folded into the chip's own count, so
+four Yarn is one chip, and the pin's name spells the whole list out.
 
     npm install --prefix tools @napi-rs/canvas && python3 tools/export_grid_maps.py
 """
@@ -33,7 +40,8 @@ TAME_PREFIX = 'Tames '
 # late came out half again as wide as the pane it is shown in
 TAME_COLS = 16
 GIFTS = 'tools/generated/tame_gifts.json'
-CHIPS = 'images/gifts/'
+RECIPES = 'tools/generated/recipes.json'
+CHIPS = 'images/chips/'
 
 
 def slug(s):
@@ -58,27 +66,60 @@ def item_art():
     return art
 
 
-def gift_art():
-    """section name -> the bare chips for every item that tames it"""
-    gifts = json.load(open(PACK + GIFTS, encoding='utf-8'))
+def chip_of():
+    """item or class name -> its bare chip, cut from the game's own icon"""
     items = json.load(open(PACK + 'items/items.json', encoding='utf-8'))
     items = items if isinstance(items, list) else items['items']
     code = {i['name']: i['codes'] for i in items
             if i.get('name') and i.get('codes')}
     have = set(os.listdir(PACK + CHIPS))
 
-    def art(name):
+    def chip(name, is_class=False):
+        f = ('class_' + slug(name) if is_class else code.get(name) or '') + '.png'
+        if f not in have:
+            raise SystemExit('no chip for %s -- run '
+                             'tools/gamedata/export_chips.py' % name)
+        return CHIPS + f
+    return chip
+
+
+def gift_art():
+    """pin -> the bare chips for every item that tames the monster"""
+    gifts = json.load(open(PACK + GIFTS, encoding='utf-8'))
+    chip = chip_of()
+
+    def art(ref):
+        name = ref.rsplit('/', 1)[-1]
         if name.startswith('Boss - '):
             name = name[len('Boss - '):]
-        out = []
-        for g in gifts.get(name, {}).get('gifts', []):
-            f = (code.get(g['item']) or '') + '.png'
-            if f not in have:
-                raise SystemExit('no chip for the gift %s -- run '
-                                 'tools/gamedata/export_gift_chips.py' % g['item'])
-            out.append(CHIPS + f)
-        return out
+        return [chip(g['item']) for g in gifts.get(name, {}).get('gifts', [])]
     return art
+
+
+def recipe_art(paths):
+    """pin -> the bare chips for what the recipe is made of
+
+    Only the crafted sheets get them: a shipment can share a recipe's name --
+    a Recovery Potion is both -- and badging the shipment tile would change the
+    row pitch on a sheet that has no ingredients to show.
+    """
+    rec = json.load(open(PACK + RECIPES, encoding='utf-8'))['recipes']
+    chip = chip_of()
+
+    def art(ref):
+        if ref not in paths:
+            return []
+        e = rec.get(ref.rsplit('/', 1)[-1])
+        return [chip(s['name'], s['class']) for s in e['needs']] if e else []
+    return art
+
+
+def pins_of(src):
+    """the refs one location file puts on a grid"""
+    doc = json.load(open(PACK + src, encoding='utf-8'))
+    root = doc[0] if isinstance(doc, list) else doc
+    return {r for n in (root.get('children') or [])
+            for r in [(n.get('sections') or [{}])[0].get('ref')] if r}
 
 
 def monster_art():
@@ -91,7 +132,7 @@ def monster_art():
     return art
 
 
-def collect(plan, art, prefix, cols=None, chips=None):
+def collect(plan, art, prefix, cols=None, chips=None, fit=False):
     """the gen_grid_maps.mjs input for one family of sheets
 
     Sheet, bands and order all come from the plan -- generated/grid_layout.json
@@ -105,15 +146,17 @@ def collect(plan, art, prefix, cols=None, chips=None):
             name = ref.rsplit('/', 1)[-1]
             entries.append({'path': ref, 'name': name, 'group': pin['band'],
                             'sub': pin['sub'], 'img': art(name),
-                            'glyphs': chips(name) if chips else []})
+                            'glyphs': chips(ref) if chips else []})
         missing = [e['name'] for e in entries if not e['img']]
         if missing:
-            raise SystemExit('no %s image for %s' % (prefix or 'item', missing[:4]))
+            raise SystemExit('no %s image for %s' % (prefix, missing[:4]))
         fileslug = re.sub(r'[^a-z0-9]+', '_', mapname.lower()).strip('_')
         entry = {'mapName': mapname, 'file': 'grid_%s.png' % fileslug,
                  'items': entries}
         if cols:
             entry['cols'] = cols
+        if fit:
+            entry['fit'] = True
         maps.append(entry)
         print('%-26s %4d tiles' % (mapname, len(entries)))
     return maps
@@ -124,14 +167,19 @@ def main():
                           encoding='utf-8'))
     tame = {k: v for k, v in plan.items() if k.startswith(TAME_PREFIX)}
     item = {k: v for k, v in plan.items() if not k.startswith(TAME_PREFIX)}
-    maps = (collect(item, item_art(), 'item')
+    # The crafted sheets pick their own width. They are the ones that grew a
+    # chip strip, and a sheet is scaled to fit a pane far wider than it is
+    # tall, so the columns that suit the shipment sheets leave them half size.
+    # The shipment sheets keep the 24 they were laid out with.
+    crafted = pins_of('locations/_Crafting.json')
+    craft = {k: v for k, v in item.items() if v[0]['path'] in crafted}
+    ship = {k: v for k, v in item.items() if k not in craft}
+    items = item_art()          # the whole items.json index; built once
+    maps = (collect(ship, items, 'item')
+            + collect(craft, items, 'item',
+                      chips=recipe_art(crafted), fit=True)
             + collect(tame, monster_art(), 'monster',
                       cols=TAME_COLS, chips=gift_art()))
-
-    # the shipped file names predate this tool, so keep them
-    KNOWN = {'Crafting': 'grid_crafting.png'}
-    for m in maps:
-        m['file'] = KNOWN.get(m['mapName'], m['file'])
 
     with tempfile.TemporaryDirectory() as tmp:
         json.dump(maps, open(tmp + '/maps.json', 'w'))

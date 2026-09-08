@@ -1,0 +1,12211 @@
+{
+ "classes": [
+  "Minerals",
+  "Liquids",
+  "Claws and Fangs",
+  "Sticks and Stems",
+  "Cloths and Skins",
+  "Furs",
+  "Strings",
+  "Shards",
+  "Powders and Spores",
+  "Scales",
+  "Shells and Bones",
+  "Stones",
+  "Turnip",
+  "Crystals",
+  "Jewels",
+  "Feathers",
+  "Jam",
+  "Curry",
+  "Squid"
+ ],
+ "recipes": {
+  "Acutorimass": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Iron",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Aerial Blade": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Lightning Mane",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Emerald",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Algernon": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Moving Branch",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ambrosia's Thorns",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Dragon Tooth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Charm Blue",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Lamp Grass",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Alldale": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Dangerous Scissors",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "White Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Yellow Core",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Amethyst Brooch": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Amethyst",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Amethyst Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Amethyst",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Amethyst Rod": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Amethyst",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Anette's Necklace": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Rune Sphere Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ancient Orc Cloth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Animal Puppets": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Turnip's Miracle",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Puppetry Strings",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Furs",
+     "count": 2,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Antidote Potion": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Antidote Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Yellow Grass",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Cherry Grass",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Apple Jam": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Apple",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Apple Juice": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Apple",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Apple Pie": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Apple",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Butter",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Aqua Sword": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Aquamarine",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Aquamarine Brooch": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Aquamarine",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Aquamarine Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Aquamarine",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Aquamarine Rod": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Aquamarine",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Art of Attack": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Throne of the Empire",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Dragon Tooth",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Art of Defense": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Grimoire Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Broken Ice Wall",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Art of Magic": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Chimera Tail",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Melody Bottle",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Autumn Headdress": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Headdress",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Red Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Axe": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Cheap Axe",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Back Scratcher": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Glue",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Badge": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Baked Apple": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Apple",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Baked Onigiri": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Onigiri",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Balmung": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Tablet of Truth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Golem Tablet",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Bamboo Rice": {
+   "utensil": "CookHandmade",
+   "needs": [
+    {
+     "name": "Rice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Bamboo Sprout",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Basilisk Fang": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Paralysis Poison",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 2,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Basket": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Strings",
+     "count": 2,
+     "class": true
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Bat": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Battle Axe": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Battle Hammer": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Battle Scythe": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Bazal Katar": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earthwyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Firewyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Crystal Skull",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Bear Claws": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Beginner's Pole": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Belvarose": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ambrosia's Thorns",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Tablet of Truth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "MTGU Plate",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Belzebuth": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Ammonite",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Devil Blood",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dark Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Big Knife": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Bio Smasher": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Paralysis Poison",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Poison Powder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Pom-Pom Grass",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Bjor": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Melody Bottle",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Holy Spore",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Black Ribbon": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Black Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Blessed Hoe": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Blood Lance": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cursed Doll",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Thick Stick",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Magic Claw",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Devil Blood",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Blowfish Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Blowfish",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Blue Ribbon": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Blue Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Blue-Eyed Blade": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Blue Core",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Boiled Egg": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Boiled Gyoza": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Onion",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cabbage",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Boiled Pumpkin": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Pumpkin",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Boiled Spinach": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Spinach",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Bone Boots": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Strong Vine",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Big Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shells and Bones",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Bone Hammer": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Giant's Gloves",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shells and Bones",
+     "count": 2,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Bone Shield": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shells and Bones",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Brand Glasses": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Dark Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Aquamarine",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Brass Knuckles": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Braveheart": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earthwyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Love Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Light Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sapphire",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Bread": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Brionac": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Light Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sapphire",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Lightning Mane",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Broadsword": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Broken Wall": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Left Rock Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Right Rock Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Bronze Bracelet": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Bubble Staff": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Blue Core",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Water Dragon Ash",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Burning Sword": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Butter": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Butter Roll": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Butter",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Cabbage Cakes": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cabbage",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Leek",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Caestus": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dangerous Scissors",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Red Lion Fur",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Blue Lion Fur",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Cake": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Butter",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sweet Powder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Strawberry",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Caliburn": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Rune Sphere Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Dragon Tooth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragon Fin",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earthwyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Firewyrm Scale",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Cat Ears": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Furs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Cat Punch": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Quality Worn Cloth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Yellow Feather",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Big Bird's Comb",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Chimera's Claw",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Chain Mail": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Champ Belt": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Warrior's Proof",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Proof of Rank",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Chaos Blade": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Magic",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Holy Spore",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Chaos Edge": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Quality Propeller",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Holy Spore",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Chaos Shield": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Pretty Carapace",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Char Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Char",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Charm": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Cheap Axe": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Stones",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Cheap Bracelet": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Cheap Hammer": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Cheap Hoe": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Cheap Pole": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Cheap Sickle": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Cheap Waterpot": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Cheese": {
+   "utensil": "CookHandmade",
+   "needs": [
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Cheese Bread": {
+   "utensil": "CookSteamer",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cheese",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Cheese Fondue": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Bread",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cheese",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Cheesecake": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Cheese",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sweet Powder",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Cherry Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Cherry Salmon",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Chinese Manju": {
+   "utensil": "CookSteamer",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Bamboo Sprout",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Choco Cookie": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Butter",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sweet Powder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Chocolate",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Chocolate Cake": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Chocolate",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Butter",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sweet Powder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Chocolate Sponge": {
+   "utensil": "CookSteamer",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Chocolate",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Chopping Axe": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Stones",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Claymore": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Cold Medicine": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Orange Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Toyherb",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Charm Blue",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Cookie": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sweet Powder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Butter",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Corn Cereal": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Corn",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Corn on the Cob": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Corn",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Corsesca": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rigid Horn",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Corsesca+": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Corsesca",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Black Bird Feather",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Cotton Cloth": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Old Bandage",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Spider's Thread",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Courage Badge": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Badge",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Sphere Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Crescent Axe": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Chimera's Claw",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Devil Horn",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Crescent Axe+": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Crescent Axe",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Warrior's Proof",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Proof of Rank",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Crimson Staff": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Red Core",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Dragon Ash",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Devil Horn",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Critical Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rigid Horn",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Croquettes": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Oil",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Potato",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Crown": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Black Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "White Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Crystal Hammer": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Crystal Skull",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Big Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Curry Bread": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Oil",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Curry",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Curry Manju": {
+   "utensil": "CookSteamer",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Curry",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Curry Rice": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Rice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Curry Powder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Carrot",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Potato",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Curry Udon": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Curry",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Cursed Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shells and Bones",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Cute Knitting": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Cloths and Skins",
+     "count": 2,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Cutlass": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Cyclone Blade": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Emerald",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Cyclone Rod": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Green Core",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Grimoire Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Turnip's Miracle",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Daicone": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Radish",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Dancing Dicer": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragon Fang",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragon Bones",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Dark Invitation": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Dangerous Scissors",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Blue Lion Fur",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Red Lion Fur",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Legendary Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dark Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Deep Blizzard": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Icy Nose",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Water Crystal",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Defender": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Sapphire",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Dekash": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Tuna",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Demon Axe": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Scorpion Pincer",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Devil Blood",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Desert Wind": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Malm Claw",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "MTGU Plate",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Devil Finger": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Love Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Legendary Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Water Dragon Ash",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Dragon Ash",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Dragon Ash",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Dew Pendant": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver Pendant",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Water Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Diamond Brooch": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Light Ore",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Diamond Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Diamond Rod": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Dolphin Brooch": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "White Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Donut": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Oil",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Butter",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (M)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Doria": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Rice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cheese",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Onion",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Double Edge": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Big Giant's Nail",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Queen's Jaw",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Red Lion Fur",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Blue Lion Fur",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Double Scratch": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Back Scratcher",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Dragon Claws": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragon Fang",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Scales",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Dragon Cloak": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Dragon Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Crimson Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Grimoire Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Dragon Ash",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Dragon Slayer": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Black Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Blue Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Glitter Scale",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Dragon's Fang": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Earthwyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Big Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Dragoon Claw": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Dragon Fang",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Blue Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Glitter Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Grimoire Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Dried Sardines": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Sardine",
+     "count": 3,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Dry Curry": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Rice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Curry Powder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Carrot",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Onion",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Dumplings": {
+   "utensil": "CookSteamer",
+   "needs": [
+    {
+     "name": "Rice Flour",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Durendal": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Malm Claw",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Devil Horn",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ambrosia's Thorns",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Earnest Edge": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earthwyrm Scale",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Glitta Augite",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Earrings": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Iron",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Powders and Spores",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Earth Pendant": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver Pendant",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Earth Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Earth Shade": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Black Bird Feather",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Earth Staff": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Earth Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Efreet": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Red Core",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Crimson Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Golem Spirit Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Dragon Ash",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Egg Bowl": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Rice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Element Shield": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Yellow Feather",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Green Core",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Red Core",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Yellow Core",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Blue Core",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Elvish Cloak": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Turnip's Miracle",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ambrosia's Thorns",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Crystal Skull",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Powders and Spores",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Elvish Harp": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Emerald Brooch": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Emerald",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Emerald Edge": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Green Core",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Emerald Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Emerald",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Emerald Rod": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Emerald",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Engagement Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Jewels",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Executioner": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Golem Spirit Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Light Ore",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Chimera Tail",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dark Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Fairy Boots": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Earthwyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Melody Bottle",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Feathers",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Fall Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Fall Flounder",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Famous Pole": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Fancy Hat": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Fast Step Boots": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Root",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sapphire",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Furs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Fatal Crush": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Wind Dragon Tooth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Throne of the Empire",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragonic Stone",
+     "count": 3,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Feather Boots": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Big Bird's Comb",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Big Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Feathers",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Feather Lance": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Thick Stick",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Feathers",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Feathered Hat": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Quality Worn Cloth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Feathers",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Fenrir": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Rune Sphere Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Red Lion Fur",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Blue Lion Fur",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Broken Ice Wall",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Field Pendant": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver Pendant",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Fire Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Fireproof Hood": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Ghost Hood",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Fists of Dark": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Malm Claw",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dark Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cursed Doll",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Fists of Fire": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Fists of Light": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Light Crystal",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Big Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Fists of Water": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Water Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Aquamarine",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Fists of Wind": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Malm Claw",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Chimera's Claw",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Fists of the Earth": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rigid Horn",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Fivestaff": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Scales",
+     "count": 2,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Flamberge": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Magic Claw",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Thunderbird Feather",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Big Bird's Comb",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Flamberge+": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Flamberge",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Malm Claw",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Flame Hammer": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ruby",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Flame Saber": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Gold Wolf Fang",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Flan": {
+   "utensil": "CookSteamer",
+   "needs": [
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Flare Lance": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Devil Horn",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Proof of Rank",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragon Bones",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Flare Staff": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Fire Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Flounder Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Flounder",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Fluffy Scarf": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Wooly Furball",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fur (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fur (M)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fur (L)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Yarn",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Force Divide": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Water Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Red Core",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Blue Core",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Force Element": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Firewyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Green Core",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Red Core",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Yellow Core",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Blue Core",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Formuade": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Heavy Spice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Lamp Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ironleaf",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Liquids",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Powders and Spores",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Hot-Hot Fruit",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Formula A": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Withered Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Blue Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Black Grass",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Formula B": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Yellow Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Pink Cat",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "4-Leaf Clover",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Formula C": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "White Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fireflower",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Corn",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Four Dragons' Vest": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Dragon Fin",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earthwyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Firewyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Dragon Tooth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Four Seasons": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Spring Headdress",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Summer Headdress",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Autumn Headdress",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Winter Headdress",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Free Farming Shoes": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Furs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "French Fries": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Oil",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Potato",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "French Toast": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Bread",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Fried Eggs": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Fried Rice": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Rice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Oil",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Fried Udon": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Onion",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Carrot",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cabbage",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Fried Veggies": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Cabbage",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Friendly Rod": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Love Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Frost Axe": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragon Fang",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Big Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Water Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Aquamarine",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Frost Edge": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Aquamarine",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Liquids",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Fruit Juice": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Apple",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Grapes",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Orange",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Fruit Sandwich": {
+   "utensil": "CookHandmade",
+   "needs": [
+    {
+     "name": "Bread",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Strawberry",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Fruit Smoothie": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Fruit Juice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Gae Bolg": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Grimoire Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Black Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Moving Branch",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Gaia Rod": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Yellow Core",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Dragon Ash",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Yellow Feather",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Gaia Sword": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rigid Horn",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Ghost Boots": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Quality Worn Cloth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragon Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Crimson Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Crystal Skull",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Giantizer": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Lamp Grass",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Gigant Hammer": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Gigant Hammer+": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Gigant Hammer",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Golem Spirit Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Girella Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Girella",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Gladius": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Firewyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Throne of the Empire",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Glazed Yam": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Sweet Powder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Yam",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Glitter Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Glitter Snapper",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Gloves (Accessory)": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Giant's Gloves",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Gloves (Weapon)": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Quality Cloth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fur (M)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Gold Boots": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Gold Bracelet": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Gold Hairpin": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Turnip's Miracle",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Gold Juice": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Golden Pumpkin",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Emery Flower",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Golden Potato",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Golden Turnip",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Golden Cabbage",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Gold Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Turnip's Miracle",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Golden Hammer": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Golden Turnip Staff": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Golden Turnip",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Golem Punch": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Golem Spirit Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Golem Tablet",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "MTGU Plate",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shiny Screw",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Gorgeous Lx": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Gorgeous Sword",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Gorgeous Sword": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 4,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grand Smasher": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Yellow Feather",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ambrosia's Thorns",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Dragon Ash",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grantale": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Yellow Feather",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Amethyst",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cursed Doll",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grape Jam": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Grapes",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grape Juice": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Grapes",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grape Liqueur": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Grapes",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wine",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Gratin": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cheese",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Onion",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Graviton Hammer": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Grimoire Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Great Axe": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Great Hammer": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Great Sword": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Liquids",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Green Ribbon": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Green Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Greenifier": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Withered Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Indigo Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Moondrop Flower",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Greenifier+": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Withered Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Orange Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Corn",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled Blowfish": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Blowfish",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled C. Carp": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Crucian Carp",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled F.Flounder": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Fall Flounder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled Flounder": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Flounder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled G. Snapper": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Glitter Snapper",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled Gibelio": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Gibelio",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled Girella": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Girella",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled L. Snapper": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Throbby Snapper",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled Lamp Squid": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Lamp Squid",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled Lobster": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Lobster",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled Mackerel": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Mackerel",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled Miso": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Radish",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled Needlefish": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Needlefish",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled S.Flounder": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Sand Flounder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled Shrimp": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Shrimp",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled Skipjack": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Skipjack",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled Snapper": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Snapper",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled Squid": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Squid",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled Sunsquid": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Sunsquid",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled Turbot": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Turbot",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Grilled Yellowtail": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Yellowtail",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Gungnir": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Dragon Fin",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Green Core",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Dragon Ash",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Dragon Ash",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Gyoza": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Onion",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cabbage",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Halberd": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Hammer": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Cheap Hammer",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Hand of God": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Chimera Tail",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ambrosia's Thorns",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Hand-Knit Scarf": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Yarn",
+     "count": 4,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Happy Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "4-Leaf Clover",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Headband": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Headdress": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Cloths and Skins",
+     "count": 3,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Healing Potion": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Medicinal Herb",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Red Grass",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Pom-Pom Grass",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Heart Drink": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Green Crystal",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Ironleaf",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Powders and Spores",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Liquids",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Big Green Crystal",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Heart Fire": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Fire Dragon Ash",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Yellow Feather",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Heart Pendant": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver Pendant",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Love Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Heat Axe": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ruby",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Dragon Ash",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Heaven Asunder": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Rune Sphere Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Water Dragon Ash",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Dragon Ash",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Dragon Ash",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Heavy Boots": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Iron",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Pretty Carapace",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Heavy Lance": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Heavy Shield": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shoulder Piece",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Heavy Spice": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Purple Grass",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Hell Branch": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Skull",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Warrior's Proof",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Proof of Rank",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Devil Horn",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Hell Curse": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Moving Branch",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragon Fin",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cursed Doll",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Crystal Skull",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Hero's Proof": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Chest Hair",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Holy Amulet": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Hot Chocolate": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Chocolate",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Hot Juice": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Heavy Spice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Hot-Hot Fruit",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Hot Milk": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Ice Cream": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Sweet Powder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Ice Hammer": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Aquamarine",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Ice Skates": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Broken Ice Wall",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Ice Staff": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Water Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Iceberg": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Thick Stick",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Water Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Aquamarine",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Icifier": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Icy Nose",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Water Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Aquamarine",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Indigo Ribbon": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Blue Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Indigo Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Intelligencer": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "White Crystal",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Eggplant",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Powders and Spores",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Liquids",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Big White Crystal",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Intelligent Glasses": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Magic Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Aquamarine",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Invinciroid": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Formuade",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Autumn Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Hot-Hot Fruit",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Noel Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Emery Flower",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Formuade",
+      "count": 1,
+      "class": false
+     },
+     {
+      "name": "Giant Hot-Hot Fruit",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Invisiblade": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Invisible Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Crystals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Iron Bat": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Bat",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Iron Edge": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Iron",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Iron Geta": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Dangerous Scissors",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "MTGU Plate",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Iron",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Iron Hammer": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Iron Shield": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Iron",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Iron Sickle": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Ironleaf Fists": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Crimson Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "MTGU Plate",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ironleaf",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Jam Roll": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Jam",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Joy Waterpot": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Katana": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Magic",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Katzbalger": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rigid Horn",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Ketchup": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Tomato",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Kite Shield": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Proof of Rank",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Warrior's Proof",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragon Bones",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Knight Boots": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Black Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ammonite",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Knight Shield": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Grimoire Scale",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Kongo": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Strong Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Kote": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Iron",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Palm Claw",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Lamellar Vest": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Scales",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Lamp Squid Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Lamp Squid",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Lance": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Lance+": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Lance",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Leather Belt": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Leather Boots": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Furs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Leather Gloves": {
+   "utensil": "WeaponN",
+   "needs": [
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Legendary Sickle": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Legion": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Rune Sphere Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Firewyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragon Fin",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Light Ore",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Leveliser": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Emery Flower",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "4-Leaf Clover",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Noel Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Autumn Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fireflower",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Hot-Hot Fruit",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Great Emery Flower",
+      "count": 1,
+      "class": false
+     },
+     {
+      "name": "Great 4-Leaf Clover",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Lightning Wand": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Wind Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Lion Waterpot": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Lobster Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Lobster",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Lolita Headdress": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Black Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 2,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Lollipop": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Butter",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Apple",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Love Potion": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Grape Liqueur",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Pink Melon",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Strawberry",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Honey",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Hot-Hot Fruit",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Emery Flower",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Great Emery Flower",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Love-Love Rod": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Friendly Rod",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Love Crystal",
+     "count": 3,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Lover Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Throbby Snapper",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Luck Blade": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Scorpion Pincer",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Lucky Strike": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Critical Ring",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Tablet of Truth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dangerous Scissors",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Lumber Axe": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Stones",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Mage's Staff": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Mage's Staff+": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Love Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Love Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Magic Broom": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Ancient Orc Cloth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Moving Branch",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Big Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Magic Charm": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Round Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Turnip's Miracle",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Powders and Spores",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Crystals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Magic Earrings": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ruby",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Magic Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Crystals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Magic Shield": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Mysterious Powder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Crystals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Magic Shot": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Earthwyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Melody Bottle",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Magical Lance": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Devil Horn",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cursed Doll",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Puppetry Strings",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Round Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Crystals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Magical Potion": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Medicinal Herb",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Elli Leaves",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Fireflower",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Magical Shield": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Crimson Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Left Rock Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Right Rock Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Mail": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Liquids",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Marmalade": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Orange",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Mayonnaise": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Oil",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Meat Dumpling": {
+   "utensil": "CookSteamer",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shrimp",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Onion",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Mercenary's Cloak": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Quality Worn Cloth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Big Bird's Comb",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Puppetry Strings",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Metus": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Queen's Jaw",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cursed Doll",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Legendary Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Milk Porridge": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Rice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Minimizer": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Ironleaf",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Miracle Axe": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Stones",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Miso Eggplant": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Eggplant",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Mixed Herbs": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Green Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Toyherb",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Mixed Juice": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Apple",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Grapes",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Orange",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Pineapple",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Strawberry",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Mixed Smoothie": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Mixed Juice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Honey",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Mjolnir": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Earthwyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Monk Staff": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Turnip's Miracle",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Glitta Augite",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Monkey Plush": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Yellow Down",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 2,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Moon Shadow": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Glitter Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Light Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Red Lion Fur",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Blue Lion Fur",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Mountain Axe": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Stones",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Mystery Potion": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Medicinal Herb",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "White Grass",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Autumn Grass",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Needle Spear": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wolf Fang",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Needlefish Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Needlefish",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "No Rot α": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Withered Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Toyherb",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "No Rot β": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Withered Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Red Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "4-Leaf Clover",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Omelet": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Omelet Rice": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Omelet",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ketchup",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Onigiri": {
+   "utensil": "CookHandmade",
+   "needs": [
+    {
+     "name": "Rice",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Orange Juice": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Orange",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Orange Ribbon": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Orange Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Orcus Sword": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Turnip's Miracle",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Dragon Ash",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Glitta Augite",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Orochi": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Queen's Jaw",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Grimoire Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Scales",
+     "count": 2,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Overbreak": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Blue Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Left Rock Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Right Rock Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Grimoire Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Pancakes": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Honey",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Para-Gone": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Indigo Grass",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Pink Cat",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Paralysis Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Scorpion Tail",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Pickle Mix": {
+   "utensil": "CookHandmade",
+   "needs": [
+    {
+     "name": "Turnip",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Pink Turnip",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Pickled Turnip": {
+   "utensil": "CookHandmade",
+   "needs": [
+    {
+     "name": "Turnip",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Pink Turnip",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Pickles": {
+   "utensil": "CookHandmade",
+   "needs": [
+    {
+     "name": "Cucumber",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Pike Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Pike",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Pine Club": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Pineapple",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Pineapple Juice": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Pineapple",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Pitchfork": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Wolf Fang",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fodder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Piyo Sandals": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Insect Carapace",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Pizza": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cheese",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ketchup",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Green Pepper",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Eggplant",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Platinum Bracelet": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Platinum Edge": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Dragon Fang",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Platinum Hammer": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Platinum Mail": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Blk. Tortoise Shell",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Platinum Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Platinum Shield": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Blk. Tortoise Shell",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Platinum Sword": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Platinum Sword+": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Platinum Sword",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Poison Blade": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Poison Powder",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Poison Queen": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Poison King",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Holy Spore",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Poison Powder",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Poison Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Poison Powder",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Poison Spear": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Poison Powder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Pole Axe": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Wolf Fang",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Pole Axe+": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Pole Axe",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Popcorn": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Corn",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Pound Cake": {
+   "utensil": "CookSteamer",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Power Gloves": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Giant's Gloves",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Blue Giant's Glove",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Power Protector": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 3,
+     "class": false
+    },
+    {
+     "name": "MTGU Plate",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dangerous Scissors",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Prelude to Love": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Pink Melon",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Strawberry",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Priest Saber": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Dangerous Scissors",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "MTGU Plate",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Light Crystal",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Prism Shield": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Blue Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Glitter Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Crimson Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Light Ore",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Proof of Wisdom": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Moving Branch",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Protector": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Shoulder Piece",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Psycho": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Devil Horn",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Malm Claw",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dark Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rafflesia Petal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Pumpkin Flan": {
+   "utensil": "CookSteamer",
+   "needs": [
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Pumpkin",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Pumpkin Headgear": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Pumpkin",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Punisher": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Dangerous Scissors",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Tablet of Truth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Purple Ribbon": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Purple Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Quality Sickle": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Rainbow Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Rainbow Trout",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Rainbow Waterpot": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Raisin Bread": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Grapes",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Rampage": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Diamond",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Gold Wolf Fang",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Raventine": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Golem Spirit Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Dragon Ash",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Recovery Potion": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Medicinal Herb",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Green Grass",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Blue Grass",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Red Ribbon": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Red Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Relax Tea": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Relax Tea Leaves",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Honey",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Pink Melon",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Leek",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Relax Tea Leaves": {
+   "utensil": "CookHandmade",
+   "needs": [
+    {
+     "name": "White Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Orange Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Green Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Yellow Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Blue Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Purple Grass",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Rice Porridge": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Rice",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Risotto": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Rice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wine",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Butter",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Rock Axe": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Giant's Gloves",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Rocket Wing": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Dragon Fin",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earthwyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Firewyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Dragon Tooth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Feathers",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Rockfish Stew": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Rockfish",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Rod": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Rosary": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Puppetry Strings",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Round Shield": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Roundoff": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Black Grass",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Moondrop Flower",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Royal Curry": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Curry Powder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Apple",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Honey",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Mixed Herbs",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Onion",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Emery Flower",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Royal Garter": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ancient Orc Cloth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Love Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "White Stone",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Ruby Brooch": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ruby",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Ruby Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ruby",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Ruby Rod": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Ruby",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Rune Blade": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earthwyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Rune Edge": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Rune Legend": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Rune Sphere Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Green Core",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Dragon Tooth",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Rune Shield": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Dragonic Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragon Fin",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earthwyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Rune Staff": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Rune Crystal",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Crimson Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Rune Vest": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Golem Spirit Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Sacred Pole": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Safety Lance": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Ghost Hood",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Saint Axe": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Rune Sphere Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Light Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "White Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Big Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Sakura": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Paralysis Poison",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Poison Powder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cherry Grass",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Salad": {
+   "utensil": "CookHandmade",
+   "needs": [
+    {
+     "name": "Mayonnaise",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cucumber",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Tomato",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cabbage",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Salamander": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Diamond",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Fire Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cheap Propeller",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Salmon Onigiri": {
+   "utensil": "CookHandmade",
+   "needs": [
+    {
+     "name": "Salted Salmon",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rice",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Salmon Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Salmon",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Salted C. Salmon": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Cherry Salmon",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Salted Char": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Char",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Salted Chub": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Chub",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Salted Masu Trout": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Masu Trout",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Salted Pike": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Pike",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Salted Pond Smelt": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Pond Smelt",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Salted R. Trout": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Rainbow Trout",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Salted Salmon": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Salmon",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Salted Taimen": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Taimen",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Sandwich": {
+   "utensil": "CookHandmade",
+   "needs": [
+    {
+     "name": "Bread",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cucumber",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Sapphire Brooch": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sapphire",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Sapphire Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sapphire",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Sapphire Rod": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Sapphire",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Sardine Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Sardine",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Scale Vest": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Pretty Carapace",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Root",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Schnabel": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ammonite",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Blue Core",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Sea Cutter": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Aquamarine",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Seafood Doria": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Rice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shrimp",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cheese",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Squid",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Seafood Gratin": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shrimp",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cheese",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Squid",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Seafood Pizza": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cheese",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ketchup",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shrimp",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Squid",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Seasoned Hoe": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Secret Shoes": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Glue",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Shield Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Blk. Tortoise Shell",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Turtle Shell",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Shine Blade": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Light Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sapphire",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Shiny Hoe": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Shirt": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Shooting Star Staff": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Fairy Elixir",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Golem Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Short Dagger": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Minerals",
+     "count": 2,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Shrimp Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Shrimp",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Silent Grave": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dangerous Scissors",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Crystal Skull",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Silent Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Lamp Squid",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Silk Hat": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Black Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Silver Boots": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Silver Bracelet": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Silver Hairpin": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Silver Hammer": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Silver Pendant": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Silver Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Crystals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Silver Staff": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Skilled Pole": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Skipjack Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Skipjack",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Sky Hammer": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Emerald",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Thunderbird Feather",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Small Shield": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Smash Blade": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Pirate's Armor",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "4-Leaf Clover",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Chimera's Claw",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Snakesword": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Snapper Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Snapper",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Sneaking Boots": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Invisible Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Snow Boots": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Shoulder Piece",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Lightning Mane",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ambrosia's Thorns",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Snow Crown": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Water Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Aquamarine",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Sonic Dagger": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Emerald",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Thunderbird Feather",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Sorcerer's Wand": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Rune Sphere Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragon Fin",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Rune Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Small Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Moving Branch",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Soul Eater": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dangerous Scissors",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Love Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Legendary Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earth Dragon Ash",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Sour Drop": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Orange",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Sparkling Shirt": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Furs",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Spear": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Spectacles": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Aquamarine",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Spiked Hammer": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Left Rock Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Right Rock Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Splash Star": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Rune Sphere Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Dragon Tooth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragon Fin",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Earthwyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Firewyrm Scale",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Spoon": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Spring Headdress": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Headdress",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Moondrop Flower",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Squid Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Squid",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Staff": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Magic Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Star Pendant": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver Pendant",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Love Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Star Saber": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Golem Spirit Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Emerald",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Electro Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Stay-up Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Holy Spore",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Steamed Bread": {
+   "utensil": "CookSteamer",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Steamed Gyoza": {
+   "utensil": "CookSteamer",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Onion",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cabbage",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Steel Edge": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Iron",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Steel Katana": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Black Bird Feather",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Steel Slicer": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Golem Spirit Stone",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "MTGU Plate",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Steel Sword": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Steel Sword+": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Steel Sword",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Step-In Boots": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Warrior's Proof",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shiny Screw",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Stew": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (M)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Potato",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Carrot",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Onion",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Storm Wand": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Mealy Apple",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Electro Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Strange Pendant": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Amethyst",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ruby",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Straw Hat": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Strings",
+     "count": 2,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Strawberry Jam": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Strawberry",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Strawberry Milk": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Strawberry",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Strider Boots": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Pretty Thread",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Strong Stone": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Diamond",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Stones",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Scales",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Sturdy Hoe": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Summer Headdress": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Headdress",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Pink Cat",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Sun Pendant": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Silver Pendant",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Sunspot": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Warrior's Proof",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ruby",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Sunsquid Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Sunsquid",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Super Sickle": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Sweet Potato": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Yam",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Sweet Potato Staff": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Sweet Potato",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Sweet Powder": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Apple",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Syringe": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Furs",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Taimen Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Taimen",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Talisman": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Rafflesia Petal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ambrosia's Thorns",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Tempura": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Oil",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shrimp",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Egg (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Tempura Bowl": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Rice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Tempura",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Tempura Udon": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Tempura",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Udon",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "The Protein": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Red Crystal",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Spinach",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Powders and Spores",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Liquids",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Big Red Crystal",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Thief Knife": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Throwing Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Puppetry Strings",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Tin Waterpot": {
+   "utensil": "Farm",
+   "needs": [
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Toast": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Bread",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Tomahawk": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Emerald",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Silk Cloth",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Tomato Juice": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Tomato",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Toy Hammer": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Trident": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Trout Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Masu Trout",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Tuna Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Tuna",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Tuna Teriyaki": {
+   "utensil": "CookFry",
+   "needs": [
+    {
+     "name": "Tuna",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sour Drop",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Turbot Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Turbot",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Turnip Headgear": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Turnip",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Turnip Heaven": {
+   "utensil": "CookHandmade",
+   "needs": [
+    {
+     "name": "Turnip",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Pink Turnip",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Golden Turnip",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Turtle Shield": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Turtle Shell",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Liquids",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Twin Blade": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Rigid Horn",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Paralysis Poison",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Twin Justice": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Rune Sphere Shard",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Firewyrm Scale",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Dragon Fin",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Dragon Ash",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Water Dragon Ash",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Twin Leeks": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Leek",
+     "count": 2,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Udon": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Flour",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Ultimate Curry": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Curry Powder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wine",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Devil Blood",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Heavy Spice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Onion",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Golden Turnip",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Umbrella": {
+   "utensil": "Shield",
+   "needs": [
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Union Stew": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Radish",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Leek",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Bok Choy",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Mushroom 1",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Hot-Hot Fruit",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Vegetable Juice": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Pumpkin",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Turnip",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Carrot",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Spinach",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Veggie Smoothie": {
+   "utensil": "CookMixer",
+   "needs": [
+    {
+     "name": "Vegetable Juice",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Veggieblade": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Carrot",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Venti's Charm": {
+   "utensil": "Acce",
+   "needs": [],
+   "alt": [
+    []
+   ]
+  },
+  "Vest": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Furs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Vital Gummi": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Blue Crystal",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Bok Choy",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Powders and Spores",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Liquids",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": [
+    [
+     {
+      "name": "Big Blue Crystal",
+      "count": 1,
+      "class": false
+     }
+    ]
+   ]
+  },
+  "Volcanon": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Devil Horn",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Fire Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Ruby",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Chimera's Claw",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "War Hammer": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Shards",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "War Hammer+": {
+   "utensil": "WeaponD",
+   "needs": [
+    {
+     "name": "War Hammer",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Liquids",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Water Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Water Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Water Shoes": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Pretty Thread",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Furs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Water Spear": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Aquamarine",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Wet Boots": {
+   "utensil": "Shoes",
+   "needs": [
+    {
+     "name": "Scales",
+     "count": 2,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Wettable Powder": {
+   "utensil": "Drug",
+   "needs": [
+    {
+     "name": "Charm Blue",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cherry Grass",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "White Ribbon": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "White Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Wind Cloak": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Black Bird Feather",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Emerald",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Wind Edge": {
+   "utensil": "WeaponM",
+   "needs": [
+    {
+     "name": "Emerald",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Palm Claw",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Wind Ring": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Orichalcum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Wind Sword": {
+   "utensil": "WeaponA",
+   "needs": [
+    {
+     "name": "Platinum",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Silver",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wind Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Winter Headdress": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Headdress",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "White Crystal",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Witch Earrings": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Gold",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Emerald",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Mysterious Powder",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Wizard's Staff": {
+   "utensil": "WeaponK",
+   "needs": [
+    {
+     "name": "Magic",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Wood Staff": {
+   "utensil": "WeaponC",
+   "needs": [
+    {
+     "name": "Sticks and Stems",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Wooly Shirt": {
+   "utensil": "Armor",
+   "needs": [
+    {
+     "name": "Electro Crystal",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Wooly Furball",
+     "count": 2,
+     "class": false
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Work Gloves": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Yam of the Ages": {
+   "utensil": "CookOven",
+   "needs": [
+    {
+     "name": "Sweet Powder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Butter",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Yam",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Yarn": {
+   "utensil": "Acce",
+   "needs": [
+    {
+     "name": "Furs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Yellow Ribbon": {
+   "utensil": "Hat",
+   "needs": [
+    {
+     "name": "Yellow Grass",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Cloths and Skins",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Strings",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Yellowtail Sashimi": {
+   "utensil": "CookKnife",
+   "needs": [
+    {
+     "name": "Yellowtail",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Yogurt": {
+   "utensil": "CookPan",
+   "needs": [
+    {
+     "name": "Sweet Powder",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Milk (S)",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  },
+  "Zweihaender": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Minerals",
+     "count": 1,
+     "class": true
+    },
+    {
+     "name": "Claws and Fangs",
+     "count": 1,
+     "class": true
+    }
+   ],
+   "alt": []
+  },
+  "Zweihaender+": {
+   "utensil": "WeaponB",
+   "needs": [
+    {
+     "name": "Zweihaender",
+     "count": 1,
+     "class": false
+    },
+    {
+     "name": "Bronze",
+     "count": 1,
+     "class": false
+    }
+   ],
+   "alt": []
+  }
+ }
+}

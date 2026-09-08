@@ -1,781 +1,4 @@
 {
- "Crafting": [
-  {
-   "path": "Crafting/Shipment/Charm",
-   "band": "Accessories",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Work Gloves",
-   "band": "Accessories",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Cheap Bracelet",
-   "band": "Accessories",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Badge",
-   "band": "Accessories",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Yarn",
-   "band": "Accessories",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Earrings",
-   "band": "Accessories",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Bronze Bracelet",
-   "band": "Accessories",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Leather Belt",
-   "band": "Accessories",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Amethyst Ring",
-   "band": "Accessories",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Aquamarine Ring",
-   "band": "Accessories",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Cursed Ring",
-   "band": "Accessories",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Emerald Ring",
-   "band": "Accessories",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Ruby Ring",
-   "band": "Accessories",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Sapphire Ring",
-   "band": "Accessories",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Gloves (Accessory)",
-   "band": "Accessories",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Earth Pendant",
-   "band": "Accessories",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Engagement Ring",
-   "band": "Accessories",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Silver Pendant",
-   "band": "Accessories",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Silver Ring",
-   "band": "Accessories",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Silver Bracelet",
-   "band": "Accessories",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Poison Ring",
-   "band": "Accessories",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Dew Pendant",
-   "band": "Accessories",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Paralysis Ring",
-   "band": "Accessories",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Silent Ring",
-   "band": "Accessories",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Critical Ring",
-   "band": "Accessories",
-   "sub": "30-39"
-  },
-  {
-   "path": "Crafting/Shipment/Happy Ring",
-   "band": "Accessories",
-   "sub": "30-39"
-  },
-  {
-   "path": "Crafting/Shipment/Witch Earrings",
-   "band": "Accessories",
-   "sub": "30-39"
-  },
-  {
-   "path": "Crafting/Shipment/Throwing Ring",
-   "band": "Accessories",
-   "sub": "30-39"
-  },
-  {
-   "path": "Crafting/Shipment/Field Pendant",
-   "band": "Accessories",
-   "sub": "30-39"
-  },
-  {
-   "path": "Crafting/Shipment/Gold Bracelet",
-   "band": "Accessories",
-   "sub": "30-39"
-  },
-  {
-   "path": "Crafting/Shipment/Heart Pendant",
-   "band": "Accessories",
-   "sub": "40-49"
-  },
-  {
-   "path": "Crafting/Shipment/Star Pendant",
-   "band": "Accessories",
-   "sub": "40-49"
-  },
-  {
-   "path": "Crafting/Shipment/Power Gloves",
-   "band": "Accessories",
-   "sub": "40-49"
-  },
-  {
-   "path": "Crafting/Shipment/Hand-Knit Scarf",
-   "band": "Accessories",
-   "sub": "40-49"
-  },
-  {
-   "path": "Crafting/Shipment/Shield Ring",
-   "band": "Accessories",
-   "sub": "40-49"
-  },
-  {
-   "path": "Crafting/Shipment/Magic Earrings",
-   "band": "Accessories",
-   "sub": "40-49"
-  },
-  {
-   "path": "Crafting/Shipment/Sun Pendant",
-   "band": "Accessories",
-   "sub": "40-49"
-  },
-  {
-   "path": "Crafting/Shipment/Stay-up Ring",
-   "band": "Accessories",
-   "sub": "40-49"
-  },
-  {
-   "path": "Crafting/Shipment/Platinum Bracelet",
-   "band": "Accessories",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Magic Ring",
-   "band": "Accessories",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Amethyst Brooch",
-   "band": "Accessories",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Aquamarine Brooch",
-   "band": "Accessories",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Emerald Brooch",
-   "band": "Accessories",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Holy Amulet",
-   "band": "Accessories",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Ruby Brooch",
-   "band": "Accessories",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Sapphire Brooch",
-   "band": "Accessories",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Champ Belt",
-   "band": "Accessories",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Diamond Ring",
-   "band": "Accessories",
-   "sub": "60-69"
-  },
-  {
-   "path": "Crafting/Shipment/Gold Ring",
-   "band": "Accessories",
-   "sub": "60-69"
-  },
-  {
-   "path": "Crafting/Shipment/Magic Charm",
-   "band": "Accessories",
-   "sub": "60-69"
-  },
-  {
-   "path": "Crafting/Shipment/Rosary",
-   "band": "Accessories",
-   "sub": "60-69"
-  },
-  {
-   "path": "Crafting/Shipment/Talisman",
-   "band": "Accessories",
-   "sub": "70-79"
-  },
-  {
-   "path": "Crafting/Shipment/Hero's Proof",
-   "band": "Accessories",
-   "sub": "70-79"
-  },
-  {
-   "path": "Crafting/Shipment/Proof of Wisdom",
-   "band": "Accessories",
-   "sub": "70-79"
-  },
-  {
-   "path": "Crafting/Shipment/Platinum Ring",
-   "band": "Accessories",
-   "sub": "70-79"
-  },
-  {
-   "path": "Crafting/Shipment/Diamond Brooch",
-   "band": "Accessories",
-   "sub": "70-79"
-  },
-  {
-   "path": "Crafting/Shipment/Lucky Strike",
-   "band": "Accessories",
-   "sub": "70-79"
-  },
-  {
-   "path": "Crafting/Shipment/Anette's Necklace",
-   "band": "Accessories",
-   "sub": "80-89"
-  },
-  {
-   "path": "Crafting/Shipment/Strange Pendant",
-   "band": "Accessories",
-   "sub": "80-89"
-  },
-  {
-   "path": "Crafting/Shipment/Dolphin Brooch",
-   "band": "Accessories",
-   "sub": "80-89"
-  },
-  {
-   "path": "Crafting/Shipment/Art of Defense",
-   "band": "Accessories",
-   "sub": "90-99"
-  },
-  {
-   "path": "Crafting/Shipment/Art of Attack",
-   "band": "Accessories",
-   "sub": "90-99"
-  },
-  {
-   "path": "Crafting/Shipment/Art of Magic",
-   "band": "Accessories",
-   "sub": "90-99"
-  },
-  {
-   "path": "Crafting/Shipment/Wind Ring",
-   "band": "Accessories",
-   "sub": "90-99"
-  },
-  {
-   "path": "Crafting/Shipment/Earth Ring",
-   "band": "Accessories",
-   "sub": "90-99"
-  },
-  {
-   "path": "Crafting/Shipment/Fire Ring",
-   "band": "Accessories",
-   "sub": "90-99"
-  },
-  {
-   "path": "Crafting/Shipment/Fluffy Scarf",
-   "band": "Accessories",
-   "sub": "90-99"
-  },
-  {
-   "path": "Crafting/Shipment/Water Ring",
-   "band": "Accessories",
-   "sub": "90-99"
-  },
-  {
-   "path": "Crafting/Shipment/Courage Badge",
-   "band": "Accessories",
-   "sub": "90-99"
-  },
-  {
-   "path": "Crafting/Shipment/Shirt",
-   "band": "Armor",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Vest",
-   "band": "Armor",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Cotton Cloth",
-   "band": "Armor",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Mail",
-   "band": "Armor",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Chain Mail",
-   "band": "Armor",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Scale Vest",
-   "band": "Armor",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Sparkling Shirt",
-   "band": "Armor",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Wind Cloak",
-   "band": "Armor",
-   "sub": "30-39"
-  },
-  {
-   "path": "Crafting/Shipment/Protector",
-   "band": "Armor",
-   "sub": "30-39"
-  },
-  {
-   "path": "Crafting/Shipment/Platinum Mail",
-   "band": "Armor",
-   "sub": "40-49"
-  },
-  {
-   "path": "Crafting/Shipment/Lamellar Vest",
-   "band": "Armor",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Mercenary's Cloak",
-   "band": "Armor",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Wooly Shirt",
-   "band": "Armor",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Elvish Cloak",
-   "band": "Armor",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Dragon Cloak",
-   "band": "Armor",
-   "sub": "60-69"
-  },
-  {
-   "path": "Crafting/Shipment/Power Protector",
-   "band": "Armor",
-   "sub": "60-69"
-  },
-  {
-   "path": "Crafting/Shipment/Rune Vest",
-   "band": "Armor",
-   "sub": "70-79"
-  },
-  {
-   "path": "Crafting/Shipment/Royal Garter",
-   "band": "Armor",
-   "sub": "90-99"
-  },
-  {
-   "path": "Crafting/Shipment/Four Dragons' Vest",
-   "band": "Armor",
-   "sub": "90-99"
-  },
-  {
-   "path": "Crafting/Shipment/Headband",
-   "band": "Headgear",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Blue Ribbon",
-   "band": "Headgear",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Green Ribbon",
-   "band": "Headgear",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Purple Ribbon",
-   "band": "Headgear",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Spectacles",
-   "band": "Headgear",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Straw Hat",
-   "band": "Headgear",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Fancy Hat",
-   "band": "Headgear",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Brand Glasses",
-   "band": "Headgear",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Cute Knitting",
-   "band": "Headgear",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Intelligent Glasses",
-   "band": "Headgear",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Fireproof Hood",
-   "band": "Headgear",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Silk Hat",
-   "band": "Headgear",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Black Ribbon",
-   "band": "Headgear",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Lolita Headdress",
-   "band": "Headgear",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Headdress",
-   "band": "Headgear",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Pumpkin Headgear",
-   "band": "Headgear",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Yellow Ribbon",
-   "band": "Headgear",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Cat Ears",
-   "band": "Headgear",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Silver Hairpin",
-   "band": "Headgear",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Red Ribbon",
-   "band": "Headgear",
-   "sub": "30-39"
-  },
-  {
-   "path": "Crafting/Shipment/Turnip Headgear",
-   "band": "Headgear",
-   "sub": "30-39"
-  },
-  {
-   "path": "Crafting/Shipment/Orange Ribbon",
-   "band": "Headgear",
-   "sub": "30-39"
-  },
-  {
-   "path": "Crafting/Shipment/White Ribbon",
-   "band": "Headgear",
-   "sub": "30-39"
-  },
-  {
-   "path": "Crafting/Shipment/Four Seasons",
-   "band": "Headgear",
-   "sub": "40-49"
-  },
-  {
-   "path": "Crafting/Shipment/Feathered Hat",
-   "band": "Headgear",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Gold Hairpin",
-   "band": "Headgear",
-   "sub": "60-69"
-  },
-  {
-   "path": "Crafting/Shipment/Indigo Ribbon",
-   "band": "Headgear",
-   "sub": "70-79"
-  },
-  {
-   "path": "Crafting/Shipment/Crown",
-   "band": "Headgear",
-   "sub": "90-99"
-  },
-  {
-   "path": "Crafting/Shipment/Small Shield",
-   "band": "Shield",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Umbrella",
-   "band": "Shield",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Iron Shield",
-   "band": "Shield",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Monkey Plush",
-   "band": "Shield",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Round Shield",
-   "band": "Shield",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Turtle Shield",
-   "band": "Shield",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Chaos Shield",
-   "band": "Shield",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Bone Shield",
-   "band": "Shield",
-   "sub": "30-39"
-  },
-  {
-   "path": "Crafting/Shipment/Magic Shield",
-   "band": "Shield",
-   "sub": "30-39"
-  },
-  {
-   "path": "Crafting/Shipment/Heavy Shield",
-   "band": "Shield",
-   "sub": "40-49"
-  },
-  {
-   "path": "Crafting/Shipment/Platinum Shield",
-   "band": "Shield",
-   "sub": "40-49"
-  },
-  {
-   "path": "Crafting/Shipment/Kite Shield",
-   "band": "Shield",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Knight Shield",
-   "band": "Shield",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Element Shield",
-   "band": "Shield",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Magical Shield",
-   "band": "Shield",
-   "sub": "60-69"
-  },
-  {
-   "path": "Crafting/Shipment/Prism Shield",
-   "band": "Shield",
-   "sub": "70-79"
-  },
-  {
-   "path": "Crafting/Shipment/Rune Shield",
-   "band": "Shield",
-   "sub": "90-99"
-  },
-  {
-   "path": "Crafting/Shipment/Leather Boots",
-   "band": "Shoes",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Free Farming Shoes",
-   "band": "Shoes",
-   "sub": "0-9"
-  },
-  {
-   "path": "Crafting/Shipment/Piyo Sandals",
-   "band": "Shoes",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Secret Shoes",
-   "band": "Shoes",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Silver Boots",
-   "band": "Shoes",
-   "sub": "10-19"
-  },
-  {
-   "path": "Crafting/Shipment/Heavy Boots",
-   "band": "Shoes",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Wet Boots",
-   "band": "Shoes",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Sneaking Boots",
-   "band": "Shoes",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Fast Step Boots",
-   "band": "Shoes",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Gold Boots",
-   "band": "Shoes",
-   "sub": "20-29"
-  },
-  {
-   "path": "Crafting/Shipment/Bone Boots",
-   "band": "Shoes",
-   "sub": "30-39"
-  },
-  {
-   "path": "Crafting/Shipment/Snow Boots",
-   "band": "Shoes",
-   "sub": "30-39"
-  },
-  {
-   "path": "Crafting/Shipment/Strider Boots",
-   "band": "Shoes",
-   "sub": "40-49"
-  },
-  {
-   "path": "Crafting/Shipment/Step-In Boots",
-   "band": "Shoes",
-   "sub": "40-49"
-  },
-  {
-   "path": "Crafting/Shipment/Feather Boots",
-   "band": "Shoes",
-   "sub": "50-59"
-  },
-  {
-   "path": "Crafting/Shipment/Ghost Boots",
-   "band": "Shoes",
-   "sub": "60-69"
-  },
-  {
-   "path": "Crafting/Shipment/Iron Geta",
-   "band": "Shoes",
-   "sub": "70-79"
-  },
-  {
-   "path": "Crafting/Shipment/Water Shoes",
-   "band": "Shoes",
-   "sub": "70-79"
-  },
-  {
-   "path": "Crafting/Shipment/Ice Skates",
-   "band": "Shoes",
-   "sub": "70-79"
-  },
-  {
-   "path": "Crafting/Shipment/Knight Boots",
-   "band": "Shoes",
-   "sub": "80-89"
-  },
-  {
-   "path": "Crafting/Shipment/Fairy Boots",
-   "band": "Shoes",
-   "sub": "90-99"
-  },
-  {
-   "path": "Crafting/Shipment/Rocket Wing",
-   "band": "Shoes",
-   "sub": "90-99"
-  }
- ],
  "Crops & Seeds": [
   {
    "path": "Selphia/Shipment/Turnip Seeds",
@@ -4246,6 +3469,785 @@
    "path": "Anywhere (Rare)/Shipment/Small Crystal",
    "band": "Anywhere",
    "sub": "Anywhere (Rare)"
+  }
+ ],
+ "Crafting II": [
+  {
+   "path": "Crafting/Shipment/Shirt",
+   "band": "Armor",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Vest",
+   "band": "Armor",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Cotton Cloth",
+   "band": "Armor",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Mail",
+   "band": "Armor",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Chain Mail",
+   "band": "Armor",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Scale Vest",
+   "band": "Armor",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Sparkling Shirt",
+   "band": "Armor",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Wind Cloak",
+   "band": "Armor",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Protector",
+   "band": "Armor",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Platinum Mail",
+   "band": "Armor",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Lamellar Vest",
+   "band": "Armor",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Mercenary's Cloak",
+   "band": "Armor",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Wooly Shirt",
+   "band": "Armor",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Elvish Cloak",
+   "band": "Armor",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Dragon Cloak",
+   "band": "Armor",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Power Protector",
+   "band": "Armor",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Rune Vest",
+   "band": "Armor",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Royal Garter",
+   "band": "Armor",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Four Dragons' Vest",
+   "band": "Armor",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Headband",
+   "band": "Headgear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Blue Ribbon",
+   "band": "Headgear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Green Ribbon",
+   "band": "Headgear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Purple Ribbon",
+   "band": "Headgear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Spectacles",
+   "band": "Headgear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Straw Hat",
+   "band": "Headgear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Fancy Hat",
+   "band": "Headgear",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Brand Glasses",
+   "band": "Headgear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Cute Knitting",
+   "band": "Headgear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Intelligent Glasses",
+   "band": "Headgear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Fireproof Hood",
+   "band": "Headgear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Silk Hat",
+   "band": "Headgear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Black Ribbon",
+   "band": "Headgear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Lolita Headdress",
+   "band": "Headgear",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Headdress",
+   "band": "Headgear",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Pumpkin Headgear",
+   "band": "Headgear",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Yellow Ribbon",
+   "band": "Headgear",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Cat Ears",
+   "band": "Headgear",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Silver Hairpin",
+   "band": "Headgear",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Red Ribbon",
+   "band": "Headgear",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Turnip Headgear",
+   "band": "Headgear",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Orange Ribbon",
+   "band": "Headgear",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/White Ribbon",
+   "band": "Headgear",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Four Seasons",
+   "band": "Headgear",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Feathered Hat",
+   "band": "Headgear",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Gold Hairpin",
+   "band": "Headgear",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Indigo Ribbon",
+   "band": "Headgear",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Crown",
+   "band": "Headgear",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Small Shield",
+   "band": "Shield",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Umbrella",
+   "band": "Shield",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Iron Shield",
+   "band": "Shield",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Monkey Plush",
+   "band": "Shield",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Round Shield",
+   "band": "Shield",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Turtle Shield",
+   "band": "Shield",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Chaos Shield",
+   "band": "Shield",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Bone Shield",
+   "band": "Shield",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Magic Shield",
+   "band": "Shield",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Heavy Shield",
+   "band": "Shield",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Platinum Shield",
+   "band": "Shield",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Kite Shield",
+   "band": "Shield",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Knight Shield",
+   "band": "Shield",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Element Shield",
+   "band": "Shield",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Magical Shield",
+   "band": "Shield",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Prism Shield",
+   "band": "Shield",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Rune Shield",
+   "band": "Shield",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Leather Boots",
+   "band": "Shoes",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Free Farming Shoes",
+   "band": "Shoes",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Piyo Sandals",
+   "band": "Shoes",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Secret Shoes",
+   "band": "Shoes",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Silver Boots",
+   "band": "Shoes",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Heavy Boots",
+   "band": "Shoes",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Wet Boots",
+   "band": "Shoes",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Sneaking Boots",
+   "band": "Shoes",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Fast Step Boots",
+   "band": "Shoes",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Gold Boots",
+   "band": "Shoes",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Bone Boots",
+   "band": "Shoes",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Snow Boots",
+   "band": "Shoes",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Strider Boots",
+   "band": "Shoes",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Step-In Boots",
+   "band": "Shoes",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Feather Boots",
+   "band": "Shoes",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Ghost Boots",
+   "band": "Shoes",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Iron Geta",
+   "band": "Shoes",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Water Shoes",
+   "band": "Shoes",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Ice Skates",
+   "band": "Shoes",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Knight Boots",
+   "band": "Shoes",
+   "sub": "80-89"
+  },
+  {
+   "path": "Crafting/Shipment/Fairy Boots",
+   "band": "Shoes",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Rocket Wing",
+   "band": "Shoes",
+   "sub": "90-99"
+  }
+ ],
+ "Crafting I": [
+  {
+   "path": "Crafting/Shipment/Charm",
+   "band": "Accessories",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Work Gloves",
+   "band": "Accessories",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Cheap Bracelet",
+   "band": "Accessories",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Badge",
+   "band": "Accessories",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Yarn",
+   "band": "Accessories",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Earrings",
+   "band": "Accessories",
+   "sub": "0-9"
+  },
+  {
+   "path": "Crafting/Shipment/Bronze Bracelet",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Leather Belt",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Amethyst Ring",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Aquamarine Ring",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Cursed Ring",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Emerald Ring",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Ruby Ring",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Sapphire Ring",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Gloves (Accessory)",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Earth Pendant",
+   "band": "Accessories",
+   "sub": "10-19"
+  },
+  {
+   "path": "Crafting/Shipment/Engagement Ring",
+   "band": "Accessories",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Silver Pendant",
+   "band": "Accessories",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Silver Ring",
+   "band": "Accessories",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Silver Bracelet",
+   "band": "Accessories",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Poison Ring",
+   "band": "Accessories",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Dew Pendant",
+   "band": "Accessories",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Paralysis Ring",
+   "band": "Accessories",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Silent Ring",
+   "band": "Accessories",
+   "sub": "20-29"
+  },
+  {
+   "path": "Crafting/Shipment/Critical Ring",
+   "band": "Accessories",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Happy Ring",
+   "band": "Accessories",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Witch Earrings",
+   "band": "Accessories",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Throwing Ring",
+   "band": "Accessories",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Field Pendant",
+   "band": "Accessories",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Gold Bracelet",
+   "band": "Accessories",
+   "sub": "30-39"
+  },
+  {
+   "path": "Crafting/Shipment/Heart Pendant",
+   "band": "Accessories",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Star Pendant",
+   "band": "Accessories",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Power Gloves",
+   "band": "Accessories",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Hand-Knit Scarf",
+   "band": "Accessories",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Shield Ring",
+   "band": "Accessories",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Magic Earrings",
+   "band": "Accessories",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Sun Pendant",
+   "band": "Accessories",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Stay-up Ring",
+   "band": "Accessories",
+   "sub": "40-49"
+  },
+  {
+   "path": "Crafting/Shipment/Platinum Bracelet",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Magic Ring",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Amethyst Brooch",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Aquamarine Brooch",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Emerald Brooch",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Holy Amulet",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Ruby Brooch",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Sapphire Brooch",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Champ Belt",
+   "band": "Accessories",
+   "sub": "50-59"
+  },
+  {
+   "path": "Crafting/Shipment/Diamond Ring",
+   "band": "Accessories",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Gold Ring",
+   "band": "Accessories",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Magic Charm",
+   "band": "Accessories",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Rosary",
+   "band": "Accessories",
+   "sub": "60-69"
+  },
+  {
+   "path": "Crafting/Shipment/Talisman",
+   "band": "Accessories",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Hero's Proof",
+   "band": "Accessories",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Proof of Wisdom",
+   "band": "Accessories",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Platinum Ring",
+   "band": "Accessories",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Diamond Brooch",
+   "band": "Accessories",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Lucky Strike",
+   "band": "Accessories",
+   "sub": "70-79"
+  },
+  {
+   "path": "Crafting/Shipment/Anette's Necklace",
+   "band": "Accessories",
+   "sub": "80-89"
+  },
+  {
+   "path": "Crafting/Shipment/Strange Pendant",
+   "band": "Accessories",
+   "sub": "80-89"
+  },
+  {
+   "path": "Crafting/Shipment/Dolphin Brooch",
+   "band": "Accessories",
+   "sub": "80-89"
+  },
+  {
+   "path": "Crafting/Shipment/Art of Defense",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Art of Attack",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Art of Magic",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Wind Ring",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Earth Ring",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Fire Ring",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Fluffy Scarf",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Water Ring",
+   "band": "Accessories",
+   "sub": "90-99"
+  },
+  {
+   "path": "Crafting/Shipment/Courage Badge",
+   "band": "Accessories",
+   "sub": "90-99"
   }
  ],
  "Cooking II": [

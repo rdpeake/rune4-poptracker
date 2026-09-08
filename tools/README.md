@@ -288,8 +288,8 @@ enough. They need node and one package, which is gitignored:
 the background keyed to the item's category family and a rim keyed to its
 classification. Input is a JSON list of `{slug, label, cat, cls}`.
 
-`export_grid_maps.py` (which calls `gen_grid_maps.mjs`) rebuilds all nineteen
-sheets — eight shipment, five crafting and six tame — **and** checks the pins on
+`export_grid_maps.py` (which calls `gen_grid_maps.mjs`) rebuilds all twenty
+sheets — eight shipment, six crafting and six tame — **and** checks the pins on
 them in `locations/_Crafting.json`, `_Shipments.json` and `_Tames.json`. Image and
 pins come out of the same pass, so they must be regenerated together or every pin
 slides off its tile. Run it after anything that touches `images/items/` or
@@ -305,6 +305,25 @@ A band's label sits in the left gutter; under the tiles, a ruler brackets each
 run of equal `sub` and names it. That is where the tier goes on the shipment
 sheets, so a sheet reads left to right as progression and the tail past your
 max-shipment-tier is visible at a glance.
+
+### How wide a sheet is
+
+PopTracker scales a sheet to fit its map pane, and **the pane is wide**: with
+the horizontal layout in a 1500x950 window it measures 1490x560. Measured under
+Xvfb, not guessed — a sheet at 24 columns came out 1322 wide and 1116 tall,
+which the pane shrank to half size while leaving 800px of itself empty either
+side. Height is what binds, so the sheet that reads best is the SHORT wide one.
+
+A sheet marked `fit` therefore chooses its own column count: `gen_grid_maps.mjs`
+lays it out at every width from 16 to 40 columns and keeps the one whose tiles
+draw biggest in that pane, stopping at native size rather than asking for an
+upscale (ties go to the wider sheet, which is the one that uses the pane). Only
+the crafted sheets are marked — they are the ones carrying a chip strip, and
+the shipment sheets keep the 24 columns their pins were laid out with.
+
+Splitting a sheet is the other half of the same job, and the cheaper half is
+width: Forge I went from half size to 0.82 by widening alone. Crafting still
+had to be cut in two, with Accessories — 69 of its 155 tiles — on its own sheet.
 
 ### The tame sheets
 
@@ -331,7 +350,7 @@ one -- which is the difference between a useful pin and a misleading one in a
 randomiser, where the four arrive in any order or not at all.
 
     python3 tools/gamedata/export_monster_presents.py   -> generated/tame_gifts.json
-    python3 tools/gamedata/export_gift_chips.py         -> images/gifts/
+    python3 tools/gamedata/export_chips.py              -> images/chips/
     python3 tools/export_tame_gifts.py                  -> names the pins
 
 `rf3MonsterPresent.bin` holds 209 records of 4 x (item id, value), indexed by
@@ -346,7 +365,7 @@ The gifts stay in the game's slot order, which runs easiest-first where that
 matters -- Buffamoo reads Milk (S) before Milk (L), and ranking by value would
 put the milk you cannot get yet at the front.
 
-Tiles draw `images/gifts/`, bare icons cut from the game rather than the
+Tiles draw `images/chips/`, bare icons cut from the game rather than the
 `images/items/` cards: at the size four of them fit, a card is mostly frame.
 The strip sits under the face, never over it -- a chip riding the tile's edge
 reads as its neighbour's -- and only a sheet that has chips reserves the height,
@@ -365,6 +384,55 @@ section under it said `Blood Panther` again, so the gift costs no pixels. The
 name goes on the ref in `_Tames.json`, **never** on the canonical section: a
 section's full id is its parent plus its name, so that name IS the ref path
 every pin uses and the path `location_mapping.lua` keys the AP id to.
+
+### What a recipe is made of
+
+Not the Recipes CSV's `Ingredients` column, for the same reason as `Friend
+Item`. A recipe slot is often a **class** of item -- any Strings, any Minerals
+-- and where it is, the CSV names one example instead. The game's Red Ribbon is
+`Red Grass + Cloths and Skins + Strings`; the CSV says
+`Red Grass + Insect Carapace + Old Bandage`, which in a randomiser reads as a
+hunt for one bandage when any string will do. 231 of the pack's 584 badged recipes have
+at least one class slot, and Curry Bread is worse still -- the CSV expands its
+`Curry` slot into a whole curry recipe.
+
+    python3 tools/gamedata/export_recipes.py            -> generated/recipes.json
+    python3 tools/gamedata/export_chips.py              -> images/chips/
+    python3 tools/export_recipe_needs.py                -> names the pins
+
+`rf3Recipe*.bin` is 22 tables, one per crafting utensil, each `NLCL` + a
+24-byte preamble + 20-byte records: `uint16 @4` the item made, `@6` six
+ingredient slots, `@18` the record's index. A slot holds an item id or one of
+the 19 class pseudo-items the game keeps at ids 1083-1101 -- Minerals, Liquids,
+Claws and Fangs, Sticks and Stems, Cloths and Skins, Furs, Strings, Shards,
+Powders and Spores, Scales, Shells and Bones, Stones, Turnip, Crystals, Jewels,
+Feathers, Jam, Curry, Squid -- which are `I_Catecory00..18` in that order, so a
+class has its own icon to badge.
+
+The record layout was **confirmed, not assumed**: with class slots taken as
+wildcards, 601 of the 611 recipes agree with the CSV slot for slot and in order.
+The ten that do not are the three the CSV expands, two fish the apworld renamed
+(`Lover Snapper` -> `Throbby Snapper`), and five alternates the CSV does not
+carry at all.
+
+A repeated slot is a quantity -- Hand-Knit Scarf is four Yarn -- so repeats fold
+into a count and the tile shows one chip. A result with more than one record has
+genuine alternates: Recovery Potion is `Medicinal Herb + Green Grass` OR one
+`Blue Grass`. The first is what the tile badges; the pin's name spells out both,
+and marks a class slot `any`:
+`Red Ribbon - needs: Red Grass, any Cloths and Skins, any Strings`.
+
+Four chips are what a tile's width shows at a readable size, so a fifth and
+sixth wrap to a second row of three rather than shrinking all six to 7px. 75 of
+the crafted tiles need the second row, and only a sheet that has one pays for
+the height.
+
+A sheet that is already paying for it then wraps at **three**, not four: the
+row is bought and spent, so a four-chip tile gains nothing by cramming four
+into one line at 11px beside a neighbour drawing three at 14. Wrapping it 3+1
+costs no height and leaves the sheet two chip sizes -- 18 for one or two, 14
+for three to six -- instead of four. The test is `> 4` chips, never "does
+anything wrap", which would be circular.
 
 `export_section_icons.py` gives each check its own icon in the tracker instead of
 one shared crate: shipments take their item tile, tames their monster tile,

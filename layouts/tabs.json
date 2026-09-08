@@ -516,11 +516,20 @@
                             }
                         },
                         {
-                            "title": "Crafting",
+                            "title": "Crafting I",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Crafting"
+                                    "Crafting I"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Crafting II",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Crafting II"
                                 ]
                             }
                         },
@@ -1197,11 +1206,20 @@
                             }
                         },
                         {
-                            "title": "Crafting",
+                            "title": "Crafting I",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "Crafting"
+                                    "Crafting I"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Crafting II",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Crafting II"
                                 ]
                             }
                         },
