@@ -14,6 +14,12 @@ own CSVs through `pkgutil`, which reads out of a zip too. Nothing else is
 needed -- the handful of Archipelago classes the apworld imports are stubbed in
 `_stubs/`, which is committed, so the apworld is the only thing to supply.
 
+`_stubs/` also holds pymem, psutil and NetUtils, which are not Archipelago's.
+Importing `rf4.Locations` runs `rf4/__init__.py`, and that reaches the PC
+client -- the module that reads the running game's memory -- through `.Save`,
+so a table the pack only wants to read pulls in a Windows-only dependency.
+Stubbing beats installing: nothing in those modules is ever called here.
+
     from load import apworld
     ap = apworld()
     ap.Locations.location_data_table
@@ -65,8 +71,17 @@ def apworld():
     for name in ('Locations', 'Items', 'Regions', 'Rules', 'Options', 'game_data'):
         try:
             setattr(ap, name, importlib.import_module('rf4.' + name))
-        except ImportError:
-            setattr(ap, name, None)
+        except ImportError as exc:
+            # Loudly. This used to hand back None, and nothing checks for it,
+            # so a missing dependency surfaced as an AttributeError on NoneType
+            # in whichever exporter touched it first -- or worse, as a table
+            # read through getattr() coming back empty and exporting as "no
+            # rows", which reads exactly like success.
+            raise SystemExit(
+                'rf4.%s will not import: %s\nIf that is a third-party module '
+                'the apworld needs only for its client, stub it in '
+                'tools/apworld/_stubs/ the way pymem and psutil are.'
+                % (name, exc))
     _retype_search(ap)
     ap.data = data
     ap.csv_text = csv_text
