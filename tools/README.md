@@ -189,6 +189,22 @@ of its 183 sections before.
 `layouts/tabs.json`, name its texture in `map_art.json`, give its rooms labels
 in `rooms.json`, then run the tools above.
 
+## What a chest pin is called
+
+`<Area>/[<Floor>/]Chest <Room>/<Item>`, e.g. `Autumn Road/Chest G11/Screw Rock
+Lv.1` and `Rune Prana/F2/Chest B3/Greenifier+ x4`.
+
+The room node carries the word `Chest`, as `export_barriers.py` has always done
+for barriers, boxes and searches, because PopTracker's map tooltip heads itself
+with **only the pinned node's own name** (`maptooltip.cpp:61` reads
+`loc.getName()`, not the trail) -- so the old `Chest/G11` group left the pin
+announcing itself as bare `G11`.
+
+Two consequences: a trail test must match `Chest <room>` as well as `Chest`, and
+not by substring (`Boss - Chest Hair` is a real section); and anything comparing
+a node name to the sheet's `Room Code` must strip the prefix, as
+`verify/check_chest_rooms.py` does.
+
 ## Chests the map files place somewhere else
 
 Every chest is an object in a room of the map files and

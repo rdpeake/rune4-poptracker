@@ -221,197 +221,186 @@
                 ]
             },
             {
-                "name": "Chest",
+                "name": "Chest D6",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "D6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
+                        "name": "Blue Ribbon",
                         "access_rules": [
-                            " "
+                            "^$RF4Access|1851498"
                         ],
-                        "sections": [
-                            {
-                                "name": "Blue Ribbon",
-                                "access_rules": [
-                                    "^$RF4Access|1851498"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851498"
-                                ],
-                                "item_count": 1
-                            }
+                        "visibility_rules": [
+                            "$RF4Visible|1851498"
                         ],
-                        "map_locations": [
-                            {
-                                "map": "Water Ruins",
-                                "x": 569,
-                                "y": 328,
-                                "size": 6
-                            }
-                        ]
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water Ruins",
+                        "x": 569,
+                        "y": 328,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest C2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Aquamarine + Bronze",
+                        "access_rules": [
+                            "^$RF4Access|1851499"
+                        ],
+                        "visibility_rules": [
+                            "$RF4Visible|1851499"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water Ruins",
+                        "x": 107,
+                        "y": 219,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest C7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Rod",
+                        "access_rules": [
+                            "^$RF4Access|1851500"
+                        ],
+                        "visibility_rules": [
+                            "$RF4Visible|1851500"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water Ruins",
+                        "x": 627,
+                        "y": 202,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Water Laser Lv.1",
+                        "access_rules": [
+                            "^$RF4Access|1851501"
+                        ],
+                        "visibility_rules": [
+                            "$RF4Visible|1851501"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water Ruins",
+                        "x": 45,
+                        "y": 202,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest A3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Battle Axe",
+                        "access_rules": [
+                            "^$RF4Access|1851502"
+                        ],
+                        "visibility_rules": [
+                            "$RF4Visible|1851502"
+                        ],
+                        "item_count": 1
                     },
                     {
-                        "name": "C2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
+                        "name": "Para-Gone + Roundoff",
                         "access_rules": [
-                            " "
+                            "^$RF4Access|1851647"
                         ],
-                        "sections": [
-                            {
-                                "name": "Aquamarine + Bronze",
-                                "access_rules": [
-                                    "^$RF4Access|1851499"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851499"
-                                ],
-                                "item_count": 1
-                            }
+                        "visibility_rules": [
+                            "$RF4Visible|1851647"
                         ],
-                        "map_locations": [
-                            {
-                                "map": "Water Ruins",
-                                "x": 107,
-                                "y": 219,
-                                "size": 6
-                            }
-                        ]
-                    },
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "C7",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Rod",
-                                "access_rules": [
-                                    "^$RF4Access|1851500"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851500"
-                                ],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water Ruins",
-                                "x": 627,
-                                "y": 202,
-                                "size": 6
-                            }
-                        ]
-                    },
+                        "map": "Water Ruins",
+                        "x": 343,
+                        "y": 60,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest C4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
                     {
-                        "name": "C1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
+                        "name": "Recovery Potion x4",
                         "access_rules": [
-                            " "
+                            "^$RF4Access|1851503"
                         ],
-                        "sections": [
-                            {
-                                "name": "Water Laser Lv.1",
-                                "access_rules": [
-                                    "^$RF4Access|1851501"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851501"
-                                ],
-                                "item_count": 1
-                            }
+                        "visibility_rules": [
+                            "$RF4Visible|1851503"
                         ],
-                        "map_locations": [
-                            {
-                                "map": "Water Ruins",
-                                "x": 45,
-                                "y": 202,
-                                "size": 6
-                            }
-                        ]
-                    },
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "A3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Battle Axe",
-                                "access_rules": [
-                                    "^$RF4Access|1851502"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851502"
-                                ],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Para-Gone + Roundoff",
-                                "access_rules": [
-                                    "^$RF4Access|1851647"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851647"
-                                ],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water Ruins",
-                                "x": 343,
-                                "y": 60,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "C4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Recovery Potion x4",
-                                "access_rules": [
-                                    "^$RF4Access|1851503"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851503"
-                                ],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water Ruins",
-                                "x": 337,
-                                "y": 249,
-                                "size": 6
-                            }
-                        ]
+                        "map": "Water Ruins",
+                        "x": 337,
+                        "y": 249,
+                        "size": 6
                     }
                 ]
             },

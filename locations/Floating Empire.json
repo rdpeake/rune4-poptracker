@@ -62,207 +62,196 @@
                         ]
                     },
                     {
-                        "name": "Chest",
+                        "name": "Chest F4",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
                         ],
-                        "children": [
+                        "sections": [
                             {
-                                "name": "F4",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
+                                "name": "Neko Damashi Lv.5",
                                 "access_rules": [
-                                    " "
+                                    "^$RF4Access|1851600"
                                 ],
-                                "sections": [
-                                    {
-                                        "name": "Neko Damashi Lv.5",
-                                        "access_rules": [
-                                            "^$RF4Access|1851600"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851600"
-                                        ],
-                                        "item_count": 1
-                                    }
+                                "visibility_rules": [
+                                    "$RF4Visible|1851600"
                                 ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire West",
-                                        "x": 396,
-                                        "y": 382,
-                                        "size": 6
-                                    }
-                                ]
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Floating Empire West",
+                                "x": 396,
+                                "y": 382,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest A4",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Magical Potion x4",
+                                "access_rules": [
+                                    "^$RF4Access|1851601"
+                                ],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851601"
+                                ],
+                                "item_count": 1
                             },
                             {
-                                "name": "A4",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
+                                "name": "Magic Ring",
                                 "access_rules": [
-                                    " "
+                                    "^$RF4Access|1851602"
                                 ],
-                                "sections": [
-                                    {
-                                        "name": "Magical Potion x4",
-                                        "access_rules": [
-                                            "^$RF4Access|1851601"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851601"
-                                        ],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "Magic Ring",
-                                        "access_rules": [
-                                            "^$RF4Access|1851602"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851602"
-                                        ],
-                                        "item_count": 1
-                                    }
+                                "visibility_rules": [
+                                    "$RF4Visible|1851602"
                                 ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire West",
-                                        "x": 463,
-                                        "y": 76,
-                                        "size": 6
-                                    }
-                                ]
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Floating Empire West",
+                                "x": 463,
+                                "y": 76,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest G1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Platinum",
+                                "access_rules": [
+                                    "^$RF4Access|1851603"
+                                ],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851603"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Floating Empire West",
+                                "x": 196,
+                                "y": 474,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest G4",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Delta Laser Lv.5",
+                                "access_rules": [
+                                    "^$RF4Access|1851604"
+                                ],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851604"
+                                ],
+                                "item_count": 1
                             },
                             {
-                                "name": "G1",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
+                                "name": "Cyclone Lv.1",
                                 "access_rules": [
-                                    " "
+                                    "^$RF4Access|1851605"
                                 ],
-                                "sections": [
-                                    {
-                                        "name": "Platinum",
-                                        "access_rules": [
-                                            "^$RF4Access|1851603"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851603"
-                                        ],
-                                        "item_count": 1
-                                    }
+                                "visibility_rules": [
+                                    "$RF4Visible|1851605"
                                 ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire West",
-                                        "x": 196,
-                                        "y": 474,
-                                        "size": 6
-                                    }
-                                ]
-                            },
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
                             {
-                                "name": "G4",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "Delta Laser Lv.5",
-                                        "access_rules": [
-                                            "^$RF4Access|1851604"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851604"
-                                        ],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "Cyclone Lv.1",
-                                        "access_rules": [
-                                            "^$RF4Access|1851605"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851605"
-                                        ],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire West",
-                                        "x": 463,
-                                        "y": 444,
-                                        "size": 6
-                                    }
-                                ]
-                            },
+                                "map": "Floating Empire West",
+                                "x": 463,
+                                "y": 444,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest F1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
                             {
-                                "name": "F1",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
+                                "name": "18000G",
                                 "access_rules": [
-                                    " "
+                                    "^$RF4Access|1851606"
                                 ],
-                                "sections": [
-                                    {
-                                        "name": "18000G",
-                                        "access_rules": [
-                                            "^$RF4Access|1851606"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851606"
-                                        ],
-                                        "item_count": 1
-                                    }
+                                "visibility_rules": [
+                                    "$RF4Visible|1851606"
                                 ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire West",
-                                        "x": 196,
-                                        "y": 382,
-                                        "size": 6
-                                    }
-                                ]
-                            },
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
                             {
-                                "name": "B1",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
+                                "map": "Floating Empire West",
+                                "x": 196,
+                                "y": 382,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest B1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Stay Up ring",
                                 "access_rules": [
-                                    " "
+                                    "^$RF4Access|1851607"
                                 ],
-                                "sections": [
-                                    {
-                                        "name": "Stay Up ring",
-                                        "access_rules": [
-                                            "^$RF4Access|1851607"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851607"
-                                        ],
-                                        "item_count": 1
-                                    }
+                                "visibility_rules": [
+                                    "$RF4Visible|1851607"
                                 ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire West",
-                                        "x": 196,
-                                        "y": 138,
-                                        "size": 6
-                                    }
-                                ]
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Floating Empire West",
+                                "x": 196,
+                                "y": 138,
+                                "size": 6
                             }
                         ]
                     }
@@ -334,158 +323,147 @@
                         ]
                     },
                     {
-                        "name": "Chest",
+                        "name": "Chest E1",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
                         ],
-                        "children": [
+                        "sections": [
                             {
-                                "name": "E1",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
+                                "name": "Invisible Stone",
                                 "access_rules": [
-                                    " "
+                                    "^$RF4Access|1851595"
                                 ],
-                                "sections": [
-                                    {
-                                        "name": "Invisible Stone",
-                                        "access_rules": [
-                                            "^$RF4Access|1851595"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851595"
-                                        ],
-                                        "item_count": 1
-                                    }
+                                "visibility_rules": [
+                                    "$RF4Visible|1851595"
                                 ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire South",
-                                        "x": 141,
-                                        "y": 295,
-                                        "size": 6
-                                    }
-                                ]
-                            },
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
                             {
-                                "name": "A1",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "Penetrate Sonic Lv.5",
-                                        "access_rules": [
-                                            "^$RF4Access|1851596"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851596"
-                                        ],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire South",
-                                        "x": 271,
-                                        "y": 56,
-                                        "size": 6
-                                    }
-                                ]
-                            },
+                                "map": "Floating Empire South",
+                                "x": 141,
+                                "y": 295,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest A1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
                             {
-                                "name": "A3",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
+                                "name": "Penetrate Sonic Lv.5",
                                 "access_rules": [
-                                    " "
+                                    "^$RF4Access|1851596"
                                 ],
-                                "sections": [
-                                    {
-                                        "name": "Tornado Swing Lv.1",
-                                        "access_rules": [
-                                            "^$RF4Access|1851597"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851597"
-                                        ],
-                                        "item_count": 1
-                                    }
+                                "visibility_rules": [
+                                    "$RF4Visible|1851596"
                                 ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire South",
-                                        "x": 407,
-                                        "y": 56,
-                                        "size": 6
-                                    }
-                                ]
-                            },
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
                             {
-                                "name": "C3",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "Platinum",
-                                        "access_rules": [
-                                            "^$RF4Access|1851598"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851598"
-                                        ],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire South",
-                                        "x": 402,
-                                        "y": 176,
-                                        "size": 6
-                                    }
-                                ]
-                            },
+                                "map": "Floating Empire South",
+                                "x": 271,
+                                "y": 56,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest A3",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
                             {
-                                "name": "E7",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
+                                "name": "Tornado Swing Lv.1",
                                 "access_rules": [
-                                    " "
+                                    "^$RF4Access|1851597"
                                 ],
-                                "sections": [
-                                    {
-                                        "name": "Green Core",
-                                        "access_rules": [
-                                            "^$RF4Access|1851599"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851599"
-                                        ],
-                                        "item_count": 1
-                                    }
+                                "visibility_rules": [
+                                    "$RF4Visible|1851597"
                                 ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire South",
-                                        "x": 537,
-                                        "y": 295,
-                                        "size": 6
-                                    }
-                                ]
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Floating Empire South",
+                                "x": 407,
+                                "y": 56,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest C3",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Platinum",
+                                "access_rules": [
+                                    "^$RF4Access|1851598"
+                                ],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851598"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Floating Empire South",
+                                "x": 402,
+                                "y": 176,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest E7",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Green Core",
+                                "access_rules": [
+                                    "^$RF4Access|1851599"
+                                ],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851599"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Floating Empire South",
+                                "x": 537,
+                                "y": 295,
+                                "size": 6
                             }
                         ]
                     }
@@ -865,236 +843,225 @@
                         ]
                     },
                     {
-                        "name": "Chest",
+                        "name": "Chest D3",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
                         ],
-                        "children": [
+                        "sections": [
                             {
-                                "name": "D3",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
+                                "name": "Platinum",
                                 "access_rules": [
-                                    " "
+                                    "^$RF4Access|1851608"
                                 ],
-                                "sections": [
-                                    {
-                                        "name": "Platinum",
-                                        "access_rules": [
-                                            "^$RF4Access|1851608"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851608"
-                                        ],
-                                        "item_count": 1
-                                    }
+                                "visibility_rules": [
+                                    "$RF4Visible|1851608"
                                 ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire East",
-                                        "x": 207,
-                                        "y": 259,
-                                        "size": 6
-                                    }
-                                ]
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Floating Empire East",
+                                "x": 207,
+                                "y": 259,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest B2",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Curry Udon",
+                                "access_rules": [
+                                    "^$RF4Access|1851609"
+                                ],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851609"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Floating Empire East",
+                                "x": 285,
+                                "y": 135,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest F2",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Double Steel",
+                                "access_rules": [
+                                    "^$RF4Access|1851610"
+                                ],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851610"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Floating Empire East",
+                                "x": 275,
+                                "y": 384,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest E5",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Grand Impact Lv.1",
+                                "access_rules": [
+                                    "^$RF4Access|1851611"
+                                ],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851611"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Floating Empire East",
+                                "x": 478,
+                                "y": 322,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest F3",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Small Crystal",
+                                "access_rules": [
+                                    "^$RF4Access|1851612"
+                                ],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851612"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Floating Empire East",
+                                "x": 343,
+                                "y": 384,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest C1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Avenger Rock Lv.5",
+                                "access_rules": [
+                                    "^$RF4Access|1851613"
+                                ],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851613"
+                                ],
+                                "item_count": 1
                             },
                             {
-                                "name": "B2",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
+                                "name": "Round Break Lv.1",
                                 "access_rules": [
-                                    " "
+                                    "^$RF4Access|1851614"
                                 ],
-                                "sections": [
-                                    {
-                                        "name": "Curry Udon",
-                                        "access_rules": [
-                                            "^$RF4Access|1851609"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851609"
-                                        ],
-                                        "item_count": 1
-                                    }
+                                "visibility_rules": [
+                                    "$RF4Visible|1851614"
                                 ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire East",
-                                        "x": 285,
-                                        "y": 135,
-                                        "size": 6
-                                    }
-                                ]
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Floating Empire East",
+                                "x": 140,
+                                "y": 197,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest C6",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Gold Cabbage Seed + Gold Pumpkin Seed + Gold Potato Seed",
+                                "access_rules": [
+                                    "^$RF4Access|1851615"
+                                ],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851615"
+                                ],
+                                "item_count": 1
                             },
                             {
-                                "name": "F2",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
+                                "name": "Miracle Axe Recipe",
                                 "access_rules": [
-                                    " "
+                                    "^$RF4Access|1851616"
                                 ],
-                                "sections": [
-                                    {
-                                        "name": "Double Steel",
-                                        "access_rules": [
-                                            "^$RF4Access|1851610"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851610"
-                                        ],
-                                        "item_count": 1
-                                    }
+                                "visibility_rules": [
+                                    "$RF4Visible|1851616"
                                 ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire East",
-                                        "x": 275,
-                                        "y": 384,
-                                        "size": 6
-                                    }
-                                ]
-                            },
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
                             {
-                                "name": "E5",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "Grand Impact Lv.1",
-                                        "access_rules": [
-                                            "^$RF4Access|1851611"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851611"
-                                        ],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire East",
-                                        "x": 478,
-                                        "y": 322,
-                                        "size": 6
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "F3",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "Small Crystal",
-                                        "access_rules": [
-                                            "^$RF4Access|1851612"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851612"
-                                        ],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire East",
-                                        "x": 343,
-                                        "y": 384,
-                                        "size": 6
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "C1",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "Avenger Rock Lv.5",
-                                        "access_rules": [
-                                            "^$RF4Access|1851613"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851613"
-                                        ],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "Round Break Lv.1",
-                                        "access_rules": [
-                                            "^$RF4Access|1851614"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851614"
-                                        ],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire East",
-                                        "x": 140,
-                                        "y": 197,
-                                        "size": 6
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "C6",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
-                                "access_rules": [
-                                    " "
-                                ],
-                                "sections": [
-                                    {
-                                        "name": "Gold Cabbage Seed + Gold Pumpkin Seed + Gold Potato Seed",
-                                        "access_rules": [
-                                            "^$RF4Access|1851615"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851615"
-                                        ],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "Miracle Axe Recipe",
-                                        "access_rules": [
-                                            "^$RF4Access|1851616"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851616"
-                                        ],
-                                        "item_count": 1
-                                    }
-                                ],
-                                "map_locations": [
-                                    {
-                                        "map": "Floating Empire East",
-                                        "x": 614,
-                                        "y": 197,
-                                        "size": 6
-                                    }
-                                ]
+                                "map": "Floating Empire East",
+                                "x": 614,
+                                "y": 197,
+                                "size": 6
                             }
                         ]
                     }

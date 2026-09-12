@@ -377,246 +377,235 @@
                 ]
             },
             {
-                "name": "Chest",
+                "name": "Chest C7",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "C7",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
+                        "name": "Stardust Upper Lv.1",
                         "access_rules": [
-                            " "
+                            "^$RF4Access|1851544"
                         ],
-                        "sections": [
-                            {
-                                "name": "Stardust Upper Lv.1",
-                                "access_rules": [
-                                    "^$RF4Access|1851544"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851544"
-                                ],
-                                "item_count": 1
-                            }
+                        "visibility_rules": [
+                            "$RF4Visible|1851544"
                         ],
-                        "map_locations": [
-                            {
-                                "map": "Sercerezo Hill",
-                                "x": 502,
-                                "y": 288,
-                                "size": 6
-                            }
-                        ]
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sercerezo Hill",
+                        "x": 502,
+                        "y": 288,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Shine Lv. 3",
+                        "access_rules": [
+                            "^$RF4Access|1851545"
+                        ],
+                        "visibility_rules": [
+                            "$RF4Visible|1851545"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sercerezo Hill",
+                        "x": 56,
+                        "y": 319,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest C6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Silver Staff",
+                        "access_rules": [
+                            "^$RF4Access|1851546"
+                        ],
+                        "visibility_rules": [
+                            "$RF4Visible|1851546"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sercerezo Hill",
+                        "x": 423,
+                        "y": 288,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest D4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "12250G",
+                        "access_rules": [
+                            "^$RF4Access|1851547"
+                        ],
+                        "visibility_rules": [
+                            "$RF4Visible|1851547"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sercerezo Hill",
+                        "x": 345,
+                        "y": 359,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest D5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Scaled Vest",
+                        "access_rules": [
+                            "^$RF4Access|1851548"
+                        ],
+                        "visibility_rules": [
+                            "$RF4Visible|1851548"
+                        ],
+                        "item_count": 1
                     },
                     {
-                        "name": "C1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
+                        "name": "Storm Lv.1",
                         "access_rules": [
-                            " "
+                            "^$RF4Access|1851549"
                         ],
-                        "sections": [
-                            {
-                                "name": "Shine Lv. 3",
-                                "access_rules": [
-                                    "^$RF4Access|1851545"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851545"
-                                ],
-                                "item_count": 1
-                            }
+                        "visibility_rules": [
+                            "$RF4Visible|1851549"
                         ],
-                        "map_locations": [
-                            {
-                                "map": "Sercerezo Hill",
-                                "x": 56,
-                                "y": 319,
-                                "size": 6
-                            }
-                        ]
+                        "item_count": 1
                     },
                     {
-                        "name": "C6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
+                        "name": "Grilled Shrimp + Grape Liqueur",
                         "access_rules": [
-                            " "
+                            "^$RF4Access|1851550"
                         ],
-                        "sections": [
-                            {
-                                "name": "Silver Staff",
-                                "access_rules": [
-                                    "^$RF4Access|1851546"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851546"
-                                ],
-                                "item_count": 1
-                            }
+                        "visibility_rules": [
+                            "$RF4Visible|1851550"
                         ],
-                        "map_locations": [
-                            {
-                                "map": "Sercerezo Hill",
-                                "x": 423,
-                                "y": 288,
-                                "size": 6
-                            }
-                        ]
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sercerezo Hill",
+                        "x": 427,
+                        "y": 375,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest A2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Cherry Grass Seeds x4 + Strawberry Seeds x4",
+                        "access_rules": [
+                            "^$RF4Access|1851655"
+                        ],
+                        "visibility_rules": [
+                            "$RF4Visible|1851655"
+                        ],
+                        "item_count": 1
                     },
                     {
-                        "name": "D4",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
+                        "name": "Strawberry Seeds x$",
                         "access_rules": [
-                            " "
+                            "^$RF4Access|1851656"
                         ],
-                        "sections": [
-                            {
-                                "name": "12250G",
-                                "access_rules": [
-                                    "^$RF4Access|1851547"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851547"
-                                ],
-                                "item_count": 1
-                            }
+                        "visibility_rules": [
+                            "$RF4Visible|1851656"
                         ],
-                        "map_locations": [
-                            {
-                                "map": "Sercerezo Hill",
-                                "x": 345,
-                                "y": 359,
-                                "size": 6
-                            }
-                        ]
-                    },
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "D5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Scaled Vest",
-                                "access_rules": [
-                                    "^$RF4Access|1851548"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851548"
-                                ],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Storm Lv.1",
-                                "access_rules": [
-                                    "^$RF4Access|1851549"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851549"
-                                ],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Grilled Shrimp + Grape Liqueur",
-                                "access_rules": [
-                                    "^$RF4Access|1851550"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851550"
-                                ],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Sercerezo Hill",
-                                "x": 427,
-                                "y": 375,
-                                "size": 6
-                            }
-                        ]
-                    },
+                        "map": "Sercerezo Hill",
+                        "x": 275,
+                        "y": 153,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
                     {
-                        "name": "A2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
+                        "name": "Medipoison",
                         "access_rules": [
-                            " "
+                            "^$RF4Access|1851667"
                         ],
-                        "sections": [
-                            {
-                                "name": "Cherry Grass Seeds x4 + Strawberry Seeds x4",
-                                "access_rules": [
-                                    "^$RF4Access|1851655"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851655"
-                                ],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Strawberry Seeds x$",
-                                "access_rules": [
-                                    "^$RF4Access|1851656"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851656"
-                                ],
-                                "item_count": 1
-                            }
+                        "visibility_rules": [
+                            "$RF4Visible|1851667"
                         ],
-                        "map_locations": [
-                            {
-                                "map": "Sercerezo Hill",
-                                "x": 275,
-                                "y": 153,
-                                "size": 6
-                            }
-                        ]
-                    },
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "B2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Medipoison",
-                                "access_rules": [
-                                    "^$RF4Access|1851667"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851667"
-                                ],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Sercerezo Hill",
-                                "x": 312,
-                                "y": 231,
-                                "size": 6
-                            }
-                        ]
+                        "map": "Sercerezo Hill",
+                        "x": 312,
+                        "y": 231,
+                        "size": 6
                     }
                 ]
             },
@@ -743,22 +732,22 @@
                         "ref": "Idra Cave/B2/Shipment/Earth Spike"
                     },
                     {
-                        "ref": "Idra Cave/B2/Chest/F3/Wind Edge"
+                        "ref": "Idra Cave/B2/Chest F3/Wind Edge"
                     },
                     {
-                        "ref": "Idra Cave/B2/Chest/F2/Mystery Potion x4"
+                        "ref": "Idra Cave/B2/Chest F2/Mystery Potion x4"
                     },
                     {
-                        "ref": "Idra Cave/B2/Chest/D1/Double Sonic Lv.3"
+                        "ref": "Idra Cave/B2/Chest D1/Double Sonic Lv.3"
                     },
                     {
-                        "ref": "Idra Cave/B2/Chest/D3/Gold Bracelet"
+                        "ref": "Idra Cave/B2/Chest D3/Gold Bracelet"
                     },
                     {
-                        "ref": "Idra Cave/B2/Chest/E5/Choco Cookie"
+                        "ref": "Idra Cave/B2/Chest E5/Choco Cookie"
                     },
                     {
-                        "ref": "Idra Cave/B2/Chest/E4/Earth Spike Lv.3"
+                        "ref": "Idra Cave/B2/Chest E4/Earth Spike Lv.3"
                     },
                     {
                         "ref": "Idra Cave/B1/Shipment/Millionstrike"
@@ -767,25 +756,25 @@
                         "ref": "Idra Cave/B1/Shipment/Mind Thrust"
                     },
                     {
-                        "ref": "Idra Cave/B1/Chest/C1/Empty...?"
+                        "ref": "Idra Cave/B1/Chest C1/Empty...?"
                     },
                     {
-                        "ref": "Idra Cave/B1/Chest/C1/Mind Thrust Lv. 1"
+                        "ref": "Idra Cave/B1/Chest C1/Mind Thrust Lv. 1"
                     },
                     {
-                        "ref": "Idra Cave/B1/Chest/D3/Mediparalyze Lv.1"
+                        "ref": "Idra Cave/B1/Chest D3/Mediparalyze Lv.1"
                     },
                     {
-                        "ref": "Idra Cave/B1/Chest/A1/12600G"
+                        "ref": "Idra Cave/B1/Chest A1/12600G"
                     },
                     {
-                        "ref": "Idra Cave/B1/Chest/A7/Orange Ribbon"
+                        "ref": "Idra Cave/B1/Chest A7/Orange Ribbon"
                     },
                     {
-                        "ref": "Idra Cave/B1/Chest/B5/Sapphire Rod"
+                        "ref": "Idra Cave/B1/Chest B5/Sapphire Rod"
                     },
                     {
-                        "ref": "Idra Cave/B1/Chest/C6/Millionstrike Lv.1"
+                        "ref": "Idra Cave/B1/Chest C6/Millionstrike Lv.1"
                     },
                     {
                         "ref": "Idra Cave/Tame/Daemon"
@@ -945,7 +934,7 @@
                         "ref": "Demons Den/Shipment/Sword Seed"
                     },
                     {
-                        "ref": "Demons Den/Chest/A1/Healing Potion x4"
+                        "ref": "Demons Den/Chest A1/Healing Potion x4"
                     },
                     {
                         "ref": "Demons Den/Tame/Boss - Magnuto"

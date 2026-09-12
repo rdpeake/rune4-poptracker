@@ -158,198 +158,187 @@
                         ]
                     },
                     {
-                        "name": "Chest",
+                        "name": "Chest F8",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
                             " "
                         ],
-                        "children": [
+                        "sections": [
                             {
-                                "name": "F8",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
+                                "name": "Vest",
                                 "access_rules": [
-                                    " "
+                                    "^$RF4Access|1851505"
                                 ],
-                                "sections": [
-                                    {
-                                        "name": "Vest",
-                                        "access_rules": [
-                                            "^$RF4Access|1851505"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851505"
-                                        ],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "Salmon Sashimi + Bamboo Rice",
-                                        "access_rules": [
-                                            "^$RF4Access|1851506"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851506"
-                                        ],
-                                        "item_count": 1
-                                    }
+                                "visibility_rules": [
+                                    "$RF4Visible|1851505"
                                 ],
-                                "map_locations": [
-                                    {
-                                        "map": "Autumn Road",
-                                        "x": 571,
-                                        "y": 317,
-                                        "size": 6
-                                    }
-                                ]
+                                "item_count": 1
                             },
                             {
-                                "name": "G12",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
+                                "name": "Salmon Sashimi + Bamboo Rice",
                                 "access_rules": [
-                                    " "
+                                    "^$RF4Access|1851506"
                                 ],
-                                "sections": [
-                                    {
-                                        "name": "Leveliser",
-                                        "access_rules": [
-                                            "^$RF4Access|1851507"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851507"
-                                        ],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "Boiled Gyoza Recipe",
-                                        "access_rules": [
-                                            "^$RF4Access|1851508"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851508"
-                                        ],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "Sacred Pole Recipe",
-                                        "access_rules": [
-                                            "^$RF4Access|1851509"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851509"
-                                        ],
-                                        "item_count": 1
-                                    },
-                                    {
-                                        "name": "Relax Tea",
-                                        "access_rules": [
-                                            "^$RF4Access|1851510"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851510"
-                                        ],
-                                        "item_count": 1
-                                    }
+                                "visibility_rules": [
+                                    "$RF4Visible|1851506"
                                 ],
-                                "map_locations": [
-                                    {
-                                        "map": "Autumn Road",
-                                        "x": 618,
-                                        "y": 325,
-                                        "size": 6
-                                    }
-                                ]
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Autumn Road",
+                                "x": 571,
+                                "y": 317,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest G12",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Leveliser",
+                                "access_rules": [
+                                    "^$RF4Access|1851507"
+                                ],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851507"
+                                ],
+                                "item_count": 1
                             },
                             {
-                                "name": "C5",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
+                                "name": "Boiled Gyoza Recipe",
                                 "access_rules": [
-                                    " "
+                                    "^$RF4Access|1851508"
                                 ],
-                                "sections": [
-                                    {
-                                        "name": "Black Ribbon",
-                                        "access_rules": [
-                                            "^$RF4Access|1851513"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851513"
-                                        ],
-                                        "item_count": 1
-                                    }
+                                "visibility_rules": [
+                                    "$RF4Visible|1851508"
                                 ],
-                                "map_locations": [
-                                    {
-                                        "map": "Autumn Road",
-                                        "x": 502,
-                                        "y": 205,
-                                        "size": 6
-                                    }
-                                ]
+                                "item_count": 1
                             },
                             {
-                                "name": "D1",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
+                                "name": "Sacred Pole Recipe",
                                 "access_rules": [
-                                    " "
+                                    "^$RF4Access|1851509"
                                 ],
-                                "sections": [
-                                    {
-                                        "name": "Gust Lv.1",
-                                        "access_rules": [
-                                            "^$RF4Access|1851543"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851543"
-                                        ],
-                                        "item_count": 1
-                                    }
+                                "visibility_rules": [
+                                    "$RF4Visible|1851509"
                                 ],
-                                "map_locations": [
-                                    {
-                                        "map": "Autumn Road",
-                                        "x": 394,
-                                        "y": 221,
-                                        "size": 6
-                                    }
-                                ]
+                                "item_count": 1
                             },
                             {
-                                "name": "E1",
-                                "chest_unopened_img": "/images/items/close.png",
-                                "chest_opened_img": "/images/items/open.png",
-                                "overlay_background": "#000000",
+                                "name": "Relax Tea",
                                 "access_rules": [
-                                    " "
+                                    "^$RF4Access|1851510"
                                 ],
-                                "sections": [
-                                    {
-                                        "name": "Leek Seeds x4",
-                                        "access_rules": [
-                                            "^$RF4Access|1851660"
-                                        ],
-                                        "visibility_rules": [
-                                            "$RF4Visible|1851660"
-                                        ],
-                                        "item_count": 1
-                                    }
+                                "visibility_rules": [
+                                    "$RF4Visible|1851510"
                                 ],
-                                "map_locations": [
-                                    {
-                                        "map": "Autumn Road",
-                                        "x": 60,
-                                        "y": 242,
-                                        "size": 6
-                                    }
-                                ]
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Autumn Road",
+                                "x": 618,
+                                "y": 325,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest C5",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Black Ribbon",
+                                "access_rules": [
+                                    "^$RF4Access|1851513"
+                                ],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851513"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Autumn Road",
+                                "x": 502,
+                                "y": 205,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest D1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Gust Lv.1",
+                                "access_rules": [
+                                    "^$RF4Access|1851543"
+                                ],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851543"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Autumn Road",
+                                "x": 394,
+                                "y": 221,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chest E1",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Leek Seeds x4",
+                                "access_rules": [
+                                    "^$RF4Access|1851660"
+                                ],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851660"
+                                ],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Autumn Road",
+                                "x": 60,
+                                "y": 242,
+                                "size": 6
                             }
                         ]
                     }
@@ -755,285 +744,274 @@
                 ]
             },
             {
-                "name": "Chest",
+                "name": "Chest D6",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "D6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
+                        "name": "Shirt",
                         "access_rules": [
-                            " "
+                            "^$RF4Access|1851491"
                         ],
-                        "sections": [
-                            {
-                                "name": "Shirt",
-                                "access_rules": [
-                                    "^$RF4Access|1851491"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851491"
-                                ],
-                                "item_count": 1
-                            }
+                        "visibility_rules": [
+                            "$RF4Visible|1851491"
                         ],
-                        "map_locations": [
-                            {
-                                "map": "Selphia Plains",
-                                "x": 486,
-                                "y": 277,
-                                "size": 6
-                            }
-                        ]
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia Plains",
+                        "x": 486,
+                        "y": 277,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest D1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Antidote Grass x3",
+                        "access_rules": [
+                            "^$RF4Access|1851492"
+                        ],
+                        "visibility_rules": [
+                            "$RF4Visible|1851492"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia Plains",
+                        "x": 137,
+                        "y": 285,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest E5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Spear + Iron Shield",
+                        "access_rules": [
+                            "^$RF4Access|1851493"
+                        ],
+                        "visibility_rules": [
+                            "$RF4Visible|1851493"
+                        ],
+                        "item_count": 1
                     },
                     {
-                        "name": "D1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
+                        "name": "3x iron + Bronze",
                         "access_rules": [
-                            " "
+                            "^$RF4Access|1851494"
                         ],
-                        "sections": [
-                            {
-                                "name": "Antidote Grass x3",
-                                "access_rules": [
-                                    "^$RF4Access|1851492"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851492"
-                                ],
-                                "item_count": 1
-                            }
+                        "visibility_rules": [
+                            "$RF4Visible|1851494"
                         ],
-                        "map_locations": [
-                            {
-                                "map": "Selphia Plains",
-                                "x": 137,
-                                "y": 285,
-                                "size": 6
-                            }
-                        ]
+                        "item_count": 1
                     },
                     {
-                        "name": "E5",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
+                        "name": "4x Recovery Potion",
                         "access_rules": [
-                            " "
+                            "^$RF4Access|1851495"
                         ],
-                        "sections": [
-                            {
-                                "name": "Spear + Iron Shield",
-                                "access_rules": [
-                                    "^$RF4Access|1851493"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851493"
-                                ],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "3x iron + Bronze",
-                                "access_rules": [
-                                    "^$RF4Access|1851494"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851494"
-                                ],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "4x Recovery Potion",
-                                "access_rules": [
-                                    "^$RF4Access|1851495"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851495"
-                                ],
-                                "item_count": 1
-                            }
+                        "visibility_rules": [
+                            "$RF4Visible|1851495"
                         ],
-                        "map_locations": [
-                            {
-                                "map": "Selphia Plains",
-                                "x": 487,
-                                "y": 330,
-                                "size": 6
-                            }
-                        ]
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia Plains",
+                        "x": 487,
+                        "y": 330,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest B2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Power Wave Lv.1",
+                        "access_rules": [
+                            "^$RF4Access|1851496"
+                        ],
+                        "visibility_rules": [
+                            "$RF4Visible|1851496"
+                        ],
+                        "item_count": 1
                     },
                     {
-                        "name": "B2",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
+                        "name": "Toy Herb Seed x4",
                         "access_rules": [
-                            " "
+                            "^$RF4Access|1851497"
                         ],
-                        "sections": [
-                            {
-                                "name": "Power Wave Lv.1",
-                                "access_rules": [
-                                    "^$RF4Access|1851496"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851496"
-                                ],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Toy Herb Seed x4",
-                                "access_rules": [
-                                    "^$RF4Access|1851497"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851497"
-                                ],
-                                "item_count": 1
-                            }
+                        "visibility_rules": [
+                            "$RF4Visible|1851497"
                         ],
-                        "map_locations": [
-                            {
-                                "map": "Selphia Plains",
-                                "x": 154,
-                                "y": 194,
-                                "size": 6
-                            }
-                        ]
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia Plains",
+                        "x": 154,
+                        "y": 194,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest C1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Reaper Slash Lv.1",
+                        "access_rules": [
+                            "^$RF4Access|1851504"
+                        ],
+                        "visibility_rules": [
+                            "$RF4Visible|1851504"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia Plains",
+                        "x": 73,
+                        "y": 213,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest E6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "800G",
+                        "access_rules": [
+                            "^$RF4Access|1851645"
+                        ],
+                        "visibility_rules": [
+                            "$RF4Visible|1851645"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia Plains",
+                        "x": 554,
+                        "y": 368,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest G3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Upper Cut Lv.1",
+                        "access_rules": [
+                            "^$RF4Access|1851646"
+                        ],
+                        "visibility_rules": [
+                            "$RF4Visible|1851646"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Selphia Plains",
+                        "x": 553,
+                        "y": 449,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chest B1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Turnip Seed x4",
+                        "access_rules": [
+                            "^$RF4Access|1851657"
+                        ],
+                        "visibility_rules": [
+                            "$RF4Visible|1851657"
+                        ],
+                        "item_count": 1
                     },
                     {
-                        "name": "C1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
+                        "name": "Toy Herb Seed x4",
                         "access_rules": [
-                            " "
+                            "^$RF4Access|1851658"
                         ],
-                        "sections": [
-                            {
-                                "name": "Reaper Slash Lv.1",
-                                "access_rules": [
-                                    "^$RF4Access|1851504"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851504"
-                                ],
-                                "item_count": 1
-                            }
+                        "visibility_rules": [
+                            "$RF4Visible|1851658"
                         ],
-                        "map_locations": [
-                            {
-                                "map": "Selphia Plains",
-                                "x": 73,
-                                "y": 213,
-                                "size": 6
-                            }
-                        ]
-                    },
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "E6",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "800G",
-                                "access_rules": [
-                                    "^$RF4Access|1851645"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851645"
-                                ],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Selphia Plains",
-                                "x": 554,
-                                "y": 368,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "G3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Upper Cut Lv.1",
-                                "access_rules": [
-                                    "^$RF4Access|1851646"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851646"
-                                ],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Selphia Plains",
-                                "x": 553,
-                                "y": 449,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "Turnip Seed x4",
-                                "access_rules": [
-                                    "^$RF4Access|1851657"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851657"
-                                ],
-                                "item_count": 1
-                            },
-                            {
-                                "name": "Toy Herb Seed x4",
-                                "access_rules": [
-                                    "^$RF4Access|1851658"
-                                ],
-                                "visibility_rules": [
-                                    "$RF4Visible|1851658"
-                                ],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Selphia Plains",
-                                "x": 92,
-                                "y": 150,
-                                "size": 6
-                            }
-                        ]
+                        "map": "Selphia Plains",
+                        "x": 92,
+                        "y": 150,
+                        "size": 6
                     }
                 ]
             },
@@ -1288,25 +1266,25 @@
                         "ref": "Water Ruins/Shipment/Water Laser"
                     },
                     {
-                        "ref": "Water Ruins/Chest/D6/Blue Ribbon"
+                        "ref": "Water Ruins/Chest D6/Blue Ribbon"
                     },
                     {
-                        "ref": "Water Ruins/Chest/C2/Aquamarine + Bronze"
+                        "ref": "Water Ruins/Chest C2/Aquamarine + Bronze"
                     },
                     {
-                        "ref": "Water Ruins/Chest/C7/Rod"
+                        "ref": "Water Ruins/Chest C7/Rod"
                     },
                     {
-                        "ref": "Water Ruins/Chest/C1/Water Laser Lv.1"
+                        "ref": "Water Ruins/Chest C1/Water Laser Lv.1"
                     },
                     {
-                        "ref": "Water Ruins/Chest/A3/Battle Axe"
+                        "ref": "Water Ruins/Chest A3/Battle Axe"
                     },
                     {
-                        "ref": "Water Ruins/Chest/A3/Para-Gone + Roundoff"
+                        "ref": "Water Ruins/Chest A3/Para-Gone + Roundoff"
                     },
                     {
-                        "ref": "Water Ruins/Chest/C4/Recovery Potion x4"
+                        "ref": "Water Ruins/Chest C4/Recovery Potion x4"
                     },
                     {
                         "ref": "Water Ruins/Tame/Boss - Chimera"
@@ -1508,37 +1486,37 @@
                         "ref": "Yokmir Forest/Cave/F3/Shipment/Dash Slash"
                     },
                     {
-                        "ref": "Yokmir Forest/Cave/F3/Chest/E2/Bronze Bracelet + Staff"
+                        "ref": "Yokmir Forest/Cave/F3/Chest E2/Bronze Bracelet + Staff"
                     },
                     {
-                        "ref": "Yokmir Forest/Cave/F3/Chest/D4/Bronze x3 + Silver"
+                        "ref": "Yokmir Forest/Cave/F3/Chest D4/Bronze x3 + Silver"
                     },
                     {
-                        "ref": "Yokmir Forest/Cave/F3/Chest/B1/Yam Seeds x4"
+                        "ref": "Yokmir Forest/Cave/F3/Chest B1/Yam Seeds x4"
                     },
                     {
-                        "ref": "Yokmir Forest/Cave/F3/Chest/A1/Dash Slash Lv.1"
+                        "ref": "Yokmir Forest/Cave/F3/Chest A1/Dash Slash Lv.1"
                     },
                     {
                         "ref": "Yokmir Forest/Cave/F2/Shipment/Sonic Wind"
                     },
                     {
-                        "ref": "Yokmir Forest/Cave/F2/Chest/C2/Recovery Potion x2 + Para-Gone + Cotton Cloth"
+                        "ref": "Yokmir Forest/Cave/F2/Chest C2/Recovery Potion x2 + Para-Gone + Cotton Cloth"
                     },
                     {
-                        "ref": "Yokmir Forest/Cave/F2/Chest/D4/Sonic Wind Lv.1"
+                        "ref": "Yokmir Forest/Cave/F2/Chest D4/Sonic Wind Lv.1"
                     },
                     {
-                        "ref": "Yokmir Forest/Cave/F2/Chest/A1/Onigiri + Salmon Onigiri"
+                        "ref": "Yokmir Forest/Cave/F2/Chest A1/Onigiri + Salmon Onigiri"
                     },
                     {
-                        "ref": "Yokmir Forest/Cave/F1/Chest/A/3630G"
+                        "ref": "Yokmir Forest/Cave/F1/Chest A/3630G"
                     },
                     {
-                        "ref": "Yokmir Forest/Cave/F1/Chest/A/Recovery Potion x2 + Porridge"
+                        "ref": "Yokmir Forest/Cave/F1/Chest A/Recovery Potion x2 + Porridge"
                     },
                     {
-                        "ref": "Yokmir Forest/Cave/F1/Chest/E/Para-gone x2 + Antidote Potion x2"
+                        "ref": "Yokmir Forest/Cave/F1/Chest E/Para-gone x2 + Antidote Potion x2"
                     },
                     {
                         "ref": "Yokmir Forest/Cave/Tame/High Orc"
@@ -1559,16 +1537,16 @@
                         "ref": "Yokmir Forest/Cave/Tame/Silver Wolf"
                     },
                     {
-                        "ref": "Yokmir Forest/Chest/C1/Potion x3"
+                        "ref": "Yokmir Forest/Chest C1/Potion x3"
                     },
                     {
-                        "ref": "Yokmir Forest/Chest/D3/Leather boot"
+                        "ref": "Yokmir Forest/Chest D3/Leather boot"
                     },
                     {
-                        "ref": "Yokmir Forest/Chest/C4/Turnip Seed x4"
+                        "ref": "Yokmir Forest/Chest C4/Turnip Seed x4"
                     },
                     {
-                        "ref": "Yokmir Forest/Chest/D1/Small Shield"
+                        "ref": "Yokmir Forest/Chest D1/Small Shield"
                     },
                     {
                         "ref": "Yokmir Forest/Tame/Boss - Ambrosia"

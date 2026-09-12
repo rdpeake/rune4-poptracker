@@ -95,8 +95,13 @@ def owning_file():
         def walk(nodes, trail):
             for nd in nodes:
                 here = trail + [str(nd.get('name') or '')]
+                # A chest pin is named "Chest <room>", so this asks whether
+                # any step of the trail IS a chest -- not by substring, since
+                # the pack has sections like "Boss - Chest Hair".
                 if not generated(nd) and (here[-1] in ('Shipment', 'Tame')
-                                          or 'Chest' in here):
+                                          or any(h == 'Chest' or
+                                                 h.startswith('Chest ')
+                                                 for h in here)):
                     for m in (nd.get('map_locations') or []):
                         anchor[m['map']][fname] += 1
                 walk(nd.get('children') or [], here)
@@ -318,6 +323,9 @@ def main():
     print('  on an aggregate    %4d' % (len(meta) - placed_n))
     print('location files       %4d' % len(by_file))
     print('mapping entries new  %4d' % len(added))
+    # skipping move_pins silently undoes 324 placements; it once shipped that way
+    print('pins are at raw room positions -- finish with '
+          'tools/move_pins.py --write')
 
 
 if __name__ == '__main__':

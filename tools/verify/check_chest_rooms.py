@@ -130,6 +130,10 @@ def main():
             crossed.append((row['APID'], row['Room Code'], row['Items'], None))
             continue
         node, section = path.split('/')[-1], apid_section[int(row['APID'], 16)]
+        # The pin is named "Chest G11" so its tooltip says what it is; the
+        # sheet's Room Code is the bare "G11" this compares against.
+        if node.startswith('Chest '):
+            node = node[len('Chest '):]
         if section.strip() != row['Items'].strip():
             crossed.append((row['APID'], row['Room Code'], row['Items'],
                             '%s / %s' % (node, section)))
