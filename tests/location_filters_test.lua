@@ -52,10 +52,17 @@ local function anyWith(meta, want)
 end
 local ship_t9  = anyWith(RF4_SHIP_TIER, 9)
 local ship_t8  = anyWith(RF4_SHIP_TIER, 8)
+local ship_t10 = anyWith(RF4_SHIP_TIER, 10)
 local tame_t9  = anyWith(RF4_TAME_TIER, 9)
 local tame_t10 = anyWith(RF4_TAME_TIER, 10)
 local friend6  = anyWith(RF4_FRIEND_TIER, 6)
 local friend7  = anyWith(RF4_FRIEND_TIER, 7)
+local chest_t9  = anyWith(RF4_CHEST_TIER, 9)
+local chest_t10 = anyWith(RF4_CHEST_TIER, 10)
+-- a barrier/box/search in a region the apworld tiers above the default cap,
+-- and one below it
+local region_hi, region_lo = anyWith(RF4_REGION_TIER, 11), anyWith(RF4_REGION_TIER, 5)
+local absent_id = next(RF4_ABSENT)
 
 -- == offline: the pack's own settings answer ==============================
 print("\n== offline, defaults (max tier 9, max friend 6) ==")
@@ -67,10 +74,15 @@ item("opt_maxsell").AcquiredCount = 500   -- thousands; 500000 G
 item("opt_grocerysanity").Active = true
 item("opt_outfitsanity").Active = false
 
-check("shipment at tier 8 visible (cut is >=)", 1, RF4Visible(ship_t8))
-check("shipment at tier 9 hidden  (cut is >=)", 0, RF4Visible(ship_t9))
-check("tame at tier 9 visible     (cut is >)",  1, RF4Visible(tame_t9))
-check("tame at tier 10 hidden     (cut is >)",  0, RF4Visible(tame_t10))
+check("shipment at tier 8 visible  (cut is >)", 1, RF4Visible(ship_t8))
+check("shipment at tier 9 visible  (cut is >)", 1, RF4Visible(ship_t9))
+check("shipment at tier 10 hidden  (cut is >)", 0, RF4Visible(ship_t10))
+check("tame at tier 9 visible      (cut is >)", 1, RF4Visible(tame_t9))
+check("tame at tier 10 hidden      (cut is >)", 0, RF4Visible(tame_t10))
+check("chest at tier 9 visible     (0.2.4 cuts chests too)", 1, RF4Visible(chest_t9))
+check("chest at tier 10 hidden     (0.2.4 cuts chests too)", 0, RF4Visible(chest_t10))
+check("map object in a tier-5 region visible", 1, RF4Visible(region_lo))
+check("map object in a tier-11 region hidden", 0, RF4Visible(region_hi))
 check("friendship level 6 visible (cut is >)",  1, RF4Visible(friend6))
 check("friendship level 7 hidden  (cut is >)",  0, RF4Visible(friend7))
 check("grocery shown when the toggle is on", 1, RF4Visible(next(RF4_GROCERY_LOC)))
@@ -95,13 +107,17 @@ check("outfit hidden when the toggle is off", 0, RF4Visible(next(RF4_OUTFIT_LOC)
 item("opt_grocerysanity").Active = false
 check("grocery hidden when the toggle is off", 0, RF4Visible(next(RF4_GROCERY_LOC)))
 
+-- apworld 0.2.4 deletes this one from every seed, so it is hidden whatever the
+-- settings say -- and, unlike everything above, whatever a connected room says
+check("the bugged location is hidden offline", 0, RF4Visible(absent_id))
+
 -- == connected: the room's list wins, whatever the settings say ============
 print("\n== connected ==")
 -- a room that kept tiers 1..8 and friendship 1..6, i.e. the defaults
 ALL_LOCATIONS = {}
 for id in pairs(RF4_LOC) do
     local keep = true
-    local t = RF4_SHIP_TIER[id];   if t and t >= 9 then keep = false end
+    local t = RF4_SHIP_TIER[id];   if t and t > 9 then keep = false end
     local tt = RF4_TAME_TIER[id];  if tt and tt > 9 then keep = false end
     local f = RF4_FRIEND_TIER[id]; if f and f > 6 then keep = false end
     if keep then ALL_LOCATIONS[#ALL_LOCATIONS + 1] = id end
@@ -111,10 +127,11 @@ check("slot list accepted", true, BuildSlotLocations())
 -- settings deliberately set wrong; the room must override them
 item("opt_maxshiptier").AcquiredCount = 5
 item("opt_grocerysanity").Active = false
-check("tier 8 visible because the room has it", 1, RF4Visible(ship_t8))
-check("tier 9 hidden because the room lacks it", 0, RF4Visible(ship_t9))
+check("tier 9 visible because the room has it", 1, RF4Visible(ship_t9))
+check("tier 10 hidden because the room lacks it", 0, RF4Visible(ship_t10))
 check("grocery visible despite the toggle being off", 1,
       RF4Visible(next(RF4_GROCERY_LOC)))
+check("the bugged location stays hidden even so", 0, RF4Visible(absent_id))
 
 local applied, unknown = ApplyRoomToPanel()
 check("two values recovered from the room", 2, applied)
@@ -135,9 +152,9 @@ ALL_LOCATIONS = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }
 check("refuses to filter", false, BuildSlotLocations())
 check("SLOT_LOCATIONS cleared", nil, SLOT_LOCATIONS)
 -- falls back to the pack's settings rather than hiding everything; tier is 9
--- again after ApplyRoomToPanel, so tier 8 shows and tier 9 does not
-check("falls back to settings, not to blank", 1, RF4Visible(ship_t8))
-check("and still applies them", 0, RF4Visible(ship_t9))
+-- again after ApplyRoomToPanel, so tier 9 shows and tier 10 does not
+check("falls back to settings, not to blank", 1, RF4Visible(ship_t9))
+check("and still applies them", 0, RF4Visible(ship_t10))
 
 -- == offline again hands the settings back =================================
 print("\n== back offline ==")

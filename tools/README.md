@@ -38,11 +38,11 @@ Every script finds the pack root from its own path, so they run from anywhere.
    of clauses per AP location id.
 2. `apworld/export_location_meta.py` → `scripts/autotracking/location_meta.lua`
    Per-location tier, sell value, friendship level and the grocery/outfit
-   category sets, for the five apworld options that decide the location pool
-   but never reach `fill_slot_data`: `grocerysanity`, `outfitsanity`,
-   `max_ship_tier`, `max_sell_value` and `max_friendship`.
-   Read from the apworld's own CSVs rather than by
-   importing its Python, so this one needs no `BaseClasses` stub. Friendship
+   category sets, for the three apworld options that decide the location pool
+   but never reach `fill_slot_data`: `max_ship_tier`, `max_sell_value` and
+   `max_friendship` (`grocerysanity` and `outfitsanity` do arrive, but the
+   filters must also answer offline). Read from the apworld's own CSVs where
+   they hold the data; the chest and map-object tiers need the import. Friendship
    and outfit locations have no CSV — `Locations.py` generates them from two
    dicts in `game_data.py` — so that module is imported (it depends on nothing
    but `copy`) and the two address formulas are reproduced, then checked
@@ -292,6 +292,40 @@ Charm` is in twice as a Craft. None of them costs anything today: the row that
 wins is the real one in each case, and the shadowed row is non-shipable, so no
 location and no sell value is lost. `Gloves` was the pair that did cost one, and
 upstream split it into `Gloves (Accessory)` and `Gloves (Weapon)`.
+
+### The one it does not match: the region tier gate
+
+apworld 0.2.4 gates barrier, box and search locations on the tier of the region
+they sit in, and writes the comparison round the wrong way:
+
+    if max_tier > region_tiers[data.region]:   del duplicate_data_table[name]
+
+Every other gate in `__init__.py` is `data.tier > max_tier` — drop what is
+*above* the cap. This one drops a location when the *cap* exceeds the
+*region's* tier, so raising `max_ship_tier` takes checks away. At the default
+cap of 9 it deletes 117 of 194 barriers, 159 of 214 boxes and 27 of 28
+searches, leaving only Leon Karnak, Rune Prana and Sharance Maze.
+
+`export_location_meta.py` exports it the way round it was **meant**
+(`region_tiers[region] > max_tier`), which is the one deliberate divergence in
+this file. Reported upstream; when the line is fixed the export needs no
+change. It only affects the offline view — once connected, the slot's own
+location list is what `RF4Visible` answers from, and that is right either way.
+
+### Two it no longer has to match
+
+* `Rules.get_location_rules()` used to `return location_rules,` — a stray
+  trailing comma made it a 1-tuple, so `if name in location_rules` in
+  `set_rules` was never true and all twelve of its rules were dead. 0.2.4
+  dropped the comma; `export_logic.py` emits them, and its `LOCATION_RULES`
+  key set is checked against the apworld's own dict so an upstream edit fails
+  loudly rather than going missing.
+* `Locations.bugged_locs` held one misspelled name, so the guard that deletes
+  it matched nothing and the chest generated anyway. Spelled right in 0.2.4, so
+  AP id 1851575 is now in no seed at all — exported as `RF4_ABSENT`.
+
+Still present and still worked around in `load.py`: searchsanity locations are
+built with `loc_type="box"`, so all 28 come back typed as boxes.
 
 ## Artwork
 

@@ -69,22 +69,39 @@ end
 ---apply slot_data, then correct from the room's own location list
 ---@param slot_data table|nil
 function ApplyLocationOptions(slot_data)
+    SLOT_GIVEN_OPTIONS = {}
     if slot_data then
-        -- The 2026-09-04 apworld sends five more of these than it used to, so
-        -- they no longer have to be inferred from the room's location list.
         -- The pack's code for an option is "opt_" .. the apworld's own name
         -- lowercased, which is what fill_slot_data keys them by -- so match on
         -- that rather than on a table of names, and an option upstream adds or
         -- recapitalises (Friendsanity vs ChestSanity) arrives on its own.
-        local known = knownCodes()
-        for key, value in pairs(slot_data) do
+        -- One level of nesting is walked too: the shipment sanities come inside
+        -- a "ShipSanities" table whose own key matches no option code.
+        --
+        -- Whether the pack HAS an option is asked of the pack's own items, not
+        -- of OPTION_CODES: that list is the options which gate a location, and
+        -- grocerysanity gates a slice of the shipments rather than a kind of
+        -- its own, so it is a real option that is missing from it.
+        local function apply(key, value)
+            if type(value) ~= "number" and type(value) ~= "boolean" then return end
             local code = "opt_" .. string.lower(tostring(key))
-            if known[code] and (type(value) == "number" or type(value) == "boolean") then
-                setOption(code, value ~= 0 and value ~= false)
+            if Tracker:FindObjectForCode(code) == nil then return end
+            -- Friendsanity is a Choice, not a toggle: 0 off, 1 locations,
+            -- 2 items. Only 1 puts friendship checks in the pool.
+            local on = value ~= 0 and value ~= false
+            if code == "opt_friendsanity" then on = value == 1 end
+            setOption(code, on)
+            SLOT_GIVEN_OPTIONS[code] = true
+        end
+        for key, value in pairs(slot_data) do
+            if type(value) == "table" then
+                for inner, v in pairs(value) do apply(inner, v) end
+            else
+                apply(key, value)
             end
         end
     end
-    -- The five options that never reach slot_data are handled separately; see
+    -- The three options that never reach slot_data are handled separately; see
     -- scripts/location_filters.lua. Guarded because this module is loaded on
     -- its own by tests/location_options_test.lua.
     local built, fixed, unknown = false, 0, 0

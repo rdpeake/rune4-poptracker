@@ -133,9 +133,44 @@ WATER_SHOE = [
 for n in WATER_SHOE:
     if add(n, ["C", "Water Shoes"]): bump("water_shoes")
 
-# NOTE: Rules.get_location_rules() returns a 1-tuple (trailing comma), so the
-# `if name in location_rules` test in set_rules is never true and none of those
-# 12 rules are applied during generation. Matched here deliberately.
+# 1b. the twelve rules Rules.get_location_rules hangs on named locations.
+# Transcribed by hand, like ENTRANCE above, because they are lambdas.
+# Two upstream oddities matched rather than corrected: Farming Bread wants the
+# FORGING licence, and "Selphia Shipment - Accessory Bread" is in the dict
+# literal twice -- the later, correct state.has wins, as the last key does.
+CRAFTING = ["H", "Crafting License"]
+FORGING = ["H", "Forging License"]
+CHEMISTRY = ["H", "Chemistry License"]
+ANY_COOKING = ["O", [["H", "EZ Cooking License"], ["H", "Pro Cooking License"]]]
+LOCATION_RULES = {
+    "Rune Prana F2 B3 Chest - Anette's Necklace Recipe": ["C", "Heavy Boots"],
+    "Rune Prana F2 B3 Chest - Greenifier+ x4":           ["C", "Heavy Boots"],
+    "Selphia Shipment - Accessory Bread":        CRAFTING,
+    "Sharance Maze Shipment - Accessory Bread+": CRAFTING,
+    "Selphia Shipment - Cooking Bread":          ANY_COOKING,
+    "Sharance Maze Shipment - Cooking Bread+":   ANY_COOKING,
+    "Selphia Shipment - Farming Bread":          FORGING,
+    "Sharance Maze Shipment - Farming Bread+":   FORGING,
+    "Selphia Shipment - Medicine Bread":         CHEMISTRY,
+    "Sharance Maze Shipment - Medicine Bread+":  CHEMISTRY,
+    "Selphia Shipment - Weapon Bread":           FORGING,
+    "Sharance Maze Shipment - Weapon Bread+":    FORGING,
+}
+# the key set is checked, not the bodies: a rule added, dropped or renamed
+# upstream stops the export instead of going quietly missing
+upstream = AP.Rules.get_location_rules(0)
+if not isinstance(upstream, dict):
+    raise SystemExit('Rules.get_location_rules no longer returns a dict (%r) -- '
+                     'set_rules cannot be applying any of them'
+                     % type(upstream).__name__)
+missing = sorted(set(upstream) - set(LOCATION_RULES))
+extra = sorted(set(LOCATION_RULES) - set(upstream))
+if missing or extra:
+    raise SystemExit('get_location_rules has changed; transcribe it again.\n'
+                     '  upstream only: %s\n  here only:     %s'
+                     % (missing, extra))
+for loc, clause in LOCATION_RULES.items():
+    if add(loc, clause): bump("location_rule")
 
 # 2. top crops
 for n in L.top_crop_list:

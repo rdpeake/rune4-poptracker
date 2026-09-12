@@ -26,9 +26,15 @@ local function pump(n) for _=1,n do
 require("scripts.autotracking.option_for_location")
 require("scripts.location_options")
 
+-- grocerysanity is a real pack option that OPTION_CODES does not list: it
+-- gates a slice of the shipments rather than a kind of check, so no location
+-- maps to it. The slot still sends it, and the reader still has to set it.
+local EXTRA_CODES = { "opt_grocerysanity" }
+
 local function reset(initial)
     ITEMS, FRAME_HANDLERS, FORCED, log = {}, {}, 0, {}
     for _, c in ipairs(OPTION_CODES) do ITEMS[c] = { Active = initial } end
+    for _, c in ipairs(EXTRA_CODES) do ITEMS[c] = { Active = initial } end
 end
 local function snapshot() local t={} for _,c in ipairs(OPTION_CODES) do t[c]=ITEMS[c].Active end return t end
 -- Counts are taken from #OPTION_CODES rather than written out: the list grows
@@ -100,6 +106,36 @@ local t5 = snapshot()
 check("opt_friendsanity off", t5.opt_friendsanity == false)
 check("opt_tamesanity off", t5.opt_tamesanity == false)
 check("opt_cropsanity on", t5.opt_cropsanity == true)
+
+realprint("\n== T5b: the 2026-09-12 apworld nests the shipment sanities ==")
+-- An empty ALL_LOCATIONS is the point: OptionsFromRoom bows out, so the toggles
+-- show what slot_data alone put there rather than what the room corrected.
+reset(true); ALL_LOCATIONS = {}
+ApplyLocationOptions({
+    ChestSanity = 0,
+    ShipSanities = { CropSanity = 1, Fishsanity = 0, DropSanity = 0,
+                     GrocerySanity = 0 },
+})
+local t5b = snapshot()
+check("nested Fishsanity=0 -> opt_fishsanity off", t5b.opt_fishsanity == false)
+check("nested DropSanity=0 -> opt_dropsanity off", t5b.opt_dropsanity == false)
+check("nested CropSanity=1 -> opt_cropsanity stays on", t5b.opt_cropsanity == true)
+check("flat ChestSanity=0 still read", t5b.opt_chestsanity == false)
+check("the group key itself set nothing", t5b.opt_shipsanities == nil)
+check("an option the slot said nothing about is untouched",
+      t5b.opt_spellsanity == true)
+check("nested GrocerySanity=0 -> opt_grocerysanity off",
+      ITEMS.opt_grocerysanity.Active == false)
+check("the slot is recorded as having said so",
+      SLOT_GIVEN_OPTIONS.opt_grocerysanity == true)
+
+realprint("\n== T5c: Friendsanity is a Choice -- only 1 means locations ==")
+reset(true); ALL_LOCATIONS = {}
+ApplyLocationOptions({ Friendsanity = 2 })          -- 2 = items, not locations
+check("Friendsanity=2 -> opt_friendsanity off", snapshot().opt_friendsanity == false)
+reset(true); ALL_LOCATIONS = {}
+ApplyLocationOptions({ Friendsanity = 1 })
+check("Friendsanity=1 -> opt_friendsanity on", snapshot().opt_friendsanity == true)
 
 realprint("\n== T6: every group present -> nothing changes, no needless ForceUpdate ==")
 reset(true); FORCED = 0

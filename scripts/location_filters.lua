@@ -1,11 +1,14 @@
--- The five apworld options that decide which locations a slot contains but
--- never reach fill_slot_data, so the pack cannot simply be told:
+-- The apworld options that decide which locations a slot contains but never
+-- reach fill_slot_data, so the pack cannot simply be told:
 --
---   grocerysanity   Product/Grocery/Fruit/Bread/Tool shipments
---   outfitsanity    outfit locations
---   max_ship_tier   shipments with tier >= it, and tames with tier > it
+--   max_ship_tier   shipments, chests and tames with tier above it, and
+--                   barriers, boxes and searches whose REGION's tier is
+--                   above it
 --   max_sell_value  shipments with sell value >= it
 --   max_friendship  friendship levels above it
+--
+-- grocerysanity and outfitsanity DO arrive in slot_data, but their tables are
+-- here too: offline there is no slot to ask.
 --
 -- Each is a pack setting for planning offline. On connect ALL_LOCATIONS is
 -- every id in the slot, so RF4Visible simply asks whether an id is in it.
@@ -14,6 +17,12 @@
 -- cannot be recovered the setting is greyed and badged "?" -- see InferFromRoom.
 
 require("scripts.autotracking.location_meta")
+
+-- The four tables max_ship_tier caps. A barrier, box or search is capped by
+-- its REGION's tier rather than its own, and a region the apworld's
+-- region_tiers does not name is absent from the table and never cut: Sand
+-- Pond's boxes, Keeno Lake's search.
+local TIER_CAPPED = { RF4_SHIP_TIER, RF4_CHEST_TIER, RF4_TAME_TIER, RF4_REGION_TIER }
 
 -- `scale` is the multiplier between what the item stores and what the apworld
 -- compares against. max_sell_value runs 10000..800000 in whole 10k steps, and
@@ -57,14 +66,15 @@ function RF4Visible(apid)
     end
 
     -- offline: answer from the pack's own settings
+    if RF4_ABSENT[id] then return 0 end
     if RF4_GROCERY_LOC[id] and count("opt_grocerysanity") == 0 then return 0 end
     if RF4_OUTFIT_LOC[id] and count("opt_outfitsanity") == 0 then return 0 end
 
-    local maxtier = value("opt_maxshiptier")
-    local t = RF4_SHIP_TIER[id]
-    if t and t >= maxtier then return 0 end          -- shipments use >=
-    local tt = RF4_TAME_TIER[id]
-    if tt and tt > maxtier then return 0 end         -- tames use >
+    -- every cut-off is exclusive: a tier equal to the cap is kept
+    for _, tiers in ipairs(TIER_CAPPED) do
+        local tier = tiers[id]
+        if tier and tier > value("opt_maxshiptier") then return 0 end
+    end
 
     local s = RF4_SHIP_SELL[id]
     if s and s >= value("opt_maxsell") then return 0 end
@@ -77,10 +87,11 @@ end
 ---Lowest cut-off consistent with which of `meta`'s locations survived.
 ---A cap is believable only if every level at or above it is gone and every
 ---level below it kept something; a thinned level was cut by another option.
+---Every cut-off is exclusive (level > cap is dropped), so the lowest missing
+---level is one above the cap.
 ---@param meta table<integer, integer>  location id -> level
----@param inclusive boolean  true when the apworld drops level >= cap
 ---@return integer|nil cap, boolean confident
-local function inferCap(meta, inclusive)
+local function inferCap(meta)
     local total, present = {}, {}
     for id, lvl in pairs(meta) do
         total[lvl] = (total[lvl] or 0) + 1
@@ -100,7 +111,7 @@ local function inferCap(meta, inclusive)
         end
     end
     if first_gone == nil then return nil, false end   -- nothing cut at all
-    return (inclusive and first_gone or first_gone - 1), true
+    return first_gone - 1, true
 end
 
 ---What did the room choose? Fills the settings panel back in.
@@ -109,7 +120,7 @@ function InferFromRoom()
     local out = {}
     if SLOT_LOCATIONS == nil then return out end
 
-    local tier, ok = inferCap(RF4_SHIP_TIER, true)
+    local tier, ok = inferCap(RF4_SHIP_TIER)
     out.opt_maxshiptier = { value = tier, confident = ok,
         note = ok and "from the room" or "no tier is cleanly absent" }
 
@@ -120,7 +131,7 @@ function InferFromRoom()
         if SLOT_LOCATIONS[id] then any_friend = true break end
     end
     if any_friend then
-        local lvl, fok = inferCap(RF4_FRIEND_TIER, false)
+        local lvl, fok = inferCap(RF4_FRIEND_TIER)
         out.opt_maxfriend = { value = lvl, confident = fok,
             note = fok and "from the room" or "levels are not cleanly capped" }
     else
@@ -136,7 +147,9 @@ function InferFromRoom()
     local hi_kept, lo_cut = nil, nil
     for id, sell in pairs(RF4_SHIP_SELL) do
         local t = RF4_SHIP_TIER[id]
-        local explained = tier_cap ~= nil and t ~= nil and t >= tier_cap
+        -- matches the cut: a tier equal to the cap is kept, so the cap does
+        -- not explain it away
+        local explained = tier_cap ~= nil and t ~= nil and t > tier_cap
         if not explained then
             if SLOT_LOCATIONS[id] then
                 if hi_kept == nil or sell > hi_kept then hi_kept = sell end
@@ -174,7 +187,10 @@ function BuildSlotLocations()
         local num = tonumber(id)
         if num then
             n = n + 1
-            set[num] = true
+            -- dropped here rather than in RF4Visible, so the slot's list is
+            -- right for everything that reads it and the check costs one probe
+            -- per connect instead of one per section per refresh
+            if not RF4_ABSENT[num] then set[num] = true end
             if RF4_LOC == nil or RF4_LOC[num] ~= nil then known = known + 1 end
         end
     end
@@ -219,11 +235,15 @@ function ApplyRoomToPanel()
         return 0, 0
     end
 
-    -- the two category toggles infer exactly, like the other fifteen
+    -- The two category toggles infer exactly, like the other fifteen -- but
+    -- only where the slot did not say outright, which it now does for both.
+    -- Guessing "no grocery locations survived, so grocerysanity is off" is
+    -- wrong for a slot that cut them all on tier or sell value instead.
+    local given = SLOT_GIVEN_OPTIONS or {}
     for code, meta in pairs({ opt_grocerysanity = RF4_GROCERY_LOC,
                               opt_outfitsanity  = RF4_OUTFIT_LOC }) do
         local obj = Tracker:FindObjectForCode(code)
-        if obj ~= nil then obj.Active = anyPresent(meta) end
+        if obj ~= nil and not given[code] then obj.Active = anyPresent(meta) end
     end
 
     local inferred = InferFromRoom()

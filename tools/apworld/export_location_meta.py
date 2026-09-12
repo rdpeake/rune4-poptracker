@@ -1,15 +1,18 @@
 """Export the per-location metadata the pack needs to filter its own display.
 
-Five apworld options decide which locations a slot contains but never reach
-fill_slot_data, so the pack cannot be told them: grocerysanity, outfitsanity,
-max_ship_tier, max_sell_value and max_friendship. This exports the numbers
-scripts/location_filters.lua evaluates them against.
+Three apworld options decide which locations a slot contains but never reach
+fill_slot_data, so the pack cannot be told them: max_ship_tier, max_sell_value
+and max_friendship. This exports the numbers scripts/location_filters.lua
+evaluates them against. (grocerysanity and outfitsanity DO arrive -- the first
+since apworld 0.2.4, nested under "ShipSanities" -- but their tables are
+exported anyway, because the filters must also answer offline with no slot to
+ask.)
 
 Sourced from the apworld's own CSVs wherever they hold the data, rather than by
 importing its Python: data/Rune Factory 4 AP - Shipments.csv carries Type, Tier
-and Sell, and data/Rune Factory 4 AP - Tame.csv carries Tier. Reading those
-directly means this script needs no BaseClasses/worlds stubs -- only the CSVs
-themselves.
+and Sell, and data/Rune Factory 4 AP - Tame.csv carries Tier. That keeps most
+of this script off the apworld's Python; the chest and map-object tiers do need
+the import, and so the stubs in _stubs/.
 
 Friendship and outfit locations have no CSV; Locations.py generates them from
 two dicts in game_data.py, which imports nothing but `copy`, so that one module
@@ -25,12 +28,21 @@ Column conventions, matching Locations.py parse_shipment/parse_tame exactly:
 The filters, from the apworld's __init__.py:
 
     shipments  sell_value and sell_value >= max_sell_value  -> dropped
-               tier       and tier       >= max_ship_tier   -> dropped
+               tier       and tier       >  max_ship_tier   -> dropped
+    chests     tier > max_ship_tier                         -> dropped
     tames      tier > max_ship_tier                         -> dropped
     friendship tier > max_friendship                        -> dropped
+    barrier    game_data.region_tiers[region] > max_ship_tier -> dropped
+    box        (same)
+    search     (same)
 
-Note the asymmetry: shipments use >=, tames and friendship use >, and a falsy
-(zero) shipment tier or sell value is never filtered at all.
+A falsy (zero) shipment tier or sell value is never filtered; a chest's is,
+because the apworld compares it unconditionally.
+
+The region gate is exported the way round it was MEANT, not the way __init__.py
+writes it -- the one deliberate divergence here. See "The one it does not
+match" in tools/README.md. Also exports Locations.bugged_locs as RF4_ABSENT,
+the locations deleted from every seed.
 
 Writes scripts/autotracking/location_meta.lua.
 """
@@ -41,7 +53,7 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 PACK = os.path.dirname(os.path.dirname(HERE)) + '/'
 sys.path.insert(0, HERE)
-from load import apworld, csv_rows                  # noqa: E402
+from load import apworld, csv_rows, map_kinds       # noqa: E402
 
 AP = apworld()
 
@@ -97,6 +109,32 @@ for _name, index in game_data.friendsanity_data.items():
 OUTFIT_BASE = 0x1C45D0
 outfit = {OUTFIT_BASE + i: 1 for i in range(len(game_data.outfit_data))}
 
+# Chests and the map-object kinds are read from the apworld's own tables rather
+# than a CSV. The Chests sheet has no Name column for load.csv_rows to key on,
+# and the table is the more faithful source anyway: its tier is the value the
+# apworld compares. Tier 0 is exported too, because that comparison is
+# unconditional -- unlike a blank shipment tier, which is never filtered.
+chest_tier = {data.apid: int(data.tier or 0)
+              for data in AP.Locations.chest_data_table.values() if data.apid}
+
+# A region region_tiers does not name is exempt, which is how Sand Pond's boxes
+# and Keeno Lake's search survive. map_kinds discovers which kinds are objects
+# in a room, so a fourth one upstream lands here without an edit.
+region_tier = {}
+for kind in map_kinds(AP):
+    for data in getattr(AP.Locations, kind + '_data_table').values():
+        tier = game_data.region_tiers.get(data.region)
+        if data.apid and tier is not None:
+            region_tier[data.apid] = tier
+
+# Locations the apworld deletes from every seed, by id rather than by name so
+# that following the list upstream costs nothing.
+absent = {}
+for name in AP.Locations.bugged_locs:
+    data = AP.Locations.location_data_table.get(name)
+    if data is not None and data.address:
+        absent[data.address] = 1
+
 # --------------------------------------------------------------- verify ids
 known = set(int(x) for x in re.findall(
     r'\[(\d+)\]', open(PACK + 'scripts/autotracking/location_mapping.lua',
@@ -109,7 +147,8 @@ for label, ids in (("friendship", friend_tier), ("outfit", outfit)):
                         f"location_mapping.lua (first: {stray[:3]}); the address "
                         f"formula in Locations.py has probably changed")
 for label, ids in (("shipment tier", ship_tier), ("tame tier", tame_tier),
-                   ("grocery", grocery)):
+                   ("grocery", grocery), ("chest tier", chest_tier),
+                   ("region tier", region_tier), ("absent", absent)):
     stray = sorted(i for i in ids if i not in known)
     if stray:
         problems.append(f"{len(stray)} {label} ids from the CSV are not mapped "
@@ -130,11 +169,12 @@ out = PACK + 'scripts/autotracking/location_meta.lua'
 with open(out, 'w', encoding='utf-8', newline='\n') as f:
     f.write("-- GENERATED by tools/apworld/export_location_meta.py from the Rune Factory 4 apworld.\n")
     f.write("-- Do not edit by hand; re-run the exporter against the apworld source instead.\n")
-    f.write("-- Shipment and tame rows come straight from the apworld's CSVs; friendship and\n")
-    f.write("-- outfit ids are generated, and are checked against location_mapping.lua.\n")
+    f.write("-- Shipment, chest and tame rows come straight from the apworld's CSVs; friendship,\n")
+    f.write("-- outfit, region-tier and absent ids are generated, and are all checked against\n")
+    f.write("-- location_mapping.lua.\n")
     f.write("-- Source: https://github.com/Happyhappyism/Rune-Factory-4-Archipelago\n")
     emit(f, "RF4_SHIP_TIER", ship_tier,
-         "shipment location -> tier; dropped when tier >= max_ship_tier")
+         "shipment location -> tier; dropped when tier > max_ship_tier")
     emit(f, "RF4_SHIP_SELL", ship_sell,
          "shipment location -> sell value; dropped when sell >= max_sell_value")
     emit(f, "RF4_TAME_TIER", tame_tier,
@@ -145,10 +185,19 @@ with open(out, 'w', encoding='utf-8', newline='\n') as f:
          "Product/Grocery/Fruit/Bread/Tool shipments; dropped when grocerysanity is off")
     emit(f, "RF4_OUTFIT_LOC", outfit,
          "outfit locations; dropped when outfitsanity is off")
+    emit(f, "RF4_CHEST_TIER", chest_tier,
+         "chest location -> tier; dropped when tier > max_ship_tier")
+    emit(f, "RF4_REGION_TIER", region_tier,
+         "barrier/box/search -> its region's tier; dropped when tier > "
+         "max_ship_tier. A region region_tiers does not name is exempt")
+    emit(f, "RF4_ABSENT", absent,
+         "locations the apworld deletes from every seed (Locations.bugged_locs)")
 
 print(f"wrote {out}")
 for label, d in (("shipment tiers", ship_tier), ("shipment sells", ship_sell),
                  ("tame tiers", tame_tier), ("friend levels", friend_tier),
-                 ("grocery locs", grocery), ("outfit locs", outfit)):
+                 ("grocery locs", grocery), ("outfit locs", outfit),
+                 ("chest tiers", chest_tier), ("region tiers", region_tier),
+                 ("never in a seed", absent)):
     print(f"  {label:16}{len(d):5}")
 print("  " + ("id checks passed" if not problems else f"{len(problems)} WARNING(S) above"))
