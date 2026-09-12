@@ -5,8 +5,9 @@ _roomsheets/
 # editor / language-server config, machine specific
 .luarc.json
 
-# tool inputs, neither ours to redistribute
-tools/*/_input/
+# tool inputs, neither ours to redistribute. No trailing slash: these may be
+# symlinks into a game install rather than real directories.
+tools/*/_input
 
 # the map snapshot check_maps takes and compares against
 tools/verify/_baseline/

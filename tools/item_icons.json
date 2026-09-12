@@ -1,5 +1,5 @@
 {
- "_": "HAND-MAINTAINED. pack item code -> the icon stem to cut out of the game bundle, and the codes whose tile is deliberately left blank. Nothing writes this; tools/gamedata/export_item_tiles.py reads it.",
+ "_": "HAND-MAINTAINED. pack item code -> the icon stem to cut out of the game bundle, and the codes whose tile is deliberately left blank. Nothing writes this; tools/gamedata/export_item_tiles.py reads it. text_only.ap_invented is the apworld's own items; a 128x128 PNG at tools/art/items/<code>.png gives one a picture (tools/apply_item_art.py).",
  "blank": [],
  "items": {
   "10-foldsteel": "I_Item120",

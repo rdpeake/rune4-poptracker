@@ -289,6 +289,40 @@ enough. They need node and one package, which is gitignored:
 the background keyed to the item's category family and a rim keyed to its
 classification. Input is a JSON list of `{slug, label, cat, cls}`.
 
+### The three passes over a tile, in order
+
+A tile can be written three times and the last one wins, so the order is the
+point:
+
+1. `gen_item_tiles.mjs` — the item's name as words on a coloured tile. Every
+   item gets one, so nothing is ever missing.
+2. `gamedata/export_item_tiles.py` — the game's own icon on a face inside a
+   border in the category colour, for the ~1080 items the game draws. 128px.
+3. `apply_item_art.py` — a drawing from `tools/art/items/<item code>.png`,
+   copied over byte for byte.
+
+Pass 3 exists because the ~70 items in `item_icons.json`'s `text_only.ap_invented` are the apworld's
+**own invention** — the four bridges, Etherlink, the licences, "Level Up" — and
+the game has no art for them, so pass 2 skips them and they keep the word from
+pass 1.
+`item_icons.json`'s `text_only.ap_invented` lists them. Drop a 128x128 PNG named
+for the item's `codes` into `tools/art/items/` and it is wired up; nothing needs
+a list, and a name matching no item is an error rather than a silent skip.
+
+A drawing is **not** composited onto a palette face the way a game icon is. It
+carries its own border, and the four bridges are told apart only by the word
+printed across the top of the tile (the art is the same bridge); fitting one
+inside a face would trim both away. So a drawing owns the whole 128px square,
+and matching the house style is on whoever draws it.
+
+`export_item_tiles.py` calls pass 3 itself, so the two run together. Re-running
+`gen_item_tiles.mjs` on its own, though, puts the words back — follow it with
+`python3 tools/apply_item_art.py`. `--check` lists what it would copy and writes
+nothing.
+
+`tools/` is `export-ignore`d, so the drawings stay out of a release zip and only
+the `images/items/` they produce ships.
+
 `export_grid_maps.py` (which calls `gen_grid_maps.mjs`) rebuilds all twenty
 sheets — eight shipment, six crafting and six tame — **and** checks the pins on
 them in `locations/_Crafting.json`, `_Shipments.json` and `_Tames.json`. Image and

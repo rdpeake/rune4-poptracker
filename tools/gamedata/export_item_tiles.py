@@ -3,9 +3,10 @@
 The pack's tiles are generated (see tools/gen_item_tiles.mjs). Where the game has
 art for an item, this puts that art on a white face inside a border in the item's
 category colour, so the colour coding and the progression rim survive and only the
-name text is replaced. Everything else keeps its text tile -- which is the right
-answer for the ~70 AP-invented items (bridges, licences, "Level Up") that the game
-has no art for at all.
+name text is replaced. Everything else keeps its text tile, unless somebody has
+drawn one: tools/apply_item_art.py runs last and lays tools/art/items/<code>.png
+over the result, which is how the ~70 AP-invented items (bridges, licences,
+"Level Up") that the game has no art for at all get a picture.
 
 Three things the extraction depends on, documented in tools/README.md
 under Artwork:
@@ -32,6 +33,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 # paths also pins SOURCE_DATE_EPOCH, so ImageMagick leaves the tIME chunk out
 from paths import CONVERT, ICONS, PACK, need         # noqa: E402
+sys.path.insert(0, os.path.dirname(HERE))
+import apply_item_art                                # noqa: E402
 SIZE, BAND, PAD, R_OUT, R_IN = 128, 10, 7, 22, 12
 
 
@@ -137,7 +140,7 @@ def main():
     plan = json.load(open(PACK + 'tools/item_icons.json', encoding='utf-8'))
     items = json.load(open(PACK + 'items/items.json', encoding='utf-8'))
     items = items if isinstance(items, list) else items['items']
-    img_of = {i['codes']: i['img'] for i in items}
+    img_of = apply_item_art.targets()
     made = skipped = 0
     for code, stem in sorted(plan['items'].items()):
         src, dst = icons + stem + '.png', PACK + img_of.get(code, '')
@@ -222,6 +225,8 @@ def main():
         print('planned but no icon file    %5d' % skipped)
     if _FACEDIR:
         shutil.rmtree(_FACEDIR, ignore_errors=True)
+    # last word goes to anything drawn by hand -- see tools/apply_item_art.py
+    apply_item_art.main()
 
 
 if __name__ == '__main__':
