@@ -39,8 +39,9 @@ The filters, from the apworld's __init__.py:
 A falsy (zero) shipment tier or sell value is never filtered; a chest's is,
 because the apworld compares it unconditionally.
 
-The region gate is exported the way round it was MEANT, not the way __init__.py
-writes it -- the one deliberate divergence here. See "The one it does not
+apworld 0.2.4 wrote the region gate round the wrong way and the export matched
+its intent instead -- the one deliberate divergence this file used to carry.
+0.3.0 turned it round, so the two now agree; see "Three it no longer has to
 match" in tools/README.md. Also exports Locations.bugged_locs as RF4_ABSENT,
 the locations deleted from every seed.
 

@@ -1994,7 +1994,7 @@ RF4_CHEST_TIER = {
     [1851641] = 10,
     [1851642] = 10,
     [1851643] = 10,
-    [1851644] = 10,
+    [1851644] = 0,
     [1851645] = 1,
     [1851646] = 1,
     [1851647] = 1,
@@ -2019,6 +2019,8 @@ RF4_CHEST_TIER = {
     [1851666] = 10,
     [1851667] = 5,
     [1851668] = 5,
+    [1851669] = 6,
+    [1851670] = 11,
 }
 
 -- barrier/box/search -> its region's tier; dropped when tier > max_ship_tier. A region region_tiers does not name is exempt

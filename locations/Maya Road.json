@@ -698,6 +698,35 @@
                         ]
                     },
                     {
+                        "name": "Chest A7-5",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Burning Sword",
+                                "item_count": 1,
+                                "access_rules": [
+                                    "^$RF4Access|1851669"
+                                ],
+                                "visibility_rules": [
+                                    "$RF4Visible|1851669"
+                                ]
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Maya Road Underground",
+                                "x": 456,
+                                "y": 362,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
                         "name": "Chest C1",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",

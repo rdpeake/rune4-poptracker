@@ -171,6 +171,11 @@ if missing or extra:
                      % (missing, extra))
 for loc, clause in LOCATION_RULES.items():
     if add(loc, clause): bump("location_rule")
+# A name in either hand-written list that no longer names a location is this
+# file's quietest failure: add() returns False and the rule just goes missing.
+# Reported, not raised -- 0.3.0 has one and the export still has to run.
+unmatched_names = [n for n in WATER_SHOE + list(LOCATION_RULES)
+                   if n not in name_to_apid]
 
 # 2. top crops
 for n in L.top_crop_list:
@@ -314,3 +319,5 @@ if unknown_regions:
     print("  regions not in the graph (R clause dropped):")
     for r, locs in sorted(unknown_regions.items()):
         print(f"     {r!r}: {len(locs)} locations e.g. {locs[0]}")
+for n in unmatched_names:
+    print("  WARNING: no location is called %r, so its rule is not exported" % n)

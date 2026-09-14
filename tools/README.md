@@ -209,23 +209,14 @@ a node name to the sheet's `Room Code` must strip the prefix, as
 
 Every chest is an object in a room of the map files and
 `generated/check_rooms.json` joins it to that room, so a pin no longer depends on
-the `Room Code` in the sheet. 147 of the 181 agree outright. The rest are recorded
+the `Room Code` in the sheet. 150 of the 183 agree outright. The rest are recorded
 here because the AP location NAME still carries the sheet's code, so a node
-called `A3` can sit on `A2`.
+called `A1` can sit on `A2`.
 
-**Two chests the apworld does not list at all.** Both are ordinary chest objects
-in rooms the pack draws, and neither flag is claimed by the barrier or box
-tables:
+Since 0.3.0 the sheet and the map files hold the same 183 chests: every row
+resolves to a real chest object, and no chest object is left over.
 
-    flag 290   byte 224 mask 04   MAP_DUNG_K12   Maya Road Underground A7-5
-    flag 528   byte 242 mask 01   MAP_DUNG_M62   Rune Prana F5 A2
-
-Each sits immediately after an AP chest in the same area -- 289 is Maya
-Underground C3, 527 is Rune Prana F5 C4 -- while the AP ids run straight past
-them, so no id was reserved and skipped. Nothing is wrong the other way: all 181
-rows resolve to a real chest object.
-
-**20 the game puts in another room of the same map.** The pin follows the game;
+**19 the game puts in another room of the same map.** The pin follows the game;
 the name still says the left column. `Selphia Plains - West` draws on the Autumn
 Road map, which is why those four look like they change area and do not.
 
@@ -245,13 +236,12 @@ Road map, which is why those four look like they change area and do not.
     Selphia Plains - West G12  ->  G11   Leveliser
     Selphia Plains - West G12  ->  G11   Relax Tea
     Selphia Plains - West G12  ->  G11   Sacred Pole Recipe
-    Water Ruins A3             ->  A2    Battle Axe
-    Water Ruins A3             ->  A2    Para-Gone + Roundoff
+    Water Ruins A1             ->  A2    Battle Axe
+    Water Ruins A1             ->  A2    Para-Gone + Roundoff
     Water Ruins D6             ->  D5    Blue Ribbon
-    Yokmir Cave F3 F2          ->  E2    Bronze Bracelet + Staff
 
 Sechs Territory F1's D5 and E3 hold each other's chest, which reads as one
-transposition rather than two mistakes. Water Ruins A3 is not really wrong -- the
+transposition rather than two mistakes. Water Ruins A1 is not really wrong -- the
 A row is a single room spanning three cells and the map prints its label in the
 middle one.
 
@@ -293,26 +283,7 @@ wins is the real one in each case, and the shadowed row is non-shipable, so no
 location and no sell value is lost. `Gloves` was the pair that did cost one, and
 upstream split it into `Gloves (Accessory)` and `Gloves (Weapon)`.
 
-### The one it does not match: the region tier gate
-
-apworld 0.2.4 gates barrier, box and search locations on the tier of the region
-they sit in, and writes the comparison round the wrong way:
-
-    if max_tier > region_tiers[data.region]:   del duplicate_data_table[name]
-
-Every other gate in `__init__.py` is `data.tier > max_tier` — drop what is
-*above* the cap. This one drops a location when the *cap* exceeds the
-*region's* tier, so raising `max_ship_tier` takes checks away. At the default
-cap of 9 it deletes 117 of 194 barriers, 159 of 214 boxes and 27 of 28
-searches, leaving only Leon Karnak, Rune Prana and Sharance Maze.
-
-`export_location_meta.py` exports it the way round it was **meant**
-(`region_tiers[region] > max_tier`), which is the one deliberate divergence in
-this file. Reported upstream; when the line is fixed the export needs no
-change. It only affects the offline view — once connected, the slot's own
-location list is what `RF4Visible` answers from, and that is right either way.
-
-### Two it no longer has to match
+### Three it no longer has to match
 
 * `Rules.get_location_rules()` used to `return location_rules,` — a stray
   trailing comma made it a 1-tuple, so `if name in location_rules` in
@@ -323,6 +294,13 @@ location list is what `RF4Visible` answers from, and that is right either way.
 * `Locations.bugged_locs` held one misspelled name, so the guard that deletes
   it matched nothing and the chest generated anyway. Spelled right in 0.2.4, so
   AP id 1851575 is now in no seed at all — exported as `RF4_ABSENT`.
+* 0.2.4 gated barrier, box and search locations on
+  `if max_tier > region_tiers[data.region]` — backwards, where every other gate
+  drops what is *above* the cap, so raising `max_ship_tier` took checks away and
+  the default cap of 9 deleted 117 of 194 barriers, 159 of 214 boxes and 27 of
+  28 searches. `export_location_meta.py` exported the comparison the way it was
+  **meant**, the one deliberate divergence the pack carried. 0.3.0 turned all
+  three round, so the export needed no change.
 
 Still present and still worked around in `load.py`: searchsanity locations are
 built with `loc_type="box"`, so all 28 come back typed as boxes.
@@ -649,21 +627,35 @@ test is comparing against a release the pack no longer follows.
 
 ## Known upstream data issues
 
-Bugs in the apworld, not in the pack, confirmed by reading the source at HEAD
-(2026-09-08). Where the pack has to do something about one it is worked around
-in `apworld/export_logic.py`, and the pack matches generation's actual behaviour
-rather than its intent -- a tracker stricter than AP would show reachable checks
-as unreachable.
+Bugs in the apworld, not in the pack, confirmed by reading the source of
+release 0.3.0 (2026-09-13). Where the pack has to do something about one it is
+worked around in `apworld/export_logic.py`, and the pack matches generation's
+actual behaviour rather than its intent -- a tracker stricter than AP would show
+reachable checks as unreachable.
 
-- `Rules.get_location_rules()` returns a 1-tuple (trailing comma), so the
-  `if name in location_rules` test in `set_rules` is never true and none of
-  those 12 location rules are applied during generation. Matched deliberately.
-  Two more faults sit behind it, so the comma cannot be fixed on its own: the
-  bodies call `state.has("X", state, player)`, which evaluates against an empty
-  counter and is False with every item held, and the keys are not the names
-  generation builds -- `Accessory Bread` for `Selphia Shipment - Accessory
-  Bread`, and the two chest keys for `Rune Prana F2 B3 Chest - <items>` -- so
-  they would still match nothing.
+- **New in 0.3.0.** The two chest rows 0.3.0 added carry a Note in double
+  quotes, so `Chests.csv` holds a `"` for the first time. `parse_csv` reads the
+  sheet as `str(bytes)`, and `repr` picks its delimiter from the content: with a
+  `"` anywhere in the file it switches from `b"..."` to `b'...'` and escapes
+  every apostrophe. So one quoted note silently puts a backslash into every
+  name, region and recipe on the sheet that has one. Three follow from it:
+  `Demon's Den A1 Chest - Healing Potion x4` now sits in region `Demon\'s Den`,
+  which `region_data_table` does not know, so `create_regions` drops the chest
+  from every seed; `Rune Prana F2 B3 Chest - Anette\'s Necklace Recipe` no
+  longer matches the `get_location_rules` key of the same name, so its Heavy
+  Boots requirement is dead again; and `chest_recipes` hands back
+  `Anette\'s Necklace`, which matches no crafting location, so that craft loses
+  its Rune Prana F2 requirement. Decoding the bytes, or dropping the quotes from
+  the two notes, fixes all three. The pack matches it; `export_logic.py` names
+  the dropped regions and the dead rule every time it runs.
+- **New in 0.3.0.** `Maya Underground A7-5 Chest - Burning Sword` is in region
+  `Maya Underground`, but the regions are `Maya Underground (1)` and `(2)`, so
+  `create_regions` never adds it and AP id 1851669 is in no seed. The pack draws
+  it anyway, under `Maya Road/B1` -- the map files put it on the Maya Road
+  Underground sheet, next to `A7-7`.
+- The same two rows put commas inside a quoted field, which `parse_csv` splits
+  on regardless. Only `Notes`, `Sort Order` and `Map file` shift, and nothing
+  reads those, so it costs nothing today.
 - Three region names referenced by data are absent from `region_data_table`, and
   `create_regions` silently drops any location in a region it does not know:
   `Floating Empire: West` (colon, should be a hyphen -- Dark Slime, in Tame.csv),
@@ -679,9 +671,6 @@ as unreachable.
   fix belongs in the request row: the shipment names are transcribed correctly,
   and renaming them would move an AP item and location name and cost the two
   items their game art, which `export_item_tiles.py` looks up by name.
-- `bugged_locs` reads `Mystery Potion x x3`, with a doubled `x`, so it matches no
-  location and the Sechs Territory F1 I2 chest the sheet now marks "Not present
-  in AP" still generates.
 - The shipment caps compare with `>=` where the tame cap uses `>`, so the 16
   tier-11 shipments and Gold Juice (sell 800000) can never be a check in any
   seed: `MaxItemTier` stops at 11 and `MaxSell` at 800000. The pack hides them,
@@ -697,7 +686,10 @@ as unreachable.
 Fixed upstream, recorded so the old workarounds are not put back: `requestsanity`
 is honoured, the duplicate `Gloves` shipment is split in two, the `Clippers` tool
 no longer carries `progression` as its name, and `fill_slot_data` sends six of
-the sanity options. `grocerysanity`, `max_ship_tier`, `max_sell_value` and
+the sanity options. 0.3.0 turned the region tier gate round, listed the last two
+chests the map files hold -- AP ids 1851669 and 1851670 -- and moved
+`Yokmir Cave F3 F2` to `E2` and `Water Ruins A3` to `A1`, the rooms the map
+files put them in. `grocerysanity`, `max_ship_tier`, `max_sell_value` and
 `max_friendship` still never arrive and are inferred from the room's location
 list.
 
